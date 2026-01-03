@@ -65,6 +65,11 @@
       text-decoration: underline;
     }
 
+    .job-item p {
+      white-space: pre-line; /* preserves line breaks */
+      margin: 0.3rem 0;
+    }
+
     footer {
       margin-top: 3rem;
       font-size: 0.9rem;
@@ -98,18 +103,26 @@
         const xml = parser.parseFromString(text, "application/xml");
 
         const items = xml.querySelectorAll('item');
-        container.innerHTML = ''; // clear loading text
+        container.innerHTML = '';
 
         items.forEach(item => {
           const title = item.querySelector('title')?.textContent || '';
           const link = item.querySelector('link')?.textContent || '#';
-          const desc = item.querySelector('description')?.textContent || '';
+          let rawDesc = item.querySelector('description')?.textContent || '';
+
+          // Truncate long descriptions for readability
+          if (rawDesc.length > 700) {
+            rawDesc = rawDesc.slice(0, 700) + '...';
+          }
+
+          // Keep line breaks
+          const formattedDesc = rawDesc.replace(/\n/g, '\n');
 
           const jobEl = document.createElement('div');
           jobEl.className = 'job-item';
           jobEl.innerHTML = `
             <h3><a href="${link}" target="_blank">${title}</a></h3>
-            <p>${desc}</p>
+            <p>${formattedDesc}</p>
           `;
           container.appendChild(jobEl);
         });
