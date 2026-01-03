@@ -3,7 +3,7 @@ import requests
 import re
 
 RSS_SOURCE = "https://weworkremotely.com/categories/remote-programming-jobs.rss"
-OUTPUT_FILE = "jobsfeed.xml"
+OUTPUT_FILE = "index.xml"
 
 def strip_html(html):
     if not html:
