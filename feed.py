@@ -1,30 +1,39 @@
-import yaml
 import xml.etree.ElementTree as xml_tree
 import requests
+import re
 
-with open('feed.yaml', 'r') as file:
-    yaml_data = yaml.safe_load(file)
+RSS_SOURCE = "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+OUTPUT_FILE = "jobsfeed.xml"
 
-rss_element = xml_tree.Element('rss', {'version': '2.0'})
-channel_element = xml_tree.SubElement(rss_element, 'channel')
+def strip_html(html):
+    if not html:
+        return ""
+    return re.sub(r"<[^>]+>", "", html).strip()
 
-xml_tree.SubElement(channel_element, 'title').text = yaml_data['title']
-xml_tree.SubElement(channel_element, 'link').text = yaml_data['link']
-xml_tree.SubElement(channel_element, 'description').text = yaml_data['description']
-xml_tree.SubElement(channel_element, 'language').text = yaml_data['language']
+# Fetch source RSS
+source_feed = xml_tree.fromstring(requests.get(RSS_SOURCE).content)
 
-# Pull CS jobs from RSS feed
-feed = xml_tree.fromstring(
-    requests.get('https://weworkremotely.com/categories/remote-programming-jobs.rss').content
-)
+# Create new RSS
+rss_element = xml_tree.Element("rss", {"version": "2.0"})
+channel = xml_tree.SubElement(rss_element, "channel")
 
-for item in feed.findall('./channel/item'):
-    item_element = xml_tree.SubElement(channel_element, 'item')
+xml_tree.SubElement(channel, "title").text = "CS Jobs Feed"
+xml_tree.SubElement(channel, "link").text = "https://kevesdev.github.io/csjobs-feed/"
+xml_tree.SubElement(channel, "description").text = "Remote computer science and programming jobs"
+xml_tree.SubElement(channel, "language").text = "en-us"
 
-    xml_tree.SubElement(item_element, 'title').text = item.find('title').text
-    xml_tree.SubElement(item_element, 'link').text = item.find('link').text
-    xml_tree.SubElement(item_element, 'description').text = item.find('description').text
-    xml_tree.SubElement(item_element, 'pubDate').text = item.find('pubDate').text
+# Copy items
+for item in source_feed.findall("./channel/item"):
+    new_item = xml_tree.SubElement(channel, "item")
 
-output_tree = xml_tree.ElementTree(rss_element)
-output_tree.write('jobsfeed.xml', encoding='UTF-8', xml_declaration=True)
+    xml_tree.SubElement(new_item, "title").text = item.findtext("title")
+    xml_tree.SubElement(new_item, "link").text = item.findtext("link")
+    xml_tree.SubElement(
+        new_item,
+        "description"
+    ).text = strip_html(item.findtext("description"))
+    xml_tree.SubElement(new_item, "pubDate").text = item.findtext("pubDate")
+
+# Write output
+tree = xml_tree.ElementTree(rss_element)
+tree.write(OUTPUT_FILE, encoding="UTF-8", xml_declaration=True)
