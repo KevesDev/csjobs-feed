@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CS Jobs RSS Feed</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background-color: #f8fafc;
+      color: #1f2937;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem;
+    }
+
+    header {
+      margin-bottom: 2rem;
+    }
+
+    h1 {
+      font-size: 2.25rem;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      line-height: 1.6;
+      margin-bottom: 1rem;
+    }
+
+    .card {
+      background: #ffffff;
+      border-radius: 8px;
+      padding: 1.5rem;
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+      margin-bottom: 2rem;
+    }
+
+    .button {
+      display: inline-block;
+      background: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 0.75rem 1.25rem;
+      border-radius: 6px;
+      font-weight: 500;
+    }
+
+    .button:hover {
+      background: #1d4ed8;
+    }
+
+    footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #6b7280;
+    }
+
+    code {
+      background: #f1f5f9;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>CS Jobs RSS Feed</h1>
+      <p>
+        An automated RSS feed aggregating remote computer science and programming
+        job postings.
+      </p>
+    </header>
+
+    <div class="card">
+      <h2>About This Project</h2>
+      <p>
+        This project fetches live job postings from a public jobs board,
+        normalizes the data, and publishes a clean RSS 2.0 feed.
+        The feed is regenerated automatically every 12 hours using GitHub Actions.
+      </p>
+      <p>
+        The goal is to demonstrate backend automation, data transformation,
+        and static deployment using GitHub Pages.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Subscribe</h2>
+      <p>
+        You can subscribe to the RSS feed using any RSS reader:
+      </p>
+      <a class="button" href="jobsfeed.xml">View / Subscribe to RSS Feed</a>
+      <p style="margin-top: 1rem;">
+        Feed URL:
+        <code>https://kevesdev.github.io/csjobs-feed/jobsfeed.xml</code>
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Tech Stack</h2>
+      <ul>
+        <li>Python (RSS generation)</li>
+        <li>GitHub Actions (scheduled automation)</li>
+        <li>GitHub Pages (static hosting)</li>
+        <li>XML / RSS 2.0</li>
+      </ul>
+    </div>
+
+    <footer>
+      <p>
+        Built as a portfolio project to showcase automation, backend scripting,
+        and deployment workflows.
+      </p>
+    </footer>
+  </div>
+</body>
+</html>
