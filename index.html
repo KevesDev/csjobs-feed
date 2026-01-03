@@ -33,26 +33,36 @@
       margin-bottom: 1rem;
     }
 
-    .card {
+    .feed-box {
       background: #ffffff;
       border-radius: 8px;
       padding: 1.5rem;
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-      margin-bottom: 2rem;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+      max-height: 600px;
+      overflow-y: auto;
     }
 
-    .button {
-      display: inline-block;
-      background: #2563eb;
-      color: #ffffff;
+    .job-item {
+      border-bottom: 1px solid #e5e7eb;
+      padding: 1rem 0;
+    }
+
+    .job-item:last-child {
+      border-bottom: none;
+    }
+
+    .job-item h3 {
+      margin: 0 0 0.5rem 0;
+      font-size: 1.1rem;
+    }
+
+    .job-item h3 a {
       text-decoration: none;
-      padding: 0.75rem 1.25rem;
-      border-radius: 6px;
-      font-weight: 500;
+      color: #2563eb;
     }
 
-    .button:hover {
-      background: #1d4ed8;
+    .job-item h3 a:hover {
+      text-decoration: underline;
     }
 
     footer {
@@ -60,66 +70,56 @@
       font-size: 0.9rem;
       color: #6b7280;
     }
-
-    code {
-      background: #f1f5f9;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
-      font-size: 0.9rem;
-    }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
       <h1>CS Jobs RSS Feed</h1>
-      <p>
-        An automated RSS feed aggregating remote computer science and programming
-        job postings.
-      </p>
+      <p>An automated feed of remote computer science and programming job postings.</p>
     </header>
 
-    <div class="card">
-      <h2>About This Project</h2>
-      <p>
-        This project fetches live job postings from a public jobs board,
-        normalizes the data, and publishes a clean RSS 2.0 feed.
-        The feed is regenerated automatically every 12 hours using GitHub Actions.
-      </p>
-      <p>
-        The goal is to demonstrate backend automation, data transformation,
-        and static deployment using GitHub Pages.
-      </p>
-    </div>
-
-    <div class="card">
-      <h2>Subscribe</h2>
-      <p>
-        You can subscribe to the RSS feed using any RSS reader:
-      </p>
-      <a class="button" href="jobsfeed.xml">View / Subscribe to RSS Feed</a>
-      <p style="margin-top: 1rem;">
-        Feed URL:
-        <code>https://kevesdev.github.io/csjobs-feed/jobsfeed.xml</code>
-      </p>
-    </div>
-
-    <div class="card">
-      <h2>Tech Stack</h2>
-      <ul>
-        <li>Python (RSS generation)</li>
-        <li>GitHub Actions (scheduled automation)</li>
-        <li>GitHub Pages (static hosting)</li>
-        <li>XML / RSS 2.0</li>
-      </ul>
+    <div class="feed-box" id="jobs">
+      <p>Loading jobs...</p>
     </div>
 
     <footer>
-      <p>
-        Built as a portfolio project to showcase automation, backend scripting,
-        and deployment workflows.
-      </p>
+      Built as a portfolio project to showcase automation, backend scripting, and deployment workflows.
     </footer>
   </div>
+
+  <script>
+    async function loadJobs() {
+      const container = document.getElementById('jobs');
+      try {
+        const response = await fetch('jobsfeed.xml');
+        const text = await response.text();
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, "application/xml");
+
+        const items = xml.querySelectorAll('item');
+        container.innerHTML = ''; // clear loading text
+
+        items.forEach(item => {
+          const title = item.querySelector('title')?.textContent || '';
+          const link = item.querySelector('link')?.textContent || '#';
+          const desc = item.querySelector('description')?.textContent || '';
+
+          const jobEl = document.createElement('div');
+          jobEl.className = 'job-item';
+          jobEl.innerHTML = `
+            <h3><a href="${link}" target="_blank">${title}</a></h3>
+            <p>${desc}</p>
+          `;
+          container.appendChild(jobEl);
+        });
+      } catch (err) {
+        container.innerHTML = '<p>Failed to load jobs. Please try again later.</p>';
+        console.error(err);
+      }
+    }
+
+    loadJobs();
+  </script>
 </body>
 </html>
