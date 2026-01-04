@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Lincoln Freedom Group, LLC: Python Developer (US Only)</title><link>https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-us-only</link><description>Headquarters: Idaho, USA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Lincoln Freedom Group, LLC: Python Developer - Code Quality &amp; Standards (US Only)</title><link>https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-code-quality-standards-us-only</link><description>Headquarters: Idaho, USA
+    URL: https://lincolnfreedomgroup.com
+
+
+Lincoln Freedom Group, LLC is hiring a Python Developer focused on code quality and standards on behalf of a growing client expanding into multiple new markets. This is a long term full-time 1099 contract role (40 hours/week) for someone who enjoys improving code quality and mentoring through the review process.
+What You'll Do: Your primary focus is reviewing pull requests and ensuring the development team follows best practices and coding standards. You'll work in GitHub, approving PRs and providing constructive feedback to help developers write cleaner, more maintainable code. This isn't test automation or UAT - it's production code review. You'll collaborate with the team to refine and improve standards over time. There's also opportunity to contribute code alongside review work, giving you variety beyond pure review.
+The Tech Stack:
+
+Python (Django, FastAPI, SQLAlchemy)
+GitHub and GitHub Actions
+REST/SOAP APIs, Kafka
+Network-focused applications
+
+The Environment: The team is building out formal QA processes as they scale. Management is hands-off and trusts developers to own their domain. Your coworkers are collaborative, skilled, and appreciate someone who helps them level up.
+What We're Looking For:
+
+Strong Python expertise with an eye for clean code
+Experience reviewing code and providing constructive feedback
+Understanding of software development best practices
+Networking or telecom background helpful but not required
+Good communication skills - you're teaching, not just gatekeeping
+
+Compensation: Rate is negotiable based on experience. Submit your proposed rate with your application.
+To Apply: Send your resume to jobs@lincolnfreedomgroup.com. Please include a cover letter explaining why you're interested in this specific role and what qualities would make you a strong fit.
+
+To apply: https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-code-quality-standards-us-only</description><pubDate>Wed, 17 Dec 2025 02:17:32 +0000</pubDate></item><item><title>Lincoln Freedom Group, LLC: Python Developer (US Only)</title><link>https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-us-only</link><description>Headquarters: Idaho, USA
     URL: https://lincolnfreedomgroup.com
 
 
@@ -1528,124 +1553,4 @@ If you’re a passionate, career-focused developer ready to make a lasting impac
 What's it like to work at Lumenalta?
 Ongoing recruitment – no set deadline.
 
-To apply: https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior</description><pubDate>Wed, 09 Apr 2025 20:25:16 +0000</pubDate></item><item><title>Zencastr: Senior Backend Engineer - Full Remote</title><link>https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote</link><description>Headquarters: worldwide
-    URL: https://zencastr.com
-
-
-Empower the voices of the world @ Zencastr. If you want to push the world of podcasting into the future, come join a team who loves to live on the edge! We are a fully distributed team of smart people who are passionate about changing the world one voice at a time.
-&amp;nbsp;
-You should join us if you:
-
-
-Have significant experience with Node.js and good knowledge of JS fundamentals
-
-
-Have a good understanding of computer science fundamentals. You might not have gone to school for it, but you know the difference between heap and stack, different time complexities, and which patterns to use and when.
-
-
-You are ambitious. You might want to build your own company one day or have tried to tackle the toughest tech problems just for fun.
-
-
-You enjoy writing Javascript or Typescript
-
-
-You have an eye for performance. Whether thinking about the latest client side bundling techniques, or the proper way to shard a mongo database, you want things to be fast.
-
-
-You are a team player
-
-
-You have good communication skills
-
-
-What sets you apart:
-
-
-You have a passion for high performance applications
-
-
-You have significant open source contributions
-
-
-You want to work in a fast growing startup. Which comes with the blood, sweat and tears of working to disrupt an established industry
-
-
-You have empathy for the end user. A spec is a conversation starter, as an advocate for the end user you always are thinking about how to best serve their needs
-
-
-You have an eye for code quality and you strive to uphold best practices in engineering, security, and design
-
-
-Why you should choose us:
-
-
-You’ll be working with world class engineers, Phd’s, and designers in a fully distributed team
-
-
-Work in an agile and fast changing environment
-
-
-Equity commensurate to your contribution in a profitable company
-
-
-Health insurance
-
-
-Unique challenges and the support and talent to solve them
-
-
-4 weeks PTO
-
-
-Freedom to work where you please
-
-
-What we’re looking for:
-
-
-5+ years of Typescript, Node.js development
-
-
-Strong document / key-value store knowledge (Redis, MongoDB)
-
-
-Strong SQL knowledge
-
-
-Demonstrable knowledge of building scaleable consumer based apps
-
-
-Strong experience with unit, integration, and load testing
-
-
-Experience building APIs
-
-
-Experience with cloud APIs (Google Cloud, Digital Ocean)
-
-
-&amp;nbsp;
-Bonus points if you have:
-
-
-Experiencing working in high traffic, low latency applications
-
-
-Good dev ops experience
-
-
-Digital Signal Processing experience
-
-
-Strong SQL knowledge
-
-
-AI experience
-
-
-&amp;nbsp;
-How to apply:
-Apply at&amp;nbsp;https://jobs.ashbyhq.com/zencastr/e5897c7a-4622-495b-a892-81763a2ef112
-We are flexible! For the right candidate we ask: What do you need to do your best work?
-
-To apply: https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote</description><pubDate>Wed, 06 Aug 2025 20:01:29 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior</description><pubDate>Wed, 09 Apr 2025 20:25:16 +0000</pubDate></item></channel></rss>
