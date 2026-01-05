@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Lincoln Freedom Group, LLC: Python Developer - Code Quality &amp; Standards (US Only)</title><link>https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-code-quality-standards-us-only</link><description>Headquarters: Idaho, USA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Proton.ai: Senior Backend Engineer</title><link>https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer</link><description>Headquarters: Cambridge, MA 
+    URL: https://proton.ai
+
+
+About Us:The wholesale distribution industry is ready for a revolution, and Proton is leading the charge. The world relies on distributors to sell nearly every physical product, but despite its massive contribution to the global economy, this industry has been left behind in terms of technology. Proton is changing that. With AI-powered sales software, we’re breaking through the complexity of selling millions of products and making it easier for distributors to anticipate customer needs. Our mission is to bring the distribution industry into the modern age and the results speak for themselves. Distributors using Proton see 10x ROI, faster new hire ramp-up, and happier sales teams.In 2022, we raised a $20M Series A backed by Felicis Ventures (investors in Twitch, Shopify, Opendoor, and many others) and Battery Ventures. This year, we’re laser-focused on driving customer growth. If you’re excited about the opportunity to wear multiple hats, and continuously learn and experiment, now’s the time to join the Proton team.The Role:Proton is looking for an experienced Senior Backend Engineer to join our fast-growing SaaS team! Reporting directly to the Director of Engineering, the Senior Backend Engineer will drive the technical development of the Proton.ai product and platform. In this role, you will be working with the engineering team to help us build a scalable, customizable, performant and secure application.We're looking for someone technical with a deep understanding and curiosity of modern tech stacks and systems that will help us choose and implement solutions that benefit the future of our engineering. &amp;nbsp;Proton collaborates with Oyster HR to hire international employees as full time (long term) contractors within our company.&amp;nbsp;Gross Salary range is $50,000 - $70,000&amp;nbsp; USD annually, based on experience level.&amp;nbsp;&amp;nbsp;What you’ll do:&amp;nbsp;Feature Development:&amp;nbsp; Spearhead the backend coding of new features while helping the Product team understand complexity and tradeoffs. Developing across the entire full stack of our product, driving features from idea to production and rapidly delivering value to our customers that makes a real impact. &amp;nbsp;Team Collaboration: Be part of a cross-functional team, including software engineering, infrastructure, backend, frontend, and devops, to provide architectural guidance, making sure the stack decisions being made support our future growth.&amp;nbsp;Enterprise Customizability: Leverage your experience with enterprise applications to tailor our solutions to the unique needs of our corporate customers.Performance and Reliability: Share your expertise in building high-performance, reliable applications, contributing to end-to-end architecture and data flow discussions.&amp;nbsp;You'll be a great fit for this role if:&amp;nbsp;Proven experience as a principal engineer or similar in startup environments, with a focus on building scalable SaaS solutions. 7+ years of experience building and deploying scalable SaaS applications5+ years of experience with backend technologies preferably Python or Go, but C# or Java are acceptableTrack record of successful product architecture decisions and system improvements with a large focus on secure coding practices and standards to meet the needs of enterprise class customers and their data.Deep understanding of cloud-native technologies and concepts such as cloud providers, databases, application performance, scalability and securityCuriosity for new technologies. You’re someone who actively seeks to stay informed about the latest frameworks, software advancements, and tools utilized by industry peers. You like contrasting and comparing technologies to find why one fits better for certain use-cases than the other.&amp;nbsp;Experience with enterprise applications is highly preferred.Exceptional communication skills for conveying complex technical concepts to diverse stakeholders.Current Tech StackBackend&amp;nbsp;Elasticsearch &amp;amp; Redis as the main databasesActively migrating to SQL as primary database&amp;nbsp;API service in Python running in Kubernetes&amp;nbsp;Daily pre-computations run in Airflow&amp;nbsp;Machine learning&amp;nbsp;&amp;nbsp;AI models - neural networks&amp;nbsp;&amp;nbsp;Machine Learning Eng focused on experimenting with ways to improve existing models, building new models - training and developing models and deploying them&amp;nbsp;Frontend&amp;nbsp;Vue.js 3/Nuxt 3Migrating Vue Component frameworks from ElementPlus/iView to VuetifyDocker and kubernetes to deploy&amp;nbsp;Github Actions for CIWhile we have a well-established tech stack, we welcome highly skilled developers who are passionate about learning and expanding their skill set. Don't have experience with everything listed here, but eager to learn? If so, we encourage you to apply!Benefits:Competitive Salaries + Company Stock Options - we want to pay you well (and equitably!) and make you feel like an owner. &amp;nbsp;Flexible Schedule - we think high levels of autonomy, responsibility, and working asynchronously foster an amazing workplace.Biannual Company Paid Off-sites - time for us to be together, brainstorm, and make magic happen.
+
+To apply: https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer</description><pubDate>Wed, 22 Jan 2025 23:59:57 +0000</pubDate></item><item><title>Lincoln Freedom Group, LLC: Python Developer - Code Quality &amp; Standards (US Only)</title><link>https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-code-quality-standards-us-only</link><description>Headquarters: Idaho, USA
     URL: https://lincolnfreedomgroup.com
 
 
@@ -1507,50 +1513,4 @@ Refer them!&amp;nbsp;
 Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;
 Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
 
-To apply: https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</description><pubDate>Wed, 09 Jul 2025 15:35:11 +0000</pubDate></item><item><title>Lumenalta: Javascript Fullstack Engineer - Senior</title><link>https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior</link><description>Headquarters: New York
-    URL: https://lumenalta.com/
-
-
-A career at Lumenalta means the freedom to continue your tech career on your terms. Build exceptional things from wherever you might be.
-At Lumenalta, we create impactful software solutions that drive innovation and transform businesses. Since 2000, we’ve partnered with visionary leaders to build cutting-edge tech, solve complex challenges, and deliver results faster through our elite teams and tech-driven approach. Join us in shaping the future of technology.
-With over 20 years of fully remote experience, Lumenalta offers:
-
-Fully remote work
-Rapid growth opportunities
-Self-Improvement
-Industry-leading clients
-Nurturing engineers’ career paths
-
-What You Will Work On
-
-Collaborate with visionary enterprise clients
-Create transformative digital products
-Learn how to handle difficult situations
-Tackle complex challenges at scale
-Push boundaries with emerging technologies
-
-Requirements
-
-Expertise in React, Node, Express, Mongo, SQL
-
-We have a 2-hour assessment
-
-
-High-level English proficiency (written &amp;amp; verbal)
-
-Show up as a proactive, team-oriented self-starter on Zoom
-
-
-
-Why Lumenalta?
-
-Work on meaningful, impactful projects.
-Collaborate with a talented, supportive team
-Enjoy a flexible, remote-first environment
-Join a company that values your growth
-
-If you’re a passionate, career-focused developer ready to make a lasting impact, we want to hear from you!
-What's it like to work at Lumenalta?
-Ongoing recruitment – no set deadline.
-
-To apply: https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior</description><pubDate>Wed, 09 Apr 2025 20:25:16 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</description><pubDate>Wed, 09 Jul 2025 15:35:11 +0000</pubDate></item></channel></rss>
