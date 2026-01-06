@@ -1,5 +1,274 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Proton.ai: Senior Backend Engineer</title><link>https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer</link><description>Headquarters: Cambridge, MA 
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Silverfin: Experienced Ruby Product Engineer</title><link>https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1</link><description>Headquarters: Gent, Belgium
+    URL: https://silverfin.com/
+
+
+
+We start with the cliff notes about the position. If this appeals to you, continue reading for a longer text about working at Silverfin and your role
+&amp;nbsp;
+At Silverfin, we're an equal opportunity employer and value diversity at our company. Although we know we’re not perfect yet, we are working hard on it and always open for your feedback.
+&amp;nbsp;
+According to our vision to build a diverse, equitable and inclusive organisation, our policy is to only make a final hiring decision if underrepresented groups are sufficiently represented in the list of candidates applying for the position. For this reason it’s possible interviews get slightly delayed until we’ve reached that goal.
+&amp;nbsp;
+We're committed to elevating talent by creating an environment where we can all thrive together. So if you think you have what it takes, but don't necessarily check every single box, please consider applying. We'd love to hear how you might contribute to our mission and our team.
+
+
+
+What can we offer you?
+
+
+Actual, proper work-life balance
+Flexible working hours and work 100% remotely
+Personal growth training and opportunities
+Join a distributed remote-first engineering team with 40+ colleagues in 14 different countries on two continents
+A refreshing work environment with professional, friendly and welcoming colleagues
+A €1200 yearly budget for conferences, courses, workshops or other expenses that will improve your skills
+Two engineering retreats per year, somewhere in Europe&amp;nbsp;
+Ten company-wide Wellbeing Days per year for all employees (once a month, except in July and August)
+
+
+Compensation
+
+
+For this role, the compensation range is &amp;nbsp;€104.000&amp;nbsp;- €130.000&amp;nbsp;a year , which reflects the total compensation band for senior engineers at this level.
+
+
+&amp;nbsp;
+Please note:
+Most candidates start at the lower to mid part of the range, depending on experience and how their profile compares to our existing team. The higher end of the range is typically offered to individuals with a track record of strong impact and deep expertise in similar roles. We run annual compensation reviews, so there is clear opportunity for growth as you progress in the role.
+
+
+
+
+What will you work on?
+
+
+Figure out the best way to solve a customer or business problem in close collaboration with a product manager, a product designer and other engineers&amp;nbsp;
+Work on user facing functionalities&amp;nbsp;
+Help with discovery and delivery of a solution&amp;nbsp;
+Give the engineering perspective on potential ways of approaching a specific challenge&amp;nbsp;
+Help with maintenance and support of existing functionality
+
+
+
+
+
+
+What are we looking for?
+
+
+You’re experienced in both Ruby and Rails, and also understand where the boundaries lie between them. You can code in Ruby without any of Rails’ training wheels if necessary.
+You have experience using Javascript framework(s), understand the value of them, but also know when plain Javascript is enough.
+You're interested in getting to know our customers to find the best solution for a given challenge.&amp;nbsp;
+You can communicate clearly in English, both in writing and verbally.
+You’re up for mentoring coworkers and can give in-depth, productive feedback during code reviews. While you appreciate the small stuff, you recognise bike-shedding and can avoid its pitfalls.
+You know and can apply best practices when relevant. That means the usual like version control, testing, and refactoring; but also higher level concepts such as good object oriented design.
+You're aware of the trade-offs involved in proper engineering and can make balanced business decisions, keeping in mind all the stakeholders of the project.
+You’ve got opinions on code design and you can discuss them, but you’re professional enough to not let those opinions get in the way of a consensus if necessary.
+
+
+If you’re any good at Ruby, this is probably not the first job ad you’ve seen, so we’ve done our best to stand out while also accurately presenting what we’re all about. If it sounds like you would enjoy working with us, don’t hesitate to apply or drop us a line with questions , or read on for the more detailed explanation ..
+
+
+
+&amp;nbsp;
+What’s a Silverfin?
+At Silverfin we’re trying to apply the promise of software to the age-old industry of accounting. With our SaaS we’re automating a large chunk of the busy-work that accountants are currently handling manually, and are building new tools so they can provide better services to their customers. We aim to optimise their workflow in such a way that accountants can spend more time on the much more impactful and rewarding work of advising their customers, the business owners.
+&amp;nbsp;
+The good news is we’re succeeding in doing exactly that. Every week more than 15.000 financial service professionals use Silverfin to help and advise more than 400.000 businesses. Our customers adore us! The even better news is there’s still plenty left to work on, and that’s where we hope you come in.
+&amp;nbsp;
+Since November 2023 we are proudly part of Visma - the European leader in mission-critical cloud software, enjoying the power of the Visma brand and resources whilst retaining business autonomy and go-to-market freedom.
+&amp;nbsp;
+What’s the product team like?
+The product team is a cross-functional team where engineers work together closely with product managers and product designers. The team's input is a user or business problem which it can solve with a high degree of autonomy. From day one all profiles are involved in understanding the problem, ideating solutions and doing quick experiments to prove that a certain solution might actually lead to the desired outcome. After the discovery phase the same team is tasked with the delivery of the chosen solution. The team will then track the adoption of the solution and will make sure that the problem is actually solved. The setup of the team is largely based on the book "Inspired" by Marty Cagan.
+&amp;nbsp;
+What does working at Silverfin look like?
+Next to the four product teams, there are three more platformy teams, who own complex subsystems, like syncs or AI, and or support the product teams with knowledge, frameworks and services.
+&amp;nbsp;
+Our ops team ensures things run smoothly, deploys happen correctly, and will work with you when issues should arise. We’re enthusiastic followers of the devops mindset, which means ops and developers work together to solve problems, and empower each-other to be self-sufficient, instead of throwing problems over the wall to the “other side”.
+&amp;nbsp;
+We run an up-to-date Rails monolith on the backend, with PostgreSQL and Redis for persistence and caching, and everything is running on a Kubernetes cluster in Google Cloud. Our daily tools include GitLab, Quip and Slack, with Google Meet as our remote conferencing tool of choice.&amp;nbsp;
+&amp;nbsp;
+No code gets deployed without a code-review by a peer and testing is a must. Our pipeline automates deployment when the suite is green, and deploys happen dozens of times a day. Each team is currently doing Kanban, but they’re free to follow whatever process suits them best. There are regular retros held to work towards continuous improvement.
+&amp;nbsp;
+Software for accountants is not considered to be very exciting, but we have our fair share of technical challenges. To give you a sense of scale: our database exceeds 10TB*, and our largest table has crossed the 10 billion row mark a long while back. We interface with more than 30 different external APIs, and provide third parties an API of our own.
+&amp;nbsp;
+*: Our ops team noted that this actually isn’t that hard to achieve if you’re just indexing everything, but it still sounds impressive, right?
+&amp;nbsp;
+What makes the engineering team at Silverfin special?
+We’re a remote-first engineering team of 40 people distributed in 14 different countries over two continents. A priority for us is maintaining proper work-life balance. We avoid meetings as much as possible, accept deadlines only when absolutely necessary, and never expect anyone to work longer hours than they’ve signed up for. A day in our working lives is pretty boring, and we feel that’s exactly how it should be.
+&amp;nbsp;
+Working with us means you can be flexible with your schedule. It’s OK to disappear for a few hours in the middle of the day to run some errands, get a haircut, pick up the kids - whatever reason, you don’t need to explain yourself.
+&amp;nbsp;
+You also fully decide when you take time off: our team is sufficiently varied and well organised that there are always enough people around to handle the load, and in the rare cases it’s not, we will decrease the load instead of asking people to move their holiday.
+&amp;nbsp;
+Being remote-first means we favour asynchronous communication. We don’t shy away from chatting in Slack, but the important decisions or discussions are done in Gitlab issues, over email, or in Quip, so there’s a written, persisted record. We’re mindful of maintaining long chunks of focussed time, which means we avoid @-mentions or PMs on Slack, and other triggers and interrupts. We encourage using Slack’s DnD function, especially when you’re not working!
+&amp;nbsp;
+We’d be really happy to welcome you in our #engineering channel, but it’s not just virtual: we make sure we regularly get to see each other in real life too. Twice a year we fly the whole engineering team together to a different location in Europe, and at least once a year we join up with the rest of the company so we can spend some time together with the other departments.
+&amp;nbsp;
+What does your future look like?
+Personal growth is key to staying motivated. At Silverfin you don’t need to move to management in order to advance. We see the individual contributor track and the management track as two different growth paths which every engineer can follow and switch between. You can be promoted, including pay raises, as a contributor just like as a manager.
+&amp;nbsp;
+Everyone has a €1200 yearly budget to spend on conferences, courses, workshops or other training to improve their skills and level up. This also includes accommodation, travel costs. If the conference is on a workday you’ll get paid like any normal day.
+&amp;nbsp;
+Requirements
+
+
+You have at least 4 years of experience working with Ruby, or 2 years of experience with Ruby and 4 years in one or more other programming languages
+You have experience Javascript framework(s)
+Your work hours have some overlap with EU business hours (we require your local timezone to be within CET +/- 3h)
+You can communicate clearly in English, both written and verbally
+
+
+Nice to haves
+These would be nice but are definitely not necessary. Don’t worry if none of the following applies to you.
+
+
+Experience as a remote worker in a fully remote team
+Experience working with large datasets and the problems they bring
+Experience with Vue.js
+Experience in Fintech
+Accounting knowledge
+
+
+&amp;nbsp;
+Interested?
+You can apply today and we’ll start having interviews from 24/11/2025. There’s no benefit to applying early, so you can take your time answering the application questions.
+&amp;nbsp;
+Read about what our interviewing process looks like&amp;nbsp;
+&amp;nbsp;
+
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+To apply: https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1</description><pubDate>Tue, 23 Dec 2025 08:30:21 +0000</pubDate></item><item><title>Stellar AI: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</link><description>Headquarters: London
+    URL: https://joinstellar.ai/
+
+
+
+We are seeking experienced Software Engineers to contribute to projects across a wide range of technologies and programming languages, including JavaScript, Python, Go, C++, Ruby, and more.This is an open-ended contract opportunity, structured around project-based work with no set schedules or minimum time or task commitments. Contributors who work with us decide which available projects they'd like to work on, when they work, and how much they contribute, which makes it an excellent option for those seeking flexible and high-impact work.In this role, you will help advance AI research by understanding complex systems, exploring large codebases, and developing approaches to verify the correctness of software behavior.
+Compensation
+
+$70 per hour after passing the qualification
+Fully remote
+Project based work, no minimum time or task commitments
+
+Responsibilities
+
+Rapidly build context in large, multi-module codebases
+Analyze feature implementations for correctness and edge cases
+Produce clear, structured documentation of findings and rationale
+
+Requirements
+
+Bachelor's degree in Computer Science or a related field
+At least 2 years of experience as a Software Engineer
+Excellent written communication skills
+Ability to clearly explain complex technical concepts
+
+Location
+Remote in the US, UK, Canada, Europe, Australia, or New Zealand
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</description><pubDate>Tue, 21 Oct 2025 19:36:26 +0000</pubDate></item><item><title>Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)</title><link>https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</link><description>Headquarters: USA
+    URL: http://www.close.com
+
+
+About Us
+Close is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again.
+&amp;nbsp;
+We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&amp;nbsp;
+&amp;nbsp;
+Our backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.
+&amp;nbsp;
+Our product development process is inspired by Shape Up. We love open sourcing our code and ideas on our GitHub and on The Making of Close, our behind-the-scenes Product &amp;amp; Engineering blog. Check out our open source projects like SocketShark, TaskTiger, LimitLion and ciso8601.
+&amp;nbsp;
+&amp;nbsp;
+About the Role
+You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp;amp; Onboarding, Conversations, Messaging &amp;amp; Scheduling, Automations &amp;amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp;amp; frontend engineers, product managers, designers, and other teams here at Close.
+&amp;nbsp;
+&amp;nbsp;
+About You
+We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.
+&amp;nbsp;
+You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team.
+Come help us with projects like...
+
+Conceiving, designing, building, and launching new user-facing features
+Implementing new AI features to turbocharge our customers’ daily tasks
+Improving the performance and scalability of our GraphQL and REST API
+Improving how we sync millions of sales emails and calendar events each month
+Working with Twilio's API, WebSockets, and WebRTC to improve our calling features
+Building user-facing analytics features that provide actionable insights based on sales activity data
+Improving our Elasticsearch-backed powerful search features
+Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&amp;nbsp;
+Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers
+Enhancing our web app with real-time updates powered by GraphQL Subscriptions
+Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI
+
+Help manage our ever growing data processing needs…
+
+Billions of Mongo documents
+Millions and millions of rows of PostgreSQL data
+55 Terabytes of logs / month
+500 billion OTEL spans over the last 30 days
+10+ million events / day
+Tens of thousands of docker containers
+7 million minutes of call recordings / month
+Petabytes / month of network traffic
+
+Requirements...
+
+Senior 1 &amp;amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity.
+Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python.
+You have built web APIs that were Internet facing or supported other high volume loads.
+You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&amp;nbsp;
+You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&amp;nbsp;
+You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&amp;nbsp;
+You care about the craftsmanship of the code and systems you produce.
+Located in the USA (lower 48 timezones).
+
+Bonus point if you have
+
+Contributed open source code related to our tech stack.
+Led small project teams building and launching features.
+Built B2B SaaS products.
+Implemented features that leveraged AI to deliver unimaginable new product capabilities.
+Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks.
+
+🌏 Why Close?
+
+Watch our most recent culture video featuring our annual team retreat in Italy
+100% remote company
+5 weeks PTO + Winter &amp;amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company
+1 month paid sabbatical every 5 years
+Paid parental leave
+Medical, Dental, Vision with HSA option (US residents)
+401k matching at 6% (US residents)
+Dependent care FSA (US residents)
+Our story and team 🚀
+
+Our Values
+
+Build a house you want to live in -- Examine long-term thinking and action
+No BS -- Practice transparency and honesty, especially when it’s hard
+Invest in each other -- Build successful relationships with your coworkers and customers&amp;nbsp;
+Discipline equals freedom -- Keep your word to yourself and others
+Strive for greatness -- Constantly challenge yourself and others&amp;nbsp;
+
+How We Work Together
+
+Productivity, Quality &amp;amp; Impact: We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&amp;nbsp;
+Asynchronous communication &amp;amp; collaboration: We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&amp;nbsp;
+Appreciation for Deep Work: *During your normal work day, not after a day of meetings*.&amp;nbsp;
+Autonomy &amp;amp; Freedom: Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&amp;nbsp;
+
+&amp;nbsp;
+We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp;amp; II is $140,000 to $210,000.
+
+To apply: https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</description><pubDate>Wed, 23 Jul 2025 14:31:54 +0000</pubDate></item><item><title>Proton.ai: Senior Backend Engineer</title><link>https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer</link><description>Headquarters: Cambridge, MA 
     URL: https://proton.ai
 
 
@@ -1213,304 +1482,4 @@ To apply: https://weworkremotely.com/remote-jobs/llcu-university-senior-front-en
 
 Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under "how you heard about A·Team." No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue their craft with autonomy.Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.Not for:People seeking small gigs.Builders focused on simple WordPress/Wix/Squarespace sites.Early-career professionals and recent grads.Our Vision:A·Team is for the "unhirables" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.
 
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item><item><title>Zencastr: Senior Fullstack Developer</title><link>https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer</link><description>Headquarters: Zencastr
-    URL: https://zencastr.com
-
-
-Empower the voices of the world @ Zencastr. If you want to push the world of podcasting into the future, come join a team who loves to live on the edge! We are a fully distributed team of smart people who are passionate about changing the world one voice at a time.
-&amp;nbsp;
-You should join us if you:
-
-
-Have significant experience with Node.js and good knowledge of JS fundamentals
-
-
-Have a good understanding of computer science fundamentals. You might not have gone to school for it, but you know the difference between heap and stack, different time complexities, and which patterns to use and when.
-
-
-You are ambitious. You might want to build your own company one day or have tried to tackle the toughest tech problems just for fun.
-
-
-You enjoy writing Javascript or Typescript
-
-
-You have an eye for performance. Whether thinking about the latest client side bundling techniques, or the proper way to shard a mongo database, you want things to be fast.
-
-
-You are just as comfortable working in a browser context or a&amp;nbsp;node.js&amp;nbsp;runtime
-
-
-You are a team player
-
-
-You have good communication skills
-
-
-What sets you apart:
-
-
-You have a passion for high performance applications
-
-
-You have significant open source contributions
-
-
-You want to work in a fast growing startup. Which comes with the blood, sweat and tears of working to disrupt an established industry
-
-
-You have empathy for the end user. A spec is a conversation starter, as an advocate for the end user you always are thinking about how to best serve their needs
-
-
-You have an eye for code quality and you strive to uphold best practices in engineering, security, and design
-
-
-Why you should choose us:
-
-
-You’ll be working with world class engineers, Phd’s, and designers in a fully distributed team
-
-
-Work in an agile and fast changing environment
-
-
-Equity commensurate to your contribution in a profitable company
-
-
-Health insurance
-
-
-Unique challenges and the support and talent to solve them
-
-
-4 weeks PTO
-
-
-Freedom to work where you please
-
-
-What we’re looking for:
-
-
-5+ years of Typescript, React, Node.js development
-
-
-Strong document / key-value store knowledge (Redis, MongoDB)
-
-
-Strong SQL knowledge
-
-
-Strong HTML / CSS / React knowledge
-
-
-Demonstrable knowledge of building scaleable consumer based apps
-
-
-Strong experience with unit, integration, and load testing
-
-
-Experience building APIs
-
-
-Experience with cloud APIs (Google Cloud, Digital Ocean)
-
-
-Bonus points if you have:
-
-
-Experiencing working in high traffic, low latency applications
-
-
-Good dev ops experience
-
-
-Digital Signal Processing experience
-
-
-Strong SQL knowledge
-
-
-&amp;nbsp;
-How to apply:
-Apply at&amp;nbsp;https://jobs.ashbyhq.com/zencastr/c4c91cc0-c5f9-4773-ab04-d239f9455aee
-We are flexible! For the right candidate we ask: What do you need to do your best work?
-
-To apply: https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer</description><pubDate>Fri, 08 Aug 2025 22:55:31 +0000</pubDate></item><item><title>App Sauce: Junior VibeCoder &amp; Mobile App Builder</title><link>https://weworkremotely.com/remote-jobs/app-sauce-junior-vibecoder-mobile-app-builder</link><description>Headquarters: 3930 E Ray Rd, 210, Phoenix, Arizona 85044, USt
-    URL: https://www.appsauce.ai/
-
-
-Job Title: Junior VibeCoder &amp;amp; Mobile App Builder (High-Speed AI-Driven Development)
-(Full-Time — Remote — Fast-Paced Startup Environment)
-
-About the Role
-AppSauce is looking for a hungry, fast-learning VibeCoder — someone who loves building mobile apps at an accelerated pace using modern AI-assisted workflows. This is not a traditional coding role. You will be creating new apps constantly, experimenting daily, learning new techniques rapidly, and shipping products fast.
-If you want a job where every week looks the same, this is not for you.If you want a job where you build real apps, learn insanely fast, grow your skills daily, and work directly with high-performance founders… keep reading.
-Your main mission: Create new mobile apps using VibeCoding, AI-powered tools, or manual coding when needed. Ship fast. Learn fast. Improve fast. Work closely with Robic, who will mentor and push you to become a world-class rapid builder.
-
-What We're Looking For
-Must-Have Requirements
-
-
-At least one mobile app in your portfolio (iOS or Android).✓ It can be manually coded✓ It can be VibeCoded✓ It can be an MVP — as long as you built it.
-
-
-Ability to learn new tools extremely fast.
-
-
-Comfort working in a high-speed environment where you ship new apps weekly.
-
-
-Grit, ambition, and a hunger to become elite at building products.
-
-
-Ability to take feedback, iterate and improve quickly.
-
-
-Strong sense of ownership — you finish what you start.
-
-
-Strong Pluses
-
-
-Experience with App Store Connect (iOS)
-
-
-Experience with Google Play Console (Android)(Esse é o nome correto — não é Google Connect.)
-
-
-Basic understanding of React Native, Expo, Swift, Kotlin, or AI-assisted development.
-
-
-Experience with VibeCoding platforms (Lovable, Cursor, Vercel AI, etc.)
-
-
-Ability to reverse-engineer app flows and replicate functionality quickly.
-
-
-Experience shipping personal projects or hackathon prototypes.
-
-
-
-What You Will Do
-
-
-Build new apps from scratch using VibeCoding or hybrid workflows.
-
-
-Iterate extremely fast based on feedback and new ideas.
-
-
-Collaborate with the team to launch, test and scale apps.
-
-
-Work on multiple projects in parallel — this is a role for people who run toward challenges.
-
-
-Continuously learn new frameworks, AI tools, and ways to speed up app development.
-
-
-Expect to build a lot of apps. This role is for creators, not spectators.
-
-Who This Role Is Perfect For
-
-
-Young developers who want to grow 10x faster than a normal job.
-
-
-People who want to earn money by building real products, not doing endless theory.
-
-
-People who love learning, experimenting, and doing something new every day.
-
-
-Builders who want to eventually create a portfolio of dozens of apps.
-
-
-If you’re ambitious and you’re willing to put in the work, this role will change your career.
-
-Compensation &amp;amp; Growth
-
-
-Competitive salary based on experience.
-
-
-Fast merit-based progression.
-
-
-Mentorship from Robic and the AppSauce core builders.
-
-
-Opportunity to become a lead builder or manage future VibeCoders as the team scales.
-
-
-
-How to Apply
-Send us:
-
-
-Your portfolio (links to apps you built — App Store or Google Play)
-
-
-A short note on why you want to join AppSauce
-
-
-Your GitHub or VibeCoding profile (if you have one)
-
-
-Candidates without at least one published or demo-ready app will not be considered.
-
-To apply: https://weworkremotely.com/remote-jobs/app-sauce-junior-vibecoder-mobile-app-builder</description><pubDate>Sat, 06 Dec 2025 20:04:13 +0000</pubDate></item><item><title>Speechify Inc: Software Engineer, iOS Core Product</title><link>https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</link><description>Headquarters: Florida
-    URL: http://www.speechify.com
-
-
-Overview
-With the growth of our iOS app, being the #18 productivity app in the App Store category and also our recent recognition as Apple's 2025 Design Award for inclusivity, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward. &amp;nbsp;&amp;nbsp;
-This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
-We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;
-Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;
-What You’ll Do
-
-Opportunity to lead key engineering and product decisions
-Actively shipping production code for the Speechify iOS app
-Work within a dedicated product team
-Participate in product discussions to shape the product roadmap
-Maintain and enhance the existing complex app architecture
-
-An Ideal Candidate Should Have
-
-Experience. You've worked on products that scaled to a large user base
-Track record. You have worked on various products from inception to decent traction. You have been responsible for engineering the product
-Customer obsession. We expect every team member whose responsibilities directly impact customers to be constantly obsessed about providing the best possible experience
-Product thinking. You make thoughtful decisions about the evolution of your product and support internal teams and designers into taking the right direction
-Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time
-Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down
-Technical skills. Swift, SwiftUI
-
-Technical Requirements:
-
-Swift Programming Language
-SwiftUI experience
-Experience in Multithreading Programming
-Working with CI/CD infrastructure
-Experience with Fastlane
-SOLID principles, the ability to write every single class according to SOLID
-Experience with Git and understanding of different Git strategies
-
-What We offer:
-
-A fast-growing environment where you can help shape the company and product
-An entrepreneurial crew that supports risk, intuition, and hustle
-The opportunity to make a big impact in a transformative industry
-A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
-Work on a product that millions of people use and where daily feedback includes users sharing that they cried when they first found the product because it was so impactful on their lives
-Support people with learning differences like Dyslexia, ADD, Low Vision, Concussions, Autism, and Second Language Learners, and give reading superpowers to professionals all over the world
-Work in one of the fastest growing sectors of tech: Intersection of Artificial Intelligence and Audio
-
-Think you’re a good fit for this job?&amp;nbsp;
-Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
-Not looking but know someone who would make a great fit?&amp;nbsp;
-Refer them!&amp;nbsp;
-Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;
-Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
-
-To apply: https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</description><pubDate>Wed, 09 Jul 2025 15:35:11 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item></channel></rss>
