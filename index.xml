@@ -1,5 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Silverfin: Player-Coach Engineering Team Lead</title><link>https://weworkremotely.com/remote-jobs/silverfin-player-coach-engineering-team-lead-1</link><description>Headquarters: Gent, Belgium
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Remote Leverage: Senior Full Stack MERN Developer</title><link>https://weworkremotely.com/remote-jobs/remote-leverage-senior-full-stack-mern-developer</link><description>Headquarters: San Jose, CA
+    URL: https://remoteleverage.com
+
+
+Remote Leverage, a talent startup based in California, USA, is building and launching a new, independent SaaS platform backed by a proprietary talent dataset, and we’re hiring a Senior Full Stack MERN Developer to join as a founding engineer.
+This is a remote role focused on building a standalone product with external customers, real scale, and long-term ambition — not client work and not internal tooling.
+About the ProductWe’re developing a proprietary software platform designed to transform how companies discover, evaluate, and hire remote talent at scale.
+The product already has a functioning MVP and early validation. Your role will be to take it from “working” to production-ready — ensuring it is stable, scalable, secure, and polished enough for a public launch and real-world usage.
+This is a hands-on, execution-heavy role with significant ownership and influence over the product’s technical direction.
+What You’ll Be Responsible For
+Taking an existing MVP and bringing it to market-ready, production qualityDesigning and refining backend APIs and data modelsImproving frontend UX, usability, and performanceEnsuring the system is stable, secure, and scalableIdentifying and resolving edge cases, bugs, and technical debtMaking pragmatic architectural decisions that support long-term growthWorking closely with the founder to move fast while maintaining engineering disciplineWriting clean, maintainable, well-structured TypeScriptApplying a product-minded engineering approach, not just feature deliveryThriving in an environment with ambiguity, iteration, and evolving requirements
+Must-Have Skills &amp;amp; Experience
+5+ years of professional experience as a Full Stack Developer or similar roleStrong experience with TypeScript across frontend and backendSolid React experience building production-grade user interfacesExperience building Node.js / Express APIsExperience working with MongoDB in production environmentsProven track record of shipping and maintaining real-world SaaS productsAbility to move a product from “it works” → reliable, scalable, and usableStrong product-minded engineering mentalityComfortable working without rigid specs and iterating quicklyFluent English, written and verbalProfessional, collaborative, and proactiveOpen to feedback and continuous improvement
+This Role Is a Great Fit If You
+Enjoy taking ownership of real products from early stagesLike working close to founders and decision-makersHave shipped SaaS products before and know where MVPs tend to breakCare deeply about code quality, maintainability, and scalabilityWant meaningful impact on a product with real market potential
+CompensationUSD 3000 to 4000 per month&amp;nbsp;
+We value real-world production experience over polished portfolios. If you’ve built and shipped meaningful software — and can show it — we want to hear from you.&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/remote-leverage-senior-full-stack-mern-developer</description><pubDate>Wed, 24 Dec 2025 16:58:02 +0000</pubDate></item><item><title>Stack Influence: Senior Full Stack Javascript Engineer (Remote, 4-day week)</title><link>https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week</link><description>Headquarters: Miami, FL
+    URL: https://stackinfluence.com
+
+
+Stack Influence is a VC-funded creator marketplace app connecting eCommerce brands with everyday social media users. We are a high-growth, remote-first startup that offers a flexible 4- day work week.
+You will be responsible for developing the codebase and infrastructure for a modern tech stack (React, Node, Next.js, Azure Cloud). We are looking for a high impact individual contributor who can architect, build, and deploy end-to-end full-stack applications. We are a small team with two other senior engineers contributing to the codebase.
+Salary is between $125-200k USD with equity potential.
+Responsibilities:
+
+Develop, test and iterate on product features spanning frontend (React, Next.js, TypeScript), backend (Node.js, PostgreSQL, Hono), and cloud infrastructure (Azure).
+Work closely with product, design, QA, and business teams to translate requirements, mockups and process flows into production-ready features.
+Design and build integrations with third-party services such as social media, eCommerce, artificial intelligence and financial services.
+Follow best practices for code quality, reliability, security, and scalability.
+Implement automated integration tests (Jest) that adhere to test plans.
+Monitor live applications and troubleshoot issues post-deployment.
+
+Qualifications:
+
+7+ years experience as a full-stack software engineer working on modern JavaScript/TypeScript codebases.
+Strong data and querying skills, experienced with both relational databases (PostgreSQL) and NoSQL databases (MongoDB).
+Strong experience with cloud infrastructure (Azure).
+Experience with writing and debugging automated tests (Jest).
+Motivated and productive in small, remote teams with async communication and minimal supervision.
+Customer-first mindset with a focus on usability and performance.
+
+
+To apply: https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week</description><pubDate>Wed, 24 Dec 2025 15:42:44 +0000</pubDate></item><item><title>Silverfin: Player-Coach Engineering Team Lead</title><link>https://weworkremotely.com/remote-jobs/silverfin-player-coach-engineering-team-lead-1</link><description>Headquarters: Gent, Belgium
     URL: https://silverfin.com/
 
 
@@ -1476,134 +1520,4 @@ You’ll be leading a team that supports how AI transforms enterprise data workf
 Impact: Your code will directly determine whether finance teams can trust AI with their most critical data
 Innovation: Work at the cutting edge of agentic AI applied to real business problems
 
-To apply: https://weworkremotely.com/remote-jobs/preql-engineering-manager-lead-engineer</description><pubDate>Tue, 09 Dec 2025 14:32:18 +0000</pubDate></item><item><title>OnTheGoSystems: PHP developer (French or German speakers)</title><link>https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-french-or-german-speakers</link><description>Headquarters: Remote
-    URL: http://onthegosystems.com
-
-
-Join the team behind&amp;nbsp;WPML, the multilingual plugin powering 1.5M+ websites.
-We’re looking for developers who&amp;nbsp;enjoy building features and staying close to real users. In this role, you’ll spend most of your time developing WPML, while also handling selected support cases that give you direct insight into how the product behaves in the real world.
-Support isn’t a separate job here – it’s a feedback loop that helps you grow as a developer and helps us improve WPML faster.
-Why This Role Works Well for Developers
-
-Direct connection to real problems:&amp;nbsp;You see issues before they turn into technical debt and can fix them properly.
-Stronger product intuition:&amp;nbsp;Support cases reveal edge cases, integrations, and workflows you won’t discover from code alone.
-Your code has immediate impact:&amp;nbsp;You’ll build features for one of the most used multilingual solutions in the world and help improve its reliability.
-You influence the roadmap:&amp;nbsp;What you learn from users feeds directly into better architecture and long-term fixes.
-
-Why OTGS?
-
-Profitable and stable:&amp;nbsp;We’ve been self-funded since 2008 and support over 1.5M sites.
-Remote-first:&amp;nbsp;Friendly, global team working asynchronously across time zones.
-High ownership:&amp;nbsp;Developers make decisions, propose improvements, and shape the product.
-Built-in growth:&amp;nbsp;Mentorship, modern tooling, and opportunities to deepen your expertise in PHP, WordPress internals, testing, and performance.
-
-You’re a Strong Match If You
-
-Speak French or German.
-Have real PHP experience.
-Enjoy solving technical challenges and finding root causes.
-Prefer clean code, tests, and long-term solutions over quick patches.
-
-What You’ll Be Doing
-
-Build new features and improve existing parts of WPML.
-Handle selected support cases that require a developer’s understanding.
-Debug issues, reproduce complex scenarios, and implement fixes.
-Suggest and ship product improvements based on patterns you notice in support.
-Grow your skills in automated testing, performance optimization, and modern development workflows.
-
-If you want a development role with real product influence – and you don’t mind helping users along the way – this is a great fit.
-Apply now, and looking forward to meeting you!
-
-To apply: https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-french-or-german-speakers</description><pubDate>Tue, 09 Dec 2025 07:41:59 +0000</pubDate></item><item><title>LLCU University: Senior Front-End Wordpress Developer – Tailwind Specialist</title><link>https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist</link><description>Headquarters: Florida
-    URL: https://www.llcuniversity.com/
-
-
-About the Role:
-We're looking for a senior front-end developer who cares about clean code, loves solving complex puzzles, and has a great eye for design. This role is for a full redesign of our website — not client work, not multiple sites.
-You’ll turn our Figma design into a custom WordPress site — no page builders, just a thoughtful, performant, hand-coded theme. We'll launch the new design component-by-component to the live site, so you’ll work closely with our team to build and ship each part with care.
-We use GitHub for version control. You should be confident in CSS, Tailwind CSS, PHP, JavaScript, and HTML. If you have an eye for detail and care about helping people through your work, we’d love to meet you.
-(Note: We don't need/use JS frameworks like React, Vue.js, etc.)
-What does the work look like?
-We’re looking for a front-end developer to work in between our design &amp;amp; tech teams. Our current project is a major redesign, which still has a lot of logic to code. After that, you could be working on any number of projects, from interactive tools built from scratch (ex: an Operating Agreement generator) to internal tools for the content team.&amp;nbsp;
-As a first step, you’ll get a full walkthrough of what’s been built so far. You might review or audit the code, and you’ll be part of the brainstorming and problem-solving process. You’ll also help us figure out exactly what work still needs to be done.
-Key Responsibilities:
-
-
-Turn detailed Figma designs into a responsive, accessible, and fully functional WordPress site
-
-
-Write clean, efficient, and maintainable code using CSS, PHP, JavaScript and HTML.
-
-
-Make sure everything works across browsers and runs fast
-
-
-Work closely with our designer, back-end developer, founder, and SEO strategist to get every detail right — we care deeply about doing great work
-
-
-Help improve how we build things by refining our process and sharing ideas
-
-
-Required Skills &amp;amp; Qualifications:
-
-
-10+ years of front-end WordPress experience
-
-
-Expert at turning Figma designs into custom WordPress themes
-
-
-Strong in CSS, PHP, JavaScript and HTML.
-
-
-Vast experience using Tailwind CSS in real-world projects
-
-
-Strong proficiency in CSS and modern layout techniques (Flexbox, Grid, etc.)
-
-
-Deep understanding of responsive and adaptive design
-
-
-3+ years using Git for version control
-
-
-Clear and thoughtful communication in English — written and spoken
-
-
-Willing to have honest, open, even though conversations when needed — we care about trust and doing great work together
-
-
-A strong culture fit — we're a kind, friendly team that cares about details, good communication, and helping each other do our best work
-
-
-Personal Traits:
-
-
-You have a growth mindset and love learning new things to keep improving your craft
-
-
-You bring a positive attitude, take initiative, and enjoy solving tough problems
-
-
-You’re comfortable working as part of a team and independently — we work on the Eastern Time zone.
-
-
-Note: We do lots of video calls and screensharing for brainstorming and troubleshooting.
-
-
-Why Join Us?
-
-
-Collaborate on high-impact projects with a passionate, supportive team.
-
-
-Embrace a culture that values positivity, growth, and professional excellence.
-
-
-Enjoy flexibility, autonomy, and opportunities to grow your skillset.
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist</description><pubDate>Fri, 10 Oct 2025 04:11:49 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/preql-engineering-manager-lead-engineer</description><pubDate>Tue, 09 Dec 2025 14:32:18 +0000</pubDate></item></channel></rss>
