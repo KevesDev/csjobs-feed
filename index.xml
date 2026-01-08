@@ -1,5 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Silverfin: Experienced Ruby Product Engineer</title><link>https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1</link><description>Headquarters: Gent, Belgium
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Silverfin: Player-Coach Engineering Team Lead</title><link>https://weworkremotely.com/remote-jobs/silverfin-player-coach-engineering-team-lead-1</link><description>Headquarters: Gent, Belgium
+    URL: https://silverfin.com/
+
+
+
+About the Role: The Highlights
+We're looking for an&amp;nbsp;Engineering Team Lead&amp;nbsp;to join our remote-first department and take the helm of&amp;nbsp;Team Syncs. This is a&amp;nbsp;Player-Coach&amp;nbsp;role, meaning you'll balance hands-on technical contributions with people management, mentoring, and ensuring your team is aligned with the company's business priorities.
+&amp;nbsp;
+If you thrive on both writing great code and fostering an environment where engineers can grow and do their best work—especially in the complex domain of data ingestion and API management—this is for you.
+&amp;nbsp;
+
+
+Impact: Guide Team Syncs, a mission-critical team responsible for bringing complex financial data into Silverfin and ensuring its accuracy.
+Challenge: Work with 30+ external APIs, financial algorithms, and manage a public API for external integrations.
+Balance: Enjoy actual, proper work-life balance with flexible hours and no expectation of working beyond your contractual obligations.
+Growth: Participate in our Leadership Development Programme and receive a €1200 yearly budget for professional development.
+Perks: Two engineering retreats per year somewhere in Europe and ten company-wide Wellbeing Days per year (a paid Friday off).
+
+A Note about Compensation
+
+
+
+For this role, the compensation range is €112.000 - €169.000 a year , which reflects the total compensation band for Team Leads at this level.
+&amp;nbsp;
+Please note: Most candidates start at the lower to mid part of the range, depending on experience and how their profile compares to our existing team. The higher end of the range is typically offered to individuals with a track record of strong impact and deep expertise in similar roles. We run annual compensation reviews, so there is clear opportunity for growth as you progress in the role.
+Our Commitment to a Welcoming &amp;amp; Inclusive Process
+At Silverfin, we are committed to building a&amp;nbsp;diverse, equitable, and inclusive&amp;nbsp;organisation. We value all our colleagues and do not discriminate based on race, religion, colour, national origin, gender, sexual orientation, age, marital status, disability status, or any other characteristic.
+&amp;nbsp;
+We believe the best solutions come from diverse perspectives. To ensure an equitable hiring process, our policy is to only move to the interviewing stage once we have a sufficiently representative and diverse pool of applicants. This might mean a slight delay in scheduling interviews, but it's a vital step in our commitment to genuine equity.
+We strongly encourage you to apply even if you don't check every single box. We are looking for potential and unique contributions. Tell us how you can help us achieve our mission!
+&amp;nbsp;
+What You'll Be Doing (Leading Team Syncs)
+As the Team Lead for&amp;nbsp;Team Syncs, you will manage, mentor, and contribute to a team focused on the backbone of our platform—data connectivity and integrity.
+
+
+
+People Leadership &amp;amp; Alignment (The Coach)
+
+
+Manage and mentor&amp;nbsp;a team of engineers, fostering a culture of collaboration and continuous improvement.
+Collaborate closely with the team’s Product Manager to set clear goals and priorities for data synchronization and API development.
+Partner with&amp;nbsp;Team #1&amp;nbsp;of your fellow TLs to maintain a well-aligned Engineering department.
+Live the&amp;nbsp;Silverfin values&amp;nbsp;and be a role model for your team.
+
+
+
+
+
+
+Technical Contribution (The Player)
+
+
+Actively contribute to the team's codebase, dividing time between technical work and people management.
+Oversee the&amp;nbsp;development and maintenance of integrations with external bookkeeping APIs, ensuring reliable and accurate data flow.
+Guide the team in maintaining our&amp;nbsp;public Sync API, enabling third parties to build seamless bookkeeping integrations with Silverfin.
+Help the team refine algorithms and financial calculations necessary for&amp;nbsp;data accuracy and correctness&amp;nbsp;within the platform.
+Help with discovery and delivery of the best solutions for customer and business challenges.
+
+
+
+
+
+
+&amp;nbsp;
+What We're Looking For
+Essential Requirements
+
+
+2 years of experience&amp;nbsp;leading a team, including direct people management.
+Recent hands-on experience as a&amp;nbsp;Senior Software Engineer.
+Expertise with or willingness to quickly learn and work with&amp;nbsp;Ruby on Rails.
+Enthusiasm and familiarity with AI tools for software development.
+Ability to communicate clearly in&amp;nbsp;English, both verbally and in writing.
+Work hours have some overlap with EU business hours (local timezone within&amp;nbsp;CET +/- 3h).
+Willingness and ability to travel&amp;nbsp;3 to 4 times per year&amp;nbsp;for team and company events.
+
+
+
+
+
+
+Helpful Experience (Nice-to-Haves)
+
+
+Experience with&amp;nbsp;API design&amp;nbsp;and building resilient, third-party integrations (highly relevant for Team Syncs).
+Experience in a fully remote working environment.
+Experience working with large datasets and ensuring data integrity.
+Experience in Fintech or with accounting/financial knowledge (highly relevant for the team's function).
+Experience with JavaScript framework(s).
+
+
+
+
+
+
+&amp;nbsp;
+What Makes Silverfin Engineering Special
+Our Technology and Impact
+
+
+The Product:&amp;nbsp;We apply software to automate the busywork of accounting, allowing our 15,000+ users to focus on other valuable aspects of the accountant role such as client advisory.
+The Stack:&amp;nbsp;We run an up-to-date&amp;nbsp;Rails monolith&amp;nbsp;with PostgreSQL and Redis on a&amp;nbsp;Kubernetes cluster in Google Cloud, with a number of satellite services - such as our AI applications. We follow a&amp;nbsp;DevOps mindset—developers and ops work together to empower self-sufficiency.
+The Challenge:&amp;nbsp;Our biggest stack includes a database exceeding 17TB, with tables over 10 billion rows, requiring careful thought on scalability and performance—especially crucial for&amp;nbsp;Team Syncs'&amp;nbsp;data ingestion role.
+Product Focus &amp;amp; Empowerment:&amp;nbsp;We are organised into empowered cross-functional teams with software or AI engineers, product managers and product designers. Each team has a high-level mission and a lot of agency in deciding how to achieve it.
+Innovation:&amp;nbsp;We have an in-house&amp;nbsp;AI team&amp;nbsp;applying machine learning to solve real client problems, with commercially successful, production-ready features.
+We're proudly part of&amp;nbsp;Visma, a European leader in cloud software.
+
+
+
+
+
+
+True Work-Life Balance and Flexibility
+
+
+Asynchronous-First:&amp;nbsp;We prioritize focused work. Important decisions are documented in Gitlab, email, or Quip (our wiki) to minimize interruptions. We discourage unnecessary Slack mentions and encourage using the "Do Not Disturb" function.
+Flexible Schedule:&amp;nbsp;It's okay to disappear for a few hours in the middle of the day for personal appointments or errands. You fully decide when you take time off; if there aren’t enough people available, we’ll decrease the load instead of asking folks to move their holidays.
+
+
+
+
+
+Interested?
+You can apply today. There is no benefit to applying early, so take your time to consider the role and answer the application questions thoroughly.
+Apply for the job right here. Or email us with any questions:&amp;nbsp;zoe.deswaef@silverfin.com
+
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+To apply: https://weworkremotely.com/remote-jobs/silverfin-player-coach-engineering-team-lead-1</description><pubDate>Tue, 23 Dec 2025 08:34:50 +0000</pubDate></item><item><title>Silverfin: Experienced Ruby Product Engineer</title><link>https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1</link><description>Headquarters: Gent, Belgium
     URL: https://silverfin.com/
 
 
@@ -1476,10 +1606,4 @@ Enjoy flexibility, autonomy, and opportunities to grow your skillset.
 
 
 
-To apply: https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist</description><pubDate>Fri, 10 Oct 2025 04:11:49 +0000</pubDate></item><item><title>A.Team: Senior Independent Software Developer ($90-$170/hr)</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</link><description>Headquarters: NYC and TLV
-    URL: https://build.a.team/wwrfastrackreferral
-
-
-Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under "how you heard about A·Team." No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue their craft with autonomy.Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.Not for:People seeking small gigs.Builders focused on simple WordPress/Wix/Squarespace sites.Early-career professionals and recent grads.Our Vision:A·Team is for the "unhirables" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.
-
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist</description><pubDate>Fri, 10 Oct 2025 04:11:49 +0000</pubDate></item></channel></rss>
