@@ -1,5 +1,144 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Remote Leverage: Senior Full Stack MERN Developer</title><link>https://weworkremotely.com/remote-jobs/remote-leverage-senior-full-stack-mern-developer</link><description>Headquarters: San Jose, CA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80–100% (f/m/x), fully remote</title><link>https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote</link><description>Headquarters: Zuerich
+    URL: https://en.comparis.ch/
+
+
+
+What you will do
+
+&amp;nbsp;
+To further develop and enhance our applications, we are looking for an experienced Full Stack Software Engineer on a Senior Level to join our multinational Scrum team. You will help in design, development, testing of Comparis applications, working on both a .NET backend and a React frontend. You will contribute heavily to architectural decisions, mentor other developers, and help shape the future of our digital products.Core responsibilities:
+
+Design, develop, and deploy cloud-native applications using .NET Core/ASP.NET, and Next.js.
+Lead architectural discussions and provide direction on technology choices and design patterns.
+Build and maintain RESTful APIs, microservices, and distributed systems.
+Work with Docker/Kubernetes in Azure.
+Implement responsive, high-quality UI components with React and JavaScript/TypeScript.
+Optimize applications for performance, availability, scalability, and security.
+Use/build CI/CD pipelines, automated testing, and deployments.
+Monitor, diagnose, and resolve complex production issues.
+Mentor team members and promote engineering best practices.
+
+
+
+
+
+Required Skills and Qualifications
+
+
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field (or equivalent practical experience).
+7–8 years of professional software development experience.
+Strong proficiency in C#, .NET Core/ASP.NET.
+Extensive experience with React.js, JavaScript/TypeScript, HTML5, and CSS3.
+Strong background in cloud infrastructure with hands-on experience building and operating cloud-native applications using Azure, AWS or GCP
+Experience with modern compute platforms, including container orchestration (e.g., Kubernetes), serverless functions, and scalable application hosting environments
+Skilled in designing and working with event-driven and message-based architectures using queues, topics, and publish/subscribe patterns
+Proficient with both relational and NoSQL databases, with experience designing distributed and cloud-native data solutions
+Familiar with cloud-based storage services, structured storage options, and secure secrets/configuration management
+Solid experience with Infrastructure-as-Code tooling (e.g., Terraform, Pulumi) for provisioning, automation, and maintaining consistent environments
+Experience with REST APIs, microservices, and distributed systems.
+Experience with CI/CD pipelines, Git, Agile boards
+You are experienced with agile development methodologies like Scrum and understand outcome-driven development.
+You are fluent in English.
+
+
+
+
+
+In return, here is what you can expect from us
+&amp;nbsp;
+
+At Comparis, we believe that empowered employees deliver the best results. We cultivate a culture of transparency, mutual respect and trust. Firm believers in lifelong learning, we are always trying out new things and continuously developing – both as individuals and as a team. We also offer flat hierarchies, considerable autonomy and creative freedom, as well as a skilled and motivated team that will advise and support you in your work and make it easy for you to push your own boundaries. Finally, we offer flexible working hours to work from wherever you are and live.
+&amp;nbsp;
+
+
+
+Have we triggered your interest?
+
+
+Then don't hesitate and apply for our position today. If you have any questions, Daphne, our People Management Lead, will be happy to help. We look forward to receiving your application!&amp;nbsp;Note: This position offers the flexibility to work fully remotely. If you opt for a remote set-up, we kindly ask that you consider applying only if your time zone is within a maximum difference of +/- 2 hours from Switzerland (GMT +2). &amp;nbsp;
+
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote</description><pubDate>Tue, 25 Nov 2025 15:18:39 +0000</pubDate></item><item><title>Sticker Mule: Software engineer</title><link>https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1</link><description>Headquarters: New York, NY
+    URL: https://www.stickermule.com
+
+
+About Sticker Mule
+Sticker Mule, the Internet's favorite custom printer, is building the Internet's best commerce platform. We are privately-owned, which means no meddlesome investors, with 9-figures in annual revenue and great profitability. Our commerce platform (Stores)&amp;nbsp;helped people earn $200k while in beta and now we are hiring to accelerate development.
+&amp;nbsp;
+We offer
+
+
+Remote work with flexible schedules
+
+
+A privately owned, low-stress culture
+
+
+A fun "no bullshit" work environment
+
+
+Great compensation with rising wages.
+&amp;nbsp;
+
+
+Compensation and benefits
+
+
+Salary: $145K&amp;nbsp;
+
+
+$20,000 signing bonus
+
+
+4 weeks vacation + holidays based on your country of residence
+&amp;nbsp;
+
+
+We like you to know
+
+
+Go
+
+
+TypeScript
+
+React Native (Expo)&amp;nbsp;
+
+GraphQL
+
+
+Postgres
+
+
+Redis
+
+
+Docker
+
+
+Kubernetes
+
+
+Google Cloud Platform
+
+
+Excellent communication skills (English)
+
+
+Degree in Computer Science or equivalent practical experience
+&amp;nbsp;
+
+
+What you will work on
+You'll help us develop our new&amp;nbsp;Stores&amp;nbsp;platform that already helped sellers earn nearly $200,000 while in beta. Stores is supported by a suite of tools that help anyone succeed online including&amp;nbsp;Give&amp;nbsp;(our giveaway platform),&amp;nbsp;Ship&amp;nbsp;(our shipping platform, Notify (our forthcoming email/sms marketing platform), and more coming soon.
+&amp;nbsp;
+We have an incredible roadmap and need your help to execute it quickly.
+
+To apply: https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1</description><pubDate>Mon, 28 Jul 2025 09:11:53 +0000</pubDate></item><item><title>Remote Leverage: Senior Full Stack MERN Developer</title><link>https://weworkremotely.com/remote-jobs/remote-leverage-senior-full-stack-mern-developer</link><description>Headquarters: San Jose, CA
     URL: https://remoteleverage.com
 
 
@@ -1357,167 +1496,4 @@ You take ownership. When you hit a wall, your instinct is to debug, research, or
 Note: Contra communicates with applicants through @contra.com domains only. We never ask for money from potential employees. For the latest job postings, visit Contra Careers.
 &amp;nbsp;
 
-To apply: https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql</description><pubDate>Wed, 10 Dec 2025 17:55:32 +0000</pubDate></item><item><title>Sonas: Fullstack Engineer</title><link>https://weworkremotely.com/remote-jobs/sonas-fullstack-engineer</link><description>Headquarters: Ireland
-    URL: https://www.sonas.events
-
-
-Who are we?
-Sonas is an all-in-one solution for wedding venue owners, designed to support marketing, sales, and events teams so they can consistently deliver perfect weddings. As we continue to grow, we're looking to expand our team to elevate our offerings and improve the user experience.
-Who are we looking for?
-We're seeking a passionate Full Stack Developer who enjoys solving problems and delivering solutions for users. Ideally, you'll have a solid background with a few years of experience, but if you're still growing your skill set and eager to learn, we'd love to hear from you.
-This is a full-time role. You can work remotely within EU time zones or hybrid from our Madrid office.
-You'll work with the latest technologies, troubleshoot client issues, develop new features, and occasionally dive into DevOps when needed. We're a small, tight-knit team, so everyone shares onboarding and support responsibilities, keeping us connected to our users.
-Must-Have Skills:
-
-
-At least 2 years of work experience with NodeJS (4 years preferred).
-
-
-Proficiency in MongoDB query writing and index creation, with at least 1 year of experience (2 years preferred).
-
-
-2 years of experience with TypeScript (4 years preferred).
-
-
-Solid grasp of JavaScript (2+ years) including documentation and test writing (4 years preferred). Bonus points if you know Playwright or Jest.
-
-
-Experience with HTML, CSS, and frameworks like Bootstrap.
-
-
-Ability to use git to create flow, not chaos.
-
-
-Nice-to-Have Skills:
-
-
-Familiarity with MeteorJS.
-
-
-Comfortable with AWS services like EC2, Lambda, SNS, and S3.
-
-
-Experience integrating with payment processors like Stripe.
-
-
-Basic knowledge of accounting software like Xero or QuickBooks.
-
-
-Experience building APIs and integrating with automation platforms like Zapier or Make.
-
-
-Exposure to React, Vue, or Svelte (we currently use Blaze, but we plan to migrate).
-
-
-And what about English?
-English is our team's working language, so you'll need to be comfortable communicating in English day-to-day. We're not looking for perfection! If you're proficient and willing to improve, that works for us.
-What's in it for you?
-We offer a flexible work environment, where you will contribute on how features are designed and built, plus the freedom to shape your role as the company evolves.
-
-
-Compensation: €35-45K gross annual (if full-time in Spain). Higher rates available for independent contractor/autónomo arrangements.
-
-
-Higher salaries are reserved for candidates with 4+ years of full-stack experience.
-
-
-Less-experienced candidates will start closer to the lower end, with opportunities for growth as they develop.
-
-
-&amp;nbsp;
-How to apply?
-We know you're busy and probably applying to many jobs, so thanks for reading this far! To apply, simply use the Polymer link above. We look forward to hearing from you! 
-&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/sonas-fullstack-engineer</description><pubDate>Tue, 09 Dec 2025 17:32:09 +0000</pubDate></item><item><title>Preql: Engineering Manager / Lead Engineer</title><link>https://weworkremotely.com/remote-jobs/preql-engineering-manager-lead-engineer</link><description>Headquarters: New York, NY
-    URL: https://preql.ai
-
-
-About the Role
-We’re looking for an Engineering Manager to lead our core product engineering team. You'll manage a small team of full-stack engineers while staying hands-on with the codebase—roughly an even split between leadership and individual contribution. This role reports directly to both our CTO and CEO.
-Your work will focus on data engineering workloads, both AI-powered and human-powered, and the analytics and reporting platform. As we’re building an agentic data system, we expect you to bring experience shipping production systems with modern AI codegen tools (Claude Code, Codex CLI, or similar). Team growth is on the horizon—you may be building out additional headcount within 6 months.
-What You’ll Do
-Leadership
-
-
-Manage, mentor, and grow&amp;nbsp;a team of 3-6 software engineers (mostly full-stack)
-
-
-Own&amp;nbsp;team delivery, velocity, and technical quality
-
-
-Partner&amp;nbsp;with CTO and CEO on roadmap, prioritization, and resourcing
-
-
-Build hiring pipelines&amp;nbsp;as the team scales
-
-
-Ensuring&amp;nbsp;systems of record&amp;nbsp;(project tracking, code quality) continuously up-to-date
-
-
-Technical
-
-
-Write and review production&amp;nbsp;(currently TypeScript and Python, depending on product area), using&amp;nbsp;spec- and test-driven development&amp;nbsp;practices
-
-
-Architect&amp;nbsp;data engineering pipelines that ingest, clean, and transform customer data
-
-
-Integrate AI codegen tools&amp;nbsp;into team workflows and production systems
-
-
-Contribute to our&amp;nbsp;agentic data cleaning and data layering features&amp;nbsp;as they evolve
-
-
-Requirements
-
-
-7+ years of software engineering experience, including hands-on data engineering
-
-
-Prior experience managing engineers (team lead, EM, or equivalent)
-
-
-Strong product awareness and demonstrated work around customer-centricity
-
-
-Production experience with public-cloud data services (AWS, Snowflake) or equivalent
-
-
-Hands-on experience using CLI-forward AI codegen agents (Claude Code, Codex CLI, Aider, or similar) in production workflows
-
-
-Strong opinions on how to integrate AI tooling into engineering team practices
-
-
-Availability during US Eastern working hours
-
-
-Nice to Have
-
-
-Experience building analytics or BI platforms
-
-
-0→1 Experience: Evidence of manifesting ideas into product
-
-
-Background in agentic AI systems or LLM-powered automation
-
-
-Familiarity with data quality, transformation, or semantic layer tools
-
-
-Startup experience (Series A–B stage)
-
-
-Compliance Background: SOC 2, audit trail requirements, or regulatory data handling
-
-
-What Makes This Role Special
-You’ll be leading a team that supports how AI transforms enterprise data workflows. This includes expanding our existing tools and solutions, as well as creating entirely new interaction patterns between humans and data systems.
-Impact: Your code will directly determine whether finance teams can trust AI with their most critical data
-Innovation: Work at the cutting edge of agentic AI applied to real business problems
-
-To apply: https://weworkremotely.com/remote-jobs/preql-engineering-manager-lead-engineer</description><pubDate>Tue, 09 Dec 2025 14:32:18 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql</description><pubDate>Wed, 10 Dec 2025 17:55:32 +0000</pubDate></item></channel></rss>
