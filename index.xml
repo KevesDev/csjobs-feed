@@ -1,5 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>PostHog: Product Engineer - Data Modeling</title><link>https://weworkremotely.com/remote-jobs/posthog-product-engineer-data-modeling</link><description>Headquarters: San Francisco
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Growth Factory Ventures: Applied AI Engineer</title><link>https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer</link><description>Headquarters: California
+    URL: http://growthfactory.vc
+
+
+We’re looking for a&amp;nbsp;Applied AI Engineer&amp;nbsp;with strong technical skills, product instincts, and the ability to dive into complex system design. You’ll be hands-on with multiple early-stage projects across our venture studio, helping us validate opportunities and bring AI-driven products to life.
+What you’ll do
+
+
+Build core modules:&amp;nbsp;Develop and maintain AI-powered features and systems across our in-house venture projects.
+
+
+Optimize AI systems:&amp;nbsp;Improve performance through prompt engineering, retrieval-augmented generation (RAG), tool design, and scalable agent architectures.
+
+
+Prototype rapidly:&amp;nbsp;Validate new product ideas by shipping quick, testable prototypes that inform venture direction.
+
+
+Engineer evaluation pipelines:&amp;nbsp;Design automated evaluation systems to measure and improve model and product reliability.
+
+
+Work full-stack:&amp;nbsp;Contribute across the stack — from front-end evaluation dashboards and user-facing tools to backend systems (databases, caching, microservices).
+
+
+Operate in hyperdrive:&amp;nbsp;Switch contexts across multiple ventures, iterating quickly and collaborating with cross-functional founders and teams.
+
+
+What we’re looking for
+
+
+Strong programming fundamentals and a bias for clean, high-quality code.
+
+
+Proficiency in Python and familiarity with AI/ML frameworks (e.g. LangChain, Hugging Face, PyTorch, TensorFlow, OpenAI APIs).
+
+
+Solid backend knowledge: databases, caching, message queues, microservices.
+
+
+Comfort with frontend prototyping for internal tools, dashboards, or MVPs.
+
+
+Proven ability to work on zero-to-one products, ideally at startups or studios.
+
+
+Strong written and verbal communication; our team is fully remote.
+
+
+Experience with evaluation pipelines, vector databases, or applied ML in production.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer</description><pubDate>Thu, 27 Nov 2025 15:51:27 +0000</pubDate></item><item><title>PostHog: Product Engineer - Data Modeling</title><link>https://weworkremotely.com/remote-jobs/posthog-product-engineer-data-modeling</link><description>Headquarters: San Francisco
     URL: https://posthog.com/
 
 
@@ -1375,60 +1426,4 @@ Communicator: You can clearly articulate solutions, risks, and decisions to team
 
 
 
-To apply: https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-symfony-developer</description><pubDate>Thu, 11 Dec 2025 19:01:56 +0000</pubDate></item><item><title>Breezy HR : Senior Cloud Platform Engineer (AWS)</title><link>https://weworkremotely.com/remote-jobs/breezy-hr-senior-cloud-platform-engineer-aws</link><description>Headquarters: Jacksonville, FL 
-    URL: https://breezy.hr/
-
-
-Location:&amp;nbsp;Remote (US)Team:&amp;nbsp;Engineering • Platform/Infrastructure
-About Breezy HR
-Breezy HR is a remote-first, hiring platform built for small and mid-sized businesses. Thousands of teams trust us to streamline recruiting from first touch to signed offer, and we’re passionate about delivering a fast, delightful experience for every candidate and every hiring manager.
-Why we’re hiring
-We need a senior hands-on owner to stabilize, secure, and evolve our cloud platform. You’ll be a primary decision-maker for AWS architecture, reliability, CI/CD, observability, and cost posture, partnering closely with the directors, developers, product, and customer success teams.
-What you’ll own (hands-on + strategic)
-
-AWS architecture &amp;amp; operations:&amp;nbsp;Own production infrastructure end-to-end (networking, compute, storage, IAM, routing, scaling, backups, DR).
-IaC &amp;amp; environments:&amp;nbsp;Standardize and evolve Infrastructure-as-Code (Terraform or AWS CDK); codify dev/stage/prod with repeatable patterns and least-privilege IAM.
-CI/CD:&amp;nbsp;Keep deployments fast and safe (build, test, deploy, rollback); drive progressive delivery where it makes sense.
-Observability &amp;amp; incident response:&amp;nbsp;Ensure logs/metrics/traces + actionable dashboards; lead incident command and postmortems.
-Security &amp;amp; compliance:&amp;nbsp;Own cloud security baselines and support SOC 2 / ISO 27001 / GDPR needs.
-Cost &amp;amp; performance:&amp;nbsp;Right-size infra, track spend, and implement guardrails to prevent regressions.
-Technical leadership:&amp;nbsp;Document the platform, unblock developers, mentor peers, and cultivate cross-training so nothing is a single point of failure.
-On-call:&amp;nbsp;Alternate with others on the infra on-call rotation and train others as needed.
-
-Our stack
-
-Backend:&amp;nbsp;Node.js microservices
-Data:&amp;nbsp;MongoDB (self-hosted) and Redis
-Hosting/Orchestration:&amp;nbsp;AWS
-IaC:&amp;nbsp;Terraform and/or AWS CDK
-Tooling:&amp;nbsp;Git-based CI/CD; common observability suites
-
-What you’ve done
-
-7+ years building and running production systems on&amp;nbsp;AWS&amp;nbsp;(VPC, EC2, ELB/ALB, S3, CloudFront, Route53, RDS/ElastiCache, IAM, CloudWatch, SNS/SQS, etc.).
-5+ years&amp;nbsp;Infrastructure-as-Code&amp;nbsp;(Terraform, CDK) and environment automation.
-Proven&amp;nbsp;CI/CD&amp;nbsp;ownership for multi-service SaaS, including safe rollbacks and release hygiene.
-Solid&amp;nbsp;security&amp;nbsp;fundamentals (least-privilege IAM, network segmentation, secrets, TLS) and familiarity with SOC 2 / ISO 27001 / GDPR expectations.
-Observability&amp;nbsp;end-to-end (logs/metrics/traces), incident leadership, and postmortem practice.
-Proficient coding in&amp;nbsp;JavaScript/Node.js&amp;nbsp;(enough to contribute to internal tools, CLIs, or platform services).
-Clear, pragmatic communicator who documents decisions and trade-offs.
-
-Nice-to-haves
-
-Background with MongoDB, Redis, Elasticsearch
-Prior team leadership
-
-How we work
-
-Senior, low-ego, remote-first team. We value fast feedback loops, little yellow/red tape, ability to iterate at startup-like pace
-
-Benefits
-
-Comprehensive medical, dental, and vision insurance
-401(k) with company match
-PTO:&amp;nbsp;15 days&amp;nbsp;in year 1,&amp;nbsp;21 days&amp;nbsp;in year 2
-MacBook Pro + the gear you need
-Fully remote
-
-
-To apply: https://weworkremotely.com/remote-jobs/breezy-hr-senior-cloud-platform-engineer-aws</description><pubDate>Thu, 11 Dec 2025 02:38:57 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-symfony-developer</description><pubDate>Thu, 11 Dec 2025 19:01:56 +0000</pubDate></item></channel></rss>
