@@ -1,5 +1,103 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80–100% (f/m/x), fully remote</title><link>https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote</link><description>Headquarters: Zuerich
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>PostHog: Product Engineer - Data Modeling</title><link>https://weworkremotely.com/remote-jobs/posthog-product-engineer-data-modeling</link><description>Headquarters: San Francisco
+    URL: https://posthog.com/
+
+
+About PostHog
+We&amp;nbsp;equip every developer to build successful products.
+We started with open-source product analytics,&amp;nbsp;launched out of Y Combinator's W20 cohort.
+We've since shipped&amp;nbsp;more than a dozen products, including&amp;nbsp;a built-in data warehouse,&amp;nbsp;a customer data platform, and&amp;nbsp;Max AI, an AI-powered analyst that answers product questions, helps users find useful session recordings, and writes custom SQL queries.
+Next on the roadmap are messaging, customer analytics, ai task creation and coding based on customer data, logs and support analytics.
+Our&amp;nbsp;values&amp;nbsp;are not a poster on the wall full of aspiration. They’ve come from how we really work, day in day out.
+PostHog is&amp;nbsp;open source&amp;nbsp;product led, and a&amp;nbsp;default alive&amp;nbsp;company that is well funded.
+What you'll be doing
+As a Product Engineer - Data Modeling s on the Data Stack team, you’ll build end user tools for understanding and traversing their data models.
+You’ll work on materializing user defined queries, and schedule &amp;amp; resolve DAGs of query materialization.
+You’ll debug stateful data workflows by digging into k8s pod metrics, and schedule jobs using&amp;nbsp;Temporal.io. As you can see, there’s a huge breadth of challenges and opportunities to tackle, and nothing is off-limits.
+The PostHog Data Stack is both a core product for our users and a foundational platform for our internal teams. Data is a first-class product at PostHog, not an afterthought.
+You will have the chance to push the boundaries of what our Data Stack team can do while ensuring we remain stable and production-ready.
+You now know what you’ll be doing, but what about what you’ll need to bring along?
+You’ll fit right in if:
+
+You’re a builder.&amp;nbsp;You bring strong skills in building resilient systems, with experience in Kubernetes, Docker, and S3 at scale. We build in python. Async-python and&amp;nbsp;Temporal.io&amp;nbsp;skills are welcome.
+You have good practices around building resilient systems.&amp;nbsp;Logging, testing and monitoring (observability), but you are also comfortable with debugging stateful, async data workflows by digging into k8s pod metrics.
+You are proficient in building UIs for data intensive tools.&amp;nbsp;React is part of your toolset.
+You bring experience with DAG’s and Batch processing.&amp;nbsp;Having used Dbt is a plus.
+You bring a mix of skills.&amp;nbsp;It’s not just about the query engine. You’ll need strong backend skills as we run a complex system.
+You love getting things done.&amp;nbsp;Engineers at PostHog have an incredible amount of autonomy to decide what to work on, so you’ll need to be proactive and just&amp;nbsp;git&amp;nbsp;it done.
+You’re ready to do the best work of your career.&amp;nbsp;We have incredible distribution, a big financial cushion and an amazing team. There’s probably no better place to see how far you can go.
+
+If this sounds like you, we should talk.
+We are committed to ensuring a fair and accessible interview process. If you need any accommodations or adjustments, please let us know.
+
+To apply: https://weworkremotely.com/remote-jobs/posthog-product-engineer-data-modeling</description><pubDate>Wed, 26 Nov 2025 00:14:40 +0000</pubDate></item><item><title>PostHog: AI Product Engineer</title><link>https://weworkremotely.com/remote-jobs/posthog-ai-product-engineer</link><description>Headquarters: San Francisco
+    URL: https://posthog.com/
+
+
+About PostHog
+We're shipping every product that companies need to run their business from their first day, to the day they IPO, and beyond. The operating system for folks who build software.
+We started with open-source product analytics,&amp;nbsp;launched out of Y Combinator's W20 cohort. We've since shipped more than a dozen products&amp;nbsp;including:
+
+A built-in data warehouse, so users can query product and customer data together using custom SQL insights.
+A customer data platform, so they can send their data wherever they need with ease.
+PostHog AI, an AI-powered analyst that answers product questions, helps users find useful session recordings, and writes custom SQL queries.
+
+Next on the roadmap are CRM, messaging, revenue analytics, and support products. When we say every product that companies need to run their business, we really mean it!
+We are:
+1. Product-led. More than 100,000 companies have installed PostHog, mostly driven by word-of-mouth. We have intensely strong product-market fit.2. Default alive. Revenue is growing 10% MoM on average, and we're very efficient. We raise money to push ambition and grow faster, not to keep the lights on.3. Well-funded. We've raised more than $100m from some of the world's top investors. We're set up for a long, ambitious journey.
+We're focused on building an awesome product for end users, hiring exceptional teammates, shipping fast, and&amp;nbsp;being as weird as possible.
+Things we care about
+
+Transparency: Everyone can read about our roadmap, how we pay (or even let go of) people, our strategy, and how we work, in our public company handbook. Internally, we share revenue, notes and slides from board meetings, and fundraising plans, so everyone has the context they need to make good decisions.
+Autonomy: We don’t tell anyone what to do. Everyone chooses what to work on next based on what's going to have the biggest impact on our customers, and what they find interesting and motivating to work on. Engineers lead product teams and make product decisions. Teams are flexible and easy to change when needed.
+Shipping fast: Why not now? We want to build a lot of products; we can't do that shipping at a normal pace. We've built the company around small teams – autonomous, highly-efficient groups of cracked engineers who can outship much larger companies because they own their products end-to-end.
+Time for building: Nothing gets shipped in a meeting. We're a natively remote company. We default to async communication – PRs &amp;gt; Issues &amp;gt; Slack. Tuesdays and Thursdays are&amp;nbsp;meeting-free days, and we prioritize heads down building time over perfect coordination. This will be the most productive job you've ever had.
+Ambition: We want to solve big problems. We strongly believe that aiming for the best possible upside, and sometimes missing, is better than never trying. We're optimistic about what's possible and our ability to get there.
+Being weird: Weird means redesigning an already world-class website for the 5th time. It means shipping literally every product that relates to customer data. It means building an objectively unnecessary developer toy with dubious shareholder value. Doing weird stuff is a competitive advantage. And it's fun.
+
+Who we're looking for
+We’re looking for a full-stack engineer who knows how to leverage LLMs to make PostHog 10x more powerful. You’ve built and shipped agentic AI applications before and understand it’s more than just hitting an API with a good prompt.
+You’ll fit right in if you:
+
+Ship end-to-end AI apps — from backend infra to frontend UX.
+Collaborate widely — work across teams, find the right people, and make progress fast.
+Think like a product builder — care about users and outcomes, not just code.
+
+If you’ve worked in autonomous agents, workflow automation, or AI copilots before, you’ll feel at home — but here you’ll get to build it from scratch, in the open, with massive impact.
+What makes this role unique
+In this role, you’re not hacking together an AI agent hoping someone will use it — you’re building on top of a firehose of real customer data with immediate impact, whether that means creating new AI-powered tools or building observability features that help others understand how their agents perform in the wild.
+
+Impact from day one: You’re building agents on top of real customer data — not toy demos, not “when we get users.”
+Data advantage: PostHog already collects all the context agents need to be useful: analytics, sessions, events, feature flags, and more. You’ll build on top of it all.
+Agents that matter: Instead of copilots on the side, you’ll create background agents embedded into engineering workflows - changing how software gets built. Or, you might focus on building the analytics and observability layer around those agents - surfacing insights, clustering behaviors, and measuring model quality so teams can improve their own AI systems with confidence.
+Build in the open: Work with feedback from the largest open-source product engineering communities in the world.
+
+What you'll be doing
+
+Owning products and features from beginning to end. This means originating ideas based on your intuition, talking to users, and understanding our strategy and goals. It means testing MVPs in production with real users. It means&amp;nbsp;iterating on their feedback, owning pricing, and ensuring the ongoing success of your work.
+Collaborating with design (when necessary). Product engineers at PostHog are full-stack, so we expect you to ship and own the basic UX of your work using&amp;nbsp;our design system. From there, it's up to you to decide when to collaborate with our design team to iterate and polish the experience.
+Implementing AI features. LLMs, eh? They're getting&amp;nbsp;prettaaay, prettaay good. All our products integrate with PostHog AI, so you'll likely be working with the PostHog AI team to implement AI features in your products. For some teams, that means designing observability and evaluation features for AI products.
+Talking to users. Good product engineers read feedback from users and iterate quickly. Great product engineers have users they're friendly with, talk with them frequently, bounce ideas off them, and iterate with them when they ship new things.
+Doing support. Every week, one person in each engineering team is designated the Support hero. Their job is to investigate and resolve issues reported by customers for their product. Giving users support from real engineers and shipping fixes and improvements in real-time is one of the best ways to spark joy in users. This role will also include some on-call time, too.
+Writing docs. We have a content team that will collaborate with you on reviewing, polishing, and improving your documentation, but the best person to document a new feature is the person who built it.
+
+Requirements
+
+Full-stack experience with relevant technologies – e.g. Python or similar, React or similar, something to do with big data is a bonus.
+Prior experience in AI workflow automation, copilots, or autonomous agent products.
+Ability to choose pragmatic architectures, ship quickly, and iterate based on real feedback.
+Strong sense for UX and product polish.
+Excellent communicator who thrives on collaboration across teams.
+
+Nice to have
+
+Have worked at a high-growth SaaS company before.
+Extensive knowledge of Django and/or TypeScript-based React.
+Experience building AI-native products or integrating AI into existing software.
+
+If you have a disability, please let us know if there's any way we can make the interview process better for you - we're happy to accommodate!
+
+To apply: https://weworkremotely.com/remote-jobs/posthog-ai-product-engineer</description><pubDate>Wed, 26 Nov 2025 00:02:22 +0000</pubDate></item><item><title>comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80–100% (f/m/x), fully remote</title><link>https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote</link><description>Headquarters: Zuerich
     URL: https://en.comparis.ch/
 
 
@@ -1333,167 +1431,4 @@ MacBook Pro + the gear you need
 Fully remote
 
 
-To apply: https://weworkremotely.com/remote-jobs/breezy-hr-senior-cloud-platform-engineer-aws</description><pubDate>Thu, 11 Dec 2025 02:38:57 +0000</pubDate></item><item><title>Nova: Full Stack Developer</title><link>https://weworkremotely.com/remote-jobs/nova-full-stack-developer</link><description>Headquarters: Toronto, Canada
-    URL: https://www.createwithnova.com/
-
-
-We are looking for a Full Stack Developer to join our Engineering team, reporting to the EVP Product &amp;amp; Engineering.
-The role is focused on web development &amp;amp; related infrastructure automation. We are looking for a developer who is comfortable and confident writing Python, SQL, and JavaScript on a daily basis. Competitive salary based on your experience and ability to contribute.
-You should be familiar with a healthy subset of the following:
-
-
-Languages:
-
-
-Python
-
-
-JavaScript
-
-
-TypeScript
-
-
-HTML
-
-
-CSS
-
-
-
-
-Frameworks/libraries:
-
-
-Django
-
-
-React
-
-
-Tailwind
-
-
-FastAPI
-
-
-FastHTML
-
-
-jQuery
-
-
-Puppeteer
-
-
-Jest
-
-
-Node
-
-
-
-
-Databases:
-
-
-MySQL
-
-
-Mongo
-
-
-Redis
-
-
-Clickhouse
-
-
-
-
-Infrastructure:
-
-
-Google Cloud Platform (GCP)
-
-
-Kubernetes
-
-
-Docker
-
-
-Terraform
-
-
-Linux
-
-
-
-
-We’re a 100% remote team: we keep in touch with each other via Slack and Zoom. You must have access to your own workspace with a reliable broadband internet connection (annual stipend for office expenses will be provided). From time-to-time, we hold “on-sites” in person to give everyone some face time with their colleagues (will involve very occasional travel).
-Preference will be given to applicants located in Canada.
-
-To apply: https://weworkremotely.com/remote-jobs/nova-full-stack-developer</description><pubDate>Mon, 10 Nov 2025 18:45:46 +0000</pubDate></item><item><title>Contra: Senior Software Engineer (React, Node.js, GraphQL, PostgreSQL)</title><link>https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql</link><description>Headquarters: San Francisco, CA
-    URL: http://bit.ly/3kLhMdk
-
-
-Who we are and what we do
-Contra is building the world’s first professional network for independent creatives and the companies that hire them. We are commission-free, global, and focused on enabling the future of flexible work.
-We've raised over $51M from leading investors like NEA, Unusual Ventures, and Cowboy Ventures—and we're just getting started.
-What you'll do:
-
-Architect and build end-to-end features in Node.js, React, TypeScript, GraphQL, &amp;amp; PostgreSQL
-Participate in all parts of cross-functional product development, from ideation sessions to design critiques to user interviews, and everything in-between.
-Collaborate with other engineers via RFCs, code reviews, pair programming, and any other way that keeps the team moving smoothly.
-Proactively maintain and improve code quality and reliability, improve developer experience, eliminate technical debt, improve site performance, etc.; you will be empowered to find and address gaps that make the whole product better.
-
-What you need:
-
-Experience building performant, scalable systems with Node.js, React, TypeScript, GraphQL, &amp;amp; PostgreSQL
-Excellence in independent problem-solving
-An eye for craft, polish, and attention-to-detail
-Obsession for responding quickly to user needs and delivering an excellent user experience
-Ability to thrive in fast-paced, remote environment with strong communication skills
-Ability to be energized by a highly-synchronous environment — we’re remote, but we’re not async.
-
-Our Engineering Team:
-
-We have a high bar for technical excellence at Contra, and that comes from one simple belief: a high density of capable and collaborative people creates maximum velocity, which is how we win. If you are looking for career-defining challenges and an environment that fosters personal growth and high agency ownership over your work, you will feel right at home at Contra.
-We care just as much about character — being positive, low-ego, and collaborative — as we do technical excellence. Your skillset is only half of the equation. We want teammates who elevate others, not just the codebase. We see Contra as a long-term journey, and we want to work and grow alongside other good, grounded folks who take pride in building great things together.
-Everyone on our team has an “untraditional background” in some way. We celebrate this! While years of experience and educational background can be interesting discussion topics, we care most about technical fit and personal character over the typical resumé.
-
-Our Stack:
-
-Backend: TypeScript, PostgreSQL, GraphQL, Node, Redis, Temporal
-Frontend: React, Relay, PandaCSS
-DevOps: Docker, GitHub, Google Cloud Platform, Kubernetes
-Testing: Playwright, Vitest
-Tools: Linear, Mergify, PostHog, Slack
-
-Total Comp:
-
-Salary: $180,000 - $210,000 CAD
-Health + dental benefits
-Home Office Budget
-We will provide you with a company laptop on your start date
-
-Interview Process
-
-Intro Call with Recruiting Team (15-20 minutes)
-Interview with CTO &amp;amp; Co-Founder (25 minutes)
-Technical Interview with Engineering Manager (60 minutes)
-Culture &amp;amp; Cross-Functional Interview (30 minutes)
-Interview with CEO &amp;amp; Co-Founder (30 minutes)
-
-Should You Interview?
-We don’t want to waste your time. Here’s a quick self-check to see if you’re likely to make it through the interview process — and enjoy being part of the team:
-
-Technical depth: Can you comfortably answer low-level questions about Node.js, React, and PostgreSQL? These are core competencies we don’t compromise on. If questions like “How do you interpret a flamegraph?” or “How do you read an EXPLAIN ANALYZE output?” leave you puzzled, this isn’t the right role.
-You thrive on steep learning curves. Our systems are large and complex — it can feel like a lot at first. People who are high-agency, proactive in communication, and have a strong sense of team play tend to thrive here. If you prefer highly structured environments or need constant direction, you probably won’t enjoy it.
-You take ownership. When you hit a wall, your instinct is to debug, research, or ask the right person — not wait for someone to tell you what to do. We value momentum, curiosity, and bias toward action.
-
-Note: Contra communicates with applicants through @contra.com domains only. We never ask for money from potential employees. For the latest job postings, visit Contra Careers.
-&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql</description><pubDate>Wed, 10 Dec 2025 17:55:32 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/breezy-hr-senior-cloud-platform-engineer-aws</description><pubDate>Thu, 11 Dec 2025 02:38:57 +0000</pubDate></item></channel></rss>
