@@ -1,5 +1,157 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Growth Factory Ventures: Applied AI Engineer</title><link>https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer</link><description>Headquarters: California
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) – SaaS Platform</title><link>https://weworkremotely.com/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform</link><description>Headquarters: Virginia, USA
+    URL: https://enrollio.ai
+
+
+Enrollio is a fast-growing SaaS platform serving children’s dance and performing arts studios. We are rebuilding and scaling our core systems and are hiring a Senior Full-Stack TypeScript Engineer who can own major parts of our NestJS + React monorepo.
+This is a long-term, full-time role. We’re looking for someone who thinks like a product engineer—not a task-taker. Someone who cares about reliability, clean architecture, debugging deep issues, and building scalable systems.
+
+What You’ll Work On
+
+
+Fix high-priority bugs across our parent portal, studio portal, and backend
+
+
+Own reliability of enrollment + payment flows (Stripe PaymentIntents + Elements)
+
+
+Build and improve NestJS REST APIs and module architecture
+
+
+Improve backend stability, error handling, and logging
+
+
+Refactor legacy features for performance and long-term maintainability
+
+
+Implement UI improvements across React, Vite, Zustand, TanStack Query
+
+
+Work inside a TypeScript monorepo (backend + studio portal + parent portal)
+
+
+Collaborate with support/ops when urgent issues arise
+
+
+Assist with our ongoing backend restructure and migration
+
+
+Be available during EST working hours (with flexibility for emergencies)
+
+
+
+Our Tech Stack
+Backend: NestJS, TypeScript, MongoDB Atlas, Redis (BullMQ), Stripe, GoHighLevel API, Mailgun, SendGrid, Brevo, Google Cloud (App Engine, Cloud Build), Jest, SentryFrontend: React 18, Vite, TypeScript, Zustand, TanStack Query, Tailwind, Radix UI, shadcn/ui, Framer MotionArchitecture: Monorepo, domain-driven, fully typed, reliability-focused
+
+Must-Have Experience
+
+
+5+ years full-stack engineering
+
+
+Strong TypeScript across backend + frontend
+
+
+Deep experience with NestJS and React
+
+
+Experience with Stripe PaymentIntents + subscription billing flows
+
+
+Production MongoDB experience
+
+
+Ability to debug complex issues across multiple layers
+
+
+Strong English communication
+
+
+Ownership mindset; reliable and proactive
+
+
+
+Bonus Experience (Not required but valuable)
+
+
+BullMQ or similar queue systems
+
+
+GoHighLevel API
+
+
+MongoDB performance tuning
+
+
+GCP deployments
+
+
+Sentry, logging, observability
+
+
+Stabilizing or refactoring large SaaS architectures
+
+
+Understanding race conditions, idempotency, concurrency issues
+
+
+
+What We Offer
+
+
+Long-term, stable role (40 hours/week)
+
+
+Direct work with the founder + ops team
+
+
+Remote, flexible schedule with PH overlap
+
+
+Competitive salary
+
+
+Opportunities to grow into Lead/Senior roles
+
+
+A chance to own major parts of a platform used by hundreds of businesses
+
+
+
+How to Apply
+Send us:
+
+
+A brief intro
+
+
+Resume or LinkedIn
+
+
+GitHub or code samples
+
+
+A short explanation of a difficult bug you fixed
+
+
+Experience with NestJS, React, and Stripe
+
+
+Expected monthly salary
+
+
+Availability to start
+
+
+Email: brad@enrollio.aiSubject: Senior Full-Stack Engineer – Enrollio
+
+To apply: https://weworkremotely.com/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform</description><pubDate>Mon, 01 Dec 2025 19:42:17 +0000</pubDate></item><item><title>KFC: Sr. Software Engineer II</title><link>https://weworkremotely.com/remote-jobs/kfc-sr-software-engineer-ii</link><description>Headquarters: Plano, TX, United States
+    URL: http://kfc.com
+
+
+DescriptionWe are seeking a talented and experienced Senior Full Stack Engineer to join our dynamic team at YUM Connect, LLC. In this role, you will play a crucial part in the Pizza Hut US Digital and Technology team, working on contract to support and enhance our mobile and web development efforts. Your expertise in React and React Native will be instrumental in creating exceptional customer-facing applications. Operating in a Kanban environment, you will collaborate closely with cross-functional teams to deliver meaningful product improvements that drive our business forward.Responsibilities Deliver full stack solutions for Pizza Hut US applications across web and mobile platforms. Design and implement scalable, maintainable, and well-tested features with a focus on quality. Partner with product and design teams to define and execute technical solutions that align with business goals. Lead code reviews, ensuring engineering best practices are upheld and maintained. Own and manage technical documentation, reducing technical debt and improving knowledge sharing. Quickly identify and resolve production issues, ensuring smooth operations and an excellent user experience. Explore and leverage GenAI tools to accelerate development processes and enhance productivity. Apply software development best practices, including coding standards, peer reviews, source control management, CI/CD processes, testing, and operational readiness. Collaborate effectively with a small, agile team of engineers, fostering a positive and inclusive work environment.Qualifications 7-10 years of professional software development experience, with a strong focus on full stack development. Proficiency in React and React Native is a must, with a proven track record of delivering high-quality applications. Familiarity with GoLang is preferred, as it will be an asset for certain projects and initiatives. Knowledge of AWS, GitLab Pipelines, and DevOps best practices is advantageous for efficient development and deployment. Comfort working in a fast-paced Kanban environment, able to adapt to changing priorities and deliver results. Excellent communication skills, with the ability to collaborate effectively with diverse teams and stakeholders. Solid understanding of software architecture and development fundamentals, ensuring robust and scalable solutions. Relevant Computer Science or IT-related qualifications or equivalent industry experience. A passion for technology, a desire to stay updated with industry trends, and a commitment to continuous learning. Authorization to work in the United States is required, and an immediate start is preferred.
+
+To apply: https://weworkremotely.com/remote-jobs/kfc-sr-software-engineer-ii</description><pubDate>Mon, 29 Dec 2025 19:01:59 +0000</pubDate></item><item><title>Growth Factory Ventures: Applied AI Engineer</title><link>https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer</link><description>Headquarters: California
     URL: http://growthfactory.vc
 
 
@@ -1337,93 +1489,4 @@ Experience with SSO, SCIM or RBAC.
 Any experience in a related industry, including assessments, HR tech, or education.
 
 
-To apply: https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</description><pubDate>Wed, 12 Nov 2025 08:56:02 +0000</pubDate></item><item><title>MyDataValue: Fully Remote - Founding Full-Stack Senior Engineer (UK ONLY)</title><link>https://weworkremotely.com/remote-jobs/mydatavalue-fully-remote-founding-full-stack-senior-engineer-uk-only</link><description>Headquarters: MyDataValue
-    URL: https://www.mydatavalue.com/
-
-
-
-
-£70k – £90k • 0.5% – 2.0% • Fully Remote
-
-Must be UK based
-
-We are an AI-driven Hospitality Tech platform helping vacation rental owners automate their revenue on Booking.com.Unlike most "early-stage" startups, we are already at £100k ARR, growing month-on-month and have investment from angels. We have a product customers love, a validated business model, and we are now preparing to expand to Airbnb and Expedia.We are a lean team of two founders looking for a Founding Engineer. You will be the technical lead, working directly with us to brainstorm ideas, architecture and ship code quickly.
-
-
-
-
-
-The Role
-
-This is a Backend-First role (70/30 split). You will spend most of your time in Python/Django, but you must be willing to jump into React/Tailwind to ship complete features‍We have interesting technical challenges involving high-volume data and browser automation (MCP/AI)Scale the Backend: Build and ship features using Python (Django) and Postgres.High-Volume Scraping: Manage enterprise-level scraping (1,000s of requests/second) and reverse-engineering of public data sources.Chrome Extension: Maintain and expand our extension that bridges our platform with customer accounts.Ship Fast: We use ChatGPT/Copilot heavily to speed up boilerplate code so we can focus on the complex logic.Frontend (Light): We use React/Tailwind. You don't need to be a frontend expert, but you should be willing to jump in and tweak UI when needed.
-
-
-
-The Logistics
-
-One founder is in Leeds, the other in London. We'd like to meet up occasionally to brainstorm &amp;amp;&amp;nbsp;speed up onboarding as well in person.Salary: £70k - £90k (depending on experience).Equity: Up to 2% options (4-year vesting). We are aiming for a £5-10m valuation in our next raise, join now to get in at the ground floor.Who You AreA Builder: You have startup experience (founder or early employee). You care about solving problems, not just writing code.Python Expert: You have deep experience with Python.Data Scraper: You understand the nuances of web scraping, proxies, and browser automation (Playwright).Pragmatic: You know when to build for scale and when to ship a "hacky" fix to unblock a customer.Autonomy: You want direct responsibility. You hate micromanagement and love taking a ticket from "idea" to "deployed."
-
-
-
-Interview process
-
-
-- 30 min non technical call with myself.- 1 hour technical pair programming challenge (not leetcode but real-life problems)- Meet up in person with both founders- Offer
-
-
-
-
-Why This Role?
-
-
-Real Revenue: We aren't just an MVP, we have customers who have been with us for months earning more revenue with 0% churn.High Equity: 2% is a good chunk for our stage, it should be worth a significant amount within a years time as we raise at higher valuations.Hard Problems: If you get bored building standard CRUD apps, our scraping, MCP &amp;amp; automation challenges will keep you engaged.
-
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/mydatavalue-fully-remote-founding-full-stack-senior-engineer-uk-only</description><pubDate>Thu, 11 Dec 2025 20:38:21 +0000</pubDate></item><item><title>BBE Marketing Inc: Senior Symfony Developer</title><link>https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-symfony-developer</link><description>Headquarters: Hurst, TX
-    URL: http://bbemarketing.com/
-
-
-
-We are seeking a skilled developer with strong experience in&amp;nbsp;Symfony (Angular front-end), and a&amp;nbsp;product-focused mindset. This role requires someone who not only codes but also understands the "why" behind tasks, ensuring features are designed and implemented to enhance the user experience.
-Our service connects businesses with talent from all of the world so that they can book, hire, and collaborate with them. If you’re a problem solver who enjoys taking ownership of your work and collaborating with a dedicated team, this role is for you.
-Key Responsibilities
-
-Develop new features and improve existing functionality in Symfony applications.
-Fix bugs and implement updates swiftly while maintaining high-quality standards.
-Collaborate with team members to understand the purpose behind each task and the end user’s needs.
-Implement features and layouts that are intuitive and user-friendly without requiring design skills.
-Perform thorough testing of your work – there’s no dedicated QA team, so attention to detail is critical.
-Make architectural decisions to improve scalability and performance.
-Maintain quality checks, metrics, and monitoring (e.g., automated testing, error reporting, and performance monitoring tools).
-
-Why You'll Love This Role
-
-Direct Collaboration:&amp;nbsp;Work closely with team members, from the CEO to Customer Support, in a flat, no-bureaucracy environment.
-Product Ownership:&amp;nbsp;Think beyond coding by understanding the user’s perspective and optimizing feature placement and usability.
-Fast-Paced Environment:&amp;nbsp;If you enjoy shipping features quickly and iterating without unnecessary perfectionism, this role is perfect for you.
-Problem-Solving:&amp;nbsp;We value team members who take initiative and craft solutions that strike the right balance between simplicity and effectiveness.
-Trust:&amp;nbsp;You’ll have the autonomy to manage your tasks and the company’s confidence to handle sensitive information responsibly.
-
-Requirements
-
-Symfony Expertise:&amp;nbsp;Proven experience building and maintaining applications in Symfony.
-Product Mindset:&amp;nbsp;Ability to think like a product manager by considering the user’s needs and ensuring features are practical, intuitive, and well-placed.
-Front-End Implementation:&amp;nbsp;Proficiency in HTML, CSS, and Angular (or similar frameworks) to build user-friendly layouts. Design skills are&amp;nbsp;not required, but understanding user flows and logical placement is essential.
-Database Knowledge:&amp;nbsp;Strong understanding of MySQL (or other RDBMS).
-Testing Skills:&amp;nbsp;Ability to write tests in PHP (e.g., PHPUnit) and front-end testing (e.g., Jasmine). Bonus for experience with CI pipelines.
-Version Control:&amp;nbsp;Comfortable working with Git for version control and collaboration.
-
-Who We’re Looking For
-
-Product-Focused Mindset:&amp;nbsp;You understand the purpose behind each task and ensure designs and implementations align with user needs.
-Strong work ethic and dedication:&amp;nbsp;Willing to put in the extra time and effort needed to complete tasks, including working weekends or additional hours when required, with a focus on flexibility and commitment to delivering results.
-Self-Starter:&amp;nbsp;You’re proactive, take ownership, and don’t require micro-management.
-Team Player:&amp;nbsp;You enjoy collaborating with others and contributing ideas to improve the product.
-Communicator: You can clearly articulate solutions, risks, and decisions to team members.
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-symfony-developer</description><pubDate>Thu, 11 Dec 2025 19:01:56 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</description><pubDate>Wed, 12 Nov 2025 08:56:02 +0000</pubDate></item></channel></rss>
