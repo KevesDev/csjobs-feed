@@ -1,5 +1,233 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Jiga: Full Stack Product Engineer</title><link>https://weworkremotely.com/remote-jobs/jiga-full-stack-product-engineer</link><description>Headquarters: Anywhere
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Perry Homes: Website Developer</title><link>https://weworkremotely.com/remote-jobs/perry-homes-website-developer</link><description>Headquarters: Houston, Texas, United States
+    URL: http://perryhomes.com
+
+
+Description&amp;nbsp;A Website Developer will be a key contributor to the architecture, design, and development of scalable, cloud-native applications that drive our digital initiatives. Expertise in integrating front-end and back-end technologies, coupled with deep knowledge of Microsoft tools and frameworks, will be essential in delivering robust, modern web solutions. In this role, a Website Developer will collaborate closely with cross-functional teams, leveraging tools like Contentstack, Cloudinary, Netlify, Algolia, and React.js to create seamless user experiences and innovative digital products. The commitment to best practices and continuous learning will ensure the development of impactful, high-quality applications that support our evolving business needs and enhance user engagement.Essential Duties and Responsibilities Partner with cross-functional teams, including design, data, and development, to create responsive, dynamic web experiences by integrating industry-leading tools like Contentstack, Cloudinary, Netlify, and Algolia, ensuring seamless and engaging user interfaces.Lead the design and development of secure, RESTful APIs, enabling seamless integration with external services and internal systems, while maintaining a cohesive architecture across all applications.Collaborate with stakeholders to architect and build modern, scalable applications using .NET Core, C#, and Microsoft Azure, optimizing for performance, security, scalability, and compliance to deliver resilient and high-performing systems.Implement industry best practices for application optimization, ensuring reliability and scalability while integrating emerging technologies to maintain competitive, future-proof applications.Stay ahead of the curve by continuously learning and incorporating new technologies to drive innovation and keep applications at the forefront of the industry.Other duties as assigned.Job Competencies Customer/Client FocusCommunication/Building RelationshipsTime ManagementFlexibilityBusiness Acumen&amp;nbsp;RequirementsHigh School Diploma or equivalent required; Associate’s Degree in IT or a related field preferred.5+ years of experience building interactive, responsive user interfaces with React.js, along with strong proficiency in JavaScript, HTML, and CSS.5+ years of hands-on experience working with Microsoft Azure (Azure PaaS, Functions, AKS, Cosmos DB), as well as tools like Contentstack, Cloudinary, Netlify, and Algolia for cloud and integration solutions.5+ years of experience in .NET Core, ASP.NET, C#, Next.js, Angular, and SQL Server, with a focus on cloud-native, modular development practices.Expertise in designing and implementing secure and scalable RESTful APIs.Proven ability to design distributed, loosely coupled architectures and manage CI/CD pipelines within DevOps environments.Experience working in Agile/SCRUM environments and using Azure DevOps for project management and deployment.Strong communication skills, with the ability to explain complex technical solutions to stakeholders and mentor team members on best practices.Demonstrated computer skills including a working knowledge of MS Office products, including Outlook, Excel, Word, and PowerPoint.BenefitsHealth &amp;amp; Wellness Medical, Dental &amp;amp; Vision Coverage Employee Assistance Program (EAP) Fitness Reimbursement Financial Planning 401(k) with Company Match Company-Paid Life &amp;amp; Disability Insurance Supplemental Coverage Options Time Off &amp;amp; Life Balance PTO &amp;amp; Paid Holidays Leave of Absence Programs Family &amp;amp; Lifestyle Perry Homes Family College Fund New Home &amp;amp; Employee Discounts Pet Perks, Travel Assistance, &amp;amp; More ***Note to job seekers: Your resume will be reviewed as the best qualified candidates will be contacted in the event that there is potential match***&amp;nbsp;&amp;nbsp;Perry Homes is an Equal Opportunity Employer&amp;nbsp;&amp;nbsp;&amp;nbsp;Disclaimer:&amp;nbsp;Recruitment Fraud&amp;nbsp;– Any communication regarding job opportunities from our organization will be initiated through official channels only, including our company email domain, @perryhomes.com and verified social media accounts.&amp;nbsp; We advise candidates to exercise caution and refrain from sharing personal or sensitive information with any party claiming to represent our company outside of these channels.&amp;nbsp; We do not at any early stage of recruitment process solicit personal information (e.g., passport and bank account info), financial details, or any form of payment (e.g., application fee).&amp;nbsp; If you receive suspicious communications, encounter job postings that appear fraudulent, or want to confirm any employment postings, please contact&amp;nbsp;hrinfo@perryhomes.com.
+
+To apply: https://weworkremotely.com/remote-jobs/perry-homes-website-developer</description><pubDate>Tue, 06 Jan 2026 22:19:39 +0000</pubDate></item><item><title>Zencastr: Senior Fullstack Developer</title><link>https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer</link><description>Headquarters: Zencastr
+    URL: https://zencastr.com
+
+
+Empower the voices of the world @ Zencastr. If you want to push the world of podcasting into the future, come join a team who loves to live on the edge! We are a fully distributed team of smart people who are passionate about changing the world one voice at a time.
+&amp;nbsp;
+You should join us if you:
+
+
+Have significant experience with Node.js and good knowledge of JS fundamentals
+
+
+Have a good understanding of computer science fundamentals. You might not have gone to school for it, but you know the difference between heap and stack, different time complexities, and which patterns to use and when.
+
+
+You are ambitious. You might want to build your own company one day or have tried to tackle the toughest tech problems just for fun.
+
+
+You enjoy writing Javascript or Typescript
+
+
+You have an eye for performance. Whether thinking about the latest client side bundling techniques, or the proper way to shard a mongo database, you want things to be fast.
+
+
+You are just as comfortable working in a browser context or a&amp;nbsp;node.js&amp;nbsp;runtime
+
+
+You are a team player
+
+
+You have good communication skills
+
+
+What sets you apart:
+
+
+You have a passion for high performance applications
+
+
+You have significant open source contributions
+
+
+You want to work in a fast growing startup. Which comes with the blood, sweat and tears of working to disrupt an established industry
+
+
+You have empathy for the end user. A spec is a conversation starter, as an advocate for the end user you always are thinking about how to best serve their needs
+
+
+You have an eye for code quality and you strive to uphold best practices in engineering, security, and design
+
+
+Why you should choose us:
+
+
+You’ll be working with world class engineers, Phd’s, and designers in a fully distributed team
+
+
+Work in an agile and fast changing environment
+
+
+Equity commensurate to your contribution in a profitable company
+
+
+Health insurance
+
+
+Unique challenges and the support and talent to solve them
+
+
+4 weeks PTO
+
+
+Freedom to work where you please
+
+
+What we’re looking for:
+
+
+5+ years of Typescript, React, Node.js development
+
+
+Strong document / key-value store knowledge (Redis, MongoDB)
+
+
+Strong SQL knowledge
+
+
+Strong HTML / CSS / React knowledge
+
+
+Demonstrable knowledge of building scaleable consumer based apps
+
+
+Strong experience with unit, integration, and load testing
+
+
+Experience building APIs
+
+
+Experience with cloud APIs (Google Cloud, Digital Ocean)
+
+
+Bonus points if you have:
+
+
+Experiencing working in high traffic, low latency applications
+
+
+Good dev ops experience
+
+
+Digital Signal Processing experience
+
+
+Strong SQL knowledge
+
+
+&amp;nbsp;
+How to apply:
+Apply at&amp;nbsp;https://jobs.ashbyhq.com/zencastr/c4c91cc0-c5f9-4773-ab04-d239f9455aee
+We are flexible! For the right candidate we ask: What do you need to do your best work?
+
+To apply: https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer</description><pubDate>Fri, 08 Aug 2025 22:55:31 +0000</pubDate></item><item><title>Speechify Inc: Software Engineer, iOS Core Product</title><link>https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</link><description>Headquarters: Florida
+    URL: http://www.speechify.com
+
+
+Overview
+With the growth of our iOS app, being the #18 productivity app in the App Store category and also our recent recognition as Apple's 2025 Design Award for inclusivity, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward. &amp;nbsp;&amp;nbsp;
+This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;
+Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;
+What You’ll Do
+
+Opportunity to lead key engineering and product decisions
+Actively shipping production code for the Speechify iOS app
+Work within a dedicated product team
+Participate in product discussions to shape the product roadmap
+Maintain and enhance the existing complex app architecture
+
+An Ideal Candidate Should Have
+
+Experience. You've worked on products that scaled to a large user base
+Track record. You have worked on various products from inception to decent traction. You have been responsible for engineering the product
+Customer obsession. We expect every team member whose responsibilities directly impact customers to be constantly obsessed about providing the best possible experience
+Product thinking. You make thoughtful decisions about the evolution of your product and support internal teams and designers into taking the right direction
+Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time
+Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down
+Technical skills. Swift, SwiftUI
+
+Technical Requirements:
+
+Swift Programming Language
+SwiftUI experience
+Experience in Multithreading Programming
+Working with CI/CD infrastructure
+Experience with Fastlane
+SOLID principles, the ability to write every single class according to SOLID
+Experience with Git and understanding of different Git strategies
+
+What We offer:
+
+A fast-growing environment where you can help shape the company and product
+An entrepreneurial crew that supports risk, intuition, and hustle
+The opportunity to make a big impact in a transformative industry
+A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
+Work on a product that millions of people use and where daily feedback includes users sharing that they cried when they first found the product because it was so impactful on their lives
+Support people with learning differences like Dyslexia, ADD, Low Vision, Concussions, Autism, and Second Language Learners, and give reading superpowers to professionals all over the world
+Work in one of the fastest growing sectors of tech: Intersection of Artificial Intelligence and Audio
+
+Think you’re a good fit for this job?&amp;nbsp;
+Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit?&amp;nbsp;
+Refer them!&amp;nbsp;
+Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+To apply: https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</description><pubDate>Wed, 09 Jul 2025 15:35:11 +0000</pubDate></item><item><title>Lumenalta: Javascript Fullstack Engineer - Senior</title><link>https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior</link><description>Headquarters: New York
+    URL: https://lumenalta.com/
+
+
+A career at Lumenalta means the freedom to continue your tech career on your terms. Build exceptional things from wherever you might be.
+At Lumenalta, we create impactful software solutions that drive innovation and transform businesses. Since 2000, we’ve partnered with visionary leaders to build cutting-edge tech, solve complex challenges, and deliver results faster through our elite teams and tech-driven approach. Join us in shaping the future of technology.
+With over 20 years of fully remote experience, Lumenalta offers:
+
+Fully remote work
+Rapid growth opportunities
+Self-Improvement
+Industry-leading clients
+Nurturing engineers’ career paths
+
+What You Will Work On
+
+Collaborate with visionary enterprise clients
+Create transformative digital products
+Learn how to handle difficult situations
+Tackle complex challenges at scale
+Push boundaries with emerging technologies
+
+Requirements
+
+Expertise in React, Node, Express, Mongo, SQL
+
+We have a 2-hour assessment
+
+
+High-level English proficiency (written &amp;amp; verbal)
+
+Show up as a proactive, team-oriented self-starter on Zoom
+
+
+
+Why Lumenalta?
+
+Work on meaningful, impactful projects.
+Collaborate with a talented, supportive team
+Enjoy a flexible, remote-first environment
+Join a company that values your growth
+
+If you’re a passionate, career-focused developer ready to make a lasting impact, we want to hear from you!
+What's it like to work at Lumenalta?
+Ongoing recruitment – no set deadline.
+
+To apply: https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior</description><pubDate>Wed, 09 Apr 2025 20:25:16 +0000</pubDate></item><item><title>Jiga: Full Stack Product Engineer</title><link>https://weworkremotely.com/remote-jobs/jiga-full-stack-product-engineer</link><description>Headquarters: Anywhere
     URL: http://https:/jiga.io/about-us
 
 
@@ -1246,292 +1474,4 @@ Coding Challenge – A live technical exercise to evaluate your problem-solving 
 
 We value your time and strive to keep the process efficient, respectful, and transparent. You can expect each interview stage to be scheduled approximately 24–48 hours apart during business days.
 
-To apply: https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer</description><pubDate>Mon, 18 Aug 2025 16:36:41 +0000</pubDate></item><item><title>Proxify AB: Senior Fullstack Developer (Python)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python</link><description>Headquarters: Sweden
-    URL: http://career.proxify.io
-
-
-The Role:
-&amp;nbsp;
-We are looking for a Senior Fullstack Python Developer to join our fast-growing Network.
-In this role, you’ll lead the design and implementation of scalable backend services and APIs using Python (FastAPI, Django, or Flask), while delivering polished, performant user interfaces using modern frontend frameworks such as React.js or Vue.js.
-&amp;nbsp;
-What we are looking for:
-
-5+ years of professional software development experience with strong fullstack exposure.
-3+ years of production experience with Python (FastAPI, Django, Flask).
-Solid knowledge of JavaScript/TypeScript, HTML5, CSS3.
-Strong experience with React.js or Vue.js (or similar modern frameworks such as Next.js/Nuxt.js).
-Experience with relational databases (PostgreSQL, MySQL) and ORMs such as SQLAlchemy or Django ORM.
-Strong understanding of RESTful API design and integration patterns.
-Experience writing automated tests (unit, integration) for both backend and frontend.
-Practical experience with Docker and familiarity with CI/CD pipelines (GitHub Actions, GitLab CI, CircleCI, etc.).
-Experience deploying and operating services in the cloud (AWS, Azure, GCP).
-Strong problem-solving skills and excellent English communication (written and spoken).
-Ability to work independently and deliver high-quality results in a remote setup.
-Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.
-
-&amp;nbsp;
-Nice-to-have:
-
-Deep experience with TypeScript and modern frontend tooling (Vite, Webpack, Turbopack).
-Familiarity with microservices, DDD, CQRS, or event-driven architectures.
-Experience with GraphQL and schema design.
-Knowledge of message brokers (RabbitMQ, Kafka, Redis Streams).
-Experience with Kubernetes or other orchestration platforms.
-Exposure to performance tuning, caching strategies, and observability (logs, tracing, metrics).
-Security best practices (OWASP, auth flows, OAuth2/OpenID Connect).
-Background in startups or fast-paced product environments.
-Contributions to open-source projects or published technical content.
-
-&amp;nbsp;
-Responsibilities:
-
-Design, implement, and operate scalable backend services using Python (FastAPI, Django, Flask).
-Build and maintain responsive, accessible web UIs using React.js, Vue.js, or similar modern frameworks.
-Design, document, and consume RESTful APIs (and optionally GraphQL).
-Integrate backend systems with relational and NoSQL databases.
-Ensure high code quality through unit/integration tests, code reviews, and automated pipelines.
-Make architectural decisions across backend, frontend, and system integration (monolith vs microservices).
-Collaborate with designers and product teams to translate requirements into technical solutions and excellent user experiences.
-Troubleshoot production issues, optimize performance, and ensure reliability and security.
-Mentor and guide other engineers, helping elevate team best practices.
-Work in an agile environment and contribute to continuous process and delivery improvements.
-Document architectural decisions, API contracts, workflows, and deployment procedures.
-
-What we offer:
-&amp;nbsp;
-Get paid, not played
-No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
-Predictable project hours
-Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
-Flex days, so you can recharge
-Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
-Career-accelerating positions at cutting-edge companies
-Discover exclusive long-term remote positions at the world's most exciting companies.
-Hand-picked opportunities just for you
-Skip the typical recruitment roadblocks and biases with personally matched positions.
-One seamless process, multiple opportunities
-A one-time contracting process for endless opportunities, with no extra assessments.
-Compensation
-Enjoy the same pay, every month with positions landed through Proxify.
-
-To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python</description><pubDate>Mon, 15 Dec 2025 10:36:57 +0000</pubDate></item><item><title>Proxify AB: Senior Ruby on Rails Developer</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-2</link><description>Headquarters: Sweden
-    URL: http://career.proxify.io
-
-
-
-The Role:
-&amp;nbsp;
-We are looking for a Senior Ruby on Rails developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products and growth features.
-&amp;nbsp;
-What we are looking for:
-
-Minimum of 5 years of experience in Ruby on Rails development with a strong portfolio of completed projects.
-Proficiency in Ruby, Ruby on Rails, and related technologies such as HTML, CSS, JavaScript, and SQL.
-Strong experience with relational databases such as PostgreSQL or MySQL.
-Proficiency with testing frameworks such as RSpec and Capybara.
-Strong knowledge of version control systems, particularly Git.
-Excellent analytical and problem-solving skills with a proactive approach to identifying and resolving issues.
-Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.
-
-&amp;nbsp;
-Responsibilities:
-
-Design, develop, and maintain high-quality web applications using Ruby on Rails.
-Write clean, maintainable, and efficient code following best practices and coding standards.
-Implement comprehensive testing strategies to ensure application stability and robustness, including unit tests, integration tests, and end-to-end tests.
-Identify and resolve performance bottlenecks to ensure applications run smoothly and efficiently.
-Maintain thorough documentation of development processes, code, and system configurations to ensure knowledge sharing and project continuity.
-
-
-&amp;nbsp;
-What we offer:
-&amp;nbsp;
-Get paid, not played
-No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
-&amp;nbsp;
-Predictable project hours
-Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
-&amp;nbsp;
-Flex days, so you can recharge
-Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
-&amp;nbsp;
-Career-accelerating positions at cutting-edge companies
-Discover exclusive long-term remote positions at the world's most exciting companies.
-&amp;nbsp;
-Hand-picked opportunities, just for you
-Skip the typical recruitment roadblocks and biases with personally matched positions.
-&amp;nbsp;
-One seamless process, multiple opportunities
-A one-time contracting process for endless opportunities, with no extra assessments.
-&amp;nbsp;
-Compensation
-Enjoy the same pay, every month with positions landed through Proxify.
-
-To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-2</description><pubDate>Mon, 15 Dec 2025 10:32:44 +0000</pubDate></item><item><title>Proxify AB: Senior Backend Developer (Python)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-5</link><description>Headquarters: Sweden
-    URL: http://career.proxify.io
-
-
-The Role:
-&amp;nbsp;
-We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.
-&amp;nbsp;
-What we are looking for:
-
-
-5+ years of experience building products with Python and Django.
-
-
-High proficiency in SQL with experience using databases like PostgreSQL.
-
-
-Experience scaling cloud infrastructures with Docker or Kubernetes is a plus.
-
-
-Experience managing cloud infrastructures, specifically AWS or GCP.
-
-
-You follow the best practices and conventions.
-
-
-Relevant experience in CI/CD and related tools.
-
-
-Ability to work with minimal supervision.
-
-
-Intermediate-advanced English level.
-
-
-You can communicate well with both technical and non-technical clients.
-
-
-Time zone: CET (+/- 3 hours). We are unable to consider applications from candidates in other time zones.
-
-
-&amp;nbsp;
-Responsibilities:
-
-
-Ability to build libraries and frameworks of reusable efficient code.
-
-
-Competence in designing and implementing low-latency, stable and performing applications.
-
-
-Capacity to effectively collaborate with other team members and stakeholders remotely.
-
-
-Ability to implement data protection systems.
-
-
-Competence in data storage solutions.
-
-
-&amp;nbsp;
-&amp;nbsp;
-What we offer:
-&amp;nbsp;
-Get paid, not played
-No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
-Predictable project hours
-Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
-Flex days, so you can recharge
-Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
-Career-accelerating positions at cutting-edge companies
-Discover exclusive long-term remote positions at the world's most exciting companies.
-Hand-picked opportunities just for you
-Skip the typical recruitment roadblocks and biases with personally matched positions.
-One seamless process, multiple opportunities
-A one-time contracting process for endless opportunities, with no extra assessments.
-Compensation
-Enjoy the same pay, every month with positions landed through Proxify.
-
-To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-5</description><pubDate>Mon, 15 Dec 2025 09:12:31 +0000</pubDate></item><item><title>Proxify AB: Senior Fullstack Developer (React.js &amp; Node.js)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-1</link><description>Headquarters: Sweden
-    URL: http://career.proxify.io
-
-
-The Role:
-&amp;nbsp;
-We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.
-&amp;nbsp;
-What we are looking for:
-&amp;nbsp;
-
-
-5+ years experience as a Fullstack Developer.
-
-
-Backend experience with:
-
-
-
-Node.js
-
-
-Microservices architecture
-
-
-
-Database experience with:
-
-
-
-SQL
-
-
-MongoDB
-
-
-
-Intermediate-advanced English
-
-
-&amp;nbsp;
-Nice-to-have:&amp;nbsp;
-
-
-Located in CET timezone (+/- 3 hours).
-
-
-Database Architecture knowledge.
-
-
-&amp;nbsp;
-Responsibilities:
-
-
-Ability to build libraries and frameworks of reusable efficient code.
-
-
-Competence in designing and implementing low-latency, stable and performing applications.
-
-
-Capacity to effectively collaborate with other team members and stakeholders remotely.
-
-
-Ability to implement data protection systems.
-
-
-Competence in data storage solutions.
-
-
-&amp;nbsp;
-What we offer:
-&amp;nbsp;
-Get paid, not played
-No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
-Predictable project hours
-Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
-Flex days, so you can recharge
-Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
-Career-accelerating positions at cutting-edge companies
-Discover exclusive long-term remote positions at the world's most exciting companies.
-Hand-picked opportunities just for you
-Skip the typical recruitment roadblocks and biases with personally matched positions.
-One seamless process, multiple opportunities
-A one-time contracting process for endless opportunities, with no extra assessments.
-Compensation
-Enjoy the same pay, every month with positions landed through Proxify.
-
-To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-1</description><pubDate>Mon, 15 Dec 2025 09:05:28 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer</description><pubDate>Mon, 18 Aug 2025 16:36:41 +0000</pubDate></item></channel></rss>
