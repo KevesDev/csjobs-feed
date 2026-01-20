@@ -1,5 +1,66 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>ImFusion: Backend / Web Application Developer (Cloud &amp; SaaS)</title><link>https://weworkremotely.com/remote-jobs/imfusion-backend-web-application-developer-cloud-saas</link><description>Headquarters: Munich, remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Applied Imagination: Ba/Qa</title><link>https://weworkremotely.com/remote-jobs/applied-imagination-ba-qa</link><description>Headquarters: Atlanta, GA
+    URL: http://appliedimagination.com
+
+
+What you’ll do:
+Our BA+QA personnel are responsible for understanding projects and their associated business processes.  They gather requirements, define them into specifications, identify and close any requirement gaps, work with dev leads to divide and plan projects into sprints, assist/execute QA, and assist in the change order process.  
+This is a client facing role.
+This is a fully remote, full time position.
+Understand technically complex projects, changes, and business processesGather requirements, define them into outlines, flowcharts, functional wireframes (no design needed)Gather feedback and close any gaps found on these requirements and specificationsWork with UX/UI/dev leads/PMs to divide and plan the project into sprints and explain the projects to devs and designersWork with dev leads/dev teams to QA the result of each sprint and the resulting integrated project and remediate any issuesCreation and execution of QA test plansThis position is predominately Manual Testing + Regression Testing but may involve some Automated Testing in the futureCommunicate with clients to gather and work with dev teams to implement feedback.This role stands alongside the PM and works with UX, the dev lead and QA teamYour ultimate role is to ensure whats being built matches client needs/expectations/requirements and that the dev team understands and develops towards that goal
+Requirements:
+
+BA      experience (3 years minimum)
+
+Experience       gathering requirements from stakeholders/clients
+Experience writing       outlines/flowcharts/functional wireframes
+Experience       organizing sprints and communicating requirements
+
+Experience      in a Manual Software QA capacity (3 years minimum)
+
+3+ years       working in a QA management role
+3+ years       working in a QA support role
+
+Experience      with the development of websites, webapplications, and mobile apps
+Highly      competent with project management and bug tracking software
+A history of      mentoring and or coaching others with a focus on balanced feedback while      effectively communicating development needs
+Experience      developing and executing test plans
+
+Nice to haves:
+
+Some coding      ability or experience
+Experience      with Automated QA testing
+
+Education
+
+Bachelor’ s      degree in Computer Science, MIS, Engineering, Project Management, QA, or related      field; or equivalent work experience
+
+About Us
+Applied Imagination is a web consulting, design, and development agency based in Atlanta, Georgia. We are a team of innovative and creative thinkers who build amazing things. Our clients ask us to translate complex ideas into simple solutions that make life better and grow businesses. Founded out of a love of building, each one of us is passionate about creating great digital technology.
+Our team moves fast on a variety of projects and technologies, in an environment where ideas need to be communicated concisely and effectively. Our ideal candidate should have excellent communication skills to interact with clients, designers, developers, marketers and senior management alike.
+What Applied Imagination Offers
+
+Healthcare      package
+Advancement      opportunities
+Paid time      off + paid holidays
+Employee and      Community Events
+Fun, casual environment
+401k with      match
+
+
+To apply: https://weworkremotely.com/remote-jobs/applied-imagination-ba-qa</description><pubDate>Tue, 06 Jan 2026 22:20:13 +0000</pubDate></item><item><title>EBG: PHP Web Application Developer</title><link>https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer</link><description>Headquarters: Miami, FL, USA
+    URL: http://ebgsolutions.com
+
+
+Company DescriptionEBG is an e-commerce solutions provider specializing in travel and entertainment, and also offering retail products and services, voluntary benefits and insurance.&amp;nbsp;EBG powers a robust portfolio of technology solutions and operates a network of employer and membership-based platforms reaching a captive audience, providing leading brands with incremental distribution opportunities. EBG's expanded network reaches over 100 million users from participating companies and closed loop affinity and membership groups.&amp;nbsp;EBG owns and operates one of the largest and most comprehensive employee savings programs in the country — serving over 40,000 corporate clients through its proprietary platforms TicketsatWork, Plum Benefits, Working Advantage and Beneplace.&amp;nbsp;EBG is a b2b2c company headquartered in Miami (Aventura), with offices in New York, Orlando, and Austin. We offer a hybrid work environment with a balance of collaboration and flexibility.Job DescriptionIn this role you will embark on a large-scale, multi-year modernization initiative to transform a legacy monolithic PHP application into a modern, microservice-oriented architecture hosted on AWS. Your role as a Web Developer will bring deep experience in API-driven development, AWS cloud infrastructure, and modern DevOps practices to help drive this transformation.You’ll play a key role in decoupling business domains, architecting, implementing, and maintaining new microservices using Symfony/Doctrine or similar frameworks. Your focus will be on delivering high-quality, secure, and scalable API integrations. Ideally, you bring hands-on experience across the full development lifecycle — from design and implementation to CI/CD and infrastructure-as-code — all within an Agile Scrum environment.This role is primarily WFH / Remote for Florida and Texas candidates but requires flexibility to attend any in office team meetings as needed.&amp;nbsp;**You must reside in FL or TX**&amp;nbsp; to be hired for this position.Key ResponsibilitiesHave strong presence in the decoupling of the existing PHP monolith into domain-driven microservices and APIs.Design, develop, and maintain back-end services using Symfony (or equivalent MVC frameworks) and Doctrine ORM.Architect and implement RESTful APIs and ensure consistent documentation, testing, and versioning practices.Build and consume third-party APIs, ensuring performance, scalability, and security best practices.Collaborate closely with DevOps and Infrastructure teams to design cloud-native solutions using AWS services (e.g., Lambda, ECS, EKS, S3, API Gateway).Containerize applications using Docker and manage orchestration via Kubernetes/ECS.Implement and maintain CI/CD pipelines to support rapid, reliable deployments.Leverage infrastructure-as-code (IaC) tools to ensure reproducible and maintainable environments.Contribute to architectural design discussions, code reviews, and cross-functional planning.Work within an Agile Scrum framework, participating in sprint grooming, planning, demo, and retrospectives.Collaborate with Product, QA, and Analytics teams to ensure feature alignment and data integrity.Qualifications&amp;nbsp;3+ years of professional experience in back-end development with PHP (Symfony preferred).Strong understanding of microservice architecture and API-first design principles.Proven experience deploying and managing applications on AWS (ECS, EKS, Lambda, API Gateway, RDS, CloudWatch, etc.).Proficiency with Docker and Kubernetes (EKS or equivalent) for containerized deployments.Hands-on experience with CI/CD pipelines (e.g., GitHub Actions, Jenkins, GitLab CI, or AWS CodePipeline).Experience using Infrastructure-as-Code tools such as Terraform or AWS CloudFormation.Strong understanding of third-party API integration patterns, rate limiting, and error handling best practices.Experience working within an Agile/Scrum environment.Solid understanding of software design patterns, version control (Git), and code quality best practices.Excellent problem-solving, communication, and collaboration skills.YOU MUST RESIDE IN FL or TX*EBG does not offer sponsorship for this role.What Sets You Apart:AWS Certification (Developer Associate or Solutions Architect).Experience with Doctrine ORM, Symfony 6, or similar frameworks.Knowledge of serverless architecture patterns using AWS Lambda and API Gateway.Familiarity with event-driven architecture, message queues (e.g., SNS/SQS, Kafka), or data streaming.Background in travel, hospitality, or entertainment industries, especially with booking, ticketing, or reservation systems.Exposure to observability tools with focus on New Relic (other examples include CloudWatch, Datadog, or ELK stack).Understanding of security best practices for cloud-based microservices (IAM, least privilege, encryption).Experience mentoring developers or leading small Agile teams.Additional InformationEBG offers outstanding employee benefits including:Medical, Dental &amp;amp; Vision401k MatchShort Term Disability, Long Term Disability (Company Paid)Company Paid Basic Life and AD&amp;amp;DAdditional Voluntary Benefits&amp;nbsp;Flexible Work Arrangements3 Weeks of PTO + 5 Personal DaysPaid Holiday Break from Christmas to New YearPaid HolidaysFitness Reimbursement ProgramAnnual Day of GivingShare in the FUN! EBG gives $1000 per year in Tickets-At-Work gift cards&amp;nbsp;to full-time employees to experience and enjoy the savings marketplace!The statements contained herein reflect general details as necessary to describe the principal functions of this job, the level of knowledge and skill typically required, and the scope of responsibility, but should not be considered an all-inclusive listing of work requirements. All your information will be kept confidential according to EEO guidelines.
+
+To apply: https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer</description><pubDate>Tue, 06 Jan 2026 22:20:13 +0000</pubDate></item><item><title>EBG: PHP Web Application Developer</title><link>https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer</link><description>Headquarters: San Antonio, TX, USA
+    URL: http://ebgsolutions.com
+
+
+Company DescriptionEBG is an e-commerce solutions provider specializing in travel and entertainment, and also offering retail products and services, voluntary benefits and insurance.&amp;nbsp;EBG powers a robust portfolio of technology solutions and operates a network of employer and membership-based platforms reaching a captive audience, providing leading brands with incremental distribution opportunities. EBG's expanded network reaches over 100 million users from participating companies and closed loop affinity and membership groups.&amp;nbsp;EBG owns and operates one of the largest and most comprehensive employee savings programs in the country — serving over 40,000 corporate clients through its proprietary platforms TicketsatWork, Plum Benefits, Working Advantage and Beneplace.&amp;nbsp;EBG is a b2b2c company headquartered in Miami (Aventura), with offices in New York, Orlando, and Austin. We offer a hybrid work environment with a balance of collaboration and flexibility.Job DescriptionIn this role you will embark on a large-scale, multi-year modernization initiative to transform a legacy monolithic PHP application into a modern, microservice-oriented architecture hosted on AWS. Your role as a Web Developer will bring deep experience in API-driven development, AWS cloud infrastructure, and modern DevOps practices to help drive this transformation.You’ll play a key role in decoupling business domains, architecting, implementing, and maintaining new microservices using Symfony/Doctrine or similar frameworks. Your focus will be on delivering high-quality, secure, and scalable API integrations. Ideally, you bring hands-on experience across the full development lifecycle — from design and implementation to CI/CD and infrastructure-as-code — all within an Agile Scrum environment.This role is primarily WFH / Remote for Florida and Texas candidates but requires flexibility to attend any in office team meetings as needed.&amp;nbsp;**You must reside in FL or TX**&amp;nbsp; to be hired for this position.Key ResponsibilitiesHave strong presence in the decoupling of the existing PHP monolith into domain-driven microservices and APIs.Design, develop, and maintain back-end services using Symfony (or equivalent MVC frameworks) and Doctrine ORM.Architect and implement RESTful APIs and ensure consistent documentation, testing, and versioning practices.Build and consume third-party APIs, ensuring performance, scalability, and security best practices.Collaborate closely with DevOps and Infrastructure teams to design cloud-native solutions using AWS services (e.g., Lambda, ECS, EKS, S3, API Gateway).Containerize applications using Docker and manage orchestration via Kubernetes/ECS.Implement and maintain CI/CD pipelines to support rapid, reliable deployments.Leverage infrastructure-as-code (IaC) tools to ensure reproducible and maintainable environments.Contribute to architectural design discussions, code reviews, and cross-functional planning.Work within an Agile Scrum framework, participating in sprint grooming, planning, demo, and retrospectives.Collaborate with Product, QA, and Analytics teams to ensure feature alignment and data integrity.Qualifications&amp;nbsp;3+ years of professional experience in back-end development with PHP (Symfony preferred).Strong understanding of microservice architecture and API-first design principles.Proven experience deploying and managing applications on AWS (ECS, EKS, Lambda, API Gateway, RDS, CloudWatch, etc.).Proficiency with Docker and Kubernetes (EKS or equivalent) for containerized deployments.Hands-on experience with CI/CD pipelines (e.g., GitHub Actions, Jenkins, GitLab CI, or AWS CodePipeline).Experience using Infrastructure-as-Code tools such as Terraform or AWS CloudFormation.Strong understanding of third-party API integration patterns, rate limiting, and error handling best practices.Experience working within an Agile/Scrum environment.Solid understanding of software design patterns, version control (Git), and code quality best practices.Excellent problem-solving, communication, and collaboration skills.YOU MUST RESIDE IN FL or TX*EBG does not offer sponsorship for this role.What Sets You Apart:AWS Certification (Developer Associate or Solutions Architect).Experience with Doctrine ORM, Symfony 6, or similar frameworks.Knowledge of serverless architecture patterns using AWS Lambda and API Gateway.Familiarity with event-driven architecture, message queues (e.g., SNS/SQS, Kafka), or data streaming.Background in travel, hospitality, or entertainment industries, especially with booking, ticketing, or reservation systems.Exposure to observability tools with focus on New Relic (other examples include CloudWatch, Datadog, or ELK stack).Understanding of security best practices for cloud-based microservices (IAM, least privilege, encryption).Experience mentoring developers or leading small Agile teams.Additional InformationEBG offers outstanding employee benefits including:Medical, Dental &amp;amp; Vision401k MatchShort Term Disability, Long Term Disability (Company Paid)Company Paid Basic Life and AD&amp;amp;DAdditional Voluntary Benefits&amp;nbsp;Flexible Work Arrangements3 Weeks of PTO + 5 Personal DaysPaid Holiday Break from Christmas to New YearPaid HolidaysFitness Reimbursement ProgramAnnual Day of GivingShare in the FUN! EBG gives $1000 per year in Tickets-At-Work gift cards&amp;nbsp;to full-time employees to experience and enjoy the savings marketplace!The statements contained herein reflect general details as necessary to describe the principal functions of this job, the level of knowledge and skill typically required, and the scope of responsibility, but should not be considered an all-inclusive listing of work requirements. All your information will be kept confidential according to EEO guidelines.
+
+To apply: https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer</description><pubDate>Tue, 06 Jan 2026 22:20:13 +0000</pubDate></item><item><title>ImFusion: Backend / Web Application Developer (Cloud &amp; SaaS)</title><link>https://weworkremotely.com/remote-jobs/imfusion-backend-web-application-developer-cloud-saas</link><description>Headquarters: Munich, remote
     URL: http://imfusion.com
 
 
@@ -603,153 +664,7 @@ What You'll Do
 You’ll own high-level goals, shape them into real systems, and get them into production quickly.
 If you want ownership, deep engineering work, and the chance to build systems that move things forward, apply today, and we’d love to meet you.
 
-To apply: https://weworkremotely.com/remote-jobs/onthegosystems-senior-python-developer</description><pubDate>Fri, 02 Jan 2026 10:10:56 +0000</pubDate></item><item><title>Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) – SaaS Platform</title><link>https://weworkremotely.com/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform</link><description>Headquarters: Virginia, USA
-    URL: https://enrollio.ai
-
-
-Enrollio is a fast-growing SaaS platform serving children’s dance and performing arts studios. We are rebuilding and scaling our core systems and are hiring a Senior Full-Stack TypeScript Engineer who can own major parts of our NestJS + React monorepo.
-This is a long-term, full-time role. We’re looking for someone who thinks like a product engineer—not a task-taker. Someone who cares about reliability, clean architecture, debugging deep issues, and building scalable systems.
-
-What You’ll Work On
-
-
-Fix high-priority bugs across our parent portal, studio portal, and backend
-
-
-Own reliability of enrollment + payment flows (Stripe PaymentIntents + Elements)
-
-
-Build and improve NestJS REST APIs and module architecture
-
-
-Improve backend stability, error handling, and logging
-
-
-Refactor legacy features for performance and long-term maintainability
-
-
-Implement UI improvements across React, Vite, Zustand, TanStack Query
-
-
-Work inside a TypeScript monorepo (backend + studio portal + parent portal)
-
-
-Collaborate with support/ops when urgent issues arise
-
-
-Assist with our ongoing backend restructure and migration
-
-
-Be available during EST working hours (with flexibility for emergencies)
-
-
-
-Our Tech Stack
-Backend: NestJS, TypeScript, MongoDB Atlas, Redis (BullMQ), Stripe, GoHighLevel API, Mailgun, SendGrid, Brevo, Google Cloud (App Engine, Cloud Build), Jest, SentryFrontend: React 18, Vite, TypeScript, Zustand, TanStack Query, Tailwind, Radix UI, shadcn/ui, Framer MotionArchitecture: Monorepo, domain-driven, fully typed, reliability-focused
-
-Must-Have Experience
-
-
-5+ years full-stack engineering
-
-
-Strong TypeScript across backend + frontend
-
-
-Deep experience with NestJS and React
-
-
-Experience with Stripe PaymentIntents + subscription billing flows
-
-
-Production MongoDB experience
-
-
-Ability to debug complex issues across multiple layers
-
-
-Strong English communication
-
-
-Ownership mindset; reliable and proactive
-
-
-
-Bonus Experience (Not required but valuable)
-
-
-BullMQ or similar queue systems
-
-
-GoHighLevel API
-
-
-MongoDB performance tuning
-
-
-GCP deployments
-
-
-Sentry, logging, observability
-
-
-Stabilizing or refactoring large SaaS architectures
-
-
-Understanding race conditions, idempotency, concurrency issues
-
-
-
-What We Offer
-
-
-Long-term, stable role (40 hours/week)
-
-
-Direct work with the founder + ops team
-
-
-Remote, flexible schedule with PH overlap
-
-
-Competitive salary
-
-
-Opportunities to grow into Lead/Senior roles
-
-
-A chance to own major parts of a platform used by hundreds of businesses
-
-
-
-How to Apply
-Send us:
-
-
-A brief intro
-
-
-Resume or LinkedIn
-
-
-GitHub or code samples
-
-
-A short explanation of a difficult bug you fixed
-
-
-Experience with NestJS, React, and Stripe
-
-
-Expected monthly salary
-
-
-Availability to start
-
-
-Email: brad@enrollio.aiSubject: Senior Full-Stack Engineer – Enrollio
-
-To apply: https://weworkremotely.com/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform</description><pubDate>Mon, 01 Dec 2025 19:42:17 +0000</pubDate></item><item><title>KFC: Sr. Software Engineer II</title><link>https://weworkremotely.com/remote-jobs/kfc-sr-software-engineer-ii</link><description>Headquarters: Plano, TX, United States
+To apply: https://weworkremotely.com/remote-jobs/onthegosystems-senior-python-developer</description><pubDate>Fri, 02 Jan 2026 10:10:56 +0000</pubDate></item><item><title>KFC: Sr. Software Engineer II</title><link>https://weworkremotely.com/remote-jobs/kfc-sr-software-engineer-ii</link><description>Headquarters: Plano, TX, United States
     URL: http://kfc.com
 
 
@@ -1212,130 +1127,4 @@ Read about what our interviewing process looks like&amp;nbsp;
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
 
 
-To apply: https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1</description><pubDate>Tue, 23 Dec 2025 08:30:21 +0000</pubDate></item><item><title>Stellar AI: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</link><description>Headquarters: London
-    URL: https://joinstellar.ai/
-
-
-
-We are seeking experienced Software Engineers to contribute to projects across a wide range of technologies and programming languages, including JavaScript, Python, Go, C++, Ruby, and more.This is an open-ended contract opportunity, structured around project-based work with no set schedules or minimum time or task commitments. Contributors who work with us decide which available projects they'd like to work on, when they work, and how much they contribute, which makes it an excellent option for those seeking flexible and high-impact work.In this role, you will help advance AI research by understanding complex systems, exploring large codebases, and developing approaches to verify the correctness of software behavior.
-Compensation
-
-$70 per hour after passing the qualification
-Fully remote
-Project based work, no minimum time or task commitments
-
-Responsibilities
-
-Rapidly build context in large, multi-module codebases
-Analyze feature implementations for correctness and edge cases
-Produce clear, structured documentation of findings and rationale
-
-Requirements
-
-Bachelor's degree in Computer Science or a related field
-At least 2 years of experience as a Software Engineer
-Excellent written communication skills
-Ability to clearly explain complex technical concepts
-
-Location
-Remote in the US, UK, Canada, Europe, Australia, or New Zealand
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</description><pubDate>Tue, 21 Oct 2025 19:36:26 +0000</pubDate></item><item><title>Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)</title><link>https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</link><description>Headquarters: USA
-    URL: http://www.close.com
-
-
-About Us
-Close is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again.
-&amp;nbsp;
-We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&amp;nbsp;
-&amp;nbsp;
-Our backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.
-&amp;nbsp;
-Our product development process is inspired by Shape Up. We love open sourcing our code and ideas on our GitHub and on The Making of Close, our behind-the-scenes Product &amp;amp; Engineering blog. Check out our open source projects like SocketShark, TaskTiger, LimitLion and ciso8601.
-&amp;nbsp;
-&amp;nbsp;
-About the Role
-You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp;amp; Onboarding, Conversations, Messaging &amp;amp; Scheduling, Automations &amp;amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp;amp; frontend engineers, product managers, designers, and other teams here at Close.
-&amp;nbsp;
-&amp;nbsp;
-About You
-We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.
-&amp;nbsp;
-You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team.
-Come help us with projects like...
-
-Conceiving, designing, building, and launching new user-facing features
-Implementing new AI features to turbocharge our customers’ daily tasks
-Improving the performance and scalability of our GraphQL and REST API
-Improving how we sync millions of sales emails and calendar events each month
-Working with Twilio's API, WebSockets, and WebRTC to improve our calling features
-Building user-facing analytics features that provide actionable insights based on sales activity data
-Improving our Elasticsearch-backed powerful search features
-Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&amp;nbsp;
-Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers
-Enhancing our web app with real-time updates powered by GraphQL Subscriptions
-Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI
-
-Help manage our ever growing data processing needs…
-
-Billions of Mongo documents
-Millions and millions of rows of PostgreSQL data
-55 Terabytes of logs / month
-500 billion OTEL spans over the last 30 days
-10+ million events / day
-Tens of thousands of docker containers
-7 million minutes of call recordings / month
-Petabytes / month of network traffic
-
-Requirements...
-
-Senior 1 &amp;amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity.
-Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python.
-You have built web APIs that were Internet facing or supported other high volume loads.
-You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&amp;nbsp;
-You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&amp;nbsp;
-You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&amp;nbsp;
-You care about the craftsmanship of the code and systems you produce.
-Located in the USA (lower 48 timezones).
-
-Bonus point if you have
-
-Contributed open source code related to our tech stack.
-Led small project teams building and launching features.
-Built B2B SaaS products.
-Implemented features that leveraged AI to deliver unimaginable new product capabilities.
-Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks.
-
-🌏 Why Close?
-
-Watch our most recent culture video featuring our annual team retreat in Italy
-100% remote company
-5 weeks PTO + Winter &amp;amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company
-1 month paid sabbatical every 5 years
-Paid parental leave
-Medical, Dental, Vision with HSA option (US residents)
-401k matching at 6% (US residents)
-Dependent care FSA (US residents)
-Our story and team 🚀
-
-Our Values
-
-Build a house you want to live in -- Examine long-term thinking and action
-No BS -- Practice transparency and honesty, especially when it’s hard
-Invest in each other -- Build successful relationships with your coworkers and customers&amp;nbsp;
-Discipline equals freedom -- Keep your word to yourself and others
-Strive for greatness -- Constantly challenge yourself and others&amp;nbsp;
-
-How We Work Together
-
-Productivity, Quality &amp;amp; Impact: We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&amp;nbsp;
-Asynchronous communication &amp;amp; collaboration: We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&amp;nbsp;
-Appreciation for Deep Work: *During your normal work day, not after a day of meetings*.&amp;nbsp;
-Autonomy &amp;amp; Freedom: Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&amp;nbsp;
-
-&amp;nbsp;
-We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp;amp; II is $140,000 to $210,000.
-
-To apply: https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</description><pubDate>Wed, 23 Jul 2025 14:31:54 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1</description><pubDate>Tue, 23 Dec 2025 08:30:21 +0000</pubDate></item></channel></rss>
