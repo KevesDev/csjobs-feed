@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Applied Imagination: Ba/Qa</title><link>https://weworkremotely.com/remote-jobs/applied-imagination-ba-qa</link><description>Headquarters: Atlanta, GA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Speechify Inc: Software Engineer, macOS Core Product</title><link>https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-macos-core-product</link><description>Headquarters: Florida
+    URL: http://www.speechify.com
+
+
+Role Overview
+As a&amp;nbsp;Software Engineer on the macOS team, you’ll help build and scale Speechify’s core desktop experience for millions of users. You’ll own significant parts of our macOS app architecture, ship production-ready code, and collaborate closely with product, design, and engineering teams across the company.
+This is a key role for someone who thrives in a fast-paced startup environment, enjoys making high-impact product decisions, loves delightful user experiences, and has a passion for accessibility and performance.
+What You’ll Do
+
+Lead key engineering and product decisions for the macOS app.
+Write, test, and ship production-quality code that scales to millions of users.
+Maintain and evolve complex app architecture with a focus on performance and stability.
+Work within a cross-functional team, partnering with designers and PMs to shape features from concept to launch.
+Participate in product planning and roadmap discussions.
+Drive continuous improvement in code quality, CI/CD processes, and development workflows.
+
+You should have:
+
+Demonstrated experience shipping macOS (or related desktop) applications used by many customers.
+Strong engineering instincts with a deep focus on user experience.
+A strategic mindset for building great products—not just writing code.
+Ability to work quickly, decide what to build now vs. later, and iterate fast.
+Experience working in remote, distributed teams.
+
+Technical requirements:
+
+Swift / SwiftUI (macOS) proficiency.
+Solid understanding of&amp;nbsp;AppKit, macOS frameworks, and desktop-specific UI paradigms.
+Experience in multithreaded programming.
+Familiarity with CI/CD workflows (e.g., Xcode Cloud, GitHub Actions).
+Strong version control skills (Git), including branching strategies.
+
+What We offer:
+
+Impact &amp;amp; Ownership:&amp;nbsp;Build and influence a product used by millions globally.
+Remote First:&amp;nbsp;Flexible, asynchronous work culture.
+Growth &amp;amp; Leadership:&amp;nbsp;Flat org — leadership is earned by impact, not title.
+Collaborative Environment:&amp;nbsp;Work with smart, passionate engineers and designers.
+Competitive Compensation:&amp;nbsp;Market-aligned salary, bonus, and equity.
+
+Why Join Speechify?
+At Speechify, we ship fast, build for real users, and care deeply about quality and accessibility. You’ll work on products that change lives, and your contributions will shape both the product and the company.
+If this sounds like your kind of challenge, we’d love to hear from you.&amp;nbsp;Apply with your resume and links to your portfolio or GitHub!
+Think you’re a good fit for this job?&amp;nbsp;
+Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit?&amp;nbsp;
+Refer them!&amp;nbsp;
+Speechify is committed to a diverse and inclusive workplace.
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+To apply: https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-macos-core-product</description><pubDate>Wed, 07 Jan 2026 12:37:47 +0000</pubDate></item><item><title>Applied Imagination: Ba/Qa</title><link>https://weworkremotely.com/remote-jobs/applied-imagination-ba-qa</link><description>Headquarters: Atlanta, GA
     URL: http://appliedimagination.com
 
 
@@ -984,147 +1034,4 @@ Motivated and productive in small, remote teams with async communication and min
 Customer-first mindset with a focus on usability and performance.
 
 
-To apply: https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week</description><pubDate>Wed, 24 Dec 2025 15:42:44 +0000</pubDate></item><item><title>Silverfin: Experienced Ruby Product Engineer</title><link>https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1</link><description>Headquarters: Gent, Belgium
-    URL: https://silverfin.com/
-
-
-
-We start with the cliff notes about the position. If this appeals to you, continue reading for a longer text about working at Silverfin and your role
-&amp;nbsp;
-At Silverfin, we're an equal opportunity employer and value diversity at our company. Although we know we’re not perfect yet, we are working hard on it and always open for your feedback.
-&amp;nbsp;
-According to our vision to build a diverse, equitable and inclusive organisation, our policy is to only make a final hiring decision if underrepresented groups are sufficiently represented in the list of candidates applying for the position. For this reason it’s possible interviews get slightly delayed until we’ve reached that goal.
-&amp;nbsp;
-We're committed to elevating talent by creating an environment where we can all thrive together. So if you think you have what it takes, but don't necessarily check every single box, please consider applying. We'd love to hear how you might contribute to our mission and our team.
-
-
-
-What can we offer you?
-
-
-Actual, proper work-life balance
-Flexible working hours and work 100% remotely
-Personal growth training and opportunities
-Join a distributed remote-first engineering team with 40+ colleagues in 14 different countries on two continents
-A refreshing work environment with professional, friendly and welcoming colleagues
-A €1200 yearly budget for conferences, courses, workshops or other expenses that will improve your skills
-Two engineering retreats per year, somewhere in Europe&amp;nbsp;
-Ten company-wide Wellbeing Days per year for all employees (once a month, except in July and August)
-
-
-Compensation
-
-
-For this role, the compensation range is &amp;nbsp;€104.000&amp;nbsp;- €130.000&amp;nbsp;a year , which reflects the total compensation band for senior engineers at this level.
-
-
-&amp;nbsp;
-Please note:
-Most candidates start at the lower to mid part of the range, depending on experience and how their profile compares to our existing team. The higher end of the range is typically offered to individuals with a track record of strong impact and deep expertise in similar roles. We run annual compensation reviews, so there is clear opportunity for growth as you progress in the role.
-
-
-
-
-What will you work on?
-
-
-Figure out the best way to solve a customer or business problem in close collaboration with a product manager, a product designer and other engineers&amp;nbsp;
-Work on user facing functionalities&amp;nbsp;
-Help with discovery and delivery of a solution&amp;nbsp;
-Give the engineering perspective on potential ways of approaching a specific challenge&amp;nbsp;
-Help with maintenance and support of existing functionality
-
-
-
-
-
-
-What are we looking for?
-
-
-You’re experienced in both Ruby and Rails, and also understand where the boundaries lie between them. You can code in Ruby without any of Rails’ training wheels if necessary.
-You have experience using Javascript framework(s), understand the value of them, but also know when plain Javascript is enough.
-You're interested in getting to know our customers to find the best solution for a given challenge.&amp;nbsp;
-You can communicate clearly in English, both in writing and verbally.
-You’re up for mentoring coworkers and can give in-depth, productive feedback during code reviews. While you appreciate the small stuff, you recognise bike-shedding and can avoid its pitfalls.
-You know and can apply best practices when relevant. That means the usual like version control, testing, and refactoring; but also higher level concepts such as good object oriented design.
-You're aware of the trade-offs involved in proper engineering and can make balanced business decisions, keeping in mind all the stakeholders of the project.
-You’ve got opinions on code design and you can discuss them, but you’re professional enough to not let those opinions get in the way of a consensus if necessary.
-
-
-If you’re any good at Ruby, this is probably not the first job ad you’ve seen, so we’ve done our best to stand out while also accurately presenting what we’re all about. If it sounds like you would enjoy working with us, don’t hesitate to apply or drop us a line with questions , or read on for the more detailed explanation ..
-
-
-
-&amp;nbsp;
-What’s a Silverfin?
-At Silverfin we’re trying to apply the promise of software to the age-old industry of accounting. With our SaaS we’re automating a large chunk of the busy-work that accountants are currently handling manually, and are building new tools so they can provide better services to their customers. We aim to optimise their workflow in such a way that accountants can spend more time on the much more impactful and rewarding work of advising their customers, the business owners.
-&amp;nbsp;
-The good news is we’re succeeding in doing exactly that. Every week more than 15.000 financial service professionals use Silverfin to help and advise more than 400.000 businesses. Our customers adore us! The even better news is there’s still plenty left to work on, and that’s where we hope you come in.
-&amp;nbsp;
-Since November 2023 we are proudly part of Visma - the European leader in mission-critical cloud software, enjoying the power of the Visma brand and resources whilst retaining business autonomy and go-to-market freedom.
-&amp;nbsp;
-What’s the product team like?
-The product team is a cross-functional team where engineers work together closely with product managers and product designers. The team's input is a user or business problem which it can solve with a high degree of autonomy. From day one all profiles are involved in understanding the problem, ideating solutions and doing quick experiments to prove that a certain solution might actually lead to the desired outcome. After the discovery phase the same team is tasked with the delivery of the chosen solution. The team will then track the adoption of the solution and will make sure that the problem is actually solved. The setup of the team is largely based on the book "Inspired" by Marty Cagan.
-&amp;nbsp;
-What does working at Silverfin look like?
-Next to the four product teams, there are three more platformy teams, who own complex subsystems, like syncs or AI, and or support the product teams with knowledge, frameworks and services.
-&amp;nbsp;
-Our ops team ensures things run smoothly, deploys happen correctly, and will work with you when issues should arise. We’re enthusiastic followers of the devops mindset, which means ops and developers work together to solve problems, and empower each-other to be self-sufficient, instead of throwing problems over the wall to the “other side”.
-&amp;nbsp;
-We run an up-to-date Rails monolith on the backend, with PostgreSQL and Redis for persistence and caching, and everything is running on a Kubernetes cluster in Google Cloud. Our daily tools include GitLab, Quip and Slack, with Google Meet as our remote conferencing tool of choice.&amp;nbsp;
-&amp;nbsp;
-No code gets deployed without a code-review by a peer and testing is a must. Our pipeline automates deployment when the suite is green, and deploys happen dozens of times a day. Each team is currently doing Kanban, but they’re free to follow whatever process suits them best. There are regular retros held to work towards continuous improvement.
-&amp;nbsp;
-Software for accountants is not considered to be very exciting, but we have our fair share of technical challenges. To give you a sense of scale: our database exceeds 10TB*, and our largest table has crossed the 10 billion row mark a long while back. We interface with more than 30 different external APIs, and provide third parties an API of our own.
-&amp;nbsp;
-*: Our ops team noted that this actually isn’t that hard to achieve if you’re just indexing everything, but it still sounds impressive, right?
-&amp;nbsp;
-What makes the engineering team at Silverfin special?
-We’re a remote-first engineering team of 40 people distributed in 14 different countries over two continents. A priority for us is maintaining proper work-life balance. We avoid meetings as much as possible, accept deadlines only when absolutely necessary, and never expect anyone to work longer hours than they’ve signed up for. A day in our working lives is pretty boring, and we feel that’s exactly how it should be.
-&amp;nbsp;
-Working with us means you can be flexible with your schedule. It’s OK to disappear for a few hours in the middle of the day to run some errands, get a haircut, pick up the kids - whatever reason, you don’t need to explain yourself.
-&amp;nbsp;
-You also fully decide when you take time off: our team is sufficiently varied and well organised that there are always enough people around to handle the load, and in the rare cases it’s not, we will decrease the load instead of asking people to move their holiday.
-&amp;nbsp;
-Being remote-first means we favour asynchronous communication. We don’t shy away from chatting in Slack, but the important decisions or discussions are done in Gitlab issues, over email, or in Quip, so there’s a written, persisted record. We’re mindful of maintaining long chunks of focussed time, which means we avoid @-mentions or PMs on Slack, and other triggers and interrupts. We encourage using Slack’s DnD function, especially when you’re not working!
-&amp;nbsp;
-We’d be really happy to welcome you in our #engineering channel, but it’s not just virtual: we make sure we regularly get to see each other in real life too. Twice a year we fly the whole engineering team together to a different location in Europe, and at least once a year we join up with the rest of the company so we can spend some time together with the other departments.
-&amp;nbsp;
-What does your future look like?
-Personal growth is key to staying motivated. At Silverfin you don’t need to move to management in order to advance. We see the individual contributor track and the management track as two different growth paths which every engineer can follow and switch between. You can be promoted, including pay raises, as a contributor just like as a manager.
-&amp;nbsp;
-Everyone has a €1200 yearly budget to spend on conferences, courses, workshops or other training to improve their skills and level up. This also includes accommodation, travel costs. If the conference is on a workday you’ll get paid like any normal day.
-&amp;nbsp;
-Requirements
-
-
-You have at least 4 years of experience working with Ruby, or 2 years of experience with Ruby and 4 years in one or more other programming languages
-You have experience Javascript framework(s)
-Your work hours have some overlap with EU business hours (we require your local timezone to be within CET +/- 3h)
-You can communicate clearly in English, both written and verbally
-
-
-Nice to haves
-These would be nice but are definitely not necessary. Don’t worry if none of the following applies to you.
-
-
-Experience as a remote worker in a fully remote team
-Experience working with large datasets and the problems they bring
-Experience with Vue.js
-Experience in Fintech
-Accounting knowledge
-
-
-&amp;nbsp;
-Interested?
-You can apply today and we’ll start having interviews from 24/11/2025. There’s no benefit to applying early, so you can take your time answering the application questions.
-&amp;nbsp;
-Read about what our interviewing process looks like&amp;nbsp;
-&amp;nbsp;
-
-
-We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
-
-
-To apply: https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1</description><pubDate>Tue, 23 Dec 2025 08:30:21 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week</description><pubDate>Wed, 24 Dec 2025 15:42:44 +0000</pubDate></item></channel></rss>
