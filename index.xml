@@ -1,5 +1,96 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>A.Team: Senior Independent Software Developer ($90-$170/hr)</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</link><description>Headquarters: NYC and TLV
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>LLCU University: Senior Front-End Wordpress Developer – Tailwind Specialist</title><link>https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist</link><description>Headquarters: Florida
+    URL: https://www.llcuniversity.com/
+
+
+About the Role:
+We're looking for a senior front-end developer who cares about clean code, loves solving complex puzzles, and has a great eye for design. This role is for a full redesign of our website — not client work, not multiple sites.
+You’ll turn our Figma design into a custom WordPress site — no page builders, just a thoughtful, performant, hand-coded theme. We'll launch the new design component-by-component to the live site, so you’ll work closely with our team to build and ship each part with care.
+We use GitHub for version control. You should be confident in CSS, Tailwind CSS, PHP, JavaScript, and HTML. If you have an eye for detail and care about helping people through your work, we’d love to meet you.
+(Note: We don't need/use JS frameworks like React, Vue.js, etc.)
+What does the work look like?
+We’re looking for a front-end developer to work in between our design &amp;amp; tech teams. Our current project is a major redesign, which still has a lot of logic to code. After that, you could be working on any number of projects, from interactive tools built from scratch (ex: an Operating Agreement generator) to internal tools for the content team.&amp;nbsp;
+As a first step, you’ll get a full walkthrough of what’s been built so far. You might review or audit the code, and you’ll be part of the brainstorming and problem-solving process. You’ll also help us figure out exactly what work still needs to be done.
+Key Responsibilities:
+
+
+Turn detailed Figma designs into a responsive, accessible, and fully functional WordPress site
+
+
+Write clean, efficient, and maintainable code using CSS, PHP, JavaScript and HTML.
+
+
+Make sure everything works across browsers and runs fast
+
+
+Work closely with our designer, back-end developer, founder, and SEO strategist to get every detail right — we care deeply about doing great work
+
+
+Help improve how we build things by refining our process and sharing ideas
+
+
+Required Skills &amp;amp; Qualifications:
+
+
+10+ years of front-end WordPress experience
+
+
+Expert at turning Figma designs into custom WordPress themes
+
+
+Strong in CSS, PHP, JavaScript and HTML.
+
+
+Vast experience using Tailwind CSS in real-world projects
+
+
+Strong proficiency in CSS and modern layout techniques (Flexbox, Grid, etc.)
+
+
+Deep understanding of responsive and adaptive design
+
+
+3+ years using Git for version control
+
+
+Clear and thoughtful communication in English — written and spoken
+
+
+Willing to have honest, open, even though conversations when needed — we care about trust and doing great work together
+
+
+A strong culture fit — we're a kind, friendly team that cares about details, good communication, and helping each other do our best work
+
+
+Personal Traits:
+
+
+You have a growth mindset and love learning new things to keep improving your craft
+
+
+You bring a positive attitude, take initiative, and enjoy solving tough problems
+
+
+You’re comfortable working as part of a team and independently — we work on the Eastern Time zone.
+
+
+Note: We do lots of video calls and screensharing for brainstorming and troubleshooting.
+
+
+Why Join Us?
+
+
+Collaborate on high-impact projects with a passionate, supportive team.
+
+
+Embrace a culture that values positivity, growth, and professional excellence.
+
+
+Enjoy flexibility, autonomy, and opportunities to grow your skillset.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist</description><pubDate>Fri, 10 Oct 2025 04:11:49 +0000</pubDate></item><item><title>A.Team: Senior Independent Software Developer ($90-$170/hr)</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</link><description>Headquarters: NYC and TLV
     URL: https://build.a.team/wwrfastrackreferral
 
 
@@ -938,30 +1029,4 @@ Then don't hesitate and apply for our position today. If you have any questions,
 
 
 
-To apply: https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote</description><pubDate>Tue, 25 Nov 2025 15:18:39 +0000</pubDate></item><item><title>Stack Influence: Senior Full Stack Javascript Engineer (Remote, 4-day week)</title><link>https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week</link><description>Headquarters: Miami, FL
-    URL: https://stackinfluence.com
-
-
-Stack Influence is a VC-funded creator marketplace app connecting eCommerce brands with everyday social media users. We are a high-growth, remote-first startup that offers a flexible 4- day work week.
-You will be responsible for developing the codebase and infrastructure for a modern tech stack (React, Node, Next.js, Azure Cloud). We are looking for a high impact individual contributor who can architect, build, and deploy end-to-end full-stack applications. We are a small team with two other senior engineers contributing to the codebase.
-Salary is between $125-200k USD with equity potential.
-Responsibilities:
-
-Develop, test and iterate on product features spanning frontend (React, Next.js, TypeScript), backend (Node.js, PostgreSQL, Hono), and cloud infrastructure (Azure).
-Work closely with product, design, QA, and business teams to translate requirements, mockups and process flows into production-ready features.
-Design and build integrations with third-party services such as social media, eCommerce, artificial intelligence and financial services.
-Follow best practices for code quality, reliability, security, and scalability.
-Implement automated integration tests (Jest) that adhere to test plans.
-Monitor live applications and troubleshoot issues post-deployment.
-
-Qualifications:
-
-7+ years experience as a full-stack software engineer working on modern JavaScript/TypeScript codebases.
-Strong data and querying skills, experienced with both relational databases (PostgreSQL) and NoSQL databases (MongoDB).
-Strong experience with cloud infrastructure (Azure).
-Experience with writing and debugging automated tests (Jest).
-Motivated and productive in small, remote teams with async communication and minimal supervision.
-Customer-first mindset with a focus on usability and performance.
-
-
-To apply: https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week</description><pubDate>Wed, 24 Dec 2025 15:42:44 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote</description><pubDate>Tue, 25 Nov 2025 15:18:39 +0000</pubDate></item></channel></rss>
