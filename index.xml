@@ -1,5 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>SuperPlane Inc.: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/superplane-inc-senior-software-engineer</link><description>Headquarters: USA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>AHU Technologies: Curam Business Analyst</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-curam-business-analyst</link><description>Headquarters: Washington, DC 20009
+    URL: http://ahutech.com
+
+
+
+
+Role: Curam Business AnalystClient : DC governmentLocation : Washington, D.C. (Remote)Job Description :  The resource will become an integral part of the DCAS Team, making every problem associated to the platform a problem of their own and will demonstrate the required initiative and critical thinking abilities necessary to resolve all problems and challenges accordingly.&amp;nbsp;
+Must have experience using Cúram Global Income Support and HealthCare Reform Business Application Suite
+Must have experience in Data Analysis and data presentation
+Experience in planning and leading JAD sessions and creating functional design documents
+Excellent interpersonal skills, verbal, and written communication skills
+Understanding of design and development concepts and familiarity with design patterns and the SDLC
+A strong ethical foundation, capable of thriving in an environment and culture where honesty, integrity, and accountability are core values
+A collaborative spirit, a team orientation, and a willingness and desire to contribute to the success of others
+Responsibilities&amp;nbsp;
+Provide status reporting, quality assurance monitoring and ensure adherence to procedures
+The Business Analyst serves as a liaison between project teams, and vendors ensuring that everyone is aligned with the project goals and requirements.
+Review the Triage defect that gets raised from the Production environment, prioritize, and groom the backlog
+Review and validate deliverables submitted by the vendors
+Data analysis and create the metrics for all the CSL tickets raised by the end customers
+Quality Control of all the technical workstreams
+Define and maintain the end-to-end process for functional Batch executions
+Documentation and Governance by maintaining comprehensive documentation for project transparency, compliance, and knowledge management.
+Draft Standard Operating Procedures
+Prepare technical team presentations
+As a Business Analyst you will provide system analysis, development, and production support
+The Cúram Business Analyst will design functional approaches to customize functionality using the Cúram Business Application Suite
+The Business Analyst is also a lead team member in the planningand execution of testing, training, support of user testing and customer support post implementation&amp;nbsp;
+Lead requirement gathering sessions, according to agree upon project scope for various areas of the application
+Participate in/lead systems analysis and gap analysis
+Produce client-approved deliverables required in standard project development including functional requirements, training content, job aids, use cases, requirements traceability matrix, test cases and plans
+Support team members through the development and testing of your functional designs
+
+CONTRACT JOB DESCRIPTIONResponsibilities:1. Coordinates IT project management, engineering, maintenance, QA, and risk management.2. Plans, coordinates, and monitors project activities.3. Develops technical applications to support users.4. Develops, implements, maintains and enforces documented standards and procedures for the design, development, installation, modification, and documentation of assigned systems.5. Provides training for system products and procedures.6. Performs application upgrades.7. Performs, monitoring, maintenance, or reporting on real- time databases, real-time network and serial data communications, and real-time graphics and logic applications.8. Troubleshoots problems.9. Ensures project life-cycle is in compliance with District standards and procedures.
+
+This is a remote position.
+
+          Compensation: $65.00 - $70.00 per hour
+        
+ 
+About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&amp;nbsp; AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-curam-business-analyst</description><pubDate>Fri, 09 Jan 2026 18:50:56 +0000</pubDate></item><item><title>SuperPlane Inc.: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/superplane-inc-senior-software-engineer</link><description>Headquarters: USA
     URL: https://superplane.com/
 
 
@@ -1004,35 +1048,4 @@ Experience with evaluation pipelines, vector databases, or applied ML in product
 
 
 
-To apply: https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer</description><pubDate>Thu, 27 Nov 2025 15:51:27 +0000</pubDate></item><item><title>PostHog: Product Engineer - Data Modeling</title><link>https://weworkremotely.com/remote-jobs/posthog-product-engineer-data-modeling</link><description>Headquarters: San Francisco
-    URL: https://posthog.com/
-
-
-About PostHog
-We&amp;nbsp;equip every developer to build successful products.
-We started with open-source product analytics,&amp;nbsp;launched out of Y Combinator's W20 cohort.
-We've since shipped&amp;nbsp;more than a dozen products, including&amp;nbsp;a built-in data warehouse,&amp;nbsp;a customer data platform, and&amp;nbsp;Max AI, an AI-powered analyst that answers product questions, helps users find useful session recordings, and writes custom SQL queries.
-Next on the roadmap are messaging, customer analytics, ai task creation and coding based on customer data, logs and support analytics.
-Our&amp;nbsp;values&amp;nbsp;are not a poster on the wall full of aspiration. They’ve come from how we really work, day in day out.
-PostHog is&amp;nbsp;open source&amp;nbsp;product led, and a&amp;nbsp;default alive&amp;nbsp;company that is well funded.
-What you'll be doing
-As a Product Engineer - Data Modeling s on the Data Stack team, you’ll build end user tools for understanding and traversing their data models.
-You’ll work on materializing user defined queries, and schedule &amp;amp; resolve DAGs of query materialization.
-You’ll debug stateful data workflows by digging into k8s pod metrics, and schedule jobs using&amp;nbsp;Temporal.io. As you can see, there’s a huge breadth of challenges and opportunities to tackle, and nothing is off-limits.
-The PostHog Data Stack is both a core product for our users and a foundational platform for our internal teams. Data is a first-class product at PostHog, not an afterthought.
-You will have the chance to push the boundaries of what our Data Stack team can do while ensuring we remain stable and production-ready.
-You now know what you’ll be doing, but what about what you’ll need to bring along?
-You’ll fit right in if:
-
-You’re a builder.&amp;nbsp;You bring strong skills in building resilient systems, with experience in Kubernetes, Docker, and S3 at scale. We build in python. Async-python and&amp;nbsp;Temporal.io&amp;nbsp;skills are welcome.
-You have good practices around building resilient systems.&amp;nbsp;Logging, testing and monitoring (observability), but you are also comfortable with debugging stateful, async data workflows by digging into k8s pod metrics.
-You are proficient in building UIs for data intensive tools.&amp;nbsp;React is part of your toolset.
-You bring experience with DAG’s and Batch processing.&amp;nbsp;Having used Dbt is a plus.
-You bring a mix of skills.&amp;nbsp;It’s not just about the query engine. You’ll need strong backend skills as we run a complex system.
-You love getting things done.&amp;nbsp;Engineers at PostHog have an incredible amount of autonomy to decide what to work on, so you’ll need to be proactive and just&amp;nbsp;git&amp;nbsp;it done.
-You’re ready to do the best work of your career.&amp;nbsp;We have incredible distribution, a big financial cushion and an amazing team. There’s probably no better place to see how far you can go.
-
-If this sounds like you, we should talk.
-We are committed to ensuring a fair and accessible interview process. If you need any accommodations or adjustments, please let us know.
-
-To apply: https://weworkremotely.com/remote-jobs/posthog-product-engineer-data-modeling</description><pubDate>Wed, 26 Nov 2025 00:14:40 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer</description><pubDate>Thu, 27 Nov 2025 15:51:27 +0000</pubDate></item></channel></rss>
