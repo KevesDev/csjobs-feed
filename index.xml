@@ -1,5 +1,141 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>LLCU University: Senior Front-End Wordpress Developer – Tailwind Specialist</title><link>https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist</link><description>Headquarters: Florida
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>SuperPlane Inc.: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/superplane-inc-senior-software-engineer</link><description>Headquarters: USA
+    URL: https://superplane.com/
+
+
+About SuperPlane
+SuperPlane is an AI-native DevOps control plane. Our mission is to build the platform teams use to ship and manage software in the AI era.
+Agents are helping us write an order of magnitude more code, while systems have become too complex for human-driven ops alone. We're rethinking DevOps from first principles for the AI era: a single control layer where engineers and agents safely collaborate.
+We move fast. We aim high. If that sounds like the kind of problem you want to work on, we’d love to talk.
+About the Role
+At SuperPlane, you’ll shape the future of DevOps, creating features that bring intelligence, automation, and simplicity to complex infrastructure workflows. Collaborating with Product, AI, and Design, you’ll build systems that developers love to rely on for every release and deployment.
+This is a remote position open to candidates based in Europe and Latin America.
+What You’ll Do
+
+
+Develop core features of SuperPlane from conception to deployment.
+
+
+Develop APIs, integrations, and scalable services for multi-cloud environments.
+
+
+Collaborate with the AI and Product teams to implement intelligent automation features.
+
+
+Review peers’ work and contribute to engineering best practices.
+
+
+Continuously improve performance, security, and developer experience.
+
+
+Requirements
+
+
+You are a full-stack developer
+
+
+You have deep knowledge of Go, Typescript, and/or React. We will also accept applicants who have deep knowledge of comparable technologies, but we will expect you to move fast and master React and Go as you join the team.
+
+
+You are proficient with AI-assisted development (e.g., Claude Code)
+
+
+Solid understanding of cloud-native technologies (Docker, Kubernetes, CI/CD).
+
+
+You have expertise in designing secure, high-performance APIs and distributed systems.
+
+
+
+
+You push systems and yourself to world-class standards.
+
+
+Communicate clearly and collaborate well across teams.
+
+
+Why You’ll Love Working at SuperPlane
+
+
+Work on an open-source platform shaping the future of DevOps worldwide.
+
+
+See your work used and relied on by engineers across the globe.
+
+
+Competitive compensation &amp;amp; meaningful equity in a high-growth startup.
+
+
+Fully remote and flexible environment that lets you focus and create.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/superplane-inc-senior-software-engineer</description><pubDate>Thu, 08 Jan 2026 15:01:56 +0000</pubDate></item><item><title>SuperPlane Inc.: Lead Frontend Engineer</title><link>https://weworkremotely.com/remote-jobs/superplane-inc-lead-frontend-engineer</link><description>Headquarters: USA
+    URL: https://superplane.com/
+
+
+About SuperPlane
+SuperPlane is an AI-native DevOps control plane. Our mission is to build the platform teams use to ship and manage software in the AI era.
+Agents are helping us write an order of magnitude more code, while systems have become too complex for human-driven ops alone. We're rethinking DevOps from first principles for the AI era: a single control layer where engineers and agents safely collaborate.
+We move fast. We aim high. If that sounds like the kind of problem you want to work on, we’d love to talk.
+About the Role
+At SuperPlane, you’ll shape the future of DevOps, creating features that bring intelligence, automation, and simplicity to complex infrastructure workflows.
+You'll build interfaces that load instantly, feel flawless, and scale effortlessly. Every tooling choice, every pattern, every optimization decision is yours to make, and you'll be held accountable for the results.
+What You’ll Do
+
+
+Own frontend features from conception to deployment: UI, state management, performance, polish.
+
+
+Build responsive, performant interfaces that integrate seamlessly with backend APIs and services.
+
+
+Collaborate with AI and Product teams to implement intelligent, user-facing automation features.
+
+
+Review peers' work and set the standard for frontend engineering excellence.
+
+
+Requirements
+
+
+Expert-level React and modern frontend (TypeScript, performance optimization, build systems, testing)
+
+
+Full-stack capable: you write backend code when needed without waiting on others. We expect you to learn Go when you join the team.
+
+
+You are proficient with AI-assisted development (e.g., Claude Code)
+
+
+You've built production systems that scale and stay fast
+
+
+
+
+You push systems and yourself to world-class standards.
+
+
+Communicate clearly and collaborate well across teams.
+
+
+Why You’ll Love Working at SuperPlane
+
+
+Work on an open-source platform shaping the future of DevOps worldwide.
+
+
+See your work used and relied on by engineers across the globe.
+
+
+Competitive compensation &amp;amp; meaningful equity in a high-growth startup.
+
+
+Fully remote and flexible environment that lets you focus and create.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/superplane-inc-lead-frontend-engineer</description><pubDate>Thu, 08 Jan 2026 14:46:56 +0000</pubDate></item><item><title>LLCU University: Senior Front-End Wordpress Developer – Tailwind Specialist</title><link>https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist</link><description>Headquarters: Florida
     URL: https://www.llcuniversity.com/
 
 
@@ -899,134 +1035,4 @@ You’re ready to do the best work of your career.&amp;nbsp;We have incredible d
 If this sounds like you, we should talk.
 We are committed to ensuring a fair and accessible interview process. If you need any accommodations or adjustments, please let us know.
 
-To apply: https://weworkremotely.com/remote-jobs/posthog-product-engineer-data-modeling</description><pubDate>Wed, 26 Nov 2025 00:14:40 +0000</pubDate></item><item><title>PostHog: AI Product Engineer</title><link>https://weworkremotely.com/remote-jobs/posthog-ai-product-engineer</link><description>Headquarters: San Francisco
-    URL: https://posthog.com/
-
-
-About PostHog
-We're shipping every product that companies need to run their business from their first day, to the day they IPO, and beyond. The operating system for folks who build software.
-We started with open-source product analytics,&amp;nbsp;launched out of Y Combinator's W20 cohort. We've since shipped more than a dozen products&amp;nbsp;including:
-
-A built-in data warehouse, so users can query product and customer data together using custom SQL insights.
-A customer data platform, so they can send their data wherever they need with ease.
-PostHog AI, an AI-powered analyst that answers product questions, helps users find useful session recordings, and writes custom SQL queries.
-
-Next on the roadmap are CRM, messaging, revenue analytics, and support products. When we say every product that companies need to run their business, we really mean it!
-We are:
-1. Product-led. More than 100,000 companies have installed PostHog, mostly driven by word-of-mouth. We have intensely strong product-market fit.2. Default alive. Revenue is growing 10% MoM on average, and we're very efficient. We raise money to push ambition and grow faster, not to keep the lights on.3. Well-funded. We've raised more than $100m from some of the world's top investors. We're set up for a long, ambitious journey.
-We're focused on building an awesome product for end users, hiring exceptional teammates, shipping fast, and&amp;nbsp;being as weird as possible.
-Things we care about
-
-Transparency: Everyone can read about our roadmap, how we pay (or even let go of) people, our strategy, and how we work, in our public company handbook. Internally, we share revenue, notes and slides from board meetings, and fundraising plans, so everyone has the context they need to make good decisions.
-Autonomy: We don’t tell anyone what to do. Everyone chooses what to work on next based on what's going to have the biggest impact on our customers, and what they find interesting and motivating to work on. Engineers lead product teams and make product decisions. Teams are flexible and easy to change when needed.
-Shipping fast: Why not now? We want to build a lot of products; we can't do that shipping at a normal pace. We've built the company around small teams – autonomous, highly-efficient groups of cracked engineers who can outship much larger companies because they own their products end-to-end.
-Time for building: Nothing gets shipped in a meeting. We're a natively remote company. We default to async communication – PRs &amp;gt; Issues &amp;gt; Slack. Tuesdays and Thursdays are&amp;nbsp;meeting-free days, and we prioritize heads down building time over perfect coordination. This will be the most productive job you've ever had.
-Ambition: We want to solve big problems. We strongly believe that aiming for the best possible upside, and sometimes missing, is better than never trying. We're optimistic about what's possible and our ability to get there.
-Being weird: Weird means redesigning an already world-class website for the 5th time. It means shipping literally every product that relates to customer data. It means building an objectively unnecessary developer toy with dubious shareholder value. Doing weird stuff is a competitive advantage. And it's fun.
-
-Who we're looking for
-We’re looking for a full-stack engineer who knows how to leverage LLMs to make PostHog 10x more powerful. You’ve built and shipped agentic AI applications before and understand it’s more than just hitting an API with a good prompt.
-You’ll fit right in if you:
-
-Ship end-to-end AI apps — from backend infra to frontend UX.
-Collaborate widely — work across teams, find the right people, and make progress fast.
-Think like a product builder — care about users and outcomes, not just code.
-
-If you’ve worked in autonomous agents, workflow automation, or AI copilots before, you’ll feel at home — but here you’ll get to build it from scratch, in the open, with massive impact.
-What makes this role unique
-In this role, you’re not hacking together an AI agent hoping someone will use it — you’re building on top of a firehose of real customer data with immediate impact, whether that means creating new AI-powered tools or building observability features that help others understand how their agents perform in the wild.
-
-Impact from day one: You’re building agents on top of real customer data — not toy demos, not “when we get users.”
-Data advantage: PostHog already collects all the context agents need to be useful: analytics, sessions, events, feature flags, and more. You’ll build on top of it all.
-Agents that matter: Instead of copilots on the side, you’ll create background agents embedded into engineering workflows - changing how software gets built. Or, you might focus on building the analytics and observability layer around those agents - surfacing insights, clustering behaviors, and measuring model quality so teams can improve their own AI systems with confidence.
-Build in the open: Work with feedback from the largest open-source product engineering communities in the world.
-
-What you'll be doing
-
-Owning products and features from beginning to end. This means originating ideas based on your intuition, talking to users, and understanding our strategy and goals. It means testing MVPs in production with real users. It means&amp;nbsp;iterating on their feedback, owning pricing, and ensuring the ongoing success of your work.
-Collaborating with design (when necessary). Product engineers at PostHog are full-stack, so we expect you to ship and own the basic UX of your work using&amp;nbsp;our design system. From there, it's up to you to decide when to collaborate with our design team to iterate and polish the experience.
-Implementing AI features. LLMs, eh? They're getting&amp;nbsp;prettaaay, prettaay good. All our products integrate with PostHog AI, so you'll likely be working with the PostHog AI team to implement AI features in your products. For some teams, that means designing observability and evaluation features for AI products.
-Talking to users. Good product engineers read feedback from users and iterate quickly. Great product engineers have users they're friendly with, talk with them frequently, bounce ideas off them, and iterate with them when they ship new things.
-Doing support. Every week, one person in each engineering team is designated the Support hero. Their job is to investigate and resolve issues reported by customers for their product. Giving users support from real engineers and shipping fixes and improvements in real-time is one of the best ways to spark joy in users. This role will also include some on-call time, too.
-Writing docs. We have a content team that will collaborate with you on reviewing, polishing, and improving your documentation, but the best person to document a new feature is the person who built it.
-
-Requirements
-
-Full-stack experience with relevant technologies – e.g. Python or similar, React or similar, something to do with big data is a bonus.
-Prior experience in AI workflow automation, copilots, or autonomous agent products.
-Ability to choose pragmatic architectures, ship quickly, and iterate based on real feedback.
-Strong sense for UX and product polish.
-Excellent communicator who thrives on collaboration across teams.
-
-Nice to have
-
-Have worked at a high-growth SaaS company before.
-Extensive knowledge of Django and/or TypeScript-based React.
-Experience building AI-native products or integrating AI into existing software.
-
-If you have a disability, please let us know if there's any way we can make the interview process better for you - we're happy to accommodate!
-
-To apply: https://weworkremotely.com/remote-jobs/posthog-ai-product-engineer</description><pubDate>Wed, 26 Nov 2025 00:02:22 +0000</pubDate></item><item><title>comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80–100% (f/m/x), fully remote</title><link>https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote</link><description>Headquarters: Zuerich
-    URL: https://en.comparis.ch/
-
-
-
-What you will do
-
-&amp;nbsp;
-To further develop and enhance our applications, we are looking for an experienced Full Stack Software Engineer on a Senior Level to join our multinational Scrum team. You will help in design, development, testing of Comparis applications, working on both a .NET backend and a React frontend. You will contribute heavily to architectural decisions, mentor other developers, and help shape the future of our digital products.Core responsibilities:
-
-Design, develop, and deploy cloud-native applications using .NET Core/ASP.NET, and Next.js.
-Lead architectural discussions and provide direction on technology choices and design patterns.
-Build and maintain RESTful APIs, microservices, and distributed systems.
-Work with Docker/Kubernetes in Azure.
-Implement responsive, high-quality UI components with React and JavaScript/TypeScript.
-Optimize applications for performance, availability, scalability, and security.
-Use/build CI/CD pipelines, automated testing, and deployments.
-Monitor, diagnose, and resolve complex production issues.
-Mentor team members and promote engineering best practices.
-
-
-
-
-
-Required Skills and Qualifications
-
-
-
-Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field (or equivalent practical experience).
-7–8 years of professional software development experience.
-Strong proficiency in C#, .NET Core/ASP.NET.
-Extensive experience with React.js, JavaScript/TypeScript, HTML5, and CSS3.
-Strong background in cloud infrastructure with hands-on experience building and operating cloud-native applications using Azure, AWS or GCP
-Experience with modern compute platforms, including container orchestration (e.g., Kubernetes), serverless functions, and scalable application hosting environments
-Skilled in designing and working with event-driven and message-based architectures using queues, topics, and publish/subscribe patterns
-Proficient with both relational and NoSQL databases, with experience designing distributed and cloud-native data solutions
-Familiar with cloud-based storage services, structured storage options, and secure secrets/configuration management
-Solid experience with Infrastructure-as-Code tooling (e.g., Terraform, Pulumi) for provisioning, automation, and maintaining consistent environments
-Experience with REST APIs, microservices, and distributed systems.
-Experience with CI/CD pipelines, Git, Agile boards
-You are experienced with agile development methodologies like Scrum and understand outcome-driven development.
-You are fluent in English.
-
-
-
-
-
-In return, here is what you can expect from us
-&amp;nbsp;
-
-At Comparis, we believe that empowered employees deliver the best results. We cultivate a culture of transparency, mutual respect and trust. Firm believers in lifelong learning, we are always trying out new things and continuously developing – both as individuals and as a team. We also offer flat hierarchies, considerable autonomy and creative freedom, as well as a skilled and motivated team that will advise and support you in your work and make it easy for you to push your own boundaries. Finally, we offer flexible working hours to work from wherever you are and live.
-&amp;nbsp;
-
-
-
-Have we triggered your interest?
-
-
-Then don't hesitate and apply for our position today. If you have any questions, Daphne, our People Management Lead, will be happy to help. We look forward to receiving your application!&amp;nbsp;Note: This position offers the flexibility to work fully remotely. If you opt for a remote set-up, we kindly ask that you consider applying only if your time zone is within a maximum difference of +/- 2 hours from Switzerland (GMT +2). &amp;nbsp;
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote</description><pubDate>Tue, 25 Nov 2025 15:18:39 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/posthog-product-engineer-data-modeling</description><pubDate>Wed, 26 Nov 2025 00:14:40 +0000</pubDate></item></channel></rss>
