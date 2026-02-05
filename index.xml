@@ -1,5 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>DexCom: Sr Web Applications Developer - eCommerce</title><link>https://weworkremotely.com/remote-jobs/dexcom-sr-web-applications-developer-ecommerce</link><description>Headquarters: Remote - United Kingdom
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Mobena: Frontend Engineer</title><link>https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</link><description>Headquarters: New York, NY
+    URL: https://mobena.co/
+
+
+Mobena is a three-person, remote-first startup building the “evolution” of multi-generational tax/estate planning software, targeting the advisors of America’s 2 million wealthiest families. We’re currently hiring our first dedicated UI Engineer to “own” the frontend of our flagship product, Mobena Evolution, for which we have little to no frontend code. You’ll work directly with our backend/algorithm-focused CTO, as well as our designer-founder, to turn evolving Figma concepts into fast, maintainable, and scalable user interfaces.
+What You’ll Do
+
+Choose and justify the frameworks and tools that best fit our needs.
+
+We have some holdover prototype code in Vite JS, but you can take it or leave it; all of our Figma concepts are new.
+The backend is a standard HTTP API. We are open to everything from established web stacks (React, Angular, Svelte, Vite) to cross-platform or native solutions (Qt, WASM, .NET MAUI, Tauri, Electron, Tk)—literally anything, if you can convince us it’s the right choice.
+
+Build our UI from the ground up, establishing clear, maintainable patterns for components, state management, styling, testing, performance, and accessibility.
+Collaborate to refine and sometimes re-frame existing screen designs in Figma.
+Connect the frontend to our APIs (REST, GraphQL, or similar).
+Lay groundwork for future mobile clients; however, experience in this regard is a plus rather than a requirement.
+
+About You
+
+You’ve shipped an interactive application—web, desktop, or mobile—via coursework, open source, side project or professional work.
+You care about usability and design quality. (That is, you care about the user.)
+You learn by doing: building things rather than sitting in committee.
+You are happy to say I don’t know. We try to cultivate “beginner’s mind” at Mobena—it helps us avoid conventional traps and groupthink. The first step of thinking like a beginner is acknowledging your own ignorance! 😊
+You can defend your technical choices in clear English, and can take credit for your successes as well your mistakes.
+You are comfortable in an early-stage, collaborative environment.
+
+
+To apply: https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</description><pubDate>Fri, 16 May 2025 20:03:34 +0000</pubDate></item><item><title>CodeSignal: Software Engineer, Business Experience</title><link>https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</link><description>Headquarters: San Francisco
+    URL: https://codesignal.com/
+
+
+We are looking for a Software Engineer who wants to be an impactful part of a small team looking to change the way technical hiring is done. In this role, you will be an integral part of our Product Engineering team and will drive features with immediate business impact to our core products:&amp;nbsp;Assessments,&amp;nbsp;Interviews, and&amp;nbsp;Learn. You’ll be a key member of the team that builds and maintains our identity and authentication systems, tying all of our products together.
+To learn more about the kinds of projects we work on, check out our&amp;nbsp;Engineering blog! Some noteworthy projects include:
+
+Why we moved from MongoDB &amp;amp; Meteor observers to Redis
+What we learned when 10,000 users hit our platform at once
+How to avoid issues with your HTML email formatting
+
+Day-to-Day&amp;nbsp;
+
+Contribute to building product features across the full stack (from the front-end to the back-end to separate microservices)
+Develop clean and maintainable code, with an emphasis on quality and craftsmanship
+Conduct code reviews and collaborate with your peers
+Lead technical design discussions on features where you're able to lend your expertise
+
+Basic Qualifications
+
+At least 4 years of professional, full-time software engineering experience
+Clear and effective communication skills
+Drive and initiative for getting things done
+Experience with TypeScript/JavaScript (browser, Node, or both)
+Available to work full-time. Candidates must be based within GMT-GMT+6 timezones.
+
+Bonus Points for the Following
+
+Experience with any part of our stack:
+React
+Node
+MongoDB
+GraphQL
+Experience with SSO, SCIM or RBAC.
+Any experience in a related industry, including assessments, HR tech, or education.
+
+
+To apply: https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</description><pubDate>Wed, 12 Nov 2025 08:56:02 +0000</pubDate></item><item><title>DexCom: Sr Web Applications Developer - eCommerce</title><link>https://weworkremotely.com/remote-jobs/dexcom-sr-web-applications-developer-ecommerce</link><description>Headquarters: Remote - United Kingdom
     URL: http://dexcom.com
 
 
@@ -762,180 +826,4 @@ To apply: https://weworkremotely.com/remote-jobs/sangoma-web-developer-remote-ca
 
 Description&amp;nbsp;A Website Developer will be a key contributor to the architecture, design, and development of scalable, cloud-native applications that drive our digital initiatives. Expertise in integrating front-end and back-end technologies, coupled with deep knowledge of Microsoft tools and frameworks, will be essential in delivering robust, modern web solutions. In this role, a Website Developer will collaborate closely with cross-functional teams, leveraging tools like Contentstack, Cloudinary, Netlify, Algolia, and React.js to create seamless user experiences and innovative digital products. The commitment to best practices and continuous learning will ensure the development of impactful, high-quality applications that support our evolving business needs and enhance user engagement.Essential Duties and Responsibilities Partner with cross-functional teams, including design, data, and development, to create responsive, dynamic web experiences by integrating industry-leading tools like Contentstack, Cloudinary, Netlify, and Algolia, ensuring seamless and engaging user interfaces.Lead the design and development of secure, RESTful APIs, enabling seamless integration with external services and internal systems, while maintaining a cohesive architecture across all applications.Collaborate with stakeholders to architect and build modern, scalable applications using .NET Core, C#, and Microsoft Azure, optimizing for performance, security, scalability, and compliance to deliver resilient and high-performing systems.Implement industry best practices for application optimization, ensuring reliability and scalability while integrating emerging technologies to maintain competitive, future-proof applications.Stay ahead of the curve by continuously learning and incorporating new technologies to drive innovation and keep applications at the forefront of the industry.Other duties as assigned.Job Competencies Customer/Client FocusCommunication/Building RelationshipsTime ManagementFlexibilityBusiness Acumen&amp;nbsp;RequirementsHigh School Diploma or equivalent required; Associate’s Degree in IT or a related field preferred.5+ years of experience building interactive, responsive user interfaces with React.js, along with strong proficiency in JavaScript, HTML, and CSS.5+ years of hands-on experience working with Microsoft Azure (Azure PaaS, Functions, AKS, Cosmos DB), as well as tools like Contentstack, Cloudinary, Netlify, and Algolia for cloud and integration solutions.5+ years of experience in .NET Core, ASP.NET, C#, Next.js, Angular, and SQL Server, with a focus on cloud-native, modular development practices.Expertise in designing and implementing secure and scalable RESTful APIs.Proven ability to design distributed, loosely coupled architectures and manage CI/CD pipelines within DevOps environments.Experience working in Agile/SCRUM environments and using Azure DevOps for project management and deployment.Strong communication skills, with the ability to explain complex technical solutions to stakeholders and mentor team members on best practices.Demonstrated computer skills including a working knowledge of MS Office products, including Outlook, Excel, Word, and PowerPoint.BenefitsHealth &amp;amp; Wellness Medical, Dental &amp;amp; Vision Coverage Employee Assistance Program (EAP) Fitness Reimbursement Financial Planning 401(k) with Company Match Company-Paid Life &amp;amp; Disability Insurance Supplemental Coverage Options Time Off &amp;amp; Life Balance PTO &amp;amp; Paid Holidays Leave of Absence Programs Family &amp;amp; Lifestyle Perry Homes Family College Fund New Home &amp;amp; Employee Discounts Pet Perks, Travel Assistance, &amp;amp; More ***Note to job seekers: Your resume will be reviewed as the best qualified candidates will be contacted in the event that there is potential match***&amp;nbsp;&amp;nbsp;Perry Homes is an Equal Opportunity Employer&amp;nbsp;&amp;nbsp;&amp;nbsp;Disclaimer:&amp;nbsp;Recruitment Fraud&amp;nbsp;– Any communication regarding job opportunities from our organization will be initiated through official channels only, including our company email domain, @perryhomes.com and verified social media accounts.&amp;nbsp; We advise candidates to exercise caution and refrain from sharing personal or sensitive information with any party claiming to represent our company outside of these channels.&amp;nbsp; We do not at any early stage of recruitment process solicit personal information (e.g., passport and bank account info), financial details, or any form of payment (e.g., application fee).&amp;nbsp; If you receive suspicious communications, encounter job postings that appear fraudulent, or want to confirm any employment postings, please contact&amp;nbsp;hrinfo@perryhomes.com.
 
-To apply: https://weworkremotely.com/remote-jobs/perry-homes-website-developer</description><pubDate>Tue, 06 Jan 2026 22:19:39 +0000</pubDate></item><item><title>Zencastr: Senior Fullstack Developer</title><link>https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer</link><description>Headquarters: Zencastr
-    URL: https://zencastr.com
-
-
-Empower the voices of the world @ Zencastr. If you want to push the world of podcasting into the future, come join a team who loves to live on the edge! We are a fully distributed team of smart people who are passionate about changing the world one voice at a time.
-&amp;nbsp;
-You should join us if you:
-
-
-Have significant experience with Node.js and good knowledge of JS fundamentals
-
-
-Have a good understanding of computer science fundamentals. You might not have gone to school for it, but you know the difference between heap and stack, different time complexities, and which patterns to use and when.
-
-
-You are ambitious. You might want to build your own company one day or have tried to tackle the toughest tech problems just for fun.
-
-
-You enjoy writing Javascript or Typescript
-
-
-You have an eye for performance. Whether thinking about the latest client side bundling techniques, or the proper way to shard a mongo database, you want things to be fast.
-
-
-You are just as comfortable working in a browser context or a&amp;nbsp;node.js&amp;nbsp;runtime
-
-
-You are a team player
-
-
-You have good communication skills
-
-
-What sets you apart:
-
-
-You have a passion for high performance applications
-
-
-You have significant open source contributions
-
-
-You want to work in a fast growing startup. Which comes with the blood, sweat and tears of working to disrupt an established industry
-
-
-You have empathy for the end user. A spec is a conversation starter, as an advocate for the end user you always are thinking about how to best serve their needs
-
-
-You have an eye for code quality and you strive to uphold best practices in engineering, security, and design
-
-
-Why you should choose us:
-
-
-You’ll be working with world class engineers, Phd’s, and designers in a fully distributed team
-
-
-Work in an agile and fast changing environment
-
-
-Equity commensurate to your contribution in a profitable company
-
-
-Health insurance
-
-
-Unique challenges and the support and talent to solve them
-
-
-4 weeks PTO
-
-
-Freedom to work where you please
-
-
-What we’re looking for:
-
-
-5+ years of Typescript, React, Node.js development
-
-
-Strong document / key-value store knowledge (Redis, MongoDB)
-
-
-Strong SQL knowledge
-
-
-Strong HTML / CSS / React knowledge
-
-
-Demonstrable knowledge of building scaleable consumer based apps
-
-
-Strong experience with unit, integration, and load testing
-
-
-Experience building APIs
-
-
-Experience with cloud APIs (Google Cloud, Digital Ocean)
-
-
-Bonus points if you have:
-
-
-Experiencing working in high traffic, low latency applications
-
-
-Good dev ops experience
-
-
-Digital Signal Processing experience
-
-
-Strong SQL knowledge
-
-
-&amp;nbsp;
-How to apply:
-Apply at&amp;nbsp;https://jobs.ashbyhq.com/zencastr/c4c91cc0-c5f9-4773-ab04-d239f9455aee
-We are flexible! For the right candidate we ask: What do you need to do your best work?
-
-To apply: https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer</description><pubDate>Fri, 08 Aug 2025 22:55:31 +0000</pubDate></item><item><title>Speechify Inc: Software Engineer, iOS Core Product</title><link>https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</link><description>Headquarters: Florida
-    URL: http://www.speechify.com
-
-
-Overview
-With the growth of our iOS app, being the #18 productivity app in the App Store category and also our recent recognition as Apple's 2025 Design Award for inclusivity, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward. &amp;nbsp;&amp;nbsp;
-This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
-We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;
-Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;
-What You’ll Do
-
-Opportunity to lead key engineering and product decisions
-Actively shipping production code for the Speechify iOS app
-Work within a dedicated product team
-Participate in product discussions to shape the product roadmap
-Maintain and enhance the existing complex app architecture
-
-An Ideal Candidate Should Have
-
-Experience. You've worked on products that scaled to a large user base
-Track record. You have worked on various products from inception to decent traction. You have been responsible for engineering the product
-Customer obsession. We expect every team member whose responsibilities directly impact customers to be constantly obsessed about providing the best possible experience
-Product thinking. You make thoughtful decisions about the evolution of your product and support internal teams and designers into taking the right direction
-Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time
-Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down
-Technical skills. Swift, SwiftUI
-
-Technical Requirements:
-
-Swift Programming Language
-SwiftUI experience
-Experience in Multithreading Programming
-Working with CI/CD infrastructure
-Experience with Fastlane
-SOLID principles, the ability to write every single class according to SOLID
-Experience with Git and understanding of different Git strategies
-
-What We offer:
-
-A fast-growing environment where you can help shape the company and product
-An entrepreneurial crew that supports risk, intuition, and hustle
-The opportunity to make a big impact in a transformative industry
-A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
-Work on a product that millions of people use and where daily feedback includes users sharing that they cried when they first found the product because it was so impactful on their lives
-Support people with learning differences like Dyslexia, ADD, Low Vision, Concussions, Autism, and Second Language Learners, and give reading superpowers to professionals all over the world
-Work in one of the fastest growing sectors of tech: Intersection of Artificial Intelligence and Audio
-
-Think you’re a good fit for this job?&amp;nbsp;
-Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
-Not looking but know someone who would make a great fit?&amp;nbsp;
-Refer them!&amp;nbsp;
-Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;
-Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
-
-To apply: https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</description><pubDate>Wed, 09 Jul 2025 15:35:11 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/perry-homes-website-developer</description><pubDate>Tue, 06 Jan 2026 22:19:39 +0000</pubDate></item></channel></rss>
