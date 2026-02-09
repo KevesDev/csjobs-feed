@@ -1,5 +1,572 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>AHU Technologies: Data Analyst</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-1</link><description>Headquarters: Washington, DC 20009
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Proton.ai: Senior Backend Engineer</title><link>https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer</link><description>Headquarters: Cambridge, MA 
+    URL: https://proton.ai
+
+
+About Us:The wholesale distribution industry is ready for a revolution, and Proton is leading the charge. The world relies on distributors to sell nearly every physical product, but despite its massive contribution to the global economy, this industry has been left behind in terms of technology. Proton is changing that. With AI-powered sales software, we’re breaking through the complexity of selling millions of products and making it easier for distributors to anticipate customer needs. Our mission is to bring the distribution industry into the modern age and the results speak for themselves. Distributors using Proton see 10x ROI, faster new hire ramp-up, and happier sales teams.In 2022, we raised a $20M Series A backed by Felicis Ventures (investors in Twitch, Shopify, Opendoor, and many others) and Battery Ventures. This year, we’re laser-focused on driving customer growth. If you’re excited about the opportunity to wear multiple hats, and continuously learn and experiment, now’s the time to join the Proton team.The Role:Proton is looking for an experienced Senior Backend Engineer to join our fast-growing SaaS team! Reporting directly to the Director of Engineering, the Senior Backend Engineer will drive the technical development of the Proton.ai product and platform. In this role, you will be working with the engineering team to help us build a scalable, customizable, performant and secure application.We're looking for someone technical with a deep understanding and curiosity of modern tech stacks and systems that will help us choose and implement solutions that benefit the future of our engineering. &amp;nbsp;Proton collaborates with Oyster HR to hire international employees as full time (long term) contractors within our company.&amp;nbsp;Gross Salary range is $50,000 - $70,000&amp;nbsp; USD annually, based on experience level.&amp;nbsp;&amp;nbsp;What you’ll do:&amp;nbsp;Feature Development:&amp;nbsp; Spearhead the backend coding of new features while helping the Product team understand complexity and tradeoffs. Developing across the entire full stack of our product, driving features from idea to production and rapidly delivering value to our customers that makes a real impact. &amp;nbsp;Team Collaboration: Be part of a cross-functional team, including software engineering, infrastructure, backend, frontend, and devops, to provide architectural guidance, making sure the stack decisions being made support our future growth.&amp;nbsp;Enterprise Customizability: Leverage your experience with enterprise applications to tailor our solutions to the unique needs of our corporate customers.Performance and Reliability: Share your expertise in building high-performance, reliable applications, contributing to end-to-end architecture and data flow discussions.&amp;nbsp;You'll be a great fit for this role if:&amp;nbsp;Proven experience as a principal engineer or similar in startup environments, with a focus on building scalable SaaS solutions. 7+ years of experience building and deploying scalable SaaS applications5+ years of experience with backend technologies preferably Python or Go, but C# or Java are acceptableTrack record of successful product architecture decisions and system improvements with a large focus on secure coding practices and standards to meet the needs of enterprise class customers and their data.Deep understanding of cloud-native technologies and concepts such as cloud providers, databases, application performance, scalability and securityCuriosity for new technologies. You’re someone who actively seeks to stay informed about the latest frameworks, software advancements, and tools utilized by industry peers. You like contrasting and comparing technologies to find why one fits better for certain use-cases than the other.&amp;nbsp;Experience with enterprise applications is highly preferred.Exceptional communication skills for conveying complex technical concepts to diverse stakeholders.Current Tech StackBackend&amp;nbsp;Elasticsearch &amp;amp; Redis as the main databasesActively migrating to SQL as primary database&amp;nbsp;API service in Python running in Kubernetes&amp;nbsp;Daily pre-computations run in Airflow&amp;nbsp;Machine learning&amp;nbsp;&amp;nbsp;AI models - neural networks&amp;nbsp;&amp;nbsp;Machine Learning Eng focused on experimenting with ways to improve existing models, building new models - training and developing models and deploying them&amp;nbsp;Frontend&amp;nbsp;Vue.js 3/Nuxt 3Migrating Vue Component frameworks from ElementPlus/iView to VuetifyDocker and kubernetes to deploy&amp;nbsp;Github Actions for CIWhile we have a well-established tech stack, we welcome highly skilled developers who are passionate about learning and expanding their skill set. Don't have experience with everything listed here, but eager to learn? If so, we encourage you to apply!Benefits:Competitive Salaries + Company Stock Options - we want to pay you well (and equitably!) and make you feel like an owner. &amp;nbsp;Flexible Schedule - we think high levels of autonomy, responsibility, and working asynchronously foster an amazing workplace.Biannual Company Paid Off-sites - time for us to be together, brainstorm, and make magic happen.
+
+To apply: https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer</description><pubDate>Wed, 22 Jan 2025 23:59:57 +0000</pubDate></item><item><title>OnTheGoSystems: PHP Developer (Spanish, French or German speakers)</title><link>https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-spanish-french-or-german-speakers</link><description>Headquarters: Remote
+    URL: http://onthegosystems.com
+
+
+Help us build and support&amp;nbsp;WPML – the leading multilingual plugin powering 1.5M+ websites.
+We’re looking for smart, curious developers who enjoy solving real problems and want to grow fast. This role mixes development and support: you learn the product deeply, help clients, and improve WPML based on what you discover.
+Why Join Us?
+
+
+Trusted &amp;amp; Profitable: Since 2008, OTGS has grown into a self-funded and stable company supporting over 1.5 million websites worldwide.
+
+
+Remote-first: Join a diverse team of smart and friendly people working from all corners of the world.
+
+
+Creators of WPML: You'll contribute to the #1 multilingual plugin for WordPress, used by hundreds of thousands of happy clients every day.
+
+
+Real Impact: Your work will directly improve the experience of users around the globe.
+
+
+Growth-friendly: We support your personal and professional development through mentorship, learning tools, and internal opportunities.
+
+
+Wellbeing focused: We offer great benefits to help you thrive both in and out of work.
+
+
+Indicators You're a Great Fit
+
+
+Have PHP experience and want to sharpen your skills.
+
+
+Believe in writing tests and clean, reliable code.
+
+
+Enjoy investigating problems and fixing root causes.
+
+
+Communicate clearly and genuinely, like helping people.
+
+
+Speak French, German, or Spanish.
+
+
+What You'll Do
+
+
+Deliver new features and strengthen existing components.
+
+
+Support WPML clients and solve technical problems.
+
+
+Debug issues, trace root causes, and propose product improvements.
+
+
+Grow your expertise in PHP, WordPress, testing, performance, and modern tooling.
+
+
+Take a deeper dive and learn more about our flagship product, WPML&amp;nbsp;
+If you want to learn fast, make a visible impact, and join a global team that cares about quality – apply today, and we’d love to meet you!
+
+To apply: https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-spanish-french-or-german-speakers</description><pubDate>Fri, 16 Jan 2026 14:33:20 +0000</pubDate></item><item><title>Lemon.io: Senior Python &amp; LLM /AI Engineer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-python-llm-ai-engineer</link><description>Headquarters: New York, NY
+    URL: https://lemon.io
+
+
+Are you a talented Senior Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
+What we offer:
+
+The rate depends on your skills and experience. We've already paid out over $11M to our engineers.
+No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
+We'll manually find the best project for you according to your skills and preferences.
+Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
+We respect your seniority so you can expect no micromanagement or screen trackers.
+Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
+We will support you from the time you submit the application throughout all cooperation stages.
+Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
+Through our community, we will connect you with the best developers from more than 50 countries.
+
+We are seeking a few specialists in AI/Data: AI Engineers, Data Engineers, MLOps Engineers, Data Analysts, and Data Scientists. Below are the requirements for some roles:
+Requirements – AI Engineers (Python &amp;amp; LLM):
+
+3+ years of commercial experience applying AI to practical technology solutions;
+At least 3 years of experience with LLMs is required;
+3+ years of experience with Python is required; experience with other programming languages commonly used in AI is a plus;
+Familiarity with AWS, GCP, or Azure is required;
+Experience developing and shipping AI agents.
+
+Requirements – Data Engineers:
+
+3+ years of commercial experience as a Data Engineer;
+3+ years of commercial experience with Python and AirFlow;
+Familiarity with AWS, GCP, or Azure is required.
+
+&amp;nbsp;
+
+Strong technical skills: as a Senior Engineer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
+Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
+Strong self-organizational skills — ability to work full-time remotely with no supervision.
+Reliability — we want to trust you and expect that you won’t let us and the client down.
+Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
+
+Sounds good for you? Apply now and join the Lemon.io community!
+NOT YOUR TECH STACK?
+We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas: React &amp;amp; Node, React &amp;amp; Python, Angular &amp;amp; Node, Unity, Python &amp;amp; Vue, PHP &amp;amp; Angular, PHP &amp;amp; React, Java &amp;amp; React, Blockchain, Vue &amp;amp; Node, React Native &amp;amp; TypeScript, Python &amp;amp; Node, Rust, Svelte, Shopify, Unreal Engine or DevOps — we’d be happy to connect and match you with a suitable project.
+If your experience matches our requirements, be ready for the next steps:
+
+VideoAsk — watch a short video about our startup, up to 10 minutes
+Complete your profile on our website
+30-minute screening call
+Technical interview
+Feedback
+Magic Box (we are looking for the best project for you).
+
+P.S. We work with developers from 50+ countries in different regions: Europe, LATAM, the U.S., Asia (Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), Canada, and the UK. However, we have some exceptions.
+At the moment, we don’t have a legal basis to accept applicants from the following countries:
+
+European: Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia.
+Latin America: Cuba and Nicaragua
+Most Asian countries and Africa.
+
+We expand and shorten the list of exemptions regularly.
+Do you represent a company with engineers who match the description and want to collaborate with us through staff augmentation? Then register here.
+&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-python-llm-ai-engineer</description><pubDate>Fri, 16 Jan 2026 09:01:01 +0000</pubDate></item><item><title>DynamiCare Health: Full-Stack Engineer</title><link>https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer</link><description>Headquarters: Boston, MA, USA
+    URL: https://dynamicarehealth.com
+
+
+Role Details &amp;amp; Compensation:
+
+Annual salary range: $95,000–$115,000, plus equity
+Unlimited PTO policy and a flexible work schedule
+This position is 100% remote, and applicants must be located in the United States.
+While the majority of your work will be performed during regular business hours, this role may occasionally require availability outside typical business hours.
+Please note: DynamiCare Health does not currently offer medical benefits. While we plan to make this a benefit soon, it is not available at this time.
+Remote - Full time
+Must be physically located in the USA
+Must be authorized to work in the USA with no sponsorship required
+
+&amp;nbsp;
+About Us
+DynamiCare Health is a digital therapeutics startup that helps people overcome addiction. In 8 peer-reviewed publications, DynamiCare increased quit rates for opioids, stimulants, alcohol, and tobacco by 2-4x compared to typical treatment. DynamiCare has won FDA Breakthrough Status and is already breaking into U.S. healthcare system reimbursement with partners that include the State of Rhode Island, Allegheny County of Pennsylvania, BCBS of Massachusetts, Horizon BCBSNJ, Spring Health, and Cityblock Health.&amp;nbsp;
+We understand that recovery isn't one-size-fits-all, which is why our platform provides the flexibility and continuous support needed for sustainable behavior change. We're transforming addiction care and helping more people reclaim their lives from substance use disorders. Through the Digital Recovery Platform, DynamiCare is bringing proven therapeutic approaches into the digital age, making recovery support available whenever and wherever our members need it most.
+&amp;nbsp;
+About the job
+Working as a Full-Stack Engineer at DynamiCare, you'll join a fully remote Agile team to design, build, and maintain secure, evidence-based applications. Since we're a small business, you'll have the opportunity to wear many different hats related to DevOps, Security, and other engineering-related fields.&amp;nbsp;
+As the primary developer at DynamiCare, you'll have ownership over the codebase, making this a huge opportunity for impact. There will also be room for growth in terms of leadership as the team expands, with potential to shape practices, mentor future developers, and take on greater responsibility in technical decision-making.
+We are currently striving to expand our user base and increase retention rates, with a Series A funding round on the horizon. We use a Ruby on Rails application, which powers multiple subdomains and includes a REST API that supports our member-facing React Native mobile app, as well as an Analytics application utilizing ActionView, React, and Stimulus.
+We believe DynamiCare is a great place to work. You'll collaborate in real time to make informed product decisions and play an active role in shaping the company's direction every day. We value your time and mental well-being, and we offer flexibility in working hours and time off. While there may be times when you need to jump in to resolve a critical bug, we strive to stay calm, focus on the root cause, and improve our workflows rather than place blame.
+Here are some examples of the work you might be doing at DynamiCare:
+
+Monitoring and responding to mobile and server package vulnerabilities, applying patches promptly, and evaluating whether they pose any risk to our users.
+Refactor Rails models to enhance feature development and data processing efficiency.
+Improve our appointment tracking features to include recurring appointments.
+Maintaining a probability engine used to schedule substance tests, ensuring functionality by writing a comprehensive suite of unit and integration tests.
+Building new serializers in Rails to help export data in XLSX or CSV format so that our team has insights on key metrics.
+Creating and maintaining new background jobs to improve the scalability and performance of our application.
+Ensuring data security, privacy, and compliance with HIPAA.
+
+&amp;nbsp;
+About you
+We’re seeking a candidate with a passion for technology and a motivation to make the world a better place.
+Your primary responsibilities will include full-stack development, DevOps, and maintaining strong data security across our platform. You should have at least three years of experience with our core frameworks: Ruby on Rails and React Native. Experience deploying and managing applications using CircleCI, Aptible, and AWS is especially valuable.
+Experience working within the confines of HIPAA and 42 CFR Part 2 is a strong plus, given the sensitive nature of our work. We’re also looking for someone familiar with Agile development, particularly Scrum and sprint-based workflows. Proficiency with collaboration and project management tools like Asana, Confluence, and Jira is important for staying aligned with the team.
+Even though you’re experienced, we don’t expect you to hit the ground running on day one. We value thoughtful onboarding and provide you with the time and support needed to learn our systems and processes. Strong communication is essential here, whether you're debugging code, collaborating with designers, or explaining technical concepts to non-technical teammates.&amp;nbsp;
+We also foster a collaborative environment where every voice is heard, and respectful dialogue and constructive feedback are encouraged. Our shared goal is to build a product that helps people recover from addiction, and we believe that happens best when everyone works together with openness and clarity.
+A Computer Science degree or equivalent is not required for this position. If you have the chops and the skills needed to do the job well, that’s all that matters.
+While you’ll report to our Director of IT &amp;amp; Engineering, we strongly believe in autonomy here at DynamiCare. It’s vital that you know how to manage your time, and we trust that you will as well. Investing the time and effort here will help advance your career and expose you to new and exciting challenges.
+This position is remote and operates on Eastern Time. You’re free to work wherever you succeed the most: whether it be at home or in a coffee shop. We are hiring from anywhere in the United States.
+&amp;nbsp;
+Tech Stack
+
+Mobile
+
+React Native using Expo
+SDK Integrations
+
+
+Server&amp;nbsp;
+
+Ruby on Rails
+AWS
+
+S3
+QuickSight
+
+
+Aptible
+PostgreSQL
+
+
+Data Security
+
+HIPAA Compliance
+
+
+DevOps
+
+GitHub
+CircleCI
+Docker
+Datadog
+Sentry
+
+
+
+&amp;nbsp;
+How to apply
+Please submit your application with a resume, a GitHub link, and a cover letter that tells us who you are and what you can offer to DynamiCare, as well as our company’s role in your career and future.
+Interview Process
+We aim to make a hiring decision by August 31, 2025. All interviews will be conducted over Zoom. The process includes four stages:
+
+Initial Screening – A brief call to learn more about your background and interest in the role.
+Interview with Direct Manager – A deeper discussion about your experience and technical alignment with the team.
+Interview with CEO and Head of Product Design – Focused on company vision, product thinking, and cross-functional collaboration.
+Coding Challenge – A live technical exercise to evaluate your problem-solving skills and coding approach.
+
+We value your time and strive to keep the process efficient, respectful, and transparent. You can expect each interview stage to be scheduled approximately 24–48 hours apart during business days.
+
+To apply: https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer</description><pubDate>Mon, 18 Aug 2025 16:36:41 +0000</pubDate></item><item><title>Proxify AB: Senior Fullstack Developer (Python)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-1</link><description>Headquarters: Sweden
+    URL: http://career.proxify.io
+
+
+The Role:
+&amp;nbsp;
+We are looking for a Senior Fullstack Python Developer to join our fast-growing Network.
+In this role, you’ll lead the design and implementation of scalable backend services and APIs using Python (FastAPI, Django, or Flask), while delivering polished, performant user interfaces using modern frontend frameworks such as React.js or Vue.js.
+&amp;nbsp;
+What we are looking for:
+
+5+ years of professional software development experience with strong fullstack exposure.
+3+ years of production experience with Python (FastAPI, Django, Flask).
+Solid knowledge of JavaScript/TypeScript, HTML5, CSS3.
+Strong experience with React.js or Vue.js (or similar modern frameworks such as Next.js/Nuxt.js).
+Experience with relational databases (PostgreSQL, MySQL) and ORMs such as SQLAlchemy or Django ORM.
+Strong understanding of RESTful API design and integration patterns.
+Experience writing automated tests (unit, integration) for both backend and frontend.
+Practical experience with Docker and familiarity with CI/CD pipelines (GitHub Actions, GitLab CI, CircleCI, etc.).
+Experience deploying and operating services in the cloud (AWS, Azure, GCP).
+Strong problem-solving skills and excellent English communication (written and spoken).
+Ability to work independently and deliver high-quality results in a remote setup.
+Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.
+
+&amp;nbsp;
+Nice-to-have:
+
+Deep experience with TypeScript and modern frontend tooling (Vite, Webpack, Turbopack).
+Familiarity with microservices, DDD, CQRS, or event-driven architectures.
+Experience with GraphQL and schema design.
+Knowledge of message brokers (RabbitMQ, Kafka, Redis Streams).
+Experience with Kubernetes or other orchestration platforms.
+Exposure to performance tuning, caching strategies, and observability (logs, tracing, metrics).
+Security best practices (OWASP, auth flows, OAuth2/OpenID Connect).
+Background in startups or fast-paced product environments.
+Contributions to open-source projects or published technical content.
+
+&amp;nbsp;
+Responsibilities:
+
+Design, implement, and operate scalable backend services using Python (FastAPI, Django, Flask).
+Build and maintain responsive, accessible web UIs using React.js, Vue.js, or similar modern frameworks.
+Design, document, and consume RESTful APIs (and optionally GraphQL).
+Integrate backend systems with relational and NoSQL databases.
+Ensure high code quality through unit/integration tests, code reviews, and automated pipelines.
+Make architectural decisions across backend, frontend, and system integration (monolith vs microservices).
+Collaborate with designers and product teams to translate requirements into technical solutions and excellent user experiences.
+Troubleshoot production issues, optimize performance, and ensure reliability and security.
+Mentor and guide other engineers, helping elevate team best practices.
+Work in an agile environment and contribute to continuous process and delivery improvements.
+Document architectural decisions, API contracts, workflows, and deployment procedures.
+
+What we offer:
+&amp;nbsp;
+Get paid, not played
+No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
+Predictable project hours
+Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
+Flex days, so you can recharge
+Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
+Career-accelerating positions at cutting-edge companies
+Discover exclusive long-term remote positions at the world's most exciting companies.
+Hand-picked opportunities just for you
+Skip the typical recruitment roadblocks and biases with personally matched positions.
+One seamless process, multiple opportunities
+A one-time contracting process for endless opportunities, with no extra assessments.
+Compensation
+Enjoy the same pay, every month with positions landed through Proxify.
+
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-1</description><pubDate>Thu, 15 Jan 2026 12:33:17 +0000</pubDate></item><item><title>Proxify AB: Senior Backend Developer (Node.js / Nest.js)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-1</link><description>Headquarters: Sweden
+    URL: http://career.proxify.io
+
+
+The Role:
+&amp;nbsp;
+We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences.
+This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference.
+&amp;nbsp;
+What we’re looking for:
+
+5+ years with Node.js and 3+ past years with Nest.js
+Strong expertise in Node.js and Nest.js frameworks.
+Proven experience building REST and/or GraphQL APIs.
+Strong knowledge of JavaScript (ES6+) and TypeScript.
+Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB).
+Familiarity with authentication/authorization mechanisms (JWT, OAuth2).
+Experience with unit/integration testing (e.g., Jest, Mocha).
+Proficiency with Git and version control workflows.
+Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.
+
+&amp;nbsp;
+Nice to Have:
+
+Experience with cloud platforms (AWS, Azure, GCP).
+Familiarity with CI/CD pipelines and DevOps practices.
+Understanding of event-driven architecture and message brokers (e.g., RabbitMQ, Kafka).
+Experience with Docker and containerized applications.
+Knowledge of microservices and serverless architectures.
+
+&amp;nbsp;
+Responsibilities:
+
+Design and develop robust, scalable, and secure backend applications using Node.js and Nest.js.
+Implement RESTful APIs, GraphQL endpoints, and microservices architectures.
+Optimize application performance, scalability, and maintainability.
+Integrate with databases (SQL/NoSQL) and external services via APIs.
+Ensure code quality, security, and compliance with industry standards.
+
+&amp;nbsp;
+What we offer:
+Get paid, not played
+No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
+Predictable project hours
+Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
+Flex days, so you can recharge
+Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
+Career-accelerating positions at cutting-edge companies
+Discover exclusive long-term remote positions at the world's most exciting companies.
+Hand-picked opportunities just for you
+Skip the typical recruitment roadblocks and biases with personally matched positions.
+One seamless process, multiple opportunities
+A one-time contracting process for endless opportunities, with no extra assessments.
+Compensation
+Enjoy the same pay, every month with positions landed through Proxify.
+
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-1</description><pubDate>Thu, 15 Jan 2026 12:31:23 +0000</pubDate></item><item><title>Proxify AB: Senior Fullstack Developer (Vue.js &amp; Python)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-vue-js-python</link><description>Headquarters: Sweden
+    URL: http://career.proxify.io
+
+
+The Role:
+&amp;nbsp;
+We are looking for a Senior Fullstack Developer skilled in Vue.js and Python for one of our clients. You will be responsible for architecting and implementing end-to-end features, balancing a high-performance Python backend with a reactive and intuitive Vue.js frontend. This role requires a developer who understands the "full picture"—from database schema design and API performance to component modularity and state management.
+&amp;nbsp;
+What we are looking for:
+
+5+ years of experience in frontend development, with deep expertise in the Vue.js ecosystem (Vue Router, Vite, Nuxt.js).
+Solid experience in Python-based backend development, with a strong understanding of ORMs and asynchronous programming.
+Proficiency in HTML5, CSS3 (Tailwind or SCSS), and modern JavaScript/TypeScript.
+Proven track record of designing and consuming secure, scalable APIs.
+Experience with Docker, Git, and CI/CD pipelines. Familiarity with cloud infrastructure (AWS/GCP) is a strong plus.
+Ability to take a feature from a loose concept to a production-ready product with minimal supervision.
+Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.
+
+&amp;nbsp;
+Responsibilities:
+
+Design and develop scalable, maintainable frontend applications using Vue.js (Vue 3/Composition API) and Pinia/Vuex for state management.
+Build and optimize robust RESTful or GraphQL APIs using Python (Django, FastAPI, or Flask).
+Design efficient database schemas and optimize queries (PostgreSQL/MySQL) to ensure high system availability and performance.
+Implement vertical integration strategies by connecting third-party services, internal logistics tools, and data-driven dashboards.
+Lead code reviews, advocate for best practices in testing (Unit, E2E) and documentation.
+Identify and resolve bottlenecks across the stack, ensuring a seamless "end-to-end" user experience.
+
+&amp;nbsp;
+What we offer:
+&amp;nbsp;
+Get paid, not played
+No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
+Predictable project hours
+Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
+Flex days, so you can recharge
+Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
+Career-accelerating positions at cutting-edge companies
+Discover exclusive long-term remote positions at the world's most exciting companies.
+Hand-picked opportunities just for you
+Skip the typical recruitment roadblocks and biases with personally matched positions.
+One seamless process, multiple opportunities
+A one-time contracting process for endless opportunities, with no extra assessments.
+Compensation
+Enjoy the same pay, every month with positions landed through Proxify.
+
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-vue-js-python</description><pubDate>Thu, 15 Jan 2026 12:25:56 +0000</pubDate></item><item><title>Proxify AB: Senior Backend Developer (Python)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-6</link><description>Headquarters: Sweden
+    URL: http://career.proxify.io
+
+
+The Role:
+&amp;nbsp;
+We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.
+&amp;nbsp;
+What we are looking for:
+
+
+5+ years of experience building products with Python and Django.
+
+
+High proficiency in SQL with experience using databases like PostgreSQL.
+
+
+Experience scaling cloud infrastructures with Docker or Kubernetes is a plus.
+
+
+Experience managing cloud infrastructures, specifically AWS or GCP.
+
+
+You follow the best practices and conventions.
+
+
+Relevant experience in CI/CD and related tools.
+
+
+Ability to work with minimal supervision.
+
+
+Intermediate-advanced English level.
+
+
+You can communicate well with both technical and non-technical clients.
+
+
+Time zone: CET (+/- 3 hours). We are unable to consider applications from candidates in other time zones.
+
+
+&amp;nbsp;
+Responsibilities:
+
+
+Ability to build libraries and frameworks of reusable efficient code.
+
+
+Competence in designing and implementing low-latency, stable and performing applications.
+
+
+Capacity to effectively collaborate with other team members and stakeholders remotely.
+
+
+Ability to implement data protection systems.
+
+
+Competence in data storage solutions.
+
+
+&amp;nbsp;
+&amp;nbsp;
+What we offer:
+&amp;nbsp;
+Get paid, not played
+No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
+Predictable project hours
+Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
+Flex days, so you can recharge
+Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
+Career-accelerating positions at cutting-edge companies
+Discover exclusive long-term remote positions at the world's most exciting companies.
+Hand-picked opportunities just for you
+Skip the typical recruitment roadblocks and biases with personally matched positions.
+One seamless process, multiple opportunities
+A one-time contracting process for endless opportunities, with no extra assessments.
+Compensation
+Enjoy the same pay, every month with positions landed through Proxify.
+
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-6</description><pubDate>Thu, 15 Jan 2026 11:56:02 +0000</pubDate></item><item><title>Great Good: Contract Software Engineer (AI x Biology)</title><link>https://weworkremotely.com/remote-jobs/great-good-contract-software-engineer-ai-x-biology</link><description>Headquarters: Remote
+    URL: https://greatgood.gg/
+
+
+Location: Remote (Europe or Asia preferred)
+Company: Great Good Venture Lab
+Engagement Type: Hourly or project-based contractor
+&amp;nbsp;
+About the Role
+Great Good is hiring a senior software engineer (contractor) to support early-stage ventures at the intersection of artificial intelligence and biotechnology. You’ll work directly with technical founders and early teams to prototype infrastructure and ML tools that accelerate therapeutic discovery and development.
+This is a high-autonomy role suited to engineers who enjoy working across systems, models, and real-world scientific applications.
+&amp;nbsp;
+Responsibilities
+
+
+Design and implement data pipelines and ML workflows (e.g., for sequence modeling, structure prediction, optimization loops)
+
+
+Build tools to support scientific computing, visualization, or experimental integration
+
+
+Collaborate with cross-functional teams to translate R&amp;amp;D needs into clean, scalable code
+
+
+Contribute to backend systems, cloud deployments, and toolchain setup as needed
+
+
+Deliver technical documentation and maintainable code for future handoff or extension
+
+
+&amp;nbsp;
+Requirements
+
+
+5+ years experience in software engineering or ML infrastructure
+
+
+Fluency in Python and experience with ML frameworks (e.g., PyTorch, JAX)
+
+
+Proven ability to independently scope and deliver robust systems
+
+
+Strong communication skills across time zones and disciplines
+
+
+Comfortable working in a fast-moving, experimental environment
+
+
+&amp;nbsp;
+Preferred
+
+
+Background or experience in computational biology, genomics, or protein modeling
+
+
+Experience with scientific ML, bioinformatics pipelines, or wet-lab software tools
+
+
+Prior contributions to platform or infrastructure projects in startups or research settings
+
+&amp;nbsp;
+
+Why Work With Us
+
+
+Help build transformative biotech ventures from the ground up
+
+
+Join a collaborative and mission-driven team without full-time commitment
+
+
+Work on real-world problems at the frontier of AI and therapeutic discovery
+
+
+Flexible hours, fast feedback cycles, and clear deliverables
+
+
+&amp;nbsp;
+To Apply
+Please apply using the link: https://forms.gle/sHkSMt5oTrNkHFZdA
+&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/great-good-contract-software-engineer-ai-x-biology</description><pubDate>Thu, 15 Jan 2026 11:33:52 +0000</pubDate></item><item><title>vSplash Techlabs: Manager – WordPress Delivery</title><link>https://weworkremotely.com/remote-jobs/vsplash-techlabs-manager-wordpress-delivery</link><description>Headquarters: Remote
+    URL: http://vsplash.com
+
+
+
+Manager – WordPress DeliveryLocation: Hyderabad / Remote (India) | Job Type: Full-TimeWhy This Role Matters:At vSplash, we power the digital presence of tens of thousands of small businesses every month through global digital marketing partners. With AI innovation and deep domain expertise, we help SMBs shine online — from websites to social media and beyond.As Manager – WordPress Delivery, you’ll be responsible for delivering high-quality, visually engaging, and conversion-optimized WordPress websites at scale — leading a multi-functional team of builders, designers, copywriters, and SEO specialists.You’ll ensure that every website developed not only meets technical and performance benchmarks but also reflects strong design sense, clear messaging, and SEO best practices. You’ll collaborate closely with client-facing teams to translate business goals into experiences that work beautifully and deliver measurable results.This is a hands-on leadership role focused on excellence in technical delivery, creative collaboration, and team mentorship.What You’ll Do:Lead end-to-end Website creation — from design to development — ensuring every project meets highest quality and its intended performance.Drive process optimization and automation — using data insights, process flow and collaboration across teams - streamline workflows and eliminate development bottlenecks.Coach team members on technical skills, performance, efficiency and delivery quality.Collaborate with Design, Copy, QA, Sales, Customer Success, Engineering, and Research teams.Interact with clients (domestic and overseas) and client-coordinators to understand expectations and handle escalations.Who You Are:Technically grounded and practical in problem-solving.Committed to delivering quality, efficiency, and great experiences.A collaborative leader and mentor who enables team success.Growth- and accountability-driven in every project you lead.Skills &amp;amp; Experience to have:&amp;nbsp;Must-Have:Technical expertise in HTML, CSS, WordPress page builders (especially Elementor), Shopify, Plugin based functionalities, and PHP (Plugin and Theme customization).8+ years of experience building websites on WordPress, including at least 3 years leading technical and developer teams in website delivery.Familiarity with operational tools such as Jira, Slack, and reporting dashboards.Working knowledge in spreadsheets - functions and basic data analysis.Working knowledge of Figma, Photoshop, on-page SEO concepts, modern website design principles, and website copy.Experience in interacting with overseas teams (internal or client side).Nice-to-Have:Degree in Computer Science Engineering, Master of Computer Applications, or a similar qualification.Experience in building websites for U.S. and/or Canadian markets.Why Join vSplash?Build at scale: Lead the delivery of hundreds of world-class websites every month.Innovate with AI: Leverage automation and smart tools to redefine production efficiency.Technical growth path: Advance into senior roles in web delivery or product operations.Global exposure: Collaborate with international partners and technology teams.Culture of learning: Continuous training, skill development, and recognition.Ready to Apply?If you’re a WordPress expert who thrives on technical precision, process mastery, and team leadership — we’d love to hear from you at [email&amp;nbsp;protected]. 
+
+To apply: https://weworkremotely.com/remote-jobs/vsplash-techlabs-manager-wordpress-delivery</description><pubDate>Wed, 14 Jan 2026 17:39:57 +0000</pubDate></item><item><title>AHU Technologies: Data Analyst</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-1</link><description>Headquarters: Washington, DC 20009
     URL: http://ahutech.com
 
 
@@ -862,361 +1429,4 @@ Experience with SSO, SCIM or RBAC.
 Any experience in a related industry, including assessments, HR tech, or education.
 
 
-To apply: https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</description><pubDate>Wed, 12 Nov 2025 08:56:02 +0000</pubDate></item><item><title>DexCom: Sr Web Applications Developer - eCommerce</title><link>https://weworkremotely.com/remote-jobs/dexcom-sr-web-applications-developer-ecommerce</link><description>Headquarters: Remote - United Kingdom
-    URL: http://dexcom.com
-
-
-The Company Dexcom Corporation (NASDAQ DXCM) is a pioneer and global leader in continuous glucose monitoring (CGM). Dexcom began as a small company with a big dream: To forever change how diabetes is managed. To unlock information and insights that drive better health outcomes. Here we are 25 years later, having pioneered an industry. And we're just getting started. We are broadening our vision beyond diabetes to empower people to take control of health. That means personalized, actionable insights aimed at solving important health challenges. To continue what we've started: Improving human health. &amp;nbsp;We are driven by thousands of ambitious, passionate people worldwide who are willing to fight like warriors to earn the trust of our customers by listening, serving with integrity, thinking big, and being dependable. We've already changed millions of lives and we're ready to change millions more. Our future ambition is to become a leading consumer health technology company while continuing to develop solutions for serious health conditions. We'll get there by constantly reinventing unique biosensing-technology experiences. Though we've come a long way from our small company days, our dreams are bigger than ever. The opportunity to improve health on a global scale stands before us.** You must have the Right to Work in the UK. Sponsorship is not available for this role **Sr Web Applications Developer – Healthcare.This role can be based remotely in the UK.&amp;nbsp; You must have the right to Work in the UK.&amp;nbsp; Sponsorship is not available for this role.Meet the team:Are you passionate about building web applications, scalable design, and enjoy the challenge of multi-platform solutions? The Global Web Platform team build, support and manage Dexcom's web properties, including websites for marketing, customer profile management and eCommerce. As part of the Team, you will be working with the latest cutting-edge web technology and design in-market solutions that scale across the globe.Where you come in: We are seeking a highly skilled Web Developer to join the web applications group of the global IT organization at Dexcom. The individual will be responsible for the development and deployment of components within our headless ecosystem that supports our customer-facing websites.We follow agile and feature-driven scrum methodologies to iterate and deliver new features on a continuous basis. We work closely with the business to deliver customer-based solutions in regular releases and oversee the development of large agile projects on the technology stack to ensure design, architecture and coding standards meet expectations.What makes you successful:You will be responsible for completing web development tasks for the Dexcom ‘Direct to Consumer’ platform.This includes, but is not limited to, front and back-end JavaScript components for eCommerce, cloud applications, session management for customers, extension of 3rd party applications and APIs for data retrieval and persistence.You will work directly with stakeholders to design enhancements to applications in the headless architecture.You will be a senior point of contact for Team members working across the stack and will be expected to delegate development tasks and run pair programming sessions as requiredYou will analyze existing web components, plan improvements, and enhance the stability and scalability of solutions.You will act as a subject matter expert on the application stack and help to oversee development being carried out by other teams.You will aid in preventing and supporting any outages with the help of proper support personnel.EssentialAt least 5 years of experience in web development.3 years’ experience of modern JavaScript frameworks such as React.Strong JavaScript skills.NextJS experience and knowledge.Experience with NPM and NodeJS.Experience with functional programming paradigms.Familiarity with RESTful APIs.Proficient with relational databases (PostgreSQL a plus).Excellent communication and collaboration skills with the ability to work cross-functionally with marketing, sales, and IT teams.Proficient in tools such as JIRA, Confluence, Outlook and GitHub.DesirableExperience with Google Cloud Platform and serverless applications. Understanding Next.js static generation (SSG/ISR) and Amplience CMS content publishing pipelines.Experience with Amplience CMS.Familiarity with CommerceTools integrationsExperience of eCommerce development and topological understanding.What you’ll get:A front row seat to life changing CGM technology. Learn about our brave #dexcomwarriors community.A full and comprehensive benefits program.Growth opportunities on a global scale.Access to career development through in-house learning programs and/or qualified tuition reimbursement.An exciting and innovative, industry-leading organization committed to our employees, customers, and the communities we serve.Travel Required:10%Experience and Education Requirements: Typically requires a Bachelor’s degree in a technical discipline, and a minimum of 5-8 years related experience or Master’s degree and 2-5 years equivalent industry experience or a PhD and 0-2 years experience.Remote Workplace: Your location will be a home office; you are not required to live within commuting distance of your assigned Dexcom site (typically 75 miles/120km). If you reside within commuting distance of a Dexcom site (typically 75 miles/120km) a hybrid working environment may be available. Ask about our Flex workplace option.To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Dexcom. Only authorized staffing and recruiting agencies may use this site or to submit profiles, applications or resumes on specific requisitions. Dexcom does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to the Talent Acquisition team, Dexcom employees or any other company location. Dexcom is not responsible for any fees related to unsolicited resumes/applications.
-
-To apply: https://weworkremotely.com/remote-jobs/dexcom-sr-web-applications-developer-ecommerce</description><pubDate>Fri, 09 Jan 2026 18:51:46 +0000</pubDate></item><item><title>DevSelect: Senior Web Application Architect</title><link>https://weworkremotely.com/remote-jobs/devselect-senior-web-application-architect</link><description>Headquarters: Seattle, Washington · Computer/Software
-    URL: http://devselect.com
-
-
-Title: Senior Web Application Architect
-Location: Seattle, WA - Remote
-Openings: 1
-Type: Full Time Hire
-
-Job Description
-&amp;nbsp;
-The Client is searching for an experienced Senior Web Application Architect to work within an agile team of software developers to implement and maintain secure, scalable, cloud-based software solutions, build customer integration solutions, and streamline the team’s software delivery tools and processes. Technical aptitude is a must, and so is the right team-minded attitude and the ability to work interchangeably with others.&amp;nbsp; Applicants should be qualified as top-notch full-stack developers, with a passion for focusing on backend service-oriented architectures, scalable system design, databases and data models, and API-driven models.
-&amp;nbsp;
-Job Responsibilities
-
-Live and breathe a DevOps culture on a small team of Senior SDEs and SREs that work hand-in-hand with you to deliver modern, scalable, SaaS software across multiple cloud providers.
-Work daily alongside product leadership to define architecture, goals and deliverables from software development. This also includes working alongside product leadership to prioritize JIRA backlog and upcoming sprints for development.
-Architect and lead implementation the company’s flagship SaaS platform using a scalable microservice approach with technologies such as Node.js, Express, GraphQL, Python, Django, C#, and .NET Core.
-Help implement the company’s user-facing web apps using modern MVC, MVVM, and SPA framework - React.js.
-Follow software development best practices to create maintainable and extensible software solutions.
-Work with modern CI/CD tool and methodologies to ship product on a daily basis.
-Work in an agile manner with transparency and fluid communication within the engineering team and across other teams in the company.
-Work with product owner to understand internal and external requirements and help the team design solutions to satisfy these.
-Work with Senior SREs to contribute to the overall platform stability, availability, and quality.
-Enable SREs to have visibility and responsibility into the function of the code they are operating.
-Interact directly with SREs and customers to triage, debug, and remediate production issues.
-
-&amp;nbsp;
-Experience and Qualifications
-
-Education: Formal higher-education degrees in STEM fields or vocational certificates related to software development are preferred, but not required. Real-world experience and proven track records count as much, if not more.
-5+ years of professional experience architecting software in modern SaaS, cloud, web, and mobile environments.
-7+ years of professional programming experience with languages and frameworks such as React, Angular, TypeScript, Node, Express, Ruby, Rails, Python, Django, C#, .NET.
-Familiar with cloud and Linux sysadmin experience – IaaS, PaaS, and container/orchestration experience is important.
-Real-world shipping product development experience using client-side JavaScript frameworks and backend dynamic languages/frameworks in a service-oriented architecture.
-Proven track record of success in high-functioning continuous delivery environment.
-Working knowledge and hands-on experience with Docker and Kubernetes (or similar container/orchestration).
-Expertise with a variety of relational and NoSQL databases. MSSQL, PostgreSQL, MySQL, CouchDB, DocumentDB, DynamoDB, MongoDB, Redis preferred.
-Solid understanding of modern API design patterns (REST, GraphQL, JSON, etc.)
-Understanding of source control systems (git, hg, etc.) and related workflow patterns (e.g. GitFlow)
-Familiarity with Big Data systems such as Hadoop, HBase, HDFS, Spark, Kafka, etc. is a plus.
-Understanding of privacy-by-design frameworks, and code-level security techniques is a plus.
-Strong verbal and written communication and documentation skills is required.
-
-
-Benefits
-
-Health Care Plan (Medical, Dental &amp;amp; Vision)
-401K
-Life Insurance
-Paid Time Off (Vacation, Sick &amp;amp; Public Holidays)
-A work/life balance beyond compare. And we mean it!
-
-
-
-
-&amp;nbsp;
-
-&amp;nbsp;
-&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/devselect-senior-web-application-architect</description><pubDate>Fri, 09 Jan 2026 18:51:46 +0000</pubDate></item><item><title>Vituity: Senior Web Applications Developer</title><link>https://weworkremotely.com/remote-jobs/vituity-senior-web-applications-developer</link><description>Headquarters: US - CA - Sacramento - Remote  -  Nationwide
-    URL: http://vituity.com
-
-
-Emeryville, CA – Seeking Senior Web Applications Developer
-&amp;nbsp;
-Everybody Has A Role To Play In Transforming Healthcare
-&amp;nbsp;
-At Vituity you are part of a larger team that is driven by our purpose to improve lives. We are dedicated to transforming healthcare through our culture by working together to tackle healthcare’s most pressing challenges from the inside.
-&amp;nbsp;
-Join the Vituity Team. At Vituity we’ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishments more than individual achievements, an approach we call “culture of brilliance.” Together, we leverage our strengths and experiences to make a positive impact in our local communities. We foster this through shared goals and helping our colleagues succeed, and we also understand the importance of recognition, taking the time to show appreciation and gratitude for a job well done.
-&amp;nbsp;
-Vituity Locations: Vituity has opportunities at 475 sites across the country, serving 9 million patients a year. With Vituity, if you ever need to move, you can take your job with you. 
-&amp;nbsp;
-The Opportunity 
-
-Build highly scalable web applications for our customers.
-Plan and design effective and elegant solutions to support a rapidly growing user base.
-Take full ownership of entire engineering stack required to deliver features and results to customers.
-Collaborate and work with our small knit engineering team in an Agile environment.
-Establish good engineering practices and mentoring other team members.
-Guide and lead a team of offshore engineers (3-8 members).
-
-&amp;nbsp;
-Required Experience and Competencies&amp;nbsp;
-
-Bachelor’s degree in Computer Science, Software Development, or other relevant field of study required.
-Four (4) years of experience building large scale web applications required.
-Four (4) years of experience and expertise in .NET, C#, Entity Framework, and SQL Server required.
-Four (4) years of experience with SQL Server, from schema design to writing complex, optimized queries, procedures, and performance tuning required.
-Experience developing and consuming REST web-services required.
-Experience working in an agile development environment required.
-Experience working with remote teams required.
-Experience with cloud storage services like AWS, Azure, etc. preferred.
-Experience working on CI tools like TeamCity, Jenkins preferred.
-Experience working with git and on/off-premise repositories like GitHub preferred.
-Competent in object-oriented programming (OOP) and design patterns, and full-stack, senior-level in front-end, middle-tier, and back-end development.
-Deep understanding of design patterns, multi-threaded programming, LINQ, .NET, MVC and experience with IoC containers.
-Experience with implementing secure web-based solutions using .Net MVC, SharePoint Framework, Azure services and Azure SQL PaaS.
-In-depth knowledge of application security, Health Insurance Portability and Accountability Act (HIPAA) compliance and secure software development life cycle (SDLC).
-Disciplined approach to testing.
-Disciplined approach to testing
-Natural curiosity and a strong passion for empirical research and problem solving.
-Ability to be part of a passionate, self-driven team focused on achieving high quality products and solutions.
-
-&amp;nbsp;
-The Community 
-Even when you are working remotely, you are an important part of the Vituity Community. We offer plenty of opportunities to engage with other Vitans through a variety of virtual meet-and-greets, events and seminars. 
-
-Monthly wellness events and programs such as yoga, HIIT classes, and more 
-Trainings to help support and advance your professional growth 
-Team building activities such as virtual scavenger hunts and holiday celebrations 
-Flexible work hours 
-Opportunities to attend Vituity community events including LGBTQ+ History, Día de los Muertos Celebration, Money Management/Money Relationship, and more
-
-&amp;nbsp;
-Benefits &amp;amp; Beyond* 
-Vituity cares about the whole you. With our comprehensive compensation and benefits package, we are mindful of what matters most, and support your needs of today and your plans for the future. 
-
-Superior health plan options 
-Dental, Vision, HSA/FSA, Life and AD&amp;amp;D coverage, and more 
-Top Tier 401(k) retirement savings plans that offers a $1.20 match for every dollar up to 6% 
-Outstanding Paid Time Off\: 3-4 weeks’ vacation, Paid holidays, Sabbatical 
-Student Loan Refinancing Discounts
-Professional and Career Development Program 
-EAP, travel assistance, and identify theft included 
-Wellness program 
-Vituity community initiatives including LGBTQ+ History, Día de los Muertos Celebration, Money Management/Money Relationship, and more. 
-Purpose-driven culture focused on improving the lives of our patients, communities, and employees. 
-
-&amp;nbsp;
-&amp;nbsp;
-We are excited to share the base salary range for this position is $102,290 - $130,420, exclusive of fringe benefits or potential bonuses. This position is also eligible to participate in our annual corporate Success Sharing bonus program, which is based on the company’s annual performance. If you are hired at Vituity, your final base salary compensation will be determined based on factors such as skills, education, and/or experience. We believe in the importance of pay equity and consider internal equity of our current team members as a part of any final offer. Please speak with a recruiter for more details.
-&amp;nbsp;
-We are unified around the common purpose of transforming healthcare to improve lives and we believe We are unified around the common purpose of transforming healthcare to improve lives and we believe everyone has a role to play in that. When we work together across sites and specialties as an integrated healthcare team, we exceed the expectations of our patients and the hospitals and clinics we work in. If you are looking to make a difference, from clinical to corporate, Vituity is the place to do it. Come grow with us. 
-&amp;nbsp;
-Vituity appreciates differences; our dedication to diversity, equity and inclusion is at the heart of our organization. Vituity does not discriminate against any person on the basis of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information (including family medical history), veteran status, marital status, pregnancy or related condition, or any other basis protected by law. Vituity is committed to complying with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity. 
-&amp;nbsp;
-*Benefits for part-time and per diem vary. Please speak to a recruiter for more information. 
-&amp;nbsp;
-Applicants only. No agencies please.
-
-To apply: https://weworkremotely.com/remote-jobs/vituity-senior-web-applications-developer</description><pubDate>Fri, 09 Jan 2026 18:51:46 +0000</pubDate></item><item><title>Cotiviti: Sdet</title><link>https://weworkremotely.com/remote-jobs/cotiviti-sdet</link><description>Headquarters: Remote, India
-    URL: http://cotiviti.com
-
-
-
-
-
-
-
-
-Overview
-
-
-
-
-
-
-The successful candidate must have solid understanding and experience in test case automation and scripting for web applications and microservices/API testing.
-
-
-
-
-
-
-
-Responsibilities
-
-
-
-
-
-
-Contribute at the design, coding, and implementation level in creating and refining automation testing framework.Apply sound computer science practices to automate core API and web functionality tests across platforms.Analyze and test B2B information systems and microservice based multi-tier distributed applications based on technologies like Java, Angular etc.Validate applications E2E with different database systems like MySQL, MS SQL Server, Elasticsearch etc.Assume ownership for issues end to end.Test scripting and executions of functional tests.Performance, load and security testing.Work with Agile scrum team to ensure the acceptance criteria is met.
-
-
-
-
-
-
-
-Qualifications
-
-
-
-
-
-
-BS in Information Systems, Computer Science, Engineering, or a related field required.3+ years of hands-on coding experience in JavaContribute at the design, coding, and implementation level in creating and refining automation testing framework.Experience in Cucumber or similar testing tool.Apply sound computer science practices to automate core API and web functionality tests across platforms.Analyze and test B2B information systems and microservice based multi-tier distributed applications based on technologies like Java, Angular etc.Validate applications E2E with different database systems like MySQL, MS SQL Server, Elasticsearch etc.Assume ownership for issues end to end.Test scripting and executions of functional tests.Performance, load and security testing.Work with Agile scrum team to ensure the acceptance criteria is met.
-
-
-
-
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/cotiviti-sdet</description><pubDate>Fri, 09 Jan 2026 18:51:46 +0000</pubDate></item><item><title>Edgewater Federal Solutions: .Net Junior-level Software Engineer</title><link>https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-net-junior-level-software-engineer</link><description>Headquarters: Germantown, Maryland, United States
-    URL: http://edgewaterit.com
-
-
-
-
-
-
-
-
-Overview
-
-
-
-
-
-
-Edgewater Federal Solutions is currently seeking a&amp;nbsp;.NET&amp;nbsp;Junior-level Software Engineer&amp;nbsp;to provide support to the EHSS IT Support contract located in Germantown, Maryland. This position is seeking a talented, professional Software Engineer to join a proficient development team developing and enhancing web applications. This position is working in a remote environment.
-
-
-
-
-
-
-
-Responsibilities
-
-
-
-
-
-
-Build and maintain efficient, reusable, secure, and reliable code.Develop effective solutions for data mapping and data translation.Ensure the best possible performance, quality, and responsiveness of applications.Develop unit tests.Participate in peer code review as part of development process.Demonstrated ability to work independently and as part of a team.Demonstrated ability to contribute to the production of technical and end user documentation.
-
-
-
-
-
-
-
-Qualifications
-
-
-
-
-
-
-US Citizenship is REQUIRED.NEED TO BE ELIGIBLE TO OBTAIN A TOP-LEVEL SECURITY CLEARANCE.BS degree in software/technical based field with at least 2 years of progressive software experience focused on data-oriented business applications, or a minimum of 3 years of progressive software development experience with no degree.Experience with the ASP.NET framework, MVC, C#, SQL ServerExperience in Frontend frameworks like Angular or React.Experience with HTML5/JavaScript/CSS/jQuery.Experience with Bootstrap, Typescript, Node.js, NPM.Experience with C#, Visual Studio (2019 +), and MS toolsets.Experience with Git based source control.Experience with web services and Web APIs.Excellent organizational skills and attention to detail.Excellent English-language oral and written communication skills and interpersonal skills.&amp;nbsp;Nice to have:Experience with Agile methodologyExperience with DevOps disciplines and toolsets.Experience with Test Automation FrameworksExperience with Microservice Architecture.Experience with Internet Information Services (IIS) 8.0 or higher.&amp;nbsp;&amp;nbsp;Salary: $65,000.00 - $85,000.00&amp;nbsp;Additional benefits include:&amp;nbsp;Paid Time Off &amp;amp; Holiday PayMedical InsuranceDental InsuranceVision InsuranceDisability, Life Insurance, and AD&amp;amp;DFlexible Spending AccountsPre-Tax 401K and/or After-Tax Roth IRA (with employer matching contribution)Tuition and Technical Training ReimbursementExercise ReimbursementComputer ReimbursementEmployee Assistance Program&amp;nbsp;About Us:&amp;nbsp;Edgewater Federal Solutions is a privately held government contracting firm located in Frederick, MD. The company was founded in 2002 with the vision of being highly recognized and admired for supporting customer missions through employee empowerment, exceptional services and timely delivery. Edgewater Federal Solutions is ISO 9001, 20000-1, 270001 certified, appraised at CMMI Level 3 Maturity for Development and Services, and has been named in the Top Workplaces in the Greater Washington Area Small Companies for 2018 through 2025.&amp;nbsp;It has been and continues to be the policy of Edgewater Federal Solutions to provide equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, marital status, veteran status, and/or other status protected by applicable law.&amp;nbsp;#LI-HH1
-
-
-
-
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-net-junior-level-software-engineer</description><pubDate>Fri, 09 Jan 2026 18:51:46 +0000</pubDate></item><item><title>ALIQAN Technologies: FTG Engineer</title><link>https://weworkremotely.com/remote-jobs/aliqan-technologies-ftg-engineer</link><description>Headquarters: Bangalore
-    URL: http://aliqantechnologies.com
-
-
-Job Title: FTG Developer / Engineer Experience: 5 to 8 Years Location: Remote Employment Type: Contract (6 Months – Extendable)Job Description:We are seeking a skilled FTG Developer/Engineer with hands-on experience in IBM Sterling Suite and strong exposure to AWS cloud services. The ideal candidate should possess a solid understanding of CI/CD workflows, infrastructure automation, and deployment pipelines using modern DevOps tools. This role requires close collaboration with cross-functional teams to build, deploy, and maintain scalable enterprise solutions.Key Responsibilities:Develop, configure, and maintain solutions using IBM Sterling Suite.Manage and optimize cloud infrastructure using AWS services (EC2, S3, EFS, RDS, IAM, etc.).Design and implement CI/CD pipelines using CloudBees or equivalent tools.Automate provisioning and configuration management using Terraform and Ansible.Collaborate with development, testing, and operations teams to ensure smooth delivery and deployment of applications.Monitor system performance, troubleshoot issues, and ensure high availability and scalability.Follow best practices for security, compliance, and operational excellence.Mandatory Skills:Strong experience with IBM Sterling Suite.Hands-on experience with AWS services – EC2, S3, EFS, RDS, IAM.Proficiency in CI/CD pipelines and experience with CloudBees.Solid experience with Terraform and Ansible for automation and infrastructure as code.Good to Have:Familiarity with Docker or other containerization tools.Exposure to Kubernetes or orchestration tools.Strong problem-solving and communication skills.
-
-To apply: https://weworkremotely.com/remote-jobs/aliqan-technologies-ftg-engineer</description><pubDate>Fri, 09 Jan 2026 18:50:56 +0000</pubDate></item><item><title>EUROPEAN DYNAMICS: Java / Web Developer with German</title><link>https://weworkremotely.com/remote-jobs/european-dynamics-java-web-developer-with-german</link><description>Headquarters: Athens, Attica, Greece
-    URL: http://eurodyn.com
-
-
-DescriptionAre you a passionate Java/Web Developer looking for an exciting opportunity to grow and work on impactful projects? We are seeking a highly motivated Java/Web Developer to join our dynamic team. You have the flexibility to work fully or partially remotely or from one of our offices in Athens or Thessaloniki. If you are based elsewhere in Greece, you can start working remotely. You will be part of a friendly project team that develops challenging applications for major public organizations in Germany, Austria, and Switzerland. We maintain high standards in software development and provide continuous coaching and training to help you enhance your skills and experience. Basic knowledge of German, with a willingness to improve, is desirable.What You'll Do:Participating in the design and implementation of advanced web-based applications; Designing, developing, testing, and maintaining large-scale applications; Assuring effective team collaboration; Adhering to software quality requirements; Drafting technical documentation. RequirementsMust-Have Qualifications: Bachelor's degree in computer science or a related technical field or equivalent working experience; Enthusiasm for programming and knowledge of Java; Quality- and team-oriented; English and German.  Nice-to-Have Qualifications:Experience in Java, front-end frameworks (e.g. Angular), web services (REST or SOAP), Spring Boot, micro-services, object-relational mapping (e.g. Hibernate), XML and/or databases (e.g. SQL) desired.BenefitsWe believe in rewarding talent and dedication. Here's what you can expect as part of our team:Competitive full-time salary;Private Health Coverage on the Company’s group program;Flexible Working Hours;Top-of-the-Line Tools;Professional Development: Benefit from language courses, specialized training, and continuous learning opportunities;Career Growth: Work with some of the most innovative and exciting specialists in the industry;Dynamic Work Environment: Thrive in a setting that offers challenging goals, autonomy, and mentoring, fostering both personal and company growth.If you want an exciting challenge, work with some of the coolest technologies, and enjoy your time doing it, then join us! Submit your detailed CV in English, quoting reference: (GJW1/01/26).You may also consider all our other open vacancies by visiting the career section of our website (www.eurodyn.com) and follow us on Twitter (@EURODYN_Careers) and LinkedIn.EUROPEAN DYNAMICS (ED)&amp;nbsp;(www.eurodyn.com) is a leading European Software, Information, and Communication Technologies company, operating internationally (Athens, Brussels, Luxembourg, Copenhagen, Berlin, Stockholm, London, Nicosia, Valetta, Vienna, Den Haag, Hong Kong, etc.) The company employs over 1100 engineers, IT experts, and consultants (around 3% PhD, 41% MSc, and 54% BSc). We design and develop software applications using integrated, state-of-the-art technology. Our current IT projects have a value exceeding 300 million EURO. EUROPEAN DYNAMICS is a renowned supplier of IT services to European Union Institutions, international organizations, European Agencies, and national government Administrations in 40 countries and 4 continents.As part of our dedication to the diversity of our workforce, we are committed to Equal Employment Opportunity without regard for race, colour, national origin, ethnicity, gender, disability, sexual orientation, gender identity, or religion.EUROPEAN DYNAMICS (ED)&amp;nbsp;adheres to the General Data Protection Regulation principles by applying its Privacy Policy as published at&amp;nbsp;www.eurodyn.com/privacy. By submitting an application to this position and by sharing your personal data with ED, you acknowledge and accept its Policy and authorize ED to process your personal data for the purposes of the company's recruitment opportunities, in line with the Policy.
-
-To apply: https://weworkremotely.com/remote-jobs/european-dynamics-java-web-developer-with-german</description><pubDate>Fri, 09 Jan 2026 18:50:56 +0000</pubDate></item><item><title>Truv: Web Designer</title><link>https://weworkremotely.com/remote-jobs/truv-web-designer</link><description>Headquarters: Remote
-    URL: http://truv.com
-
-
-About Truv:Truv is transforming the financial data industry with a secure and real-time API platform for payroll account access. Our technology streamlines income and employment verification, direct deposit switching, and more—eliminating outdated processes and unlocking greater financial opportunities. Backed by $30M from top investors like Kleiner Perkins and NYCA, we’re disrupting a $2B legacy market with cutting-edge innovation and a customer-first approach. Our leadership team brings expertise from industry giants like Apple, Carta, Venmo, MX, and Okta, driving the future of financial data access.What You'll DoDesign and maintain compelling visual identities across our website, marketing materials, and digital touchpointsCreate engaging graphics for web pages, landing pages, email campaigns, social media, and other marketing channelsCollaborate with marketing, product, and engineering teams to ensure brand consistency across all consumer and client-facing materialsDesign website layouts that are both visually compelling, on-brand, and conversion-focusedDevelop marketing collateral including presentation decks, one-pagers, infographics, guides, and enablement materialsShip high-quality creative work quickly without sacrificing attention to detailStay current on emerging trends in web design, visual design, and digital marketingContribute to product design efforts including iconography, illustrations, and UI elements (a plus)Maintain and evolve our design system and brand guidelinesWho You ArePassion for creating polished, effective designs that drive business results5+ years of experience in website design, graphic design, or related visual design rolesStrong portfolio demonstrating expertise in web design, branding, and digital marketing materialsExperience with product design or UI/UX is a plusProficiency in design tools such as Figma, Adobe Creative Suite (Photoshop, Illustrator, InDesign), and web design platformsUnderstanding of responsive web design principles and how to design for multiple devices and screen sizesBasic knowledge of HTML/CSS is a plusProven ability to meet deadlines and manage multiple projects simultaneouslyExceptional attention to detail and commitment to pixel-perfect executionStrong communication skills and ability to present and justify design decisionsExperience working in a fast-paced startup or tech environment is a plusProduct design experience is a plusGo getter? Quick learner? Cross functional collaborator? Combination of it all - let's talk!Requirement: Include portfolios and sample work with application.We are an equal-opportunity employer committed to diversity. We do not discriminate based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected status.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
-
-To apply: https://weworkremotely.com/remote-jobs/truv-web-designer</description><pubDate>Fri, 09 Jan 2026 18:50:56 +0000</pubDate></item><item><title>Productive Shop: Web graphic designer</title><link>https://weworkremotely.com/remote-jobs/productive-shop-web-graphic-designer</link><description>Headquarters: Sao Paulo, Brazil
-    URL: http://productiveshop.com
-
-
-Ready to design websites that do more than just look good? At Productive Shop, we believe great design is the engine of growth, translating a brand’s unique essence into a powerful, high-converting digital experience.
-Productive Shop is a growth partner for ambitious B2B SaaS companies. We don’t just build websites; we build strategic assets that become a core part of our clients' growth. We’re looking for a passionate designer who is excited by the challenge of turning business goals into beautiful, intuitive, and effective user experiences.
-We are builders at heart and we value quality, integrity, and collaboration. If you find deep satisfaction in creating designs that have a measurable impact on a company's success, this is the place for you.
-
-About the role
-
-This is a role for a strategic visual storyteller. As a Senior UI/UX Designer, you will be the visual heart of our projects, relied upon to grasp the core essence of our B2B SaaS clients' brands and communicate it compellingly through the web.
-
-You will be responsible for turning complex business challenges into clear, engaging, and high-performing web experiences. Working directly with our founders and strategists, you’ll translate client goals and brand identity into powerful visual systems that guide users to action. You will live in Figma, but your impact will be seen directly in our clients' growth and pipeline.
-
-What you’ll do
-
-
-Lead the design of new website concepts and guide the strategic redesign of key pages to drive user action.
-Craft high-impact, conversion-focused landing pages that turn website traffic into qualified leads.
-Develop mood boards and create comprehensive UX/UI kits in Figma that establish a clear, compelling visual direction for every project.
-Build and maintain scalable design systems that ensure brand consistency and efficiency across all digital touchpoints.
-Collaborate closely with our development and SEO teams to ensure your designs are not only beautiful but also technically sound and optimized for performance.
-
-
-What you bring
-
-A minimum of 5 years of professional UI/UX design experience, with a portfolio that showcases your expertise in a B2B agency or in-house at a SaaS company.
-Complete mastery of Figma. You live and breathe its components, auto-layout, and prototyping features.
-A deep understanding that for a B2B SaaS audience, clarity, trust, and function are the foundation of beautiful design.
-You are a designer who thinks about the entire business pipeline and gets immense satisfaction from seeing your work solve real-world problems.
-Strong communication skills and the ability to articulate the strategic thinking and brand considerations behind your design decisions.
-Your portfolio clearly demonstrates your ability to create exceptional web experiences that drive user action and deliver on business objectives.
-
-
-To apply: https://weworkremotely.com/remote-jobs/productive-shop-web-graphic-designer</description><pubDate>Fri, 09 Jan 2026 18:50:56 +0000</pubDate></item><item><title>AHU Technologies: Curam Business Analyst</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-curam-business-analyst</link><description>Headquarters: Washington, DC 20009
-    URL: http://ahutech.com
-
-
-
-
-Role: Curam Business AnalystClient : DC governmentLocation : Washington, D.C. (Remote)Job Description :  The resource will become an integral part of the DCAS Team, making every problem associated to the platform a problem of their own and will demonstrate the required initiative and critical thinking abilities necessary to resolve all problems and challenges accordingly.&amp;nbsp;
-Must have experience using Cúram Global Income Support and HealthCare Reform Business Application Suite
-Must have experience in Data Analysis and data presentation
-Experience in planning and leading JAD sessions and creating functional design documents
-Excellent interpersonal skills, verbal, and written communication skills
-Understanding of design and development concepts and familiarity with design patterns and the SDLC
-A strong ethical foundation, capable of thriving in an environment and culture where honesty, integrity, and accountability are core values
-A collaborative spirit, a team orientation, and a willingness and desire to contribute to the success of others
-Responsibilities&amp;nbsp;
-Provide status reporting, quality assurance monitoring and ensure adherence to procedures
-The Business Analyst serves as a liaison between project teams, and vendors ensuring that everyone is aligned with the project goals and requirements.
-Review the Triage defect that gets raised from the Production environment, prioritize, and groom the backlog
-Review and validate deliverables submitted by the vendors
-Data analysis and create the metrics for all the CSL tickets raised by the end customers
-Quality Control of all the technical workstreams
-Define and maintain the end-to-end process for functional Batch executions
-Documentation and Governance by maintaining comprehensive documentation for project transparency, compliance, and knowledge management.
-Draft Standard Operating Procedures
-Prepare technical team presentations
-As a Business Analyst you will provide system analysis, development, and production support
-The Cúram Business Analyst will design functional approaches to customize functionality using the Cúram Business Application Suite
-The Business Analyst is also a lead team member in the planningand execution of testing, training, support of user testing and customer support post implementation&amp;nbsp;
-Lead requirement gathering sessions, according to agree upon project scope for various areas of the application
-Participate in/lead systems analysis and gap analysis
-Produce client-approved deliverables required in standard project development including functional requirements, training content, job aids, use cases, requirements traceability matrix, test cases and plans
-Support team members through the development and testing of your functional designs
-
-CONTRACT JOB DESCRIPTIONResponsibilities:1. Coordinates IT project management, engineering, maintenance, QA, and risk management.2. Plans, coordinates, and monitors project activities.3. Develops technical applications to support users.4. Develops, implements, maintains and enforces documented standards and procedures for the design, development, installation, modification, and documentation of assigned systems.5. Provides training for system products and procedures.6. Performs application upgrades.7. Performs, monitoring, maintenance, or reporting on real- time databases, real-time network and serial data communications, and real-time graphics and logic applications.8. Troubleshoots problems.9. Ensures project life-cycle is in compliance with District standards and procedures.
-
-This is a remote position.
-
-          Compensation: $65.00 - $70.00 per hour
-        
- 
-About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&amp;nbsp; AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world.
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-curam-business-analyst</description><pubDate>Fri, 09 Jan 2026 18:50:56 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</description><pubDate>Wed, 12 Nov 2025 08:56:02 +0000</pubDate></item></channel></rss>
