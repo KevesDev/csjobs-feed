@@ -1,5 +1,72 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>SerpNames: Passionate Full-Stack Engineer (SEO-Focused Company)</title><link>https://weworkremotely.com/remote-jobs/serpnames-passionate-full-stack-engineer-seo-focused-company</link><description>Headquarters: USA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>SuperPlane Inc.: Applied AI Engineer </title><link>https://weworkremotely.com/remote-jobs/superplane-inc-applied-ai-engineer</link><description>Headquarters: USA
+    URL: https://superplane.com/
+
+
+About SuperPlane
+SuperPlane is an AI-native DevOps control plane. Our mission is to build the platform teams use to ship and manage software in the AI era.
+Agents are helping us write an order of magnitude more code, while systems have become too complex for human-driven ops alone. We're rethinking DevOps from first principles for the AI era: a single control layer where engineers and agents safely collaborate.
+We move fast. We aim high. If that sounds like the kind of problem you want to work on, we’d love to talk.
+About the Role
+At SuperPlane, you’ll build the Cursor for DevOps..
+This is an applied role. You’ll take modern AI capabilities such as LLMs, agents, retrieval, planning, and evaluation and turn them into reliable, observable, production systems that real engineers depend on. You’ll work at the boundary between models, infrastructure, and product, making careful tradeoffs between capability, latency, cost, and safety.
+What You’ll Do
+
+
+Design and implement AI-powered features end to end, including prompts, agents, tools, retrieval, evaluation, and feedback loops.
+
+
+Build agent systems that interact safely with infrastructure, codebases, and deployment pipelines.
+
+
+Integrate LLMs deeply into product workflows as core platform primitives.
+
+
+Own quality across correctness, reliability, latency, and cost of AI systems in production.
+
+
+Collaborate closely with Product, Frontend, and Backend engineers to ship cohesive user-facing features.
+
+
+Establish best practices for prompt design, evaluation, observability, and iteration.
+
+
+Requirements
+
+
+You shipped production systems where LLMs, tool calling, or RAG workflows were part of the core functionality.
+
+
+You’ve built and owned highly reliable backend systems with strong engineering judgment and technical depth.&amp;nbsp; You are willing to master Go and Typescript.
+
+
+You’ve developed systematic LLM evaluation pipelines using observability tools (LangSmith/Braintrust) to track performance and regressions.
+
+
+You worked closely with product and frontend partners to deliver user-facing features.
+
+
+You communicate clearly in writing and in technical discussions.
+
+
+Why You’ll Love Working at SuperPlane
+
+
+Work on an open source platform shaping the future of DevOps worldwide.
+
+
+Build AI systems that operate real infrastructure, not toy demos.
+
+
+Competitive compensation &amp;amp; meaningful equity in a high-growth startup.
+
+
+Fully remote and flexible environment that lets you focus and create.
+
+
+&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/superplane-inc-applied-ai-engineer</description><pubDate>Mon, 19 Jan 2026 12:37:08 +0000</pubDate></item><item><title>SerpNames: Passionate Full-Stack Engineer (SEO-Focused Company)</title><link>https://weworkremotely.com/remote-jobs/serpnames-passionate-full-stack-engineer-seo-focused-company</link><description>Headquarters: USA
 
 
 We’re looking for a Full-Stack Engineer for a full-time, long-term role. You’ll work closely with the founder on SEO-driven systems and infrastructure. This role requires ownership and accountability, with responsibility for building and maintaining systems end-to-end.
@@ -1418,31 +1485,4 @@ If you’re done waiting to be discovered and ready to quietly prove something t
 Apply with your Loom here: https://forms.gle/sKVqYMN7sSqNfctG8
 Let your work do the talking.
 
-To apply: https://weworkremotely.com/remote-jobs/drt-fm-humble-echo-llc-low-ego-high-impact-junior-developer-for-ai-company</description><pubDate>Mon, 12 Jan 2026 07:25:22 +0000</pubDate></item><item><title>Mobena: Frontend Engineer</title><link>https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</link><description>Headquarters: New York, NY
-    URL: https://mobena.co/
-
-
-Mobena is a three-person, remote-first startup building the “evolution” of multi-generational tax/estate planning software, targeting the advisors of America’s 2 million wealthiest families. We’re currently hiring our first dedicated UI Engineer to “own” the frontend of our flagship product, Mobena Evolution, for which we have little to no frontend code. You’ll work directly with our backend/algorithm-focused CTO, as well as our designer-founder, to turn evolving Figma concepts into fast, maintainable, and scalable user interfaces.
-What You’ll Do
-
-Choose and justify the frameworks and tools that best fit our needs.
-
-We have some holdover prototype code in Vite JS, but you can take it or leave it; all of our Figma concepts are new.
-The backend is a standard HTTP API. We are open to everything from established web stacks (React, Angular, Svelte, Vite) to cross-platform or native solutions (Qt, WASM, .NET MAUI, Tauri, Electron, Tk)—literally anything, if you can convince us it’s the right choice.
-
-Build our UI from the ground up, establishing clear, maintainable patterns for components, state management, styling, testing, performance, and accessibility.
-Collaborate to refine and sometimes re-frame existing screen designs in Figma.
-Connect the frontend to our APIs (REST, GraphQL, or similar).
-Lay groundwork for future mobile clients; however, experience in this regard is a plus rather than a requirement.
-
-About You
-
-You’ve shipped an interactive application—web, desktop, or mobile—via coursework, open source, side project or professional work.
-You care about usability and design quality. (That is, you care about the user.)
-You learn by doing: building things rather than sitting in committee.
-You are happy to say I don’t know. We try to cultivate “beginner’s mind” at Mobena—it helps us avoid conventional traps and groupthink. The first step of thinking like a beginner is acknowledging your own ignorance! 😊
-You can defend your technical choices in clear English, and can take credit for your successes as well your mistakes.
-You are comfortable in an early-stage, collaborative environment.
-
-
-To apply: https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</description><pubDate>Fri, 16 May 2025 20:03:34 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/drt-fm-humble-echo-llc-low-ego-high-impact-junior-developer-for-ai-company</description><pubDate>Mon, 12 Jan 2026 07:25:22 +0000</pubDate></item></channel></rss>
