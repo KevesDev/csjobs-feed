@@ -1,5 +1,195 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Zappier: Sr. Engineer, Frontend (UX Eng)</title><link>https://weworkremotely.com/remote-jobs/zappier-sr-engineer-frontend-ux-eng</link><description>Headquarters: San Francisco, US 
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>OnTheGoSystems: Senior Ruby on Rails Developer</title><link>https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer</link><description>Headquarters: Remote
+    URL: http://onthegosystems.com
+
+
+We’re looking for a Senior Ruby on Rails developer who enjoys owning meaningful features, building reliable systems, and working in a mature, high-trust engineering environment.
+This is an individual contributor role for an experienced backend engineer who cares deeply about code quality, testing, and long-term impact.
+
+Why Join&amp;nbsp;OTGS?
+
+
+Stable &amp;amp; self-funded: Founded in 2007, profitable, and independent — we build for the long term.
+
+
+Industry leaders: Creators of WPML, the № 1 multilingual plugin for WordPress, powering over 1.5 million sites
+
+
+Real product impact: You’ll work on ATE, a core product at OTGS with real customers, real scale, and real technical challenges.
+
+
+Fully remote, async-friendly: Work from anywhere within EMEA hours as part of a global, distributed team.
+
+
+Engineering-driven culture: We value ownership, autonomy, testing, and thoughtful problem-solving.
+
+
+Growth without chaotic hype: Mentorship and long-term career paths without chaos.
+
+
+Fair compensation + great benefits: Designed to support your well-being both inside and outside of work.
+
+
+
+What You’ll Do
+
+
+Own features from implementation to production within a well-defined product scope
+
+
+Build and maintain robust Ruby on Rails systems used at scale
+
+
+Work closely with product and other developers to solve real user problems
+
+
+Write and maintain automated tests (unit, integration, and E2E)
+
+
+Improve performance, reliability, and maintainability of existing systems
+
+
+Take responsibility for the quality and long-term health of what you build
+
+
+
+What We’re Looking For
+Required
+
+
+4+ years of professional experience with Ruby on Rails
+
+
+Strong backend engineering skills and database experience
+
+
+Solid experience writing and maintaining automated tests (including E2E)
+
+
+Experience building and running production systems
+
+
+Comfortable working autonomously and taking ownership
+
+
+Strong problem-solving mindset, you look beyond tickets
+
+
+Experience with Web APIs
+
+
+Nice to Have&amp;nbsp;
+
+
+Experience with React&amp;nbsp;
+
+
+CI/CD experience (GitLab, Jenkins, or similar)
+
+
+Background jobs, AWS, or complex integrations
+
+
+Experience with Capybara
+
+
+
+This Role Is a Great Fit If You:
+
+
+Take pride in ownership and accountability
+
+
+Care about testing and long-term code quality
+
+
+Prefer stable, product-focused work over short-term hype
+
+
+Enjoy collaborating with thoughtful, kind, and experienced people
+
+
+Want to make a lasting impact on a product used by thousands of real customers? Apply now!
+
+To apply: https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer</description><pubDate>Fri, 23 Jan 2026 16:59:49 +0000</pubDate></item><item><title>Sticker Mule: Software engineer</title><link>https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2</link><description>Headquarters: New York, NY
+    URL: https://www.stickermule.com
+
+
+About Sticker Mule
+Sticker Mule, the Internet's favorite custom printer, is building the Internet's best commerce platform. We are privately-owned, which means no meddlesome investors, with 9-figures in annual revenue and great profitability. Our commerce platform (Stores)&amp;nbsp;helped people earn $200k while in beta and now we are hiring to accelerate development.
+&amp;nbsp;
+We offer
+
+
+Remote work with flexible schedules
+
+
+A privately owned, low-stress culture
+
+
+A fun "no bullshit" work environment
+
+
+Great compensation with rising wages.
+&amp;nbsp;
+
+
+Compensation and benefits
+
+
+Salary: $145K&amp;nbsp;
+
+
+$20,000 signing bonus
+
+
+4 weeks vacation + holidays based on your country of residence
+
+
+&amp;nbsp;
+Requirements
+
+
+Go
+
+
+GraphQL
+
+
+Postgres
+
+
+Redis
+
+
+Docker
+
+
+Kubernetes
+
+
+Google Cloud Platform
+
+
+Excellent communication skills (English)
+
+
+Degree in Computer Science or equivalent practical experience
+
+
+Familiarity with Typescript
+
+
+Availability to travel to our factory in Italy a few times a year
+
+
+&amp;nbsp;
+What you will work on
+You'll help us develop our new&amp;nbsp;Stores&amp;nbsp;platform that already helped sellers earn nearly $200,000 while in beta. Stores is supported by a suite of tools that help anyone succeed online including&amp;nbsp;Give&amp;nbsp;(our giveaway platform),&amp;nbsp;Ship&amp;nbsp;(our shipping platform, Notify (our forthcoming email/sms marketing platform), and more coming soon.
+&amp;nbsp;
+We have an incredible roadmap and need your help to execute it quickly.
+
+To apply: https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2</description><pubDate>Thu, 22 Jan 2026 13:45:49 +0000</pubDate></item><item><title>Zappier: Sr. Engineer, Frontend (UX Eng)</title><link>https://weworkremotely.com/remote-jobs/zappier-sr-engineer-frontend-ux-eng</link><description>Headquarters: San Francisco, US 
     URL: https://zapier.com/
 
 
@@ -1307,130 +1497,4 @@ We expand and shorten the list of exemptions regularly.
 We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
 Do you represent a company with engineers who match the description and want to collaborate with us through staff augmentation? Then register here.
 
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-php-full-stack-developer</description><pubDate>Wed, 14 Jan 2026 13:46:05 +0000</pubDate></item><item><title>Lemon.io: Senior Full-stack Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-7</link><description>Headquarters: New York, NY
-    URL: https://lemon.io
-
-
-Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
-What we offer:
-
-The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
-No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
-We'll manually find the best project for you according to your skills and preferences.
-Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
-We respect your seniority so you can expect no micromanagement or screen trackers.
-Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
-We will support you from the time you submit the application throughout all cooperation stages.
-Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
-Through our community, we will connect you with the best developers from more than 50 countries.
-
-Requirements for the Senior React &amp;amp; Python Position:
-
-4+ years of software development experience.
-
-Commercial experience:
-
-
-React.js 3+ years &amp;amp; Python 3+ years
-OR
-
-
-React.js 2+ years &amp;amp; Python 5+ years
-OR
-
-
-React.js 5+ years &amp;amp; Python 2+ years
-
-
-Experience with AWS, GCP, or Azure is required.
-
-
-Requirements for the Senior Node &amp;amp; React Position:
-
-5+ years of software development experience.
-
-Commercial experience:
-
-
-React.js 3+ years &amp;amp; Node.js 5+ years
-OR
-
-
-React.js 5+ years &amp;amp; Node.js 3+ years
-
-
-Expertise in Next, TypeScript, and AWS, or in Supabase, is a must.
-
-
-Other requirements:
-
-Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
-Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
-Strong self-organizational skills — ability to work full-time remotely with no supervision.
-Reliability — we want to trust you and expect that you won’t let us and the client down.
-Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
-
-Sounds good for you? Apply now and join the Lemon.io community!
-NOT YOUR TECH STACK?
-We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas: Rust, Svelte, Shopify, Unreal Engine, AI Engineering, PHP &amp;amp; Angular, Data Analysis, PHP &amp;amp; React, Data Engineering, Java &amp;amp; React, Blockchain, Vue &amp;amp; Node (LATAM), Angular &amp;amp; Node, MLOps, Unity, DevOps, Data Science or Python &amp;amp; Vue — we’d be happy to connect and match you with a suitable project.
-If your experience matches our requirements, be ready for the next steps:
-
-VideoAsk — watch a short video about our startup, up to 10 minutes
-Complete your profile on our website
-30-minute screening call
-Technical interview
-Feedback
-Magic Box (we are looking for the best project for you).
-
-We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
-P.S. We work with developers from 50+ countries in different regions: Europe, LATAM, the U.S (if you are an owner of W-9 ben form), Canada, Asia (Japan, Singapore, South Korea, Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), and the the UK. However, we have some exceptions.
-At the moment, we don’t have a legal basis to accept applicants from the following countries:
-
-European: Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia.
-Latin America: Cuba and Nicaragua
-Most Asian countries and Africa.
-
-We expand and shorten the list of exemptions regularly.
-Do you represent a company with engineers who match the description and want to collaborate with us through staff augmentation? Then register here.
-
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-7</description><pubDate>Wed, 14 Jan 2026 11:32:10 +0000</pubDate></item><item><title>Semaphore Technologies: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/semaphore-technologies-senior-software-engineer</link><description>Headquarters: Novi Sad
-    URL: https://semaphore.io/
-
-
-Semaphore&amp;nbsp;is an open-source leader in hosted continuous integration and deployment, with over 50,000 developers relying on Semaphore to test and deploy their code. Our mission is to help teams ship software faster and with greater confidence by providing a robust and scalable platform for software delivery.Our platform provides continuous delivery services for all mainstream programming languages as well as native support for building and shipping Docker containers. We aim to deliver the easiest-to-use and fastest CI/CD service. We work in small, highly effective teams, so every team member is vital to the company's success.We're looking for collaborative, detail-oriented people who are ready for a challenge. In this role, you'll have the opportunity to take significant ownership of technical projects that will drive the success of the overall business. A strong candidate will bring solid product and technical acumen, combined with the ability to move fast (and fix things).We are passionate about providing a remote, flexible and supportive work culture. Collaboration is in our DNA.Examples of problems you'll be solving
-
-Implementing new Semaphore features
-Improving the internal and external APIs of Semaphore
-Automating the release process, monitoring, and solving scalability issues
-Contributing to and collaborating on open-source software
-Optimizing the performance and scalability of Semaphore
-
-Qualifications
-
-You have 5+ years of professional experience.
-You have experience with shipping services into production and maintaining their quality.
-You have experience with developing database-backed web applications.
-You are proficient in one or more high-level languages.
-You are self-managed and capable of making effective decisions.
-You care about building maintainable, efficient, clean code.
-You speak and write well. We’re a distributed team, so we’re extra mindful about communication.
-You are willing to master Golang and/or Elixir, our primary languages for writing Semaphore.
-You are proficient with the following TDD/BDD practices for implementing new features.
-You have experience with taking responsibility for projects end-to-end from idea to completion.
-You have experience with Linux and the command line.
-
-Benefits
-
-The impact of working on a product that's competing in a global market.
-Join a small team of around 30 full-time people who love what they do.
-A healthy 40-hour work week, a friendly and supportive work environment.
-Competitive salary.
-Company retreats.
-Space to learn continuously and choose the tools and equipment for your job
-Paid trips to conferences and books of your choice.
-Interact with developers who use Semaphore and talk about the latest and greatest ways to develop and ship software.
-Paid membership at a fitness club of your choice
-
-Semaphore is an equal-opportunity employer. Consistent with our mission of serving a diverse and global audience, we value a diverse workforce and an inclusive culture that reflects that. We encourage applications from all qualified individuals without regard to race, colour, religion, gender, sexual orientation, gender identity or expression, age, national origin, marital status, disability, or veteran status.
-
-To apply: https://weworkremotely.com/remote-jobs/semaphore-technologies-senior-software-engineer</description><pubDate>Wed, 14 Jan 2026 08:49:52 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-php-full-stack-developer</description><pubDate>Wed, 14 Jan 2026 13:46:05 +0000</pubDate></item></channel></rss>
