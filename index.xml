@@ -1,5 +1,83 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Madeo: Web Developer (Contract) </title><link>https://weworkremotely.com/remote-jobs/madeo-web-developer-contract</link><description>Headquarters: Brooklyn, NY
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>JetBrains: JetBrains Web Developer Advocate (Developer Advocacy)</title><link>https://weworkremotely.com/remote-jobs/jetbrains-jetbrains-web-developer-advocate-developer-advocacy</link><description>Headquarters: Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia
+    URL: http://jetbrains.com
+
+
+JetBrains makes industry-leading professional IDEs and team software. We are seeking a web developer advocate with deep knowledge in React.
+At JetBrains, our advocacy team’s mission is to make developers better. Candidates need to be self-starters: take initiative, plan tasks, coordinate across teams, and finish projects by themselves with light supervision.
+We need an advocate who can convincingly explain how our products can credibly enhance developer productivity in the web space and advise product teams based on industry trends and developer feedback. We are looking to hear from candidates who are experienced, passionate, empathetic, and ready to help with our roadmap.
+In this role, you'll:
+
+Grow relationships and our reputation in the industry within the global React community and on social networks.
+Attract attention to and explain various aspects of our product portfolio (through speaking, videos, blog posts, livestreams, sample code, etc.).
+Build and maintain relationships and a reputation in the industry with global and regional communities and on social networks.
+Provide feedback to the product teams.
+Meet with customers to listen to them and educate them about our offerings.
+Speak to the press on behalf of our products..
+Contribute as needed to other areas at JetBrains.
+
+We’ll be happy to have you on our team if you have:
+
+Applied experience with software engineering best practices: testing, refactoring, version control, etc.
+Strong React experience as well as practical experience with JavaScript, TypeScript, and related technologies.
+Fluency in both spoken and written English.
+Excellent communication skills, especially the ability to tell a compelling story about a technology.
+Self-organization, goal-setting, and time-management skills.
+Willingness to travel.
+
+We’d be especially thrilled if you have:
+
+Established reputation in the React developer community.
+Experience with JetBrains tools.
+Experience in developer advocacy.
+Proficiency in several programming languages (Python, Java, Kotlin, etc.).
+Background working in an environment with highly distributed, diverse teams.
+Portfolio of speaking engagements (conference recordings) and screencasts. Please submit it with your application.
+
+#LI-DNIWe process the data provided in your job application in accordance with the Recruitment Privacy Policy.
+
+To apply: https://weworkremotely.com/remote-jobs/jetbrains-jetbrains-web-developer-advocate-developer-advocacy</description><pubDate>Fri, 30 Jan 2026 18:49:12 +0000</pubDate></item><item><title>WALTER: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/walter-senior-software-engineer</link><description>Headquarters: Remote
+    URL: http://gowalter.co
+
+
+
+
+Senior Software Engineers at Stamped are hands-on builders responsible for designing, developing, and delivering high-quality software that powers our products. This role combines technical depth with product intuition — engineers are expected to think like product partners, not just implementers.
+They work closely with Product and the Director of Engineering to rapidly prototype, validate, and scale solutions that drive measurable user value. Senior Engineers bring curiosity, empathy, and a bias for action, leveraging AI tools and modern practices to deliver with speed, reliability, and craftsmanship.
+This role has a strong emphasis on user-facing development — building intuitive, performant interfaces and components that merchants interact with daily. While full-stack capability is valued, you'll spend significant time on front-end architecture, UI implementation, and ensuring excellent user experiences across our product suite.
+Our current systems include a large .NET/C# foundation on the backend, so familiarity with these technologies is helpful for full-stack collaboration, but your primary focus will be o modern front-end development and the user experience layer.
+This group sits at the center of Stamped's shift toward an AI-native, iterative engineering culture — emphasizing autonomy, accountability, and shared ownership across the team.
+Responsibilities
+
+Product Engineering:&amp;nbsp;Design, build, test, and ship user-facing features with a focus on polish, performance, and usability.
+Front-End Development:&amp;nbsp;Build and maintain responsive, accessible UI components and interfaces using modern frameworks and tooling.
+Prototyping &amp;amp; Validation:&amp;nbsp;Rapidly prototype new user experiences to validate value before scaling.
+AI-Enabled Development:&amp;nbsp;Use AI tools (e.g., Copilot, Claude, or similar) to accelerate development, reduce repetitive work, and improve code quality.
+Technical Judgment: Participate in front-end architecture decisions, component design patterns, and client-side performance optimization. Contribute to discussions on full-stack integration and API design.
+Execution &amp;amp; Ownership:&amp;nbsp;Deliver against roadmap commitments with a focus on quality, maintainability, and iteration — especially on user-facing surfaces.
+Collaboration:&amp;nbsp;Partner closely with Product and the Director of Engineering to align technical work with customer and business needs. Work alongside designers to ensure high-fidelity implementation of user experiences.
+Knowledge Sharing:&amp;nbsp;Document, mentor, and contribute to a culture of learning and openness.
+Continuous Improvement:&amp;nbsp;Stay curious and experimental with new tools, frameworks, and AI workflows that can improve speed, quality, or developer experience.
+
+
+
+
+Requirements
+
+
+5+ years of professional software engineering experience, with significant time spent on front-end or full-stack development
+Strong proficiency with modern JavaScript/TypeScript and front-end framework (React, Vue, or similar) — experience building scalable, maintainable component architectures
+Experience with responsive design, accessibility standards, and client-side performance optimization
+Familiarity with backend technologies and APIs — experience with C#/.NET, Node.js, Python, or similar is a plus for full-stack collaboration
+Experience with cloud infrastructure (AWS preferred)
+Demonstrated use of AI tools or automation in the development workflow
+Product mindset: comfort with ambiguity, iteration, and user-centric decision-making
+Excellent communication and collaboration skills; thrive in cross-functional teams
+
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/walter-senior-software-engineer</description><pubDate>Thu, 29 Jan 2026 21:06:16 +0000</pubDate></item><item><title>Madeo: Web Developer (Contract) </title><link>https://weworkremotely.com/remote-jobs/madeo-web-developer-contract</link><description>Headquarters: Brooklyn, NY
     URL: https://madeostudio.com/
 
 
@@ -90,46 +168,7 @@ Technical Coding Challenge: Showcase your coding skills and problem-solving abil
 Cultural Fit with Founder/CEO (60 minutes)
 
 
-To apply: https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer</description><pubDate>Thu, 29 Jan 2026 12:53:34 +0000</pubDate></item><item><title>Mindrift: Freelance Agent Evaluation Engineer</title><link>https://weworkremotely.com/remote-jobs/mindrift-freelance-agent-evaluation-engineer</link><description>Headquarters: India
-    URL: https://mindrift.ai/
-
-
-Please submit your CV in English and indicate your level of English proficiency.
-Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems. Participation is project‑based as an independent freelance contributor and does not create an employment relationship with Toloka or our clients.
-What this opportunity involves 
-As an independent freelance contributor, you choose which projects to join and how you organize your work, as long as deliverables meet the project requirements and deadlines.
-While each project involves unique tasks, contributors may: 
-
-Create structured test cases that simulate complex human workflows 
-Define gold-standard behavior and scoring logic to evaluate agent actions 
-Analyze agent logs, failure modes, and decision paths 
-Work with code repositories and test frameworks to validate your scenarios 
-Iterate on prompts, instructions, and test cases to improve clarity and difficulty 
-Ensure that scenarios are production-ready, easy to run, and reusable
-
-What we look for
-This opportunity is a good fit for software engineers, open to part-time, non-permanent projects. Ideally, contributors will have:&amp;nbsp; 
-
-3+ of software development experience with strong Python focus 
-Experience with Git and code repositories 
-Comfortable with structured formats like JSON/YAML for scenario description 
-Understanding core LLM limitations (hallucinations, bias, context limits) and how these affect evaluation design 
-Familiarity with Docker 
-English proficiency - B2
-
-How it works 
-Apply → Pass qualification(s) → Select a project → Complete tasks on your own schedule within project timelines→ Get paid
-Project time expectations 
-For this project, tasks are estimated to require around 6-10 hours of work per week during active phases, depending on the tasks you choose to complete. This is an estimate only and does not create any minimum or guaranteed hours.
-Payment 
-
-Paid freelance contributions, with rates that may be equivalent to up to $80/hour* (project‑ and task‑based)
-Fixed project rate or individual rates, depending on the project 
-Some projects include incentive payments 
-
-*Note: Rates vary based on expertise, skills assessment, location, project needs, and other factors. Higher rates may be offered to highly specialized experts. Lower rates may apply during onboarding or non-core project phases. Payment details are shared per project.
-
-To apply: https://weworkremotely.com/remote-jobs/mindrift-freelance-agent-evaluation-engineer</description><pubDate>Tue, 27 Jan 2026 11:39:43 +0000</pubDate></item><item><title>Mindrift: Freelance Senior Python Developer / Functional Test Frameworks</title><link>https://weworkremotely.com/remote-jobs/mindrift-freelance-senior-python-developer-functional-test-frameworks</link><description>Headquarters: Spain
+To apply: https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer</description><pubDate>Thu, 29 Jan 2026 12:53:34 +0000</pubDate></item><item><title>Mindrift: Freelance Senior Python Developer / Functional Test Frameworks</title><link>https://weworkremotely.com/remote-jobs/mindrift-freelance-senior-python-developer-functional-test-frameworks</link><description>Headquarters: Spain
     URL: https://mindrift.ai/
 
 
@@ -1372,67 +1411,4 @@ Grow your expertise in PHP, WordPress, testing, performance, and modern tooling.
 Take a deeper dive and learn more about our flagship product, WPML&amp;nbsp;
 If you want to learn fast, make a visible impact, and join a global team that cares about quality – apply today, and we’d love to meet you!
 
-To apply: https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-spanish-french-or-german-speakers</description><pubDate>Fri, 16 Jan 2026 14:33:20 +0000</pubDate></item><item><title>Lemon.io: Senior Python &amp; LLM /AI Engineer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-python-llm-ai-engineer</link><description>Headquarters: New York, NY
-    URL: https://lemon.io
-
-
-Are you a talented Senior Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
-What we offer:
-
-The rate depends on your skills and experience. We've already paid out over $11M to our engineers.
-No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
-We'll manually find the best project for you according to your skills and preferences.
-Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
-We respect your seniority so you can expect no micromanagement or screen trackers.
-Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
-We will support you from the time you submit the application throughout all cooperation stages.
-Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
-Through our community, we will connect you with the best developers from more than 50 countries.
-
-We are seeking a few specialists in AI/Data: AI Engineers, Data Engineers, MLOps Engineers, Data Analysts, and Data Scientists. Below are the requirements for some roles:
-Requirements – AI Engineers (Python &amp;amp; LLM):
-
-3+ years of commercial experience applying AI to practical technology solutions;
-At least 3 years of experience with LLMs is required;
-3+ years of experience with Python is required; experience with other programming languages commonly used in AI is a plus;
-Familiarity with AWS, GCP, or Azure is required;
-Experience developing and shipping AI agents.
-
-Requirements – Data Engineers:
-
-3+ years of commercial experience as a Data Engineer;
-3+ years of commercial experience with Python and AirFlow;
-Familiarity with AWS, GCP, or Azure is required.
-
-&amp;nbsp;
-
-Strong technical skills: as a Senior Engineer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
-Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
-Strong self-organizational skills — ability to work full-time remotely with no supervision.
-Reliability — we want to trust you and expect that you won’t let us and the client down.
-Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
-
-Sounds good for you? Apply now and join the Lemon.io community!
-NOT YOUR TECH STACK?
-We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas: React &amp;amp; Node, React &amp;amp; Python, Angular &amp;amp; Node, Unity, Python &amp;amp; Vue, PHP &amp;amp; Angular, PHP &amp;amp; React, Java &amp;amp; React, Blockchain, Vue &amp;amp; Node, React Native &amp;amp; TypeScript, Python &amp;amp; Node, Rust, Svelte, Shopify, Unreal Engine or DevOps — we’d be happy to connect and match you with a suitable project.
-If your experience matches our requirements, be ready for the next steps:
-
-VideoAsk — watch a short video about our startup, up to 10 minutes
-Complete your profile on our website
-30-minute screening call
-Technical interview
-Feedback
-Magic Box (we are looking for the best project for you).
-
-P.S. We work with developers from 50+ countries in different regions: Europe, LATAM, the U.S., Asia (Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), Canada, and the UK. However, we have some exceptions.
-At the moment, we don’t have a legal basis to accept applicants from the following countries:
-
-European: Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia.
-Latin America: Cuba and Nicaragua
-Most Asian countries and Africa.
-
-We expand and shorten the list of exemptions regularly.
-Do you represent a company with engineers who match the description and want to collaborate with us through staff augmentation? Then register here.
-&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-python-llm-ai-engineer</description><pubDate>Fri, 16 Jan 2026 09:01:01 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-spanish-french-or-german-speakers</description><pubDate>Fri, 16 Jan 2026 14:33:20 +0000</pubDate></item></channel></rss>
