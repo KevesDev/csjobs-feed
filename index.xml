@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Linkage Web Development: ASP.NET Developer (C#, MVC, SQL Server, JavaScript)</title><link>https://weworkremotely.com/remote-jobs/linkage-web-development-asp-net-developer-c-mvc-sql-server-javascript</link><description>Headquarters: [REMOTE]
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Zipdev: Senior Web Developer</title><link>https://weworkremotely.com/remote-jobs/zipdev-senior-web-developer</link><description>Headquarters: Colombia
+    URL: http://zipdev.com
+
+
+DescriptionWe are looking for an experienced Senior Web Developer to own the development of high-quality, performant, and conversion-focused marketing websites. This role is highly hands-on and ideal for someone who thrives in technical problem-solving, cross-functional collaboration, and modern web development best practices. You'll work closely with design, product, marketing, and data teams to deliver fast, accessible, SEO-optimized experiences while contributing to technical standards and mentoring junior developers.Key ResponsibilitiesDevelopment &amp;amp; Implementation Build responsive, accessible, high-performance marketing websites using modern frameworks.  Develop and maintain reusable component libraries tied to design systems.  Implement SSR/SSG strategies to improve performance and SEO.  Integrate headless CMS platforms with scalable, component-based architectures.  Write clean, testable, well-documented code following best practices.  Debug and resolve production issues and participate in incident response. Performance &amp;amp; Quality Optimize sites for Core Web Vitals and overall performance.  Implement analytics, tracking, A/B testing, and personalization features.  Ensure accessibility compliance (WCAG 2.2 AA) and cross-browser/device compatibility.  Maintain unit, integration, and end-to-end tests.  Support CRO and experimentation initiatives. Technical Collaboration Participate in code reviews and mentor junior developers.  Work closely with UX/UI designers to ensure accurate implementation.  Partner with marketing teams to implement technical SEO requirements.  Coordinate with analytics teams on tracking and instrumentation.  Contribute to documentation, coding standards, and architectural decisions.Requirements5+ years of professional web development experience.  Strong JavaScript/TypeScript skills and experience with React, Next.js, or Astro.  Advanced CSS and layout skills, ideally with Tailwind CSS.  Experience with SSR, SSG, and hybrid rendering models.  Hands-on experience with headless CMS platforms (Contentful, Sanity, Strapi, etc.).  Solid understanding of technical SEO and Core Web Vitals.  Experience with GA4, GTM, and analytics integrations.  Proficiency with Git, CI/CD workflows, and modern hosting platforms (Vercel, Netlify, Cloudflare).  Familiarity with testing tools such as Vitest, Playwright, or Cypress.  Strong communication and cross-team collaboration abilities. Must be located in Latam. Nice-to-have Experience developing complex, content-heavy marketing or listing sites.  Working with design systems and tooling like Storybook.  Knowledge of CDN, caching, and edge computing strategies.  Experience with experimentation platforms and A/B testing tools.  Understanding of web security best practices.  Exposure to AI-assisted development tooling. Benefits Work remotely Monday - Friday, 40 hours a week (no weekends) Vacation: 10 business days a year Holidays: 5 National Holidays a year Company Holidays: 5 Company Holidays a year (Christmas Eve, Christmas Day, New Year's Eve, New Year's Day, Zipdev Day) Parental Leave Health Care Reimbursement Active Lifestyle Reimbursement Quarterly Home Office Reimbursement Payroll Deduction Purchase Plans Longevity Bonus Continuous Learning Bonus Access to Training and Professional Development Platforms Did we mention it's REMOTE?!! One of our core values at Zipdev is "Be authentic." that's why we encourage you to answer the application form in your own words; we are interested in getting to know you, not a digital assistant.Wondering how our remote environment or our payment method work? We've put together some helpful answers in our FAQs at the bottom our our career site.  Take a look and let us know if you have any other questions!
+
+To apply: https://weworkremotely.com/remote-jobs/zipdev-senior-web-developer</description><pubDate>Wed, 04 Feb 2026 17:40:19 +0000</pubDate></item><item><title>Linkage Web Development: ASP.NET Developer (C#, MVC, SQL Server, JavaScript)</title><link>https://weworkremotely.com/remote-jobs/linkage-web-development-asp-net-developer-c-mvc-sql-server-javascript</link><description>Headquarters: [REMOTE]
     URL: http://linkage.ph
 
 
@@ -1281,47 +1287,4 @@ Technical Coding Challenge: Showcase your coding skills and problem-solving abil
 Cultural Fit with Founder/CEO (60 minutes)
 
 
-To apply: https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer</description><pubDate>Thu, 29 Jan 2026 12:53:34 +0000</pubDate></item><item><title>Mindrift: Freelance Senior Python Developer / Functional Test Frameworks</title><link>https://weworkremotely.com/remote-jobs/mindrift-freelance-senior-python-developer-functional-test-frameworks</link><description>Headquarters: Spain
-    URL: https://mindrift.ai/
-
-
-Please submit your CV in English and indicate your level of English proficiency.
-Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems. Participation is project‑based as an independent freelance contributor and does not create an employment relationship with Toloka or our clients.
-About the Role
-This project is suited for a Senior Python developer with deep functional testing experience, strong Linux and Docker skills, the ability to read code across multiple languages with the support of LLMs (e.g., C, Rust, Go) and translate requirements for migration tasks, and confidence using tools like Roo Code or Claude Code to accelerate iterative development.
-Key Responsibilities
-
-Create functional black box tests for large codebases in various source languages
-Create and manage Docker environments to ensure 100% reproducible builds and test execution across different platforms
-Monitor code coverage and configure automated scoring criteria to meet industry benchmark-level standards
-Leverage LLMs (Roo Code, Claude) to accelerate development cycles, automate repetitive tasks, and improve overall code quality
-
-
-Requirements
-
-5+ years of experience as a Software Engineer (primarily Python)
-Deep experience with pytest (fixtures, session-scoped, timeouts) and designing black-box functional tests for CLI tools
-Expert-level Docker skills (reproducible Dockerfiles, user contexts, secure workspaces)
-Strong Linux &amp;amp; Bash scripting skills and comfort debugging inside containers
-Proficiency with modern Python tooling (uv, pyproject.toml, packaging)
-Ability to read and understand with LLM many coding languages (for example C, C++, Rust, or Go)&amp;nbsp;
-Experience using LLMs (Claude Code, Roo Code, Cursor) to accelerate iterative development and test-case generation
-English language - B2 or higher
-
-Requirements +
-Prior experience with agent evaluation platforms and MCP CLI
-Tools and Technologies: Python (pytest, uv, Pillow), Docker, Bash, Git Submodules, C/C++/Rust/Go (reading), Dagger, GitHub Codespaces, LLMs (Claude Code, Roo Code, Cursor), coverage.py, gcov, kcov.
-Benefits
-What we can offer
-
-
-Freelance project-based collaboration via the Mindrift platform (powered by Toloka AI)
-
-Fully remote and flexible participation — choose when and how much to contribute (20-30 hours per week)
-Task-based compensation, equivalent to up to $80/hour depending on performance and volume
-Opportunity to contribute to innovative AI projects for leading tech companies
-Supportive global community
-
-*Note: Rates vary based on expertise, skills assessment, location, project needs, and other factors. Higher rates may be offered to highly specialized experts. Lower rates may apply during onboarding or non-core project phases. Payment details are shared per project.
-
-To apply: https://weworkremotely.com/remote-jobs/mindrift-freelance-senior-python-developer-functional-test-frameworks</description><pubDate>Tue, 27 Jan 2026 10:54:50 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer</description><pubDate>Thu, 29 Jan 2026 12:53:34 +0000</pubDate></item></channel></rss>
