@@ -1,5 +1,95 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Zipdev: Senior Web Developer</title><link>https://weworkremotely.com/remote-jobs/zipdev-senior-web-developer</link><description>Headquarters: Colombia
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Uncanny Owl: WordPress Developer</title><link>https://weworkremotely.com/remote-jobs/uncanny-owl-wordpress-developer</link><description>Headquarters: [Remote]
+    URL: https://automatorplugin.com
+
+
+As a WordPress Developer, you're responsible for Making Stuff Go. You'll build and maintain integrations that connect WordPress to hundreds of external services—from CRMs and email platforms to payment gateways and social networks. You'll own features from conception to completion, handling scoping, development, and testing.
+Day-to-day, you'll:
+
+Build new Automator integrations (triggers and actions) for third-party plugins and apps
+Scope, develop, and test product enhancements, new product features and product add-ons of all sizes
+Work with support to fix bugs reported by our internal team or by customers
+Refactor legacy code while maintaining backward compatibility
+Review pull requests from teammates and provide constructive feedback (GitHub PRs)
+Jump between front-end and back-end tasks as needed
+Communicate with the team and support your peers using chat, audio, and video
+
+Requirements
+You Must Have
+These are actual requirements, not a wish list:
+
+3+ years of WordPress plugin development&amp;nbsp;— professional experience with plugin architecture and WordPress standards, not just plugin and theme tweaks
+4+ years of Advanced PHP proficiency&amp;nbsp;— OOP, autoloading, namespacing, traits, interfaces, modern PHP practices. You write classes, not 2000-line functions.php files
+AI-assisted development expertise -&amp;nbsp;you know how to leverage AI to amplify and accelerate your work - not replace your brain
+Third-party API experience&amp;nbsp;— consuming APIs from services like Stripe, Drip, Zapier, Google, MailChimp, etc.
+WordPress hooks mastery&amp;nbsp;— actions, filters, priorities. You know when to use each and why
+Security awareness&amp;nbsp;— escaping, sanitization, nonces, capability checks are second nature
+Build tools&amp;nbsp;— ability to use and extend webpack and similar tools
+Package managers&amp;nbsp;— familiarity with Composer and NPM
+Git proficiency&amp;nbsp;— competent with version control through git and GitHub. You've worked on a team codebase before
+Keep it simple&amp;nbsp;— ability to keep complex ideas and features simple (simplicity is a core value!)
+Previous remote work experience&amp;nbsp;— freelance or remote work background
+Strong English communication&amp;nbsp;— fluent in both verbal and written English. Remote work requires clear async communication, and there's no such thing as overcommunicating on our team
+Personal Computer with Internet Access
+Availability&amp;nbsp;— able to participate in audio/video meetings between 9 am - 5 pm EST
+
+Nice to Have
+These will make you stand out:
+
+LearnDash experience&amp;nbsp;— if you've built LearnDash add-ons or customizations, we want to talk
+Existing Uncanny Automator integration&amp;nbsp;— if you've worked to extend Uncanny Automator, we want to talk
+Claude Code&amp;nbsp;- you're an expert at giving Claude Code the guidance and context necessary to plan and execute a project, resulting in code that is equal in quality to what you could produce yourself, but created in a fraction of the time
+HTML/CSS/SCSS experience&amp;nbsp;— layout, specificity, cross-browser compatibility, accessibility
+JavaScript expertise&amp;nbsp;— vanilla JS, jQuery, ES6, DOM manipulation, async programming, closures, promises, web components, VueJS or React proficiency
+MySQL expertise&amp;nbsp;— database design, queries, optimization
+REST API experience&amp;nbsp;— working with WordPress REST API and authentication
+TDD experience&amp;nbsp;— writing PHP unit tests
+UI/UX design chops
+DevOps or infrastructure management
+
+Who Thrives Here
+
+You're a&amp;nbsp;self-starter&amp;nbsp;who loves taking initiative and seeing things through from conception to completion
+You're an&amp;nbsp;excellent communicator&amp;nbsp;who makes sure nothing slips through the cracks
+You have the&amp;nbsp;curiosity and desire&amp;nbsp;to learn and grow your skills
+You're&amp;nbsp;passionate&amp;nbsp;about leaving your mark on the web and excited to impact millions of users
+You take&amp;nbsp;pride in quality and craftsmanship, not just checking boxes
+You're a&amp;nbsp;team player&amp;nbsp;who is comfortable working alongside and helping other developers, and you don't take critical feedback personally
+You're&amp;nbsp;adaptable&amp;nbsp;— happy working on tasks of all sizes
+
+What We Offer
+Working for a fast-growing bootstrapped company is a rare opportunity, one we consider a lifestyle choice rather than a job choice. Our positions are challenging, but also come with amazing advantages and fulfillment to those who earn them.
+
+Competitive salary
+Fully remote&amp;nbsp;— work from anywhere. Our team spans Canada, Colombia, Philippines, Pakistan, Finland, and more
+Annual all-company retreat&amp;nbsp;— we fly everyone out once a year and cover all travel costs
+Real ownership&amp;nbsp;— you'll own features from scoping to deployment
+Impact at scale&amp;nbsp;— your code runs on tens of thousands of websites
+Solve meaningful problems&amp;nbsp;— your work makes a tangible difference
+Work with the best&amp;nbsp;— frequent, often daily, interactions with talented teammates
+No politics, no b.s., and no jerks
+
+Location &amp;amp; Hours
+This is a remote position - our team is spread around the globe! Our home base is in Canada, so company operating hours are generally 9am - 5pm ET (UTC -5). While full coverage is not a requirement, you must be available during a portion of the day.
+How to Apply
+ Interested in applying?
+ Please read and follow these steps carefully.&amp;nbsp;
+Please clearly include the following in your cover letter:
+
+Your GitHub/GitLab/WordPress.org profile&amp;nbsp;(required - include code samples)
+Your experience with WordPress plugin development&amp;nbsp;— tell us about a specific plugin you've built or contributed to
+Your favorite WordPress hook/function and why&amp;nbsp;— we want to see how you think about WordPress development
+What AI coding tools you use&amp;nbsp;and how they fit into your workflow
+Tell us about yourself&amp;nbsp;— why you should be considered, your experience, qualifications, personality, etc.
+Other profile links&amp;nbsp;if available (your website, Twitter, LinkedIn, etc.)
+Answers to any additional interview questions&amp;nbsp;in the application form
+
+Important:&amp;nbsp;Don't forget to proofread before submitting. Check spelling, capitalization, etc. Attention to detail is one of our core values - this is your chance to stand out!
+Our process:&amp;nbsp;Application review → Skills assessment → Code challenge → Live interview → Offer
+We won't be able to individually respond to all applications, but if we feel you're a strong match, someone will be in touch shortly.&amp;nbsp;
+Thanks and we look forward to hearing from you!
+
+To apply: https://weworkremotely.com/remote-jobs/uncanny-owl-wordpress-developer</description><pubDate>Wed, 04 Feb 2026 21:57:47 +0000</pubDate></item><item><title>Zipdev: Senior Web Developer</title><link>https://weworkremotely.com/remote-jobs/zipdev-senior-web-developer</link><description>Headquarters: Colombia
     URL: http://zipdev.com
 
 
@@ -350,127 +440,7 @@ If you want to learn fast, make a visible impact, and join a global team that ca
 &amp;nbsp;
 
 
-To apply: https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer-3</description><pubDate>Tue, 03 Feb 2026 06:16:03 +0000</pubDate></item><item><title>Zencastr: Senior Backend Engineer - Full Remote</title><link>https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote</link><description>Headquarters: worldwide
-    URL: https://zencastr.com
-
-
-Empower the voices of the world @ Zencastr. If you want to push the world of podcasting into the future, come join a team who loves to live on the edge! We are a fully distributed team of smart people who are passionate about changing the world one voice at a time.
-&amp;nbsp;
-You should join us if you:
-
-
-Have significant experience with Node.js and good knowledge of JS fundamentals
-
-
-Have a good understanding of computer science fundamentals. You might not have gone to school for it, but you know the difference between heap and stack, different time complexities, and which patterns to use and when.
-
-
-You are ambitious. You might want to build your own company one day or have tried to tackle the toughest tech problems just for fun.
-
-
-You enjoy writing Javascript or Typescript
-
-
-You have an eye for performance. Whether thinking about the latest client side bundling techniques, or the proper way to shard a mongo database, you want things to be fast.
-
-
-You are a team player
-
-
-You have good communication skills
-
-
-What sets you apart:
-
-
-You have a passion for high performance applications
-
-
-You have significant open source contributions
-
-
-You want to work in a fast growing startup. Which comes with the blood, sweat and tears of working to disrupt an established industry
-
-
-You have empathy for the end user. A spec is a conversation starter, as an advocate for the end user you always are thinking about how to best serve their needs
-
-
-You have an eye for code quality and you strive to uphold best practices in engineering, security, and design
-
-
-Why you should choose us:
-
-
-You’ll be working with world class engineers, Phd’s, and designers in a fully distributed team
-
-
-Work in an agile and fast changing environment
-
-
-Equity commensurate to your contribution in a profitable company
-
-
-Health insurance
-
-
-Unique challenges and the support and talent to solve them
-
-
-4 weeks PTO
-
-
-Freedom to work where you please
-
-
-What we’re looking for:
-
-
-5+ years of Typescript, Node.js development
-
-
-Strong document / key-value store knowledge (Redis, MongoDB)
-
-
-Strong SQL knowledge
-
-
-Demonstrable knowledge of building scaleable consumer based apps
-
-
-Strong experience with unit, integration, and load testing
-
-
-Experience building APIs
-
-
-Experience with cloud APIs (Google Cloud, Digital Ocean)
-
-
-&amp;nbsp;
-Bonus points if you have:
-
-
-Experiencing working in high traffic, low latency applications
-
-
-Good dev ops experience
-
-
-Digital Signal Processing experience
-
-
-Strong SQL knowledge
-
-
-AI experience
-
-
-&amp;nbsp;
-How to apply:
-Apply at&amp;nbsp;https://jobs.ashbyhq.com/zencastr/e5897c7a-4622-495b-a892-81763a2ef112
-We are flexible! For the right candidate we ask: What do you need to do your best work?
-
-To apply: https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote</description><pubDate>Wed, 06 Aug 2025 20:01:29 +0000</pubDate></item><item><title>Cortes 23: Software Engineer</title><link>https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-3</link><description>Headquarters: Remote
+To apply: https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer-3</description><pubDate>Tue, 03 Feb 2026 06:16:03 +0000</pubDate></item><item><title>Cortes 23: Software Engineer</title><link>https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-3</link><description>Headquarters: Remote
     URL: https://cortes23.com
 
 
