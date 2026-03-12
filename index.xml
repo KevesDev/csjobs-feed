@@ -1,5 +1,210 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Cotiviti: Sdet</title><link>https://weworkremotely.com/remote-jobs/cotiviti-sdet-1</link><description>Headquarters: Remote, India
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Yoko Co: Development Contractors (Full Stack, Front-End, Back-End)</title><link>https://weworkremotely.com/remote-jobs/yoko-co-development-contractors-full-stack-front-end-back-end</link><description>Headquarters: McLean, VA
+    URL: https://www.yokoco.com/
+
+
+We’re looking for developers (Full Stack, Front-End, Back-End) with a strong sense of teamwork and a desire to write code to join our first-choice contractor partner pool. Think of it more like being a VIP member of our extended team, rather than taking on a full-time position.
+How this works:
+
+If you qualify for our contractor pool, we’ll reach out whenever we need an extra pair of hands. When a project fits your schedule, you’ll have complete flexibility to say yes and provide an estimate for the work, and no pressure when it’s not the right match.
+We intentionally limit the size of our contractor pool to only a small handful of reliable, capable developers. We’d rather build long-term relationships with a few good coders who can function as an extension of our team, than have a race-to-the-bottom free for all whenever we get a new project.
+This is a great way to work on interesting challenges and collaborate with a passionate team, while still keeping the flexibility and autonomy you get as a freelancer.
+Heads up: We have a strong preference for working directly with individuals or small teams, rather than contracting out to whitelabel engineering companies.
+
+Who we’re looking for:
+In addition to being able to support our standard tech stack, we’re also looking for people who can help expand our capabilities. We’ve included a list below of some of the core abilities that we most frequently find useful, though it’s not necessarily all-encompassing. If you feel like we have enough meaningful overlap, we encourage you to reach out.
+
+Advanced WordPress development skills, including traditional WordPress implementations, Full Site Editing (FSE) setups, headless configurations, and Gutenberg.
+Strong ability with Javascript, and experience working with various JS technologies and modern front-end frameworks, like React, Vue, Node, Next, etc.
+Experience working with APIs to build integrations, and, in particular, hands-on experience implementing SSO in web applications.
+Search technologies, like Algolia, Typsense, or similar platforms.
+Strong ability with Git, PHP, MySQL, JavaScript, HTML, and CSS, and an aptitude for documentation.
+Great communication skills and the ability to translate business requirements into technical solutions and explain technical concepts in accessible terms.
+
+We’re also interested in people with experience working with:
+
+AI technologies in regards to search and building RAGs.&amp;nbsp;
+Headless/modern CMSes, like Craft, Strapi, and other similar platforms.&amp;nbsp;
+
+Why work with Yoko Co?
+
+Do good, better:&amp;nbsp;We exclusively serve clients who make a positive impact on the world. This is your chance to build things that help create a better place for all of us.
+High performance, no jerks.&amp;nbsp;You’ll collaborate with good people who believe in doing great work.
+Best Place to Work&amp;nbsp;(and that’s not just our opinion). We’ve been named a Best Place to Work by the Inc. 5000 and Washington Business Journal.
+Long-term relationships.&amp;nbsp;Many of our contractors and partners work with us repeatedly over time. We invest in people, not just projects.
+
+We value working with people who are motivated by our mission and driven to make a positive impact. If you have a passion for excellence, a growth mindset, and a commitment to collaboration, we’d love to team up!
+To apply:
+If you’re interested, you can apply for this position via our&amp;nbsp;application form.
+Note: We take applicants from all over the world. However, you must be willing to work a schedule that includes some overlap with normal US business hours.&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/yoko-co-development-contractors-full-stack-front-end-back-end</description><pubDate>Fri, 13 Feb 2026 20:06:45 +0000</pubDate></item><item><title>OnTheGoSystems: Senior Ruby on Rails Developer</title><link>https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-1</link><description>Headquarters: Remote
+    URL: http://onthegosystems.com
+
+
+We’re looking for a Senior Ruby on Rails developer who enjoys owning meaningful features, building reliable systems, and working in a mature, high-trust engineering environment.
+This is an individual contributor role for an experienced backend engineer who cares deeply about code quality, testing, and long-term impact.
+
+Why Join&amp;nbsp;OTGS?
+
+
+Stable &amp;amp; self-funded: Founded in 2007, profitable, and independent — we build for the long term.
+
+
+Industry leaders: Creators of WPML, the № 1 multilingual plugin for WordPress, powering over 1.5 million sites
+
+
+Real product impact: You’ll work on ATE, a core product at OTGS with real customers, real scale, and real technical challenges.
+
+
+Fully remote, async-friendly: Work from anywhere within EMEA hours as part of a global, distributed team.
+
+
+Engineering-driven culture: We value ownership, autonomy, testing, and thoughtful problem-solving.
+
+
+Growth without chaotic hype: Mentorship and long-term career paths without chaos.
+
+
+Fair compensation + great benefits: Designed to support your well-being both inside and outside of work.
+
+
+
+What You’ll Do
+
+
+Own features from implementation to production within a well-defined product scope
+
+
+Build and maintain robust Ruby on Rails systems used at scale
+
+
+Work closely with product and other developers to solve real user problems
+
+
+Write and maintain automated tests (unit, integration, and E2E)
+
+
+Improve performance, reliability, and maintainability of existing systems
+
+
+Take responsibility for the quality and long-term health of what you build
+
+
+
+What We’re Looking For
+Required
+
+
+4+ years of professional experience with Ruby on Rails
+
+
+Strong backend engineering skills and database experience
+
+
+Solid experience writing and maintaining automated tests (including E2E)
+
+
+Experience building and running production systems
+
+
+Comfortable working autonomously and taking ownership
+
+
+Strong problem-solving mindset, you look beyond tickets
+
+
+Experience with Web APIs
+
+
+Availability during EMEA working hours
+
+
+Nice to Have&amp;nbsp;
+
+
+Experience with React&amp;nbsp;
+
+
+CI/CD experience (GitLab, Jenkins, or similar)
+
+
+Background jobs, AWS, or complex integrations
+
+
+Experience with Capybara
+
+
+
+This Role Is a Great Fit If You:
+
+
+Take pride in ownership and accountability
+
+
+Care about testing and long-term code quality
+
+
+Prefer stable, product-focused work over short-term hype
+
+
+Enjoy collaborating with thoughtful, kind, and experienced people
+
+
+Want to make a lasting impact on a product used by thousands of real customers? Apply now!
+
+To apply: https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-1</description><pubDate>Fri, 13 Feb 2026 16:31:19 +0000</pubDate></item><item><title>ORGA-SOFT: Senior Frontend Software Developer (m/w/d) - React, GraphQL &amp; Progressive Web Apps (PWA)</title><link>https://weworkremotely.com/remote-jobs/orga-soft-senior-frontend-software-developer-m-w-d-react-graphql-progressive-web-apps-pwa</link><description>Headquarters: Mainz, Remote
+    URL: http://orga-soft.de
+
+
+
+
+Beschreibung
+
+Wir suchen Menschen, die Herausforderungen suchen! Ein Job in unserem Unternehmen kann dir viel bieten, nur keine Routinearbeiten. Wir sind ein Innovationstreiber und suchen Unseresgleichen!Es gibt Eigenschaften, auf die wir besonders achten, denn wir stellen Mitarbeiter:innen ein, die zu unserer Unternehmenskultur passen und die sich bei uns gut aufgehoben fühlen:Du bist ein echter Teamplayer, kreativer Kopf und mit eigenen IdeenDu arbeitest selbstständig und super motiviertDu bist kommunikationsstark und hast eine ausgeprägte ServiceorientierungDu hast ein gutes Gespür für Innovationen und einen hohen QualitätsanspruchDu bist neugierig und offen für Veränderungen, packst Dinge an und übernimmst VerantwortungDu bringst konzeptionelles und analytisches Denkvermögen mit und freust dich auf ein starkes TeamWir suchen für unser junges Start-up „AppComp – The&amp;nbsp;AppCompany“ neue&amp;nbsp;Kolleg:innen!&amp;nbsp;Was wir machen?&amp;nbsp;Wir analysieren Prozesse, erschaffen Prototypen und realisieren diese für mobile Geräte mit dem Ziel, dass unsere Kunden effizienter und einfacher ihren Alltag bestreiten. Du arbeitest bei uns in einem agilen Umfeld nach SCRUM.&amp;nbsp;Wer sind unsere Kunden?&amp;nbsp;Unsere Kunden bekommen wir von unserer Muttergesellschaft ORGA-SOFT. Denn ORGA-SOFT entwickelt und vertreibt&amp;nbsp;ERP-Software&amp;nbsp;für die Getränke- und Lebensmittelbranche.&amp;nbsp;Und aus diesem Grund sitzen wir im ORGA-SOFT Gebäude in Mainz-Hechtsheim und dürfen all die Vorteile eines/r ORGA-SOFTLER/IN mit nutzen.
+
+
+
+Deine Funktion / Verantwortung bei uns
+
+                            Als Senior Frontend Entwickler:in bist du ein wichtiger Teil der Umsetzung und kontinuierlichen Verbesserung unseres React-basierten Anwendung für unser ERP-System. Du setzt Features entlang der aktuellen Prioritäten um und stellst sicher, dass Qualität, Performance und Wartbarkeit auch bei wechselnden Anforderungen konsistent bleiben. &amp;nbsp;&amp;nbsp;Du arbeitest eng mit unserem Frontend Solution Architect, UX und Product zusammen. Dabei setzt du definierte Leitlinien konsistent um und bringst deine Erfahrung in die praktische Ausgestaltung ein.&amp;nbsp;Du arbeitest außerdem eng mit dem Backend-Team sowie weiteren Stakeholdern zusammen, um performante, skalierbare und nutzerfreundliche Lösungen für unsere ERP-Produkte zu realisieren. Neben der Entwicklung unterstützt du das Team durch Code-Reviews, Wissenstransfer/Mentoring sowie die kontinuierliche Verbesserung unserer Entwicklungsprozesse und Qualitätsstandards im agilen Umfeld.&amp;nbsp;Deine Aufgaben&amp;nbsp;Entwicklung und Weiterentwicklung unseres React-/TypeScript-Frontends&amp;nbsp;für unsere ERP-AnwendungenUmsetzung architektonischer Konzepte und technischer Standards in enger Zusammenarbeit mit dem Frontend Solution&amp;nbsp;ArchitectUmsetzung von UI/UX-Vorgaben in Abstimmung mit UX und&amp;nbsp;Product&amp;nbsp;(PM/PO)Entwicklung wieder verwendbarer Komponenten, Patterns und Libraries (Design System / UI-Architektur)Umsetzung unserer PWA-Funktionalitäten mit Fokus auf Flexibilität, Erweiterbarkeit, zuverlässige Updates und robuste Laufzeit-PerformanceIntegration von REST- und&amp;nbsp;GraphQL-APIs in enger Zusammenarbeit mit dem Backend-TeamSicherstellung von Codequalität und Stabilität durch:Code Reviews und&amp;nbsp;RefactoringUnit- &amp;amp; Integration-Tests (z. B. mitVitest/Jest)Best Practices, Standards und CI-ChecksPerformance-Optimierung (z. B. Rendering, Bundle-Größe, Laufzeitverhalten)Aktive Mitarbeit im agilen&amp;nbsp;Scrum-Team (Refinement, Umsetzung, technische Einschätzungen)Mentoring/Wissenstransfer und kontinuierliche Verbesserung von Prozessen und Qualitätsstandards
+
+
+
+Dein Profil
+
+Mehrjährige Erfahrung als&amp;nbsp;Senior Frontend&amp;nbsp;Entwickler:in&amp;nbsp;in professionellen SoftwareprojektenSehr gute Kenntnisse in&amp;nbsp;JavaScript /TypeScriptTiefgehende Erfahrung mit React, modernen Frontend-Patterns und Libraries (Tailwind,shadcn)Erfahrung mit der Integration von&amp;nbsp;REST und&amp;nbsp;GraphQLSicherer Umgang mit GitHubRoutine in agiler Entwicklung (Scrum)Hoher technischer Anspruch (Clean Code, Performance,Testing, Wartbarkeit)Du arbeitest eigenverantwortlich, lösungsorientiert und bringst aktiv Verbesserungsvorschläge einEnglischkenntnisse verhandlungssicher – Arbeitssprache überwiegend Deutsch, Englisch je nach Kontext möglich&amp;nbsp;Von Vorteil wäreErfahrung mit State-Management/Client- und Server-State wie&amp;nbsp;Redux, Zustand, React QueryUI/UX Design Systeme &amp;amp; komponentenbasierte UI-ArchitekturErfahrung im Umfeld von&amp;nbsp;ERP- oder Business-SoftwareVerständnis für betriebswirtschaftliche Prozesse (z. B. Verkauf, Lager &amp;amp; Logistik, Produktion)
+
+
+
+Was wir Dir bieten
+
+Unsere Arbeit macht einen großen Teil unseres Lebens aus, deshalb sollten wir sie genießen und Spaß haben. Gesundheit und Wohlbefinden sind für uns ebenso wichtig.&amp;nbsp;Anspruchsvolle Frontend-Architektur in einem modernen ERP-UmfeldModerner, konsistenter Tech-StackEnge Zusammenarbeit zwischen Backend- und Frontend-TeamsAgile ArbeitsweiseFlexible Arbeitszeiten und Remote-OptionMit über 40 Jahren Erfolg am Markt bieten wir dir die Stabilität eines etablierten Software-UnternehmensFestanstellung mit großer Flexibilität bezogen auf Arbeitszeit/-ort zur Gestaltung deiner Work-Life-BalancePatenprogramm und individueller Einarbeitungsplan für neue Mitarbeiter:innenPersönliche Fortbildungs- und EntwicklungsmöglichkeitenEin verantwortungsvolles und spannendes Arbeitsumfeld mit vielfältigen Tätigkeiten innerhalb eines engagierten TeamsSehr gute Arbeitsatmosphäre mit netten Kolleg:innenFirmen- und Teamevents, Fitnessmöglichkeiten im HauptgebäudePrämien für Mitarbeiter:innen WerbungErgonomische Arbeitsplätze (variable Tische, arbeiten im Stehen oder Sitzen) mit modernen ArbeitsmittelnZentraler Standort mit guter VerkehrsanbindungVermögenswirksame Leistungen (ab dem 1. Monat der Beschäftigung)Flache Hierarchien und kurze Entscheidungswege / Duz-KulturFamiliäres MiteinanderFortbildungen zu fachlichen und persönlichen ThemenCompany BikesFirmenparkplätze / FahrradstellplätzeUrlaubs-/WeihnachtsgratifikationPluxee-KarteBonusregelungenTischkicker / Obstkörbe / Cafeteria (ohne Verpflegung)
+
+
+
+
+Über uns
+
+ORGA-SOFT® ist ein international tätiges Software-Unternehmen, welches sich speziell auf Handel und Industrie der Getränke- und Lebensmittelbranche ausgerichtet hat. Seit 1979 verfolgt das inzwischen in der zweiten Generation geführte Familienunternehmen das Ziel, mittelständische Unternehmen in der Abbildung und Optimierung ihrer Geschäftsprozesse zu beraten sowie diese bei ihren Kund:innen zu implementieren. Dies erfolgt seit vielen Jahren auf Basis der eigens entwickelten ERP-Software INTEGRA®, welche bereits heute bei über 500 Kunden erfolgreich im Einsatz ist.1979 hatte Günther Kehl die Vision, kaufmännische Daten in Echtzeit zu verarbeiten. Mit einer Handvoll Kunden entwickelte man damals auf Basis von Unix eine Unternehmenssoftware, die Hardwareunabhängig genutzt werden konnte. Noch heute sind wir einer der führenden Anbieter für ERP-Software, nur dass heute nicht mehr bloß die kaufmännischen Prozesse abgedeckt werden, auch die Bereiche Lager &amp;amp; Logistik, Produktion &amp;amp; Fertigung sind im Portfolio enthalten. Ergänzt werden die Lösungen durch mobile Applikationen, die auf Smartphones und Tablets zum Einsatz kommen.
+
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/orga-soft-senior-frontend-software-developer-m-w-d-react-graphql-progressive-web-apps-pwa</description><pubDate>Thu, 12 Feb 2026 22:08:55 +0000</pubDate></item><item><title>EBG: PHP Web Application Developer (API)</title><link>https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer-api</link><description>Headquarters: Miami, FL, USA
+    URL: http://ebgsolutions.com
+
+
+Company DescriptionEBG is an e-commerce solutions provider specializing in travel and entertainment, and also offering retail products and services, voluntary benefits and insurance.&amp;nbsp;EBG powers a robust portfolio of technology solutions and operates a network of employer and membership-based platforms reaching a captive audience, providing leading brands with incremental distribution opportunities. EBG's expanded network reaches over 100 million users from participating companies and closed loop affinity and membership groups.&amp;nbsp;EBG owns and operates one of the largest and most comprehensive employee savings programs in the country — serving over 40,000 corporate clients through its proprietary platforms TicketsatWork, Plum Benefits, Working Advantage and Beneplace.&amp;nbsp;EBG is a b2b2c company headquartered in Miami (Aventura), with offices in New York, Orlando, and Austin. We offer a hybrid work environment with a balance of collaboration and flexibility.Job DescriptionEBG is looking for a dynamic person to join our performance driven team. We are growing very quickly so we need a “hands on” person that can find solutions and code one day, QA their work the next day, and help develop and support a scalable structure along the way.&amp;nbsp;&amp;nbsp;&amp;nbsp;The Web Application Developer position is a member of a team of software developers that develop, integrate, and maintain websites and internal applications within the organization. Development within the organization is done in a Linux, Apache, MySQL, and PHP environment and all candidates must be familiar with developing in this environment. The ability to create reusable code and understand the latest web technologies is important. This role will also be very involved in API integration and creation. The candidate should exhibit a desire to grow with the company, take pride in their work, and fit well within a multi-level team environment.This role is primarily WFH / Remote from only Florida (FL) or Texas (TX). First day is required to be onsite in an office. We do not provide sponsorship and we do not hire outside of the United States.Essential Functions:Support of existing EBG platformsDevelopment, implementation, and testing of web applicationsAnalysis of requirements to produce designs for new developmentWork with other developers in a collaborative environment and also work independently on projectsSet time estimates and expectations for new product development and implementing new features, tracking on target deadlinesWrite clean, well-documented, maintainable, bug-free code and enforce standards and best practicesOther support tasks as requiredQualifications5+ years of real-world development experience working in a LAMP stack (PHP) , backend development focus preferredExperience with MVC (Model View Controller) frameworks (Laravel, CodeIgniter, Symfony, Yii, etc.)Demonstrated experience with web design and web application programmingExperience working with, consuming, and building APIs (including 3rd party APIs)Able to contribute to planning and architecture discussionsSelf-motivated and organizedStrong communication skills (written and verbal)Ability to work both individually and with a teamSolid knowledge of object-oriented programming (OOP)Ability to write clean, reusable, secure (PCI compliant), well-documented codeAdvanced knowledge of Web Standards, Accessibility Standards &amp;amp; browser compatibilityAn understanding of the importance of User Experience &amp;amp; User InterfaceExperience in the demands of deadline-driven workBusiness process understandingExperience with applicable technologies:&amp;nbsp;LinuxApacheMySQLPHP 7CSSHTML5JavaScriptSource Control (SVN/GIT)Web Services, XML, JSONAPI integrationPreferred QualificationsExperience with travel integrations (Hotel, Car Rental, Cruise)Experience working with payment gatewaysExperience with MobileExperience with E-Commerce systems and PCI-DSSExperience with AGILE software development methodologyExperience with JIRAKnowledge of AWS Services and microservicesAdditional InformationEBG offers outstanding employee benefits including:Medical, Dental &amp;amp; Vision401k MatchShort Term Disability, Long Term Disability (Company Paid)Company Paid Basic Life and AD&amp;amp;DAdditional Voluntary Benefits&amp;nbsp;Flexible Work Arrangements3 Weeks of PTO + 5 Personal DaysPaid Holiday Break from Christmas to New YearPaid HolidaysFitness Reimbursement ProgramAnnual Day of GivingShare in the FUN! EBG gives $1000 per year in Tickets-At-Work gift cards&amp;nbsp;to full-time employees to experience and enjoy the savings marketplace!The statements contained herein reflect general details as necessary to describe the principal functions of this job, the level of knowledge and skill typically required, and the scope of responsibility, but should not be considered an all-inclusive listing of work requirements. All your information will be kept confidential according to EEO guidelines.
+
+To apply: https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer-api</description><pubDate>Thu, 12 Feb 2026 22:08:55 +0000</pubDate></item><item><title>WeVote: Donor Communications Specialist</title><link>https://weworkremotely.com/remote-jobs/wevote-donor-communications-specialist</link><description>Headquarters: Remote
+    URL: http://wevote.us
+
+
+
+* Fraud and phishing warning *&amp;nbsp;Please apply directly via our volunteering portal/ATS at&amp;nbsp;https://wevote.applytojob.com/apply. Do not apply via any other job portals, aggregators, or sites, as your information may not be secure, or the role may no longer be accepting applications. Thank you*About WeVote*WeVote is a 100% volunteer-powered, nonpartisan nonprofit that uses technology to help voters make informed decisions. With 130+ active volunteers and a national reach—all on a budget under $50K/year—we prove grassroots, mission-first civic tech can have real impact.Join the WeVote MovementWeVote has an open volunteer position for a Donor Communications Specialist, for 5 hours or more per week. You are an experienced professional with a passion for helping America navigate our current political environment. This is an opportunity to work remotely with our active team to help us get ready for multiple upcoming elections. Our ideal volunteer is passionate about politics and excited to use technology to educate voters and increase voter turnout.&amp;nbsp;You’ll also gain valuable technical skills, have opportunities for leadership development, and expand your personal and professional network.About UsWeVote is a nonpartisan get-out-the-vote nonprofit startup and a celebrated Fast Forward nonprofit technology grantee. WeVote is a movement of over 120 active passionate, part-time volunteers (starting with the founders) who build mobile technologies that will touch and mobilize millions of voters on Election Day. We believe that many voters are busy, distracted, and impatient. We have a goal of providing a positive voting experience that helps people decide how to vote. More information at https://WeVote.US or @WeVote on X.What You'll DoDevelop and write engaging fundraising materials that attract and motivate new individual donors.Design clear, donor-centered messaging for digital campaigns, emails, and social media outreach.Collaborate with the Recruitment Team to align messaging across volunteer engagement and donor acquisition efforts.Create toolkits, templates, and shareable assets volunteers can use to make donation asks within their own networks.Support volunteers with messaging guidance, talking points, and creative content that helps them confidently introduce our mission and fundraising goals.Assist in developing and refining donor journeys and follow-up communications to convert first-time donors into recurring supporters.Track engagement metrics and use data insights to optimize messaging and outreach strategies.Maintain consistent voice, tone, and storytelling across all donor recruitment materials.Who you are: Must haves.You want to work with an established and successful team. You are committed to strengthening American Democracy.You are striving for personal excellence, and want to do meaningful work that will make a difference.2+ years of experience in nonprofit fundraising, communications, or marketing.Excellent writing and storytelling skills with an understanding of donor motivation.Experience creating social media, email, or campaign content that drives action.Creative and mission-driven, with a strong sense of initiative and collaboration.A willingness to work with and support other volunteers.Familiarity with CRM, email marketing, or fundraising tools a plus.5+ hours per week during our core team hours M-F 8 a.m. - 6 p.m. PTHow to apply:Submit your resume (at&amp;nbsp;https://wevote.applytojob.com/apply/) and include a brief note/cover letter to why you are interested in WeVote and helping our mission. 
+
+To apply: https://weworkremotely.com/remote-jobs/wevote-donor-communications-specialist</description><pubDate>Thu, 12 Feb 2026 22:08:55 +0000</pubDate></item><item><title>Cotiviti: Sdet</title><link>https://weworkremotely.com/remote-jobs/cotiviti-sdet-1</link><description>Headquarters: Remote, India
     URL: http://cotiviti.com
 
 
@@ -860,311 +1065,4 @@ Experience with SSO, SCIM or RBAC.
 Any experience in a related industry, including assessments, HR tech, or education.
 
 
-To apply: https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</description><pubDate>Wed, 12 Nov 2025 08:56:02 +0000</pubDate></item><item><title>Everest Clinical Research: Clinical Trial Web Application Developer</title><link>https://weworkremotely.com/remote-jobs/everest-clinical-research-clinical-trial-web-application-developer-1</link><description>Headquarters: Markham, Ontario, L3R0B8, Canada
-    URL: http://everestclinical.com
-
-
-Everest Clinical Research (“Everest”) is a full-service contract research organization (CRO) providing a broad range of expertise-based clinical research services to worldwide pharmaceutical, biotechnology, and medical device industries. We serve some of the best-known companies and work with many of the most advanced drugs, biologics, and medical devices in development today.
-Everest has been an independent CRO since 2004 with a strong foundation as a statistical and data management center of excellence. Building on this foundation, Everest has successfully developed and established itself as a full-service CRO. Everest’s headquarters are located in Markham (Greater Toronto Area), Ontario, Canada with additional sites in Bridgewater (Greater New York City Area), New Jersey, USA, Shanghai (Pudong Zhangjiang New District), China and Taipei, Taiwan.
-Everest is known in the industry for its high quality deliverables, superior customer service, and flexibility in meeting clients’ needs. A dynamic organization with an entrepreneurial origin, Everest continues to experience exceptional growth and great success.
-Quality is our backbone, customer-focus is our tradition, flexibility is our strength…that’s us…that’s Everest.
-To drive continued success in this exciting clinical research field, we are seeking committed, skilled, and customer-focused individuals to join our winning team as a Clinical Trial Web Application Developer for our Toronto/Markham, Ontario, Canada on-site location, or remotely from a home-based office anywhere in Canada in accordance with our Work from Home policy.
-Key Accountabilities:
-
-Responsible for the design, development, unit testing, systems testing, release, deployment, and maintenance of custom-built java web-applications to meet established client and system requirements.
-Responsible for a full-stack implementation of a web-application, front-end design and development, business logic and rules implementation, back-end development, and database tables and structure implementation.
-Work closely with clients and cross-functional team members to understand business and technical requirements that drive the analysis and design of technical solutions.
-Provide client support and consultation for development, integration as well as advice in areas of expertise. Perform unit-level testing of system components and fix bugs.
-Develop and review supporting technical specifications, design, and documentations to ensure completeness.
-Develop detailed design of application components, and write maintainable, high-quality code in a timely fashion.
-Provide code maintenance and support across testing/validation cycles and post-production deployment.
-Participate in user training and demonstrations of the web application products on an as-needed basis.
-Support project estimating/planning processes. Ensure adherence to system development lifecycle standards.
-Identify functional and technical application enhancements based on client feedback, internal reviews, and industry leading practices and help to prioritize, plan, and execute ongoing enhancements for the continuous improvements of the system/product.
-Participate in the evaluation, implementation, and documentation of existing and new web-based business solutions.
-Contribute to the architectural design and development of a modern, strategic web-based application infrastructure.
-Support special web development and Information and Technology (IT) initiatives, as needed: Web User Interface re-design and re-fresh; evaluation and upgrade of server operating systems, hardware, and software requirements; implementation of improved encryption standards for communications to and from secure server applications; optimization of web security infrastructure for user authentication; and authorization to controlled components.
-Adhere to software development process frameworks and tools (including change control, quality assurance procedures) using leading practices, design patterns, and methodologies.
-Perform database design, modeling, and database maintenance.
-Identify and implement security measures for internet applications infrastructure.
-Perform system validation requirements and procedures for web applications.
-
-Qualifications:
-
-A Bachelor of Science degree in Computer Science, Mathematics or related fields.
-Eight or more years of experience in relevant field.
-Architecting re-usable and extendable web-based solutions.
-Understanding and applying J2EE security, Concurrency, Transactions, Session Management, J2EE Patterns, OWASP, and Frameworks to application solutions.
-Broad experience with various computing platforms (Unix and Windows).
-Experience with Architecture and Design patterns.
-Experience with component-based development.
-Requirements gathering and analysis.
-Software development frameworks and methodologies, including SDLC, Waterfall, and Agile delivery methods
-
-&amp;nbsp;
-To find out more about Everest Clinical Research and to review other opportunities, please visit our website at www.ecrscorp.com
-We thank all interested applicants, however, only those selected for an interview will be contacted.
-Everest is committed to upholding the principles of dignity, independence, integration, and equal opportunity. We welcome and encourage applications from people with disabilities, and upon request we will provide accommodations for candidates participating in any part of our recruitment and selection process.
-#LI-KD1#LI-Remote
-
-To apply: https://weworkremotely.com/remote-jobs/everest-clinical-research-clinical-trial-web-application-developer-1</description><pubDate>Mon, 09 Feb 2026 17:40:41 +0000</pubDate></item><item><title>Smartbug Media: HubSpot Developer</title><link>https://weworkremotely.com/remote-jobs/smartbug-media-hubspot-developer</link><description>Headquarters: Remote, United States
-    URL: http://smartbugmedia.com
-
-
-SmartBug Media is the most decorated HubSpot agency, recognized as a leader in crafting digital solutions that empower organizations to thrive across the entire customer lifecycle. From marketing and sales to revenue operations, customer success, and e-commerce, we combine sound strategies, cutting-edge AI, and digital innovation to deliver solutions that de-risk the future and drive sustainable growth.With a fully remote team of over 250 professionals, we excel at creating intelligent web and digital ecosystems—from corporate websites to complex web applications—seamlessly integrated with AI-powered solutions. By aligning SmartBug's expertise with our clients' unique business realities, we build scalable, innovative tools that become engines for growth, setting the course for long-term success.The HubSpot Developer is a specialist responsible for building and maintaining highly performant, scalable websites and digital experiences primarily within the&amp;nbsp;HubSpot CMS (Content Hub). This role requires deep expertise in front-end architecture, a mastery of&amp;nbsp;HUBL&amp;nbsp;(HubSpot's templating language), and experience integrating modern frameworks like&amp;nbsp;React&amp;nbsp;for dynamic module creation. The developer will lead technical implementation and work closely with design and marketing teams to deliver complex, best-in-class solutions.Development &amp;amp; ArchitectureDesign, develop, and maintain high-quality, reusable&amp;nbsp;HubSpot CMS&amp;nbsp;themes, templates, and custom modules using&amp;nbsp;HUBL, HTML5, CSS3, and JavaScript/ES6+.Implement dynamic front-end features and components, utilizing modern frameworks such as&amp;nbsp;React.Lead&amp;nbsp;technical scoping and implementation for website migrations and rebuilds on the HubSpot&amp;nbsp;platform.Ensure&amp;nbsp;all front-end code is optimized for maximum speed, scalability, cross-browser compatibility, and search engine optimization (SEO).Implement robust testing and quality assurance procedures for all developed&amp;nbsp;assets.CollaborationCollaborate with UI/UX designers to translate wireframes and mockups into functional, pixel-perfect user&amp;nbsp;interfaces.Interface&amp;nbsp;with the&amp;nbsp;back-end development team&amp;nbsp;to define API requirements and integrate data&amp;nbsp;sources.Stay&amp;nbsp;current with HubSpot product updates and the evolving front-end technology&amp;nbsp;landscape.Requirements Expertise in HubSpot CMS development, including dynamic pages, blogs, and landing&amp;nbsp;pages.Ability&amp;nbsp;to clearly communicate technical concepts to both team members and non-technical&amp;nbsp;stakeholders.Advanced&amp;nbsp;proficiency in&amp;nbsp;HUBL&amp;nbsp;and the HubSpot Design&amp;nbsp;Manager.Strong&amp;nbsp;written and verbal communication&amp;nbsp;skills.Demonstrated&amp;nbsp;ability to deliver performant and semantic&amp;nbsp;code.Excellent&amp;nbsp;organization and time management skills with a high degree of attention to&amp;nbsp;detail.Deep&amp;nbsp;understanding of responsive design principles and mobile-first development.Education &amp;amp; ExperienceMinimum of 3+ years of professional front-end development&amp;nbsp;experience.Minimum&amp;nbsp;of 2+ years of hands-on experience developing within the&amp;nbsp;HubSpot&amp;nbsp;CMS.Proven&amp;nbsp;experience working with modern JavaScript frameworks, specifically ReactExperience partnering with cross-functional teams (e.g., strategy, creative, dev).A Bachelor's degree in Computer Science, or a related technical field is&amp;nbsp;required.Experience&amp;nbsp;leading the full website development lifecycle.Computer &amp;amp; Software Skills Expert-level proficiency in HTML5, CSS3/Sass/Less, and modern JavaScript/ES6+.Deep experience with version control (Git) and command-line&amp;nbsp;tools.Experience&amp;nbsp;with build tools (e.g., Webpack, Babel).Knowledge of HubSpot APIs and&amp;nbsp;integrations.Back-end&amp;nbsp;development experience (e.g.,&amp;nbsp;Node.js, Python, PHP) is a significant&amp;nbsp;plus.Proficiency&amp;nbsp;in Microsoft Office and Google SuiteOther Qualifications Experience with Agile development methodologies (Scrum/Kanban).Experience with B2B and B2C website marketing and&amp;nbsp;optimization.Portfolio&amp;nbsp;of live HubSpot CMS projects is highly&amp;nbsp;desirable.Knowledge&amp;nbsp;of quality assurance and cross-browser testing processes$70,000 - $85,000 a yearWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
-
-To apply: https://weworkremotely.com/remote-jobs/smartbug-media-hubspot-developer</description><pubDate>Mon, 09 Feb 2026 17:40:41 +0000</pubDate></item><item><title>Leobit: Senior Ruby Engineer</title><link>https://weworkremotely.com/remote-jobs/leobit-senior-ruby-engineer</link><description>Headquarters: Lviv, UA
-    URL: http://leobit.com
-
-
-
-Leobit (leobit.com) is a full cycle web and mobile application development provider for the technology companies and startups primarily located in the US, Canada, Australia, the UK, and the EU. Our technology focus covers .NET, Angular, React, iOS, Android, Ruby, PHP and a comprehensive range of other technologies from Microsoft, Web, and Mobile Stacks.
-
-The client is the leading brand in the field of cutting-edge skin visualization technology. They focus on devices for the early detection of skin changes which use imaging techniques with Artificial Intelligence. The company is represented worldwide with offices in the USA, Italy and Great Britain as well as a global network of distributors.
-
-We are looking for a Senior Ruby Engineer to join our team.
-
-Requirements:
-Five years of working experience with Ruby (at least)Good experience with MongoDBMulti regions’ application experienceExperience with Docker, Docker ComposeExperience with AWS S3, AWS EKSExperience with Ruby 3.2.x, Rails 8.x for BackendExperience with tailwindcss 3.3.x, Stimulus 3.x, Angular 17 for Fronend (would be a plus)Good knowledge of GitHub, GitHub Actions (CI/CD)Experience with Elastic APM (would be a plus)Experience with BundlerExperience with YarnExperience with EsbuildExcellent communication and problem-solving skillsBachelor’s or Master’s degree in computer science (or similar technical field)Level of English: Intermediate strong (at least)
-Responsibilities:
-Design, build, and maintain high performance applicationDemonstrate software to the final customer on a regular basisWork on primarily backend-focused project (80% backend, 20% frontend)Estimate complex projects using different techniquesResearch and develop complex technical solutions/technologies (for backend side)Package and support deployment of releases
- We offer:
-Interesting and challenging projectsCompetitive compensation and regular results-based salary reviewA broad range of professional education and personal development possibilitiesComfortable and cozy working environmentMotivated colleagues with profound knowledge of the technical fieldАttractive compensation package
-Accelerate your career with Leobit!
-
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/leobit-senior-ruby-engineer</description><pubDate>Mon, 09 Feb 2026 17:40:41 +0000</pubDate></item><item><title>Codvo.ai: GIS Web Developer - Esri/React Specialist (Remote)</title><link>https://weworkremotely.com/remote-jobs/codvo-ai-gis-web-developer-esri-react-specialist-remote</link><description>Headquarters: Maharashtra, Pune, India
-    URL: http://codvo.ai
-
-
-
-
-GIS Web Developer - Esri/React SpecialistLocation: Remote&amp;nbsp;About UsAt Codvo, we are committed to building scalable, future-ready data platforms that power business impact. We believe in a culture of innovation, collaboration, and growth, where engineers can experiment, learn, and thrive. Join us to be part of a team that solves complex data challenges with creativity and cutting-edge technology.&amp;nbsp;Position SummaryWe're seeking a GIS Web Developer with strong Esri ArcGIS and React experience to expand our natural language GIS platform. You'll work on integrating spatial analysis with business intelligence, implementing advanced query workflows, and building intuitive map-based visualizations.Primary Technologies• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;GIS/Mapping: ArcGIS REST API, Feature Services, OAuth 2.0• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Frontend: React 18.2, Leaflet 1.9, esri-leaflet• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Backend: Node.js, Express, SQLite• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;AI/NLP: OpenAI GPT-4 Turbo integration• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Spatial Operations: Haversine distance, buffer analysis, proximity queriesInfrastructure• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Version Control: Git/GitHub• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Deployment: AWS/Azure (planned)• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Database: SQLite (26 contracts, 43 tracts)What You'll BuildCore Responsibilities (70% of time)1. &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Spatial Query Implementationo &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Implement new query types (polygon intersections, multi-layer queries)o &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Optimize ArcGIS REST API performanceo &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Build complex WHERE clause generators from natural language2. &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Map Visualizationo &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Create interactive Leaflet-based visualizationso &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Implement custom feature styling and popupso &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Build proximity buffers and distance calculations3. &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Data Integrationo &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Connect GIS features with contract/business datao &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Build efficient data pipelines (SQLite → ArcGIS → Frontend)o &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Implement caching strategies for query results4. &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Performance Optimizationo &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Reduce API call latencyo &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Implement client-side filtering for follow-up querieso &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Optimize geometry rendering for 40+ featuresInnovation Opportunities (30% of time)• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Spatial drawing tools (polygon queries)• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Real-time collaboration features• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Multi-layer spatial analysis• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Export to GeoJSON/Shapefile/CSV• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Mobile app development (React Native)Required QualificationsMust-Have Skills• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3+ years working with ArcGIS REST API and Feature Services• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Strong JavaScript/React experience (React Hooks, state management)• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Understanding of spatial concepts: coordinate systems (4326/3857), projections, buffers, spatial queries• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Experience building interactive web maps (Leaflet, Mapbox, or ArcGIS Maps SDK)• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Comfortable with REST APIs and asynchronous JavaScript (async/await, Promises)• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;SQL/database experience (SQLite, PostgreSQL, or similar)Nice-to-Have Skills• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;esri-leaflet library experience• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;OAuth 2.0 token management• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;OpenAI API or LLM integration• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Geospatial algorithms (Haversine, centroid calculations, polygon operations)• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Node.js/Express backend development• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Docker/containerization• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Previous GIS chatbot or natural language query experienceWhat Makes a Great CandidateTechnical Excellence• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Can explain complex spatial concepts simply• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Writes clean, maintainable code• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Understands when to optimize vs. when to ship• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Comfortable reading and improving existing codebasesProblem-Solving Mindset• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Thinks about user experience first• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Balances client-side vs. server-side operations• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Knows when to use caching vs. real-time queries• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Can debug spatial data issues (overlapping geometries, projection mismatches)Communication• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Documents code and architectural decisions• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Can explain technical tradeoffs to non-technical stakeholders• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Comfortable working with remote teamsRed Flags (What We're NOT Looking For)• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Only knows ArcGIS Desktop (ArcMap/ArcGIS Pro) with no web API experience• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Can't explain REST APIs or asynchronous JavaScript• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;No experience building user-facing applications• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Uncomfortable with modern JavaScript frameworks• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Expects to work in isolation without collaborationGreen Flags (What Makes You Stand Out)• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Built a web mapping application from scratch• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Contributed to open-source GIS projects• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Can demo a spatial query interface you've built• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Excited about AI/LLM integration• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Understands tradeoffs between different mapping libraries• &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Has optimized ArcGIS REST API performance before
-
-
-
-
-
-
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/codvo-ai-gis-web-developer-esri-react-specialist-remote</description><pubDate>Mon, 09 Feb 2026 17:40:41 +0000</pubDate></item><item><title>RebelCode: Software Engineer (WordPress Developer)</title><link>https://weworkremotely.com/remote-jobs/rebelcode-software-engineer-wordpress-developer</link><description>Headquarters: Malta
-    URL: https://rebelcode.com/
-
-
-
-
-At RebelCode, we’ve spent over a decade building digital products into successful tools that are actively used by 100,000+ people around the world. Throughout this time, we’ve remained a small, bootstrapped team with a dedication for building the best possible products.
-We’re now looking for a Software Engineer to help us ramp up product development.
-
-
-
-
-The Software Engineer Role
-
-
-
-
-As a Software Engineer at RebelCode, you’ll be a key contributor to our WordPress plugins and internal tools, helping to expand product capabilities into new, innovative areas.
-WP RSS Aggregator&amp;nbsp;is our flagship product. It’s the original RSS importer for WordPress with over 50,000 active installations and thousands of paying customers. In the last two years, it has been rebuilt from the ground up and continues to evolve every month.
-Going forward, we have a lot of new and exciting plans that will expand the product beyond just an aggregator, taking it into new areas that align with the evolution of how content is consumed, alongside the continued development of our&amp;nbsp;Spotlight Instagram&amp;nbsp;plugin.
-You’ll work across our full technology stack – from WordPress plugin architecture to React interfaces and AI API integrations. This role involves more than just WordPress development; it’s a mix building a complete product platform that includes content curation, AI capabilities, and intelligent tools.
-
-
-
-
-What will your day-to-day look like?
-
-
-
-
-You’ll work closely with our Senior Developer, Product Manager, Support Specialist and CEO to build and improve features that directly impact our users’ experience and business growth.
-Once a week, we have a product team stand-up meeting via video where we all update each other on the work being done, and whenever needed, we’ll have occasional chats and video calls to discuss ongoing projects, challenges, and new ideas.
-
-
-
-
-What will it&amp;nbsp;not&amp;nbsp;look like?
-
-
-
-
-You will not be working on one-off client work or doing theme builds. You will not be on call 24/7 and are only expected to show up on weekends if there’s a real emergency. You will not be doing front-line customer support as your main job.
-
-
-
-
-What will you be working on?
-
-
-
-
-
-
-
-
-Primary Focus
-
-
-
-
-
-WordPress plugin development for WP RSS Aggregator &amp;amp; other plugins.
-Building features using PHP, React, and various API integrations.
-Maintaining and improving upon existing plugin architecture.
-Bug fixes, optimizations, and enhancements for all products &amp;amp; tools.
-
-
-
-
-
-
-
-
-
-Innovation &amp;amp; Expansion
-
-
-
-
-
-Integrating with AI tools and LLMs for products and internal tools.
-Developing intelligent capabilities for content-related needs.
-Contributing to new add-ons and stand-alone products.
-Exploring opportunities for expansion into new markets and niches.
-
-
-
-
-
-
-
-
-
-What will be expected of you?
-
-
-
-
-As a Software Engineer on our team, you will be expected to:
-
-Write clean, maintainable code for WordPress plugins and web applications
-Build and iterate on features across the full stack (PHP backend, React frontend)
-Integrate third-party APIs, particularly AI/ML services
-Collaborate on code reviews with the Senior Developer
-Participate in technical discussions and feature planning
-Solve technical challenges independently while understanding when to collaborate
-Stay up-to-date with modern development practices and technologies
-Contribute to product quality through testing and attention to detail
-
-In terms of AI,&amp;nbsp;you will not be doing “AI for AI’s sake” experiments with no path to production, and you will not be expected to be a data scientist. AI integrations are product-focused and pragmatic.
-Also, product management, UI/UX design, and team coordination are handled by other team members. You may contribute, but your focus is on technical execution and innovation.
-
-
-
-
-What's it like Working at RebelCode?
-
-
-
-
-As a 100% remote and asynchronous team, self-discipline is a very important factor when working within our team. Everyone pulls their own weight and we all do our utmost to get the best out of each other, helping one another to grow and develop our characters and skill-sets.
-The tools you and the team will be using day-to-day include:
-
-GitHub for code management, issue tracking, and pull requests
-Notion for company wiki and documentation
-Twist for daily asynchronous team communication
-Meet/Zoom for weekly sync meetings and as-needed calls
-Help Scout for customer support
-Figma for product UI/UX design
-Various hosting platforms for our services and infrastructure
-
-You’ll be joining a lean and experienced team that has worked in digital products for over a decade, and you&amp;nbsp;will personally have a significant impact on product direction and technical decisions.
-
-
-
-
-
-
-What Does a Successful 1st Year Look Like?
-
-
-
-
-The definition of success for this new role will be determined as follows.
-After 3 months:&amp;nbsp;You’re independently shipping features and bug fixes with minimal guidance.
-After 6 months:&amp;nbsp;You own specific product areas and contribute to technical planning.
-After 12 months:&amp;nbsp;You’re a full technical partner driving features from concept to launch.
-
-
-
-
-Who are we looking for?
-
-
-
-
-Our team is made up of a select group of individuals from different backgrounds and cultures that blend together through their shared goals and beliefs. You’ll be a great fit if:
-
-You are the kind of person who owns your work &amp;amp; takes pride in delivering high-quality code.
-You communicate clearly in writing &amp;amp; are comfortable working asynchronously.
-You are able to provide &amp;amp; receive constructive feedback, &amp;amp; collaborate with different people.
-You’re excited about learning new tech &amp;amp; diving into areas outside your current expertise.
-
-
-
-
-
-Your Skillset &amp;amp; Experience
-
-
-
-
-Technical Requirements (Essential):
-
-PHP Proficiency:&amp;nbsp;3-5 years of professional PHP development with strong object-oriented programming skills. You write clean, efficient, well-documented code.
-WordPress Plugin Development:&amp;nbsp;2+ years of experience building WordPress plugins (not just themes). Comfortable with WordPress core, hooks, actions, filters, and plugin architecture.
-JavaScript &amp;amp; React: Strong JavaScript fundamentals with practical React experience. You can build interactive user interfaces and understand modern frontend development.
-Design Patterns: Solid understanding of software design patterns and best practices. You know when and how to apply them.
-Git/GitHub: Proficient with version control, pull requests, code reviews, and collaborative development workflows.
-Remote Work Experience: Proven ability to work independently in remote, asynchronous environments.
-English Proficiency: Fluent written and spoken English for documentation, code reviews, and internal team communication.
-
-Other Technical Skills (Nice to Have):
-
-Laravel or modern PHP framework experience
-TypeScript
-Experience with AI/ML APIs (OpenAI, Anthropic, etc.)
-Tailwind CSS
-Performance optimization for high-traffic WordPress sites
-WordPress REST API development
-
-
-
-
-
-Your Benefits &amp;amp; Remuneration
-
-
-
-
-
-$40,000 to $45,000 annual (based on experience and skillset)
-4 weeks of paid leave annually
-Fully remote – work from anywhere in the world
-Flexible work schedule with overlap for collaboration (typically 3-4 hours overlap with CET)
-Learning &amp;amp; development supported by the company (books, courses, online resources)
-Conference attendance – expenses paid for relevant conferences and WordCamps
-Diverse team – work with people from different backgrounds and cultures
-
-
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/rebelcode-software-engineer-wordpress-developer</description><pubDate>Mon, 09 Feb 2026 12:09:23 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</description><pubDate>Wed, 12 Nov 2025 08:56:02 +0000</pubDate></item></channel></rss>
