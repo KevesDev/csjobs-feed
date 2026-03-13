@@ -1,5 +1,377 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Blockchain &amp; Climate Institute: UNPAID VOLUNTEER - Web Developer</title><link>https://weworkremotely.com/remote-jobs/blockchain-climate-institute-unpaid-volunteer-web-developer</link><description>Headquarters: New York, United States
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Magic: Web Development &amp; Coding Specialist - Freelance, Remote</title><link>https://weworkremotely.com/remote-jobs/magic-web-development-coding-specialist-freelance-remote</link><description>Headquarters: Philippines
+    URL: http://getmagic.com
+
+
+
+
+
+
+
+
+
+Department
+Support &amp;amp; Leadership
+Employment Type
+Part Time
+Location
+Philippines
+Workplace type
+Fully remote
+Compensation
+$7.00 / hour
+Reporting To
+Client via Magic
+
+
+        The Impact you’ll make
+      
+
+
+
+
+
+          Skills, Knowledge and Expertise
+        
+
+
+
+
+
+          Benefits
+        
+
+
+
+
+
+        About Magic, Inc 
+      
+
+Magic has connected top remote talent with fast-growing businesses for over 10 years.
+Founded in San Francisco in 2015, we now have thousands of remote workers around the world.&amp;nbsp;Magic is backed by Sequoia Capital and Y Combinator.
+
+
+
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/magic-web-development-coding-specialist-freelance-remote</description><pubDate>Tue, 17 Feb 2026 22:19:58 +0000</pubDate></item><item><title>Shado Ventures: Senior ML Engineer - AI Document Intelligence (Remote, $15K Contract)</title><link>https://weworkremotely.com/remote-jobs/shado-ventures-senior-ml-engineer-ai-document-intelligence-remote-15k-contract</link><description>Headquarters: Miami, FL
+    URL: https://www.shado.ventures/
+
+
+The Challenge
+Build an AI system achieving 95% accuracy parsing death certificates across&amp;nbsp;
+50+ state format variations, generating institution-specific legal documents&amp;nbsp;
+for automated death administration.
+&amp;nbsp;
+The Mission
+Shado Ventures automates the 500 hours of administrative work families face after&amp;nbsp;
+someone dies—notifying government agencies, financial institutions, and service&amp;nbsp;
+providers without the deceased's login credentials.
+&amp;nbsp;
+3.3 million American families face this crisis annually. We're building the&amp;nbsp;
+first AI solution.
+&amp;nbsp;
+Personal Context
+I'm Hassan, founder. My father is in hospice right now. I'm living the exact&amp;nbsp;
+problem we're solving.
+&amp;nbsp;
+The Opportunity
+4-Week Paid Sprint: $15,000
+• $7,500 upfront (contract signing)
+• $7,500 at delivery
+&amp;nbsp;
+If mutual fit → Founding CTO:
+• Equity: 3-5% (4-year vest, 1-year cliff)
+• Salary: $180,000-220,000
+• Employee #1, shape everything
+• $3.5M seed closing April 2026
+&amp;nbsp;
+What You'll Build
+Week 1 - Death Certificate Intelligence:
+• GPT-4 Vision or Claude Sonnet with vision
+• 95% extraction accuracy across 50+ state formats
+• Structured JSON output (name, DOB, death date, SSN, address)
+&amp;nbsp;
+Week 2 - Legal Document Generation:
+• 15+ institution-specific templates
+• SSA, Medicare, DMV, IRS, banks, credit cards, insurance, utilities
+• Jinja2 + python-docx + PDF generation
+• Professional output (not obviously AI-generated)
+&amp;nbsp;
+Week 3/4 - Integration + Demo:
+• Streamlit or React UI
+• Upload → Review → Generate → Download workflow
+• Investor-ready demo video
+&amp;nbsp;
+Requirements
+Must have:
+✓ 5+ years shipping production ML/AI
+✓ GPT-4 or Claude API expertise (production, not experimental)
+✓ Public GitHub with LLM projects (we review your code)
+✓ Available within 2-4 weeks
+✓ 30-40 hrs/week for 3 weeks
+&amp;nbsp;
+Nice to have:
++ OCR/document parsing experience
++ Legal/regulated industry background
++ Vision model expertise
+&amp;nbsp;
+Tech Stack
+Python 3.10+, GPT-4 Vision/Claude, Jinja2, python-docx, Pydantic, Streamlit/React
+&amp;nbsp;
+Why This Is Technically Interesting
+• Novel problem (no existing AI solution for death certificates)
+• Challenging accuracy target (95% across 50 state variations)
+• Green field architecture (make all technical decisions)
+• Real-world impact (3.3M families annually)
+&amp;nbsp;
+How to Apply
+Contact: Noa James
+Email: noa@shado.ventures
+&amp;nbsp;
+Include ALL FOUR:
+1. GitHub profile link (required, we review your code)
+2. One GPT-4/Claude production project (problem, results, repo link)
+3. Availability (start date + hours/week)
+4. Technical approach (3-5 sentences on death cert parsing + legal doc generation)
+&amp;nbsp;
+Incomplete applications will not receive a response.
+&amp;nbsp;
+Timeline: Interviews late Feb, Start mid-March, Deliver early April
+&amp;nbsp;
+This is personal. This matters. Let's build it.
+
+To apply: https://weworkremotely.com/remote-jobs/shado-ventures-senior-ml-engineer-ai-document-intelligence-remote-15k-contract</description><pubDate>Tue, 17 Feb 2026 14:37:01 +0000</pubDate></item><item><title>Proton.ai: Senior Backend Engineer</title><link>https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer</link><description>Headquarters: Cambridge, MA 
+    URL: https://proton.ai
+
+
+About Us:The wholesale distribution industry is ready for a revolution, and Proton is leading the charge. The world relies on distributors to sell nearly every physical product, but despite its massive contribution to the global economy, this industry has been left behind in terms of technology. Proton is changing that. With AI-powered sales software, we’re breaking through the complexity of selling millions of products and making it easier for distributors to anticipate customer needs. Our mission is to bring the distribution industry into the modern age and the results speak for themselves. Distributors using Proton see 10x ROI, faster new hire ramp-up, and happier sales teams.In 2022, we raised a $20M Series A backed by Felicis Ventures (investors in Twitch, Shopify, Opendoor, and many others) and Battery Ventures. This year, we’re laser-focused on driving customer growth. If you’re excited about the opportunity to wear multiple hats, and continuously learn and experiment, now’s the time to join the Proton team.The Role:Proton is looking for an experienced Senior Backend Engineer to join our fast-growing SaaS team! Reporting directly to the Director of Engineering, the Senior Backend Engineer will drive the technical development of the Proton.ai product and platform. In this role, you will be working with the engineering team to help us build a scalable, customizable, performant and secure application.We're looking for someone technical with a deep understanding and curiosity of modern tech stacks and systems that will help us choose and implement solutions that benefit the future of our engineering. &amp;nbsp;Proton collaborates with Oyster HR to hire international employees as full time (long term) contractors within our company.&amp;nbsp;Gross Salary range is $50,000 - $70,000&amp;nbsp; USD annually, based on experience level.&amp;nbsp;&amp;nbsp;What you’ll do:&amp;nbsp;Feature Development:&amp;nbsp; Spearhead the backend coding of new features while helping the Product team understand complexity and tradeoffs. Developing across the entire full stack of our product, driving features from idea to production and rapidly delivering value to our customers that makes a real impact. &amp;nbsp;Team Collaboration: Be part of a cross-functional team, including software engineering, infrastructure, backend, frontend, and devops, to provide architectural guidance, making sure the stack decisions being made support our future growth.&amp;nbsp;Enterprise Customizability: Leverage your experience with enterprise applications to tailor our solutions to the unique needs of our corporate customers.Performance and Reliability: Share your expertise in building high-performance, reliable applications, contributing to end-to-end architecture and data flow discussions.&amp;nbsp;You'll be a great fit for this role if:&amp;nbsp;Proven experience as a principal engineer or similar in startup environments, with a focus on building scalable SaaS solutions. 7+ years of experience building and deploying scalable SaaS applications5+ years of experience with backend technologies preferably Python or Go, but C# or Java are acceptableTrack record of successful product architecture decisions and system improvements with a large focus on secure coding practices and standards to meet the needs of enterprise class customers and their data.Deep understanding of cloud-native technologies and concepts such as cloud providers, databases, application performance, scalability and securityCuriosity for new technologies. You’re someone who actively seeks to stay informed about the latest frameworks, software advancements, and tools utilized by industry peers. You like contrasting and comparing technologies to find why one fits better for certain use-cases than the other.&amp;nbsp;Experience with enterprise applications is highly preferred.Exceptional communication skills for conveying complex technical concepts to diverse stakeholders.Current Tech StackBackend&amp;nbsp;Elasticsearch &amp;amp; Redis as the main databasesActively migrating to SQL as primary database&amp;nbsp;API service in Python running in Kubernetes&amp;nbsp;Daily pre-computations run in Airflow&amp;nbsp;Machine learning&amp;nbsp;&amp;nbsp;AI models - neural networks&amp;nbsp;&amp;nbsp;Machine Learning Eng focused on experimenting with ways to improve existing models, building new models - training and developing models and deploying them&amp;nbsp;Frontend&amp;nbsp;Vue.js 3/Nuxt 3Migrating Vue Component frameworks from ElementPlus/iView to VuetifyDocker and kubernetes to deploy&amp;nbsp;Github Actions for CIWhile we have a well-established tech stack, we welcome highly skilled developers who are passionate about learning and expanding their skill set. Don't have experience with everything listed here, but eager to learn? If so, we encourage you to apply!Benefits:Competitive Salaries + Company Stock Options - we want to pay you well (and equitably!) and make you feel like an owner. &amp;nbsp;Flexible Schedule - we think high levels of autonomy, responsibility, and working asynchronously foster an amazing workplace.Biannual Company Paid Off-sites - time for us to be together, brainstorm, and make magic happen.
+
+To apply: https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer</description><pubDate>Wed, 22 Jan 2025 23:59:57 +0000</pubDate></item><item><title>Dusk Labs: Security Engineer  - Research &amp; Test</title><link>https://weworkremotely.com/remote-jobs/dusk-labs-security-engineer-research-test</link><description>Headquarters: 
+    URL: https://dusklabs.xyz
+
+
+About the RoleWe're seeking a mid-level security engineer to join the Dusk Labs engineering team, focusing on security research and building robust automated security testing infrastructure across our portfolio of fintech and cryptography projects. This role combines hands-on security analysis with systems engineering, requiring someone who can both identify vulnerabilities and build the tools to continuously validate security posture.You'll work across a range of systems - from transport layer protocols implementing novel post-quantum cryptography to financial infrastructure handling sensitive transactions - conducting in-depth security research and developing comprehensive automated testing frameworks to support our security-first development process.You'll be on a high-performing team with other expert-level developers who are passionate about learning and working on interesting problems.ResponsibilitiesConduct security research and vulnerability analysis across fintech and cryptographic systems.Design and build automated security testing infrastructure using Rust and shell scripts.Develop and maintain comprehensive security test suites, including fuzzing, penetration testing automation, and cryptographic protocol testing.Build monitoring and alerting systems to detect security anomalies and potential attack vectors.Perform threat modeling and security assessments of system architecture and code implementations across multiple projects.Research and analyze emerging attack techniques, vulnerabilities, and defensive technologies relevant to financial systems and cryptographic protocols.Create tools and frameworks for continuous security validation in CI/CD pipelines.Document security findings and translate research into actionable recommendations for the development team.Maintain and enhance existing security testing tools and infrastructure.Required QualificationsStrong software development fundamentals with 2–4 years of experience.Solid experience with Rust or willingness to learn quickly.Comfortable with TypeScript and modern web technologies.Strong experience with Linux systems and shell scripting.Background in security testing methodologies, including static analysis, dynamic analysis, and penetration testing.Knowledge of cryptographic concepts and secure coding practices.Experience building automated testing infrastructure or CI/CD systems.Familiarity with security tools and frameworks (SAST, DAST, fuzzing tools, etc.).Knowledge of network protocol analysis and traffic inspection tools.Strong analytical and problem-solving skills with attention to detail.Preferred QualificationsExperience with security research or vulnerability discovery.Background in cryptographic protocol analysis or implementation.Experience auditing DeFi protocols.Experience with containerization and orchestration technologies (Docker, Kubernetes).Familiarity with reverse engineering tools and binary analysis.Experience with compliance frameworks and security standards.Background in malware analysis or incident response.Experience with cloud security and infrastructure-as-code.Open source contributions to security tools or research projects.About Dusk LabsWe are an engineering-driven development agency that helps early-stage companies kick-start their engineering operations, or helps mid-stage companies develop greenfield software projects.We strive to maintain expertise at the cutting-edge of technology, take pride in doing high quality work, and differentiate ourselves from other development teams through our results.You'll be a good fit if you are passionate about technology, like getting things done, learning new things, and working on interesting problems.You'll also be a good fit if you like freedom. We respect your autonomy and don't have strict rules on how and when you work. We only have occasional meetings, and prefer asynchronous communication. When we do have meetings, we try to knock them out all at once to maximize uninterrupted work time.If you've got a public record of your work, whether that's a body of talks and publications, or especially open source software projects, we'd love to see it. You'll go to the front of the interview line.
+
+To apply: https://weworkremotely.com/remote-jobs/dusk-labs-security-engineer-research-test</description><pubDate>Mon, 16 Feb 2026 19:35:48 +0000</pubDate></item><item><title>Proxify AB: Senior Backend Developer (Python)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-7</link><description>Headquarters: Sweden
+    URL: http://career.proxify.io
+
+
+The Role:
+&amp;nbsp;
+We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.
+&amp;nbsp;
+What we are looking for:
+
+
+5+ years of experience building products with Python and Django.
+
+
+High proficiency in SQL with experience using databases like PostgreSQL.
+
+
+Experience scaling cloud infrastructures with Docker or Kubernetes is a plus.
+
+
+Experience managing cloud infrastructures, specifically AWS or GCP.
+
+
+You follow the best practices and conventions.
+
+
+Relevant experience in CI/CD and related tools.
+
+
+Ability to work with minimal supervision.
+
+
+Intermediate-advanced English level.
+
+
+You can communicate well with both technical and non-technical clients.
+
+
+Time zone: CET (+/- 3 hours). We are unable to consider applications from candidates in other time zones.
+
+
+&amp;nbsp;
+Responsibilities:
+
+
+Ability to build libraries and frameworks of reusable efficient code.
+
+
+Competence in designing and implementing low-latency, stable and performing applications.
+
+
+Capacity to effectively collaborate with other team members and stakeholders remotely.
+
+
+Ability to implement data protection systems.
+
+
+Competence in data storage solutions.
+
+
+&amp;nbsp;
+&amp;nbsp;
+What we offer:
+&amp;nbsp;
+Get paid, not played
+No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
+Predictable project hours
+Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
+Flex days, so you can recharge
+Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
+Career-accelerating positions at cutting-edge companies
+Discover exclusive long-term remote positions at the world's most exciting companies.
+Hand-picked opportunities just for you
+Skip the typical recruitment roadblocks and biases with personally matched positions.
+One seamless process, multiple opportunities
+A one-time contracting process for endless opportunities, with no extra assessments.
+Compensation
+Enjoy the same pay, every month with positions landed through Proxify.
+
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-7</description><pubDate>Mon, 16 Feb 2026 11:17:19 +0000</pubDate></item><item><title>Proxify AB: Senior Backend Developer (Node.js / Nest.js)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-2</link><description>Headquarters: Sweden
+    URL: http://career.proxify.io
+
+
+The Role:
+&amp;nbsp;
+We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences.
+This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference.
+&amp;nbsp;
+What we’re looking for:
+
+5+ years with Node.js and 3+ past years with Nest.js
+Strong expertise in Node.js and Nest.js frameworks.
+Proven experience building REST and/or GraphQL APIs.
+Strong knowledge of JavaScript (ES6+) and TypeScript.
+Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB).
+Familiarity with authentication/authorization mechanisms (JWT, OAuth2).
+Experience with unit/integration testing (e.g., Jest, Mocha).
+Proficiency with Git and version control workflows.
+Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.
+
+&amp;nbsp;
+Nice to Have:
+
+Experience with cloud platforms (AWS, Azure, GCP).
+Familiarity with CI/CD pipelines and DevOps practices.
+Understanding of event-driven architecture and message brokers (e.g., RabbitMQ, Kafka).
+Experience with Docker and containerized applications.
+Knowledge of microservices and serverless architectures.
+
+&amp;nbsp;
+Responsibilities:
+
+Design and develop robust, scalable, and secure backend applications using Node.js and Nest.js.
+Implement RESTful APIs, GraphQL endpoints, and microservices architectures.
+Optimize application performance, scalability, and maintainability.
+Integrate with databases (SQL/NoSQL) and external services via APIs.
+Ensure code quality, security, and compliance with industry standards.
+
+&amp;nbsp;
+What we offer:
+Get paid, not played
+No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
+Predictable project hours
+Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
+Flex days, so you can recharge
+Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
+Career-accelerating positions at cutting-edge companies
+Discover exclusive long-term remote positions at the world's most exciting companies.
+Hand-picked opportunities just for you
+Skip the typical recruitment roadblocks and biases with personally matched positions.
+One seamless process, multiple opportunities
+A one-time contracting process for endless opportunities, with no extra assessments.
+Compensation
+Enjoy the same pay, every month with positions landed through Proxify.
+
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-2</description><pubDate>Mon, 16 Feb 2026 11:13:15 +0000</pubDate></item><item><title>Proxify AB: Senior Fullstack Developer (Python)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-2</link><description>Headquarters: Sweden
+    URL: http://career.proxify.io
+
+
+The Role:
+&amp;nbsp;
+We are looking for a Senior Fullstack Python Developer to join our fast-growing Network.
+In this role, you’ll lead the design and implementation of scalable backend services and APIs using Python (FastAPI, Django, or Flask), while delivering polished, performant user interfaces using modern frontend frameworks such as React.js or Vue.js.
+&amp;nbsp;
+What we are looking for:
+
+5+ years of professional software development experience with strong fullstack exposure.
+3+ years of production experience with Python (FastAPI, Django, Flask).
+Solid knowledge of JavaScript/TypeScript, HTML5, CSS3.
+Strong experience with React.js or Vue.js (or similar modern frameworks such as Next.js/Nuxt.js).
+Experience with relational databases (PostgreSQL, MySQL) and ORMs such as SQLAlchemy or Django ORM.
+Strong understanding of RESTful API design and integration patterns.
+Experience writing automated tests (unit, integration) for both backend and frontend.
+Practical experience with Docker and familiarity with CI/CD pipelines (GitHub Actions, GitLab CI, CircleCI, etc.).
+Experience deploying and operating services in the cloud (AWS, Azure, GCP).
+Strong problem-solving skills and excellent English communication (written and spoken).
+Ability to work independently and deliver high-quality results in a remote setup.
+Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.
+
+&amp;nbsp;
+Nice-to-have:
+
+Deep experience with TypeScript and modern frontend tooling (Vite, Webpack, Turbopack).
+Familiarity with microservices, DDD, CQRS, or event-driven architectures.
+Experience with GraphQL and schema design.
+Knowledge of message brokers (RabbitMQ, Kafka, Redis Streams).
+Experience with Kubernetes or other orchestration platforms.
+Exposure to performance tuning, caching strategies, and observability (logs, tracing, metrics).
+Security best practices (OWASP, auth flows, OAuth2/OpenID Connect).
+Background in startups or fast-paced product environments.
+Contributions to open-source projects or published technical content.
+
+&amp;nbsp;
+Responsibilities:
+
+Design, implement, and operate scalable backend services using Python (FastAPI, Django, Flask).
+Build and maintain responsive, accessible web UIs using React.js, Vue.js, or similar modern frameworks.
+Design, document, and consume RESTful APIs (and optionally GraphQL).
+Integrate backend systems with relational and NoSQL databases.
+Ensure high code quality through unit/integration tests, code reviews, and automated pipelines.
+Make architectural decisions across backend, frontend, and system integration (monolith vs microservices).
+Collaborate with designers and product teams to translate requirements into technical solutions and excellent user experiences.
+Troubleshoot production issues, optimize performance, and ensure reliability and security.
+Mentor and guide other engineers, helping elevate team best practices.
+Work in an agile environment and contribute to continuous process and delivery improvements.
+Document architectural decisions, API contracts, workflows, and deployment procedures.
+
+What we offer:
+&amp;nbsp;
+Get paid, not played
+No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
+Predictable project hours
+Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
+Flex days, so you can recharge
+Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
+Career-accelerating positions at cutting-edge companies
+Discover exclusive long-term remote positions at the world's most exciting companies.
+Hand-picked opportunities just for you
+Skip the typical recruitment roadblocks and biases with personally matched positions.
+One seamless process, multiple opportunities
+A one-time contracting process for endless opportunities, with no extra assessments.
+Compensation
+Enjoy the same pay, every month with positions landed through Proxify.
+
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-2</description><pubDate>Mon, 16 Feb 2026 11:11:26 +0000</pubDate></item><item><title>Dusk Labs: Test Engineer</title><link>https://weworkremotely.com/remote-jobs/dusk-labs-test-engineer</link><description>Headquarters: 
+    URL: https://dusklabs.xyz
+
+
+About the RoleWe're seeking a mid-level test engineer to join the Dusk Labs engineering team, focusing on building robust automated testing infrastructure across our portfolio of fintech and cryptography projects. This role is primarily hands-on systems engineering - designing, building, and maintaining the test frameworks and CI/CD integrations that keep our codebases reliable as they grow.You'll be on a high-performing team with other expert-level developers who are passionate about learning and working on interesting problems.ResponsibilitiesDesign and build automated testing infrastructure, including unit, integration, and end-to-end test suites.Develop and maintain comprehensive test frameworks across multiple projects spanning fintech and cryptography domains.Build monitoring and alerting systems to surface regressions and reliability issues early.Create tools and frameworks for continuous validation in CI/CD pipelines.Perform test planning and coverage analysis to identify gaps in existing test suites.Write and maintain fuzzing harnesses and property-based tests for critical system components.Document testing strategies and translate findings into actionable recommendations for the development team.Maintain and enhance existing testing tools and infrastructure.Required QualificationsStrong software development fundamentals with 2–4 years of experience.Proficiency in Python or RustComfortable with TypeScript and modern web technologies.Strong experience with Linux systems and shell scripting.Experience building automated testing infrastructure or CI/CD systems.Familiarity with testing methodologies including static analysis, dynamic analysis, fuzzing, and property-based testing.Knowledge of network protocol analysis and traffic inspection tools.Strong analytical and problem-solving skills with attention to detail.Preferred QualificationsExperience with Rust.Background in fintech, payments, or financial systems testing.Familiarity with cryptographic concepts and protocol testing.Experience with containerization and orchestration technologies (Docker, Kubernetes).Experience with cloud infrastructure and infrastructure-as-code.Experience with performance testing and benchmarking.Open source contributions.About Dusk LabsWe are an engineering-driven development agency that helps early-stage companies kick-start their engineering operations, or helps mid-stage companies develop greenfield software projects.We strive to maintain expertise at the cutting-edge of technology, take pride in doing high quality work, and differentiate ourselves from other development teams through our results.You'll be a good fit if you are passionate about technology, like getting things done, learning new things, and working on interesting problems.You'll also be a good fit if you like freedom. We respect your autonomy and don't have strict rules on how and when you work. We only have occasional meetings, and prefer asynchronous communication. When we do have meetings, we try to knock them out all at once to maximize uninterrupted work time.If you've got a public record of your work, whether that's a body of talks and publications, or especially open source software projects, we'd love to see it. You'll go to the front of the interview line.
+
+To apply: https://weworkremotely.com/remote-jobs/dusk-labs-test-engineer</description><pubDate>Mon, 16 Feb 2026 05:27:51 +0000</pubDate></item><item><title>ALIQAN Technologies: Data Engineer</title><link>https://weworkremotely.com/remote-jobs/aliqan-technologies-data-engineer</link><description>Headquarters: Bangalore
+    URL: http://aliqantechnologies.com
+
+
+Company OverviewALIQAN Technologies, headquartered in New Delhi, is a leading IT Services and Consulting firm with 11-50 employees, offering comprehensive software and web development solutions. By integrating innovative design and quality services, we provide clients with all IT-related needs at a single destination. Learn more at our website.Job OverviewWe are seeking a Senior Data Engineer to join our dynamic team at ALIQAN Technologies. This is a remote role based out of Bangalore, ideal for professionals with 7 to 10 years of experience in data engineering. The role focuses on designing, developing, and optimizing large-scale data architectures for innovative IT solutions and services.Qualifications and SkillsProven expertise with Microsoft Fabric (Mandatory skill), demonstrating deep knowledge in its use for enterprise-grade data engineering.Hands-on experience in data modeling, translating business requirements into scalable and performant data models.Advanced proficiency in Python for building robust data pipelines and automating data processes efficiently.Strong capability in designing, building, and optimizing data pipelines for processing structured and unstructured data at scale.Extensive knowledge and practical experience in SQL for data manipulation, transformation, and aggregation.Experience working with cloud data platforms such as Azure, AWS, or Google Cloud for scalable data storage, integration, and security.Solid foundation in DevOps practices to ensure robust, automated infrastructure for continuous data integration and deployment.Ability to analyze business and technical problems, proposing solutions that balance trade-offs between cost, speed, and reliability.Excellent communication and collaboration skills to interact with cross-functional teams and present technical concepts to stakeholders.Demonstrated commitment to best practices in data engineering, including data governance, quality, and documentation.Roles and ResponsibilitiesDesign, implement, and maintain scalable, efficient, and reliable data architectures for diverse business requirements.Develop and optimize robust data pipelines, ensuring high data quality, low latency, and scalability across platforms.Utilize Microsoft Fabric (Mandatory skill) in building enterprise data solutions, enabling seamless integration across services.Collaborate with data scientists, analysts, and product teams to identify and deliver data-driven innovations.Champion best practices in data modeling, ETL development, and workflow orchestration tailored to client needs.Monitor and troubleshoot data processes, proactively resolving issues to ensure uninterrupted data availability.Implement DevOps methodologies for continuous integration and delivery of data engineering projects.Ensure compliance with data governance standards, maintaining adequate documentation of all data systems and workflows.Mentor junior data engineers, guiding them in technology adoption, quality assurance, and professional development.Stay updated with emerging technologies, recommending tools and methodologies that enhance the company’s data ecosystem.
+
+To apply: https://weworkremotely.com/remote-jobs/aliqan-technologies-data-engineer</description><pubDate>Fri, 13 Feb 2026 22:01:39 +0000</pubDate></item><item><title>Blockchain &amp; Climate Institute: UNPAID VOLUNTEER - Web Developer</title><link>https://weworkremotely.com/remote-jobs/blockchain-climate-institute-unpaid-volunteer-web-developer</link><description>Headquarters: New York, United States
     URL: http://blockchainclimate.org
 
 
@@ -671,367 +1043,4 @@ We kindly ask that you submit a complete and thoughtful application, including r
 Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying.
 Quick tip! Adding a&amp;nbsp;Loom&amp;nbsp;recording to your profile in our form to showcase your skillset can really make your application stand out!
 
-To apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-data-engineer-1</description><pubDate>Wed, 11 Feb 2026 14:29:26 +0000</pubDate></item><item><title>Coin Market Cap: Senior Web Developer</title><link>https://weworkremotely.com/remote-jobs/coin-market-cap-senior-web-developer</link><description>Headquarters: Global / Dubai / Hong Kong / Kuala Lumpur / Taipei / London / Penang / Singapore
-    URL: http://coinmarketcap.com
-
-
-Company Description&amp;nbsp;POWERING CRYPTO WITH DATACoinMarketCap is the world’s most trusted and accurate source of data for cryptocurrencies. Used by millions of individuals, organizations, and exchanges, CoinMarketCap brings the most up-to-date market capitalizations, pricing, and cryptocurrency information to our users.Pulling data from multiple exchanges and combining our robust research allows us to provide the most realistic representation of each cryptocurrency. As we grow, we will continue to provide access to our data wherever, whenever, and however is most helpful to our users.&amp;nbsp;CREATING AN OPEN WORLDOur mission is to be the world’s authority on cryptocurrency data. We believe in an open and decentralized world, where we play a pivotal role in powering decisions and insights to drive greater understanding and adoption of cryptocurrencies. We want to achieve this mission with people who truly believe in the value and potential of empowering individuals.&amp;nbsp;&amp;nbsp;Job Description1. Implement new user-facing features in products that have a huge amount of PV every day2. Write client-side code to create super-fast, easy-to-use, web-based applications which include websites for both desktop and mobile browsers, and hybrid in-app pages3. Optimize web applications to maximize speed and scale4. Build libraries and frameworks that support complex web applications, speed up development efficiency and improve code quality5. Contribute creativity and insight to solve both technical and business challenges6. Research and promote new technologies and best practices within the team&amp;nbsp;Qualifications1. 8+ years experience developing production software2. Advanced hands on knowledge of TypeScript + React3. Experience with modern web technologies such as Webpack, Next.js, Redux, styled components, or similar4. Proven track record of delivering well-tested, high-quality, maintainable projects.5. Great cross-team communication skills6. Self-managed, proactive work style. Ability to perform at a high level in a fast paced environment7. Blockchain-related industry experience as a plus8. Basic or Fluent English level
-
-To apply: https://weworkremotely.com/remote-jobs/coin-market-cap-senior-web-developer</description><pubDate>Tue, 10 Feb 2026 22:20:45 +0000</pubDate></item><item><title>AHU Technologies: CNC Operator - King of Prussia, PA</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-cnc-operator-king-of-prussia-pa</link><description>Headquarters: Washington, DC 20009
-    URL: http://ahutech.com
-
-
-
-
-Benefits:
-
-401(k)
-401(k) matching
-Competitive salary
-Dental insurance
-Health insurance
-Paid time off
-Vision insurance
-
-
-
-
-Job Title: CNC OperatorLocation: King of Prussia, PA (On-Site, Full-Time)
-
-Responsibilities:
-
-Operate CNC fabrication machinery for cutting and finishing custom stone countertops and surfaces.
-
-Read shop drawings, templates, and layout specifications.
-
-Use hand tools and fabrication equipment with accuracy.
-
-Handle, stage, and move stone materials.
-
-Maintain high standards of quality and precision.
-
-Qualifications:
-
-CNC machine operation experience.
-
-Hand tool and saw operation skills.
-
-Forklift operation experience is a plus.
-
-Strong problem-solving skills and attention to detail.
-
-Prior experience in stone fabrication or construction preferred.
-
-Experience: 2 – 10 years
-
-Other Benefits:
-
-Overtime opportunities.
-
-Growth and advancement potential.
-
-Supportive, team-oriented environment.
-
-Stable workload with an established brand.
-
-
-This is a remote position.
-
-          Compensation: $70,000.00 - $110,000.00 per year
-        
- 
-About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&amp;nbsp; AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world.
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-cnc-operator-king-of-prussia-pa</description><pubDate>Tue, 10 Feb 2026 22:20:45 +0000</pubDate></item><item><title>Mole Street: Consultant</title><link>https://weworkremotely.com/remote-jobs/mole-street-consultant</link><description>Headquarters: Remote
-    URL: http://molestreet.com
-
-
-
-Company Description:Mole Street is an Elite HubSpot Solutions Partner and industry-leading technology and marketing consultancy. We are a fully remote agency with a presence in the U.S. and South America. Our clients consist of mid-market and enterprise B2B companies that partner with us to define strategies and execute programs that meet business objectives through technical and creative applications of the HubSpot platform.We specialize in guiding our clients through digital transformation initiatives, including technical HubSpot consulting projects and growth-driven design programs.Our culture is driven by the core values of Joy, Grit, Accountability, Clarity, Curiosity, Authenticity, and Growth Mindedness. The team is positive, passionate, rational, resourceful, resilient, and results-oriented. We take pride in collaborating with each client to implement strategies that will grow their company. We also believe that “Great Things are Happening!”The team is positive, passionate, rational, resourceful, resilient and results driven, taking pride in the work and the people who do it. Employees are highly valued and dependable, driven to win for the collective good of the company and its clientele and dedicated to breaking the mold from the agency of the past into the agency of the future as Mole Street grows.Mission:Consultants report to the Manager, Consulting. Your mission as a Consultant is to own a set of client engagements – providing consultative value on strategies to implement HubSpot and our other technologies to solve problems related to front office teams – marketing, sales service, and operations among others.&amp;nbsp;You will manage and maintain project plans and align teams (with clients and internally) to execute on the work. Your main objectives are to deliver, retain and expand client engagements through their experience with Mole Street, and ensure on time and budget delivery. You will cultivate knowledge across teams. Your mission as Consultant is also to build and maintain relationships, advise and deliver well, and create clarity – aiding Mole Street to be the premier consulting firm for HubSpot’s platform, globally.Day-to-Day Responsibilities:Three main disciplines are critical to success for the Consultant. The ability to:Business Strategy: Architect solutions to support client business initiatives, strategically understand business models and outcomes desired, and think ahead for continued success by translating their success through the solutions and technologies provided.&amp;nbsp;Account Management: Delight clients with clarity, proactive, and consistent communication – ensuring the highest standards of quality, and identify retention and expansion opportunities for further growth.&amp;nbsp;Project Management: Detail and consistently manage projects and resource plans to ensure the team achieve utilization targets, and excel in executing on budget and on time delivery for client projects.&amp;nbsp;Account ManagementHost planning meetings for technology implementations (i.e. HubSpot) with our internal and client teams – setting frameworks and standards, while managing quality through to project completion and maintain client satisfactionMaintain knowledge of client objectives, key stakeholders, and challenges – communicating on a consistent basis (at least weekly) over the phone, and providing follow-up emails alongside those calls in partnership with our delivery teamIdentify upsell opportunities with existing clients, and exercise skills in value positioning to create scopes of work and proposals to demonstrate additional valueEnsure strategic and technical road maps meet client objectives and within Mole Street’s scope – influencing new initiatives for continued engagement and value-addEnsure performance standards are met or exceeded for clients, while maintaining consistent lines of communication that are forward looking and additive in terms of value.&amp;nbsp;Project ManagementCreate and manage detailed project plans for all client work in project management software (i.e. Kantata)Plan your team’s time, using Kantata, to ensure effective execution on utilization and revenue targets based on your client listDelegate and follow up (internally and externally) as needed to guarantee successful client delivery and satisfactionRemove roadblocks to tasks and support your team in creating more efficiency towards their workRaise instances of scope creep with relevant internal stakeholders and clients quickly and effectively, as appropriate – addressing root causes, following up to reset expectations as appropriate, and following up with next steps to continue progress on in-scope itemsMonitor and control project delivery through reporting and insights on data and work completed of results – raising awareness of budget and time allotted to ensure on time deliveryBusiness StrategyLeverage subject matter expertise and business process optimization mindset to deliver tangible results for Mole Street’s clients – in the form of consultative guidance, value-add, and deliverables (i.e. process maps, business assessments, reporting scorecards, technology stack audits, etc.) among other forms of outputs from client engagementsConduct and organize client projects as the Project Lead, ensuring the client and Mole Street team is aligned on the long term business goal, metrics, and consulting initiativesMaintain administrative excellence for project delivery for Mole Street engagements – managing the project plan in Kantata and collaborating internally to guarantee effective task management and prevent scope creepExecute on Mole Street’s solution lines – migrations, integrations, technical consulting, website design and development – utilizing the HubSpot platform and other technologies we work withAid in identifying and developing consulting proposals and scopes of work when requested by leadership and/or pre-salesOwn solution design, discovery, presenting of deliverables, and project delivery, billing your time in Kantata and delegating to the right teams appropriately, to support these effortsTravel onsite as needed, within the scope of work, to deliver on consulting engagements as needed&amp;nbsp;AdminDaily huddle attendance - 9:32-9:47 dailyWeekly account meeting attendance - 10:30am-11:00am MondaysWeekly Consulting Department meeting attendanceAvailability on email, Slack, Zoom, and phone during working hours for connects with team and client as neededWork on special projects including Mole Street marketing and other ops related admin projects as assignedExperience and Attributes:&amp;nbsp;Strong understanding of the inner workings of go-to-market teams - including marketing, sales, customer success/service, and operations among others - and refining processes for those teams to succeed collaboratively.&amp;nbsp;Experience in relationship management – maintaining connections within a client organization during an engagement, understanding interpersonal dynamics, and handling objections from out-of-scope activities and identifying risk.&amp;nbsp;Solid foundation in project management fundamentals – organizing planning, execution, scope management, and maintaining control of client delivery activities to achieve outcomes specified in the scope of work.&amp;nbsp;Ability to understand business processes, and translate business vision and goals into iterative steps and a project plan by offering recommendations on improvements and consultative value.&amp;nbsp;Proficiency in Mole Street’s Technologies – HubSpot among others – evidenced through certifications and technical aptitude for data flows.Analytical thinking – inclusive of data and problems presented in a quantitative, qualitative, and/or conceptual manner.&amp;nbsp;Proficiency in HubSpot CRM, Google Suite, and Professional Services Automation software (i.e. Mavenlink).Preferred Attributes:Proficiency in Mole Street’s Technologies – AirCall, Snowflake – and other systems.Experience working in KantataSpecialization in a particular industry – financial services, SaaS, and healthcare among others – and/or field.Experience handling the following between HubSpot and other systems: custom integrations, data migrations, implementation projects, and website design/development.&amp;nbsp;Knowledge of distinct technology ecosystems, channel revenue programs, and its nuances.History of assisting on pre-sales initiatives combined with high standards of project delivery.Our Employee Benefits Program Includes:Generous compensation package with performance incentivesFull Health and Dental Insurance CoveragePaid maternity and paternity leaveFlexible PTO policyThe flexibility of working remotely 
-
-To apply: https://weworkremotely.com/remote-jobs/mole-street-consultant</description><pubDate>Tue, 10 Feb 2026 22:20:45 +0000</pubDate></item><item><title>AHU Technologies: Senior Directory Infrastructure engineer</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-senior-directory-infrastructure-engineer</link><description>Headquarters: Washington, DC 20009
-    URL: http://ahutech.com
-
-
-
-
-
-Job Description:&amp;nbsp;
-
-Short Description:&amp;nbsp;&amp;nbsp;The Client Engineering and security team is looking for a senior level Directory Infrastructure Engineer for complex projects.&amp;nbsp;
-
-Complete Description:&amp;nbsp;
-The Clients Security and Engineering Team manages a variety of functions including endpoint management, Active Directory, VPN, firewalls and security incident response. The team is l seeking experienced Directory Infrastructure Engineers with extensive expertise in enterprise identity infrastructure including Active Directory, Entra ID (formerly Azure AD), OKTA Universal Directory, and LDAP environments. The resource must have a proven track record of designing and managing complex directory services across multiple platforms with particular emphasis on the complete lifecycle management of AD domains. The ideal candidates will bring expertise in modern identity approaches including Just-In-Time access, Privileged Identity Management, and continuous validation patterns that balance security with user experience.&amp;nbsp;
-
-Key Responsibilities&amp;nbsp;
-
-Design, implement, and maintain enterprise directory services infrastructure
-Manage the complete lifecycle of AD domains including planning, deployment, maintenance, upgrades, and decommissioning
-Lead domain consolidation, migration, and forest restructuring projects
-Develop domain health monitoring and proactive maintenance procedures
-Create and execute disaster recovery plans for directory services
-Develop and maintain automation scripts using PowerShell for directory management tasks
-Interface with directory services using GraphAPI and REST API for custom integrations
-Implement and maintain security best practices for directory services
-Design and manage trust relationships between domains and forests
-Create and maintain documentation for directory architecture and operational procedures
-Provide escalation support for critical directory service incidents
-
-Required Qualifications&amp;nbsp;
-5+ years of hands-on experience with enterprise directory services (Active Directory, Entra ID, OKTA Universal Directory, LDAP)
-Demonstrated experience with AD domain lifecycle management including domain creation, upgrades, and decommissioning
-Advanced PowerShell scripting skills with demonstrable experience automating directory management tasks
-Proven experience with Microsoft GraphAPI and REST API integration for directory management
-Experience with directory synchronization technologies (Azure AD Connect, OKTA integration agents, etc.)
-Strong understanding of identity security best practices and compliance requirements
-Experience with multi-forest and hybrid identity environments
-Ability to design and implement complex directory architecture solutions
-
-Preferred Qualifications&amp;nbsp;
-Relevant certifications (Microsoft 365 Certified: Identity and Access Administrator, OKTA Professional, etc.)
-Experience with Terraform, Ansible, or similar IaC tools for directory infrastructure
-Knowledge of SAML, OAuth, OIDC, and other modern authentication protocols
-Experience with Group Policy design and management&amp;nbsp;
-Expertise in domain controller sizing, placement, and performance optimization&amp;nbsp;
-Experience with domain functional level upgrades and cross-domain migrations&amp;nbsp;
-Familiarity with CI/CD pipelines for infrastructure automation&amp;nbsp;
-Experience with implementing Zero Trust architecture&amp;nbsp;
-
-Skills:·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;experience with enterprise directory services (Active Directory, Entra ID, OKTA Universal Directory, LDAP). Required 6 Years·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;experience with AD domain lifecycle management including domain creation, upgrades, and decommissioning. Required 5 Years·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Advanced PowerShell scripting skills with demonstrable experience automating directory management tasks. Required 5 Years·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Proven experience with Microsoft GraphAPI and REST API integration for directory management. Required 5 Years·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Strong understanding of identity security best practices and compliance requirements. Required 5 Years·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Experience with directory synchronization technologies (Azure AD Connect, OKTA integration agents, etc.). Required 5 Years·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Experience with multi-forest and hybrid identity environments. Required 5 Years·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Ability to design and implement complex directory architecture solutions. Required 5 Years·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Bachelor’s degree. Required&amp;nbsp;
-
-This is a remote position.
-
-          Compensation: $94.00 - $105.00 per hour
-        
- 
-About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&amp;nbsp; AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world.
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-senior-directory-infrastructure-engineer</description><pubDate>Tue, 10 Feb 2026 22:20:45 +0000</pubDate></item><item><title>Mobena: Frontend Engineer</title><link>https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</link><description>Headquarters: New York, NY
-    URL: https://mobena.co/
-
-
-Mobena is a three-person, remote-first startup building the “evolution” of multi-generational tax/estate planning software, targeting the advisors of America’s 2 million wealthiest families. We’re currently hiring our first dedicated UI Engineer to “own” the frontend of our flagship product, Mobena Evolution, for which we have little to no frontend code. You’ll work directly with our backend/algorithm-focused CTO, as well as our designer-founder, to turn evolving Figma concepts into fast, maintainable, and scalable user interfaces.
-What You’ll Do
-
-Choose and justify the frameworks and tools that best fit our needs.
-
-We have some holdover prototype code in Vite JS, but you can take it or leave it; all of our Figma concepts are new.
-The backend is a standard HTTP API. We are open to everything from established web stacks (React, Angular, Svelte, Vite) to cross-platform or native solutions (Qt, WASM, .NET MAUI, Tauri, Electron, Tk)—literally anything, if you can convince us it’s the right choice.
-
-Build our UI from the ground up, establishing clear, maintainable patterns for components, state management, styling, testing, performance, and accessibility.
-Collaborate to refine and sometimes re-frame existing screen designs in Figma.
-Connect the frontend to our APIs (REST, GraphQL, or similar).
-Lay groundwork for future mobile clients; however, experience in this regard is a plus rather than a requirement.
-
-About You
-
-You’ve shipped an interactive application—web, desktop, or mobile—via coursework, open source, side project or professional work.
-You care about usability and design quality. (That is, you care about the user.)
-You learn by doing: building things rather than sitting in committee.
-You are happy to say I don’t know. We try to cultivate “beginner’s mind” at Mobena—it helps us avoid conventional traps and groupthink. The first step of thinking like a beginner is acknowledging your own ignorance! 😊
-You can defend your technical choices in clear English, and can take credit for your successes as well your mistakes.
-You are comfortable in an early-stage, collaborative environment.
-
-
-To apply: https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</description><pubDate>Fri, 16 May 2025 20:03:34 +0000</pubDate></item><item><title>Everest Clinical Research: Clinical Trial Web Application Developer</title><link>https://weworkremotely.com/remote-jobs/everest-clinical-research-clinical-trial-web-application-developer-2</link><description>Headquarters: Sofia, Bulgaria
-    URL: http://everestclinical.com
-
-
-Everest Clinical Research (“Everest”) is a full-service contract research organization (CRO) providing a broad range of expertise-based clinical research services to worldwide pharmaceutical, biotechnology, and medical device industries. We serve some of the best-known companies and work with many of the most advanced drugs, biologics, and medical devices in development today.
-Everest has been an independent CRO since 2004 with a strong foundation as a statistical and data management center of excellence. Building on this foundation, Everest has successfully developed and established itself as a full-service CRO. Everest’s headquarters are located in Markham (Greater Toronto Area), Ontario, Canada with additional sites in Bridgewater (Greater New York City Area), New Jersey, USA, Shanghai (Pudong Zhangjiang New District), China and Taipei, Taiwan.
-Everest is known in the industry for its high quality deliverables, superior customer service, and flexibility in meeting clients’ needs. A dynamic organization with an entrepreneurial origin, Everest continues to experience exceptional growth and great success.
-Quality is our backbone, customer-focus is our tradition, flexibility is our strength…that’s us…that’s Everest.
-To drive continued success in this exciting clinical research field, we are seeking committed, skilled, and customer-focused individuals to join our winning team as a Clinical Trial Web Application Developer for our August Research location in Sofia, Bulgaria with opportunities to work remotely in accordance with our Work from Home policy.
-Key Accountabilities:
-
-Responsible for the design, development, unit testing, systems testing, release, deployment, and maintenance of custom-built java web-applications to meet established client and system requirements.
-Responsible for a full-stack implementation of a web-application, front-end design and development, business logic and rules implementation, back-end development, and database tables and structure implementation.
-Work closely with clients and cross-functional team members to understand business and technical requirements that drive the analysis and design of technical solutions.
-Provide client support and consultation for development, integration as well as advice in areas of expertise. Perform unit-level testing of system components and fix bugs.
-Develop and review supporting technical specifications, design, and documentations to ensure completeness.
-Develop detailed design of application components, and write maintainable, high-quality code in a timely fashion.
-Provide code maintenance and support across testing/validation cycles and post-production deployment.
-Participate in user training and demonstrations of the web application products on an as-needed basis.
-Support project estimating/planning processes. Ensure adherence to system development lifecycle standards.
-Identify functional and technical application enhancements based on client feedback, internal reviews, and industry leading practices and help to prioritize, plan, and execute ongoing enhancements for the continuous improvements of the system/product.
-Participate in the evaluation, implementation, and documentation of existing and new web-based business solutions.
-Contribute to the architectural design and development of a modern, strategic web-based application infrastructure.
-Support special web development and Information and Technology (IT) initiatives, as needed: Web User Interface re-design and re-fresh; evaluation and upgrade of server operating systems, hardware, and software requirements; implementation of improved encryption standards for communications to and from secure server applications; optimization of web security infrastructure for user authentication; and authorization to controlled components.
-Adhere to software development process frameworks and tools (including change control, quality assurance procedures) using leading practices, design patterns, and methodologies.
-Perform database design, modeling, and database maintenance.
-Identify and implement security measures for internet applications infrastructure.
-Perform system validation requirements and procedures for web applications.
-
-Qualifications:
-
-A Bachelor of Science degree in Computer Science, Mathematics or related fields.
-Eight or more years of experience in relevant field.
-Architecting re-usable and extendable web-based solutions.
-Understanding and applying J2EE security, Concurrency, Transactions, Session Management, J2EE Patterns, OWASP, and Frameworks to application solutions.
-Broad experience with various computing platforms (Unix and Windows).
-Experience with Architecture and Design patterns.
-Experience with component-based development.
-Requirements gathering and analysis.
-Software development frameworks and methodologies, including SDLC, Waterfall, and Agile delivery methods
-
-&amp;nbsp;
-To find out more about Everest Clinical Research and to review other opportunities, please visit our website at&amp;nbsp;www.ecrscorp.com&amp;nbsp;
-We thank all interested applicants, however, only those selected for an interview will be contacted.
-Everest is committed to upholding the principles of dignity, independence, integration, and equal opportunity. We welcome and encourage applications from people with disabilities, and upon request we will provide accommodations for candidates participating in any part of our recruitment and selection process.
-#LI-KD1#LI-Remote
-
-To apply: https://weworkremotely.com/remote-jobs/everest-clinical-research-clinical-trial-web-application-developer-2</description><pubDate>Tue, 10 Feb 2026 16:40:24 +0000</pubDate></item><item><title>Hatch Innovations Canada: Full Stack Web Developer - Electronic Arts [EA260130]</title><link>https://weworkremotely.com/remote-jobs/hatch-innovations-canada-full-stack-web-developer-electronic-arts-ea260130</link><description>Headquarters: BC, CA
-    URL: http://hatchbetter.com
-
-
-Full Stack Web Developer (Next.js / TypeScript / Node.js)
-About Us!
-We are a growing, product-focused team dedicated to building high-quality web experiences powered by modern technologies. Our environment values creativity, ownership, and collaboration, with engineers, designers, and product managers working closely together to deliver features that directly impact customers.
-
-About the Role!
-We are looking for a skilled Full Stack Web Developer to help design and implement customer-facing features across both the frontend and backend. This position leans toward frontend development while still requiring strong backend capabilities. You’ll work with Next.js, TypeScript, Node.js (Nest/Fastify), and several integrations including internal services, Contentful CMS, and caching layers such as Redis and Akamai.
-This role involves building performant user interfaces, developing APIs, improving shared components, and ensuring high standards of code quality. You will take full ownership of features—from UX implementation to API wiring and testing.
-
-You Will:
-Frontend &amp;amp; Backend Development
-
-
-Build responsive, high-performance web features using Next.js (Pages Router) and TypeScript.
-
-
-Develop and integrate backend APIs using Node.js with NestJS or Fastify.
-
-
-Connect application flows to internal services and external platforms such as Contentful.
-
-
-Contribute to our shared component library in Storybook for consistency and reusability.
-
-
-Quality, Collaboration &amp;amp; Execution
-
-
-Write unit tests and partner with the Quality Verification team to ensure coverage and reliability.
-
-
-Participate in code reviews and help maintain high engineering standards.
-
-
-Work closely with Product and Design teams to translate requirements and UX concepts into production-ready features.
-
-
-Optimize applications for performance, scalability, and long-term maintainability.
-
-
-Engage in technical discussions, propose improvements, and contribute to architectural decisions.
-
-
-
-
-You Have:
-Required Technical Expertise
-
-
-3–6 years of experience in full stack web development or a related role.
-
-
-Strong knowledge of React.js and Next.js (Pages Router, SSR).
-
-
-Proficiency in TypeScript and component-based UI development.
-
-
-Solid understanding of Node.js and experience with frameworks like NestJS or Fastify.
-
-
-Experience building and consuming RESTful APIs.
-
-
-Familiarity with HTML5, CSS3, and modern styling approaches.
-
-
-Proficiency with Git/GitHub and Agile development workflows.
-
-
-Strong debugging and problem-solving skills with attention to detail.
-
-
-Clear communication skills and a collaborative approach.
-
-
-
-
-
-Nice to Haves:
-
-
-Experience with Contentful CMS, Redis, or Akamai caching.
-
-
-Familiarity with Storybook for component creation and documentation.
-
-
-Exposure to CI/CD pipelines and basic DevOps practices.
-
-
-Understanding of accessibility standards and performance optimization.
-
-
-Experience integrating with enterprise-grade internal APIs and services.
-
-
-
-How to Apply:
-To apply, please send your PDF resume and Github profile.Note: A background check will be required for employment in this role.
-
-Job Types:
-Permanent, Full-time
-Schedule: Monday to Friday
-
-Pay: 
-$110K to $140k per year
-
-We Offer:
-Health Spending AccountDisability insuranceLife insurancePaid time offWork from home
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/hatch-innovations-canada-full-stack-web-developer-electronic-arts-ea260130</description><pubDate>Tue, 10 Feb 2026 16:40:24 +0000</pubDate></item><item><title>AHU Technologies: QA/Scrum Master</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-qa-scrum-master</link><description>Headquarters: Washington, DC 20009
-    URL: http://ahutech.com
-
-
-
-
-&amp;nbsp;6-10 yrs. Software Development Lifecycle experience6-10 yrs. MS Office/PowerPoint experienceExperience communicating effectively in a professional setting both written and verbally (including presentations)Bachelor’s degree in IT or related field or equivalent experienceOverall QA ExperienceOverall Training ExperienceRequirements gathering and documentationScrum Product Owner Accredited Certification International InstituteSAFe Scrum Master 5.0 Scaled AgileExperience acting as Scrum MasterExperience acting as QA lead or MangerTableau Server Administration and Report Development experiencePL/SQL&amp;nbsp;
-
-Work remote temporarily due to COVID-19.
-
-          Compensation: $42.00 - $52.00 per hour
-        
- 
-About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&amp;nbsp; AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world.
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-qa-scrum-master</description><pubDate>Tue, 10 Feb 2026 16:40:24 +0000</pubDate></item><item><title>AHU Technologies: Network Engineer - Tallahassee, FL</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-network-engineer-tallahassee-fl</link><description>Headquarters: Washington, DC 20009
-    URL: http://ahutech.com
-
-
-
-
-Job Description:&amp;nbsp;MAJOR FUNCTION&amp;nbsp;This is professional and technical work installing, supporting, maintaining and safeguarding all components of the networks. The candidate is also responsible for recommending and implementing local area network (LAN), wide area network (WAN) and network security policies and standards; evaluating vendor products in hardware; software; and telecommunications equipment and recommending purchases consistent with the organization’s objectives. An employee in this class exercises considerable independence in determining work methods and procedures. Work is performed under the general direction of the Technology Infrastructure Administrator and is reviewed through consultations and written reports for achievement of desired objectives.&amp;nbsp;Essential Duties&amp;nbsp;Designs, installs, configures, monitors, troubleshoots and manages a diverse base of installed networking equipment, firewalls and/or network security applications, which includes wired and wireless data networks servicing data, voice, and video application throughout the network infrastructure. Collects and monitors data for system usage, performance and vulnerabilities. Analyzes network for security vulnerabilities and breaches. Provides technical advice and consultation to the technical staff as well as end-users related to network-related issues and applications traversing the network. May function as project leader responsible for a coordinated effort in managing of project, communicating and troubleshooting, as well as design of solutions relevant to a project. This includes distributing the workload, providing advice and consultation, and coordination of vendors and staff. Modifies or creates network diagrams. Troubleshoots and configures DHCP and DNS.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Analyzes future needs for acquisition. Establishes and maintains up to date documentation and network diagrams. Audits systems and networking equipment and makes recommendations to management concerning their acquisition and implementation or modification. Assist in the establishment and implementation of LAN/WAN and security policies, procedures and standards ensuring compliance with policies and best practices. Develops and writes procedures for installation, use and troubleshooting of network hardware and software. Understands network operations security and procedures. Performs daily preventive maintenance and system diagnostics to prevent malfunctions and failures.&amp;nbsp;Other Important Duties&amp;nbsp;Conducts research on network products, services, protocols, and standards to remain abreast of developments in the networking industry. Evaluates and recommends new technology as the need arises. Serves as a resource to other IT staff regarding primary areas of responsibility. Performs related work as required, including on-call or after-hours rotation.&amp;nbsp;DESIRABLE QUALIFICATIONS&amp;nbsp;Knowledge, Abilities and Skills&amp;nbsp;Knowledge of network systems analysis, multi-vendor firewalls hardware, routing and fiber optics, data communications techniques, telephony infrastructure, and IT management principles. Thorough knowledge of diagram creation and modification, preferably Microsoft Visio. Ability to analyze a wide variety of highly technical materials and to develop appropriate recommendations. Ability to consult and train other employees in the use of technical software. Ability to establish and maintain effective working relationships. Ability to communicate effectively, clearly, and concisely. Considerable knowledge of network routing and switching; firewall installation and configuration, network wiring, and outside plant cabling and system terminology. Ability to isolate, define and resolve failed equipment in the network. Ability to interpret and run data captures and diagnose issues using said captures. Familiarity in troubleshooting the Linux environment.&amp;nbsp;&amp;nbsp;NETWORK INFRASTRUCTURE ENGINEER&amp;nbsp;Minimum Training and Experience&amp;nbsp;Possession of a bachelor’s degree in, information systems, computer science or a related field and three years of professional and technical experience that includes installation and maintenance of network systems firewalls, network design, Internet and Intranet and wireless support, or an equivalent combination of training and experience.&amp;nbsp;
-
-This is a remote position.
-
-          Compensation: $27.00 per hour
-        
- 
-About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&amp;nbsp; AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world.
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-network-engineer-tallahassee-fl</description><pubDate>Tue, 10 Feb 2026 16:40:24 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-data-engineer-1</description><pubDate>Wed, 11 Feb 2026 14:29:26 +0000</pubDate></item></channel></rss>
