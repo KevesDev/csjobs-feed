@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>AHU Technologies: SR Project Manager in Continuous Improvement with Health Experience</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-sr-project-manager-in-continuous-improvement-with-health-experience</link><description>Headquarters: Washington, DC 20009
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Jobgether: Remote Website Developer</title><link>https://weworkremotely.com/remote-jobs/jobgether-remote-website-developer</link><description>Headquarters: North America
+    URL: http://jobgether.com
+
+
+This position is posted by Jobgether on behalf of a partner company. We are currently looking for a Senior Website Developer - REMOTE. This role is critical in managing client relationships and ensuring the seamless delivery of services. The successful candidate will embody motivation, discipline, and expertise, instilling trust and confidence in our diverse clientele. You will work with a talented team, engage in constant collaboration, and participate in community-building activities. Moreover, you will contribute to the mission and culture of a thriving remote workplace.AccountabilitiesRepresent the company positively and professionally.Demonstrate exceptional work ethic and a positive attitude.Ensure communication reflects the company's values and professionalism.Take ownership of client satisfaction.Provide high-quality administrative support to clients.Effectively manage tasks, projects, and deadlines.Maintain open communication with clients and stakeholders.Write well-designed, testable, efficient code.Develop, implement, and manage new website builds.Monitor and improve website performance metrics.Requirements5+ years of experience as a website developer.Proficient in various website-building platforms.Expertise in HTML/CSS and WordPress.Experience in client relationship management.Strong problem-solving skills and attention to detail.Ability to collaborate effectively in a virtual setting.Excellent communication skills.Knowledge of SEO and web optimization techniques.Ability to manage multiple priorities and deadlines.BenefitsRemote work flexibility.Access to a supportive teamwork environment.Opportunities for professional development.Participation in team-building activities.Competitive compensation.Recognition for high-quality work.Why Apply Through Jobgether?         We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.         We appreciate your interest and wish you the best!Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.#LI-CL1We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+To apply: https://weworkremotely.com/remote-jobs/jobgether-remote-website-developer</description><pubDate>Tue, 17 Feb 2026 22:19:58 +0000</pubDate></item><item><title>Soltech: MDM Data Engineer</title><link>https://weworkremotely.com/remote-jobs/soltech-mdm-data-engineer</link><description>Headquarters: Remote
+    URL: http://soltech.net
+
+
+
+Job Description
+Our client is seeking an experienced MDM Data Engineer to design, build, and maintain data integrations connecting enterprise source systems to the EnterWorks MDM hub. This role focuses on developing robust ETL/ELT pipelines, implementing data transformation logic, configuring data quality rules, and ensuring reliable data synchronization across the organization.Two MDM Data Engineers will work collaboratively under the guidance of the Senior MDM Lead to deliver the technical integration components of a Customer MDM solution. The position blends hands-on integration development with technical assessment and optimization to ensure solution quality, scalability, and performance.Key ResponsibilitiesIntegration DevelopmentBuild source-to-stage integrations to extract customer data from multiple ERP systems (AS400, Sage variants, etc.), Salesforce CRM, and edge applicationsDevelop stage-to-hub data flows to load cleansed and matched customer records into EnterWorksBuild hub-to-ERP integrations enabling bidirectional synchronization of master customer data back to source systemsImplement data transformation and mapping rules based on logical party model specificationsDevelop error handling, retry logic, and exception management for all integrationsCreate data validation routines to ensure data quality throughout the pipelineTechnical ImplementationConfigure and implement data quality rules in EnterWorks, including completeness, consistency, and accuracy checksImplement match/merge algorithms and survivorship rules to support golden record creationDevelop and execute data migration scripts for initial customer data loadsBuild and maintain automated testing frameworks for integration validationSupport iterative development through pilot and testing phases, progressing toward CI/CD practicesOptimize integration performance, reliability, and scalabilityTechnical Assessment &amp;amp; DocumentationConduct technical assessments of source system data structures, APIs, and connectivity optionsProfile source data to validate discovery findings and inform data quality rule developmentDocument technical specifications, including data mappings, transformation logic, and performance requirementsTroubleshoot and resolve integration and data flow issuesSupport data governance teams with monitoring dashboards and technical reportingCollaboration &amp;amp; CommunicationPartner with the Senior MDM Lead to translate business requirements into technical solutionsCoordinate with the MDM Hub Developer on EnterWorks configuration and data flow designParticipate in technical discussions with client SMEs on source system access and integration approachesProvide technical input for project planning, estimation, and delivery timelinesPhase Alignment&amp;nbsp;Phase 1: MDM Initiation &amp;amp; Solution Selection – Standardize, GovernConduct technical assessments of source systemsValidate integration approaches and document technical specificationsSet up development environmentsBegin source-to-stage integration developmentPhase 2: MDM Design, Build &amp;amp; Delivery – AchieveComplete all integrations (source-to-stage, stage-to-hub, hub-to-ERP)Implement data quality and match/merge logicExecute data migration and support testing and UATOptimize performance and support rollout and hyper-careTechnical EnvironmentMDM Platform: EnterWorksSource Systems: AS400 (PRMS), A+, Sage variants, Salesforce CRM, and various edge applicationsIntegration: SQL and stored procedures, ETL/ELT tools (Informatica IDMC, Fivetran), REST/SOAP APIs, batch processingData Quality: Profiling tools, DQ rule configuration, monitoring dashboardsRequired Qualifications5+ years of experience in data engineering or data integration rolesStrong proficiency with ETL/ELT tools (Informatica and Fivetran preferred; Talend, SSIS, or similar acceptable)Experience with MDM platforms, preferably EnterWorks or comparable enterprise solutionsAdvanced SQL skills and experience with relational databasesHands-on experience integrating ERP systems (SAP, Oracle, AS400, Sage, or similar)Understanding of REST and SOAP API integrationsExperience implementing data quality frameworks and rulesStrong analytical, troubleshooting, and problem-solving skillsProven ability to collaborate with both technical and business stakeholdersPreferred QualificationsExperience integrating Salesforce and working with Salesforce APIsBackground in manufacturing or distribution environmentsFamiliarity with AS400/IBM data extraction techniquesExperience with Python or other scripting languages for data processingKnowledge of data governance and stewardship practicesExperience with cloud data platforms (Azure, AWS, GCP)CI/CD experience for deploying and managing data pipelinesAbout SOLTECHSOLTECH is a leading national technology company based in Atlanta, driven by a steadfast commitment to integrity, strong company values, and customer centricity. For nearly 30 years, we’ve been part of the thriving technology community and have earned honors such as The Atlanta Journal-Constitution’s Top Workplace and the Best &amp;amp; Brightest Companies To Work For In The Nation.Our exceptional team of engineers, designers, and strategists delivers custom software applications, technology consulting, AI and data engineering solutions, and IT staffing services that help organizations solve complex challenges nationwide.Join us on our quest to make the world a better place by bringing to life innovative software solutions that make our lives easier, safer, healthier, and more productive.If you’re an IT professional seeking your next career opportunity, we’d love to match your expertise with a role where you can thrive. Learn more at https://soltech.net/working-for-soltech/.SOLTECH believes in the dignity of every individual and practices equal employment opportunity as a core principle. We consider all applicants without regard to race, color, age, sex, sexual orientation, gender identity, religion, marital status, national origin, disability, or veteran status.
+
+
+To apply: https://weworkremotely.com/remote-jobs/soltech-mdm-data-engineer</description><pubDate>Tue, 17 Feb 2026 22:19:58 +0000</pubDate></item><item><title>AHU Technologies: SR Project Manager in Continuous Improvement with Health Experience</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-sr-project-manager-in-continuous-improvement-with-health-experience</link><description>Headquarters: Washington, DC 20009
     URL: http://ahutech.com
 
 
@@ -79,94 +94,7 @@ Founded in San Francisco in 2015, we now have thousands of remote workers around
 
 
 
-To apply: https://weworkremotely.com/remote-jobs/magic-web-development-coding-specialist-freelance-remote</description><pubDate>Tue, 17 Feb 2026 22:19:58 +0000</pubDate></item><item><title>Shado Ventures: Senior ML Engineer - AI Document Intelligence (Remote, $15K Contract)</title><link>https://weworkremotely.com/remote-jobs/shado-ventures-senior-ml-engineer-ai-document-intelligence-remote-15k-contract</link><description>Headquarters: Miami, FL
-    URL: https://www.shado.ventures/
-
-
-The Challenge
-Build an AI system achieving 95% accuracy parsing death certificates across&amp;nbsp;
-50+ state format variations, generating institution-specific legal documents&amp;nbsp;
-for automated death administration.
-&amp;nbsp;
-The Mission
-Shado Ventures automates the 500 hours of administrative work families face after&amp;nbsp;
-someone dies—notifying government agencies, financial institutions, and service&amp;nbsp;
-providers without the deceased's login credentials.
-&amp;nbsp;
-3.3 million American families face this crisis annually. We're building the&amp;nbsp;
-first AI solution.
-&amp;nbsp;
-Personal Context
-I'm Hassan, founder. My father is in hospice right now. I'm living the exact&amp;nbsp;
-problem we're solving.
-&amp;nbsp;
-The Opportunity
-4-Week Paid Sprint: $15,000
-• $7,500 upfront (contract signing)
-• $7,500 at delivery
-&amp;nbsp;
-If mutual fit → Founding CTO:
-• Equity: 3-5% (4-year vest, 1-year cliff)
-• Salary: $180,000-220,000
-• Employee #1, shape everything
-• $3.5M seed closing April 2026
-&amp;nbsp;
-What You'll Build
-Week 1 - Death Certificate Intelligence:
-• GPT-4 Vision or Claude Sonnet with vision
-• 95% extraction accuracy across 50+ state formats
-• Structured JSON output (name, DOB, death date, SSN, address)
-&amp;nbsp;
-Week 2 - Legal Document Generation:
-• 15+ institution-specific templates
-• SSA, Medicare, DMV, IRS, banks, credit cards, insurance, utilities
-• Jinja2 + python-docx + PDF generation
-• Professional output (not obviously AI-generated)
-&amp;nbsp;
-Week 3/4 - Integration + Demo:
-• Streamlit or React UI
-• Upload → Review → Generate → Download workflow
-• Investor-ready demo video
-&amp;nbsp;
-Requirements
-Must have:
-✓ 5+ years shipping production ML/AI
-✓ GPT-4 or Claude API expertise (production, not experimental)
-✓ Public GitHub with LLM projects (we review your code)
-✓ Available within 2-4 weeks
-✓ 30-40 hrs/week for 3 weeks
-&amp;nbsp;
-Nice to have:
-+ OCR/document parsing experience
-+ Legal/regulated industry background
-+ Vision model expertise
-&amp;nbsp;
-Tech Stack
-Python 3.10+, GPT-4 Vision/Claude, Jinja2, python-docx, Pydantic, Streamlit/React
-&amp;nbsp;
-Why This Is Technically Interesting
-• Novel problem (no existing AI solution for death certificates)
-• Challenging accuracy target (95% across 50 state variations)
-• Green field architecture (make all technical decisions)
-• Real-world impact (3.3M families annually)
-&amp;nbsp;
-How to Apply
-Contact: Noa James
-Email: noa@shado.ventures
-&amp;nbsp;
-Include ALL FOUR:
-1. GitHub profile link (required, we review your code)
-2. One GPT-4/Claude production project (problem, results, repo link)
-3. Availability (start date + hours/week)
-4. Technical approach (3-5 sentences on death cert parsing + legal doc generation)
-&amp;nbsp;
-Incomplete applications will not receive a response.
-&amp;nbsp;
-Timeline: Interviews late Feb, Start mid-March, Deliver early April
-&amp;nbsp;
-This is personal. This matters. Let's build it.
-
-To apply: https://weworkremotely.com/remote-jobs/shado-ventures-senior-ml-engineer-ai-document-intelligence-remote-15k-contract</description><pubDate>Tue, 17 Feb 2026 14:37:01 +0000</pubDate></item><item><title>Proton.ai: Senior Backend Engineer</title><link>https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer</link><description>Headquarters: Cambridge, MA 
+To apply: https://weworkremotely.com/remote-jobs/magic-web-development-coding-specialist-freelance-remote</description><pubDate>Tue, 17 Feb 2026 22:19:58 +0000</pubDate></item><item><title>Proton.ai: Senior Backend Engineer</title><link>https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer</link><description>Headquarters: Cambridge, MA 
     URL: https://proton.ai
 
 
@@ -952,55 +880,4 @@ Most Asian countries and Africa.
 We expand and shorten the list of exemptions regularly.
 Do you represent a company with engineers who match the description and want to collaborate with us through staff augmentation? Then register here.
 
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-java-full-stack-developer</description><pubDate>Thu, 12 Feb 2026 13:12:09 +0000</pubDate></item><item><title>Proxify AB: Senior Next.js Developer</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-next-js-developer-5</link><description>Headquarters: Sweden
-    URL: http://career.proxify.io
-
-
-
-The Role:
-&amp;nbsp;
-We are looking for a Senior Next.js Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.
-&amp;nbsp;
-What we’re looking for:
-
-5+ years of experience in web development, with at least 4 years equally using both React and Next.js.
-Proficient understanding of web markup, including HTML5 and CSS3.
-Strong experience with server-side rendering and static site generation in Next.js.
-Familiarity with RESTful APIs and modern authorization mechanisms, such as JSON Web Token.
-Experience with state management libraries (e.g., Redux, MobX).
-Familiarity with modern front-end build pipelines and tools.
-Experience with data structure libraries (e.g., Immutable.js) is a plus.
-Excellent troubleshooting and communication skills.
-Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.
-
-&amp;nbsp;
-Responsibilities:
-
-Lead the development of new user-facing features using Next.js.
-Optimise applications for maximum speed and scalability.
-Ensure the technical feasibility of UI/UX designs.
-Collaborate with back-end developers and web designers to improve usability.
-Write robust, clean, and documented code.
-Maintain and enhance existing web applications.
-Conduct performance tests and ensure responsiveness and stability across all platforms.
-
-
-&amp;nbsp;
-What we offer:
-&amp;nbsp;
-Get paid, not played
-No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
-Predictable project hours
-Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
-Flex days, so you can recharge
-Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
-Career-accelerating positions at cutting-edge companies
-Discover exclusive long-term remote positions at the world's most exciting companies.
-Hand-picked opportunities just for you
-Skip the typical recruitment roadblocks and biases with personally matched positions.
-One seamless process, multiple opportunities
-A one-time contracting process for endless opportunities, with no extra assessments.
-Compensation
-Enjoy the same pay, every month with positions landed through Proxify.
-
-To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-next-js-developer-5</description><pubDate>Thu, 12 Feb 2026 11:18:32 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-java-full-stack-developer</description><pubDate>Thu, 12 Feb 2026 13:12:09 +0000</pubDate></item></channel></rss>
