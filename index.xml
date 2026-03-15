@@ -1,5 +1,377 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Jobgether: Remote Website Developer</title><link>https://weworkremotely.com/remote-jobs/jobgether-remote-website-developer</link><description>Headquarters: North America
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>The Global Talent Co.: Marketing Web Developer</title><link>https://weworkremotely.com/remote-jobs/the-global-talent-co-marketing-web-developer</link><description>Headquarters: Latin America | Remote
+    URL: http://globaltalent.co
+
+
+Marketing Web DeveloperFull-time | Remote | LATAMCheck out The Global Talent Co.’s talent network: https://www.globaltalent.co/networkAbout Us:At The Global Talent Co., we provide opportunities to work with leading innovative technology companies worldwide, offering stable employment, competitive compensation, career growth, and access to a community of 25k+ like-minded marketing professionals.Our mission is to bridge the gap between leading global tech companies and amazing global talent. We believe everyone deserves equal access to opportunities, regardless of the country they are born in.About the Company You’ll Be Working With:Our client is a fast-growing, tech-enabled company in the legal services space, modernizing how litigation teams work. They combine technology, operations, and world-class service to make complex legal processes simpler, faster, and more efficient.You’ll join a collaborative, high-performing Integrated Marketing team that cares deeply about impact, clear communication, and building a website that is a true driver of business results.The RoleWe’re looking for a Marketing Web Developer — a marketer with strong technical skills, not a traditional software engineer.This role is ideal for someone who sits at the intersection of marketing, front-end web execution, and marketing operations. You’ll own the technical execution of marketing web experiences, ensuring campaigns are launched quickly, tracked accurately, and continuously optimized for conversion.Your primary focus will be building and maintaining marketing-driven web assets (landing pages, microsites, content hubs) using visual CMS platforms like HubSpot CMS and Webflow, while supporting analytics, experimentation, and marketing technology integrations.Key ResponsibilitiesMarketing Web ExecutionBuild and maintain landing pages, campaign microsites, and marketing web experiences using HubSpot CMS (primary) and Webflow.Customize and adapt CMS templates and modules using HubL, HTML, CSS, and light JavaScript as needed (no heavy backend development).Translate marketing concepts and design mockups into high-performing, conversion-focused web pages.Partner closely with demand generation, content, and design teams to support campaign launches.Support upcoming marketing website rebuilds and content hub initiatives, collaborating with internal stakeholders and external agencies.Marketing Analytics, Tracking &amp;amp; OptimizationOwn and maintain Google Tag Manager implementations across marketing web properties.Ensure accurate setup of Google Analytics and HubSpot analytics for campaign and conversion tracking.Support marketing technology integrations, including form tools, CRM connections, and API-based integrations where required.Manage cookie consent and tracking compliance (GDPR, CCPA) in collaboration with Legal and IT teams.Assist with A/B testing and conversion rate optimization (CRO) initiatives, using data to improve performance over time.Build and maintain simple marketing dashboards that connect web activity to campaign and business outcomes.Website Maintenance &amp;amp; PerformanceOwn the organization and upkeep of marketing web assets, knowing where content lives and when it was last updated.Execute ongoing website updates, content refreshes, and performance improvements.Proactively identify opportunities to improve page speed, usability, and conversion rates.Troubleshoot front-end and tracking issues quickly to keep marketing activities running smoothly.RequirementsCore Requirements3–5 years of experience working on marketing websites and campaign assets within a marketing or growth team.Strong hands-on experience with HubSpot CMS (required), including templates, modules, HubL, HTML, and CSS.Experience building marketing pages in Webflow, or the ability to ramp up quickly.Practical experience with Google Tag Manager, analytics tagging, and marketing performance tracking.Solid understanding of marketing funnels, lead generation, and conversion optimization.Comfortable working in a fast-paced marketing environment with multiple campaigns and stakeholders.Strong attention to detail and ability to execute designs accurately.Ability to present a portfolio of marketing landing pages, microsites, or campaign web experiences.Nice to HaveExperience supporting marketing operations or marketing technology integrations.Familiarity with basic API-based integrations related to marketing tools.Experience running or supporting A/B tests and CRO experiments.Prior experience working with external agencies on marketing web projects.Your BenefitsJoining this team means more than just a job — it’s an opportunity to grow your career while working with some of the most innovative companies in the US and Europe. Here’s what you can expect:Global Work Exposure: Collaborate with dynamic, forward-thinking teams across international markets.Competitive Compensation: Enjoy a highly competitive salary aligned with top industry standards.Work–Life Balance: Benefit from 15 days of paid annual leave, plus option for flexible work arrangements.Learning &amp;amp; Development: Access opportunities to build your skills and grow professionally through continuous learning initiatives.Supportive Environment: Be part of an inclusive, high-performing culture that values collaboration, growth, and your unique perspective.Join Our TeamAt The Global Talent Co., our mission is to bridge the gap between leading global brands and amazing global talent. We believe everyone deserves equal access to opportunities, regardless of the country they are born in.
+
+To apply: https://weworkremotely.com/remote-jobs/the-global-talent-co-marketing-web-developer</description><pubDate>Thu, 19 Feb 2026 16:05:54 +0000</pubDate></item><item><title>Signet Jewelers: Web App Firewall Security Engineer (Remote)</title><link>https://weworkremotely.com/remote-jobs/signet-jewelers-web-app-firewall-security-engineer-remote</link><description>Headquarters: Support Center - Akron, OH
+    URL: http://signetjewelers.com
+
+
+We have many opportunities available on our other career site pages. Click here to link to our careers page!Signet Jewelers is the world's largest retailer of diamond jewelry, operating more than 2,800 stores worldwide under the iconic brands: Kay Jewelers, Zales, Jared, H.Samuel, Ernest Jones, Peoples, Banter by Piercing Pagoda, Rocksbox, JamesAllen.com and Diamonds Direct. We are a people-first company and this core value is at the heart of everything we do, from empowering our valued team members, to collaborating with our customers, to fostering the communities in which we live and serve. People – and the love their actions inspire – are what drive us. We’re not only proud of the love we inspire outside our walls, we’re especially proud of the diversity, inclusion and equity we’re inspiring inside.  There are dynamic career paths awaiting you – rewarding opportunities to impact the lives of others and inspire love. Join us!Web App Firewall Security Engineer IT IVLocation: RemotePOSITION SUMMARY:The WAF Security Engineer is responsible for enterprise Web Application Firewall and edge security operations protecting high-traffic ecommerce applications and APIs. This role provides hands-on ownership of Akamai security platforms and supports additional WAF technologies.This position requires strong operational discipline, deep understanding of web application threats, and the ability to balance security enforcement with availability and customer experience in production environments.RESPONSIBILITIES:Serve as subject matter expert for enterprise WAF platforms, with primary ownership of Akamai and operational support for Imperva and AWS WAFDesign, deploy, configure, and manage WAF policies protecting web applications and APIsTune and optimize security rules to balance threat prevention, performance, and revenue protectionConfigure and maintain Akamai security capabilities including Bot Manager, Rate Control, Client Reputation, API Security, and related protectionsMonitor and analyze security events, attack traffic, bot activity, and abuse patterns including OWASP Top 10 threats and DDoS attemptsPerform ongoing rule reviews, policy optimization, and false positive reductionSupport production change management processes and ensure stability when implementing WAF updatesParticipate in incident response activities related to web-layer and edge-based threatsDevelop and report on WAF effectiveness metrics including block accuracy, false positive rate, and attack trendsMaintain documentation of configurations, procedures, and operational standardsPartner with Application Security Team to validate exploitability of identified vulnerabilitiesSupport secure deployment practices and CI/CD security integrationsAssist development teams in understanding web-layer threats and mitigation strategiesDevelop lightweight automation scripts to improve monitoring, validation, and reporting processesStay current with emerging web threats and platform updatesPOSITION QUALIFICATIONS:Bachelor’s Degree in computer science, Management Information Systems, or equivalent experience.&amp;nbsp;3–5+ years of hands-on experience operating and tuning Web Application Firewalls in enterprise or high-traffic environmentsStrong hands-on experience with Akamai security products requiredStrong understanding of web application security concepts and OWASP Top 10Knowledge of HTTP, HTTPS, TLS, DNS, CDN architectures, and cloud-based environmentsExperience analyzing security logs, traffic patterns, and attack behaviorDemonstrated ability to tune WAF policies and reduce false positives without disrupting production trafficExperience supporting structured production change management processesBasic scripting or automation experience such as Python, Bash, or REST APIsStrong troubleshooting, analytical, and problem-solving skillsPreferred:Experience with Imperva and/or AWS WAFExperience supporting high-volume ecommerce or retail environmentsFamiliarity with PCI security requirementsExperience working with distributed development and DevOps teamsBENEFITS &amp;amp; PERKS:Competitive healthcare, dental &amp;amp; vision insurance401(k) matching after one year of employmentGenerous time off + company holidaysMerchandise discountLearning &amp;amp; Development programsMuch more!The salary range for this opportunity is $106,000 - $160,000. Base pay offered may vary depending on geographic region, internal equity, job related knowledge, skills and experience, among other factors.
+
+To apply: https://weworkremotely.com/remote-jobs/signet-jewelers-web-app-firewall-security-engineer-remote</description><pubDate>Thu, 19 Feb 2026 16:05:54 +0000</pubDate></item><item><title>Mobbin: UX Content Analyst</title><link>https://weworkremotely.com/remote-jobs/mobbin-ux-content-analyst</link><description>Headquarters: Indonesia
+    URL: http://mobbin.com
+
+
+About MobbinOur mission is to empower the world to design great digital experiences.Mobbin helps designers and product people find highly-relevant references to their design problems. Today, Mobbin is serving over a million users and is used by most design-forward companies such as Wise, Airbnb, Headspace, Duolingo, Uber, and more.Read more about who we are: https://careers.mobbin.comContract (Full-time), Remote🚫 Note that this is not a UX Designer, UX Researcher, or UX Writer role. You will not be designing or conducting research in any capacity. Instead, you will spend most of your time dissecting apps and taking screenshots.The roleAt Mobbin, we curate thousands of app screenshots every week. Our team of analysts meticulously organizes and tags them by hand, ensuring that our users have access to the most comprehensive references.As a Content Analyst, you will play a crucial role in ensuring that our library is constantly updated with fresh content for our users.Each week, you will analyze the best-in-class apps and conduct a detailed breakdown. Your analysis will provide valuable insights to our users, who use it as direct input for their design decisions.What you'll do...Acquire and prepare content on a weekly basis, following our guidelines.Conduct a detailed analysis and breakdown of the apps.Annotate screens and flows with information about design patterns and UI elements following our guidelines.Collaborate with other team members to ensure that all content meets our quality standards.Clarify any doubts in your work, for example, by seeking clarification from UX analysts.Identify and rectify errors and inconsistencies to maintain high standards.You should...Be meticulous and have strong attention to detail. You should strive to be comprehensive and consistent in your analysis.Have a strong interest in UI/UX and a good understanding of design patterns. You will need a firm understanding of UX concepts. You should be highly interested in exploring the smallest details of the apps.Be collaborative and communicate effectively. You should have good written and verbal communication skills in English.Be self-motivated and work independently. You will need to demonstrate a high degree of stability to get the work done every week.Have good time management skills. You will need to be able to coordinate and manage your time effectively to meet the content schedule.Have experience working with UI design tools such as Figma and Sketch.
+
+To apply: https://weworkremotely.com/remote-jobs/mobbin-ux-content-analyst</description><pubDate>Thu, 19 Feb 2026 16:05:27 +0000</pubDate></item><item><title>Michael Baker International: Oracle APEX Developer</title><link>https://weworkremotely.com/remote-jobs/michael-baker-international-oracle-apex-developer</link><description>Headquarters: United States
+    URL: http://mbakerintl.com
+
+
+DescriptionWhat We're Looking For:
+We are looking for a skilled Oracle APEX Developer to join our development team. This role focuses on building new low-code web applications using Oracle Application Express (APEX) and providing ongoing support and enhancements to existing applications. You will collaborate closely with business stakeholders to gather and refine requirements, translate them into robust, user-friendly, production-ready solutions, and ensure applications align with organizational needs. The position emphasizes hands-on development, problem-solving, and delivering high-quality, scalable applications that drive business efficiency.
+*U.S. citizenship is required for this position.
+What You'll Do:
+
+Design, develop, test, and deploy new Oracle APEX applications based on business requirements and specifications.
+Support and enhance existing APEX applications, including troubleshooting, bug fixes, performance tuning, and implementing feature improvements.
+Work directly with business users, analysts, and stakeholders to understand current processes, gather detailed requirements, identify pain points, and propose APEX-based solutions.
+Translate business needs into technical designs, including UI/UX layouts, data models, workflows, and integrations.
+Build responsive, secure, and maintainable applications using APEX components such as Interactive Reports, Interactive Grids, Charts, Forms, Dynamic Actions, RESTful Services, and Automations.
+Perform unit testing, integration testing, and support user acceptance testing (UAT) to ensure applications meet quality standards and are production-ready.
+Optimize application performance, implement security best practices (e.g., authentication, authorization, row-level security), and adhere to coding standards.
+Document technical designs, application configurations, and user guides for knowledge transfer and ongoing maintenance.
+Stay current with Oracle APEX releases, features (including AI-assisted development and workflow capabilities in recent versions), and best practices to recommend improvements.
+
+What You Need to Succeed:
+
+Bachelor's degree in Computer Science, Information Technology, or a related field; equivalent experience considered.
+5+ years of hands-on experience developing web applications with Oracle APEX (including recent versions such as 22.x, 23.x, or 24.x+).
+Strong proficiency in Oracle SQL, PL/SQL, and database design/performance tuning.
+Experience collaborating with business teams to elicit requirements and deliver solutions that meet user expectations.
+Solid understanding of web development concepts, including HTML, CSS, JavaScript, and responsive design principles.
+Proven ability to deliver production-ready applications with a focus on usability, security, and maintainability.
+
+Preferred Skills and Experience
+
+Experience with Oracle E-Business Suite (EBS), including Forms, OAF, EBS APIs, data models, and customizations/extensions.
+Familiarity with Oracle Cloud technologies, such as Oracle Cloud Infrastructure (OCI), Oracle Integration Cloud (OIC), Oracle REST Data Services (ORDS), or Oracle APEX in cloud environments.
+Knowledge of integration patterns, REST/SOAP web services, and connecting APEX applications to other Oracle or third-party systems.
+Experience with advanced APEX features like Workflow, Automations, Mobile-friendly apps, or embedded JavaScript/CSS customization.
+Prior exposure to full lifecycle development in enterprise settings, including version control, CI/CD practices, and agile methodologies.
+Oracle certifications (e.g., Oracle APEX Developer) or related credentials are a plus.
+Excellent communication skills for interacting with non-technical stakeholders and presenting solutions.
+
+Compensation:
+The approximate compensation range for this position is&amp;nbsp;$130,000 - $150,000 per year. This compensation range is a good faith estimate for the position at the time of posting. Actual compensation is dependent upon factors such as education, qualifications, experience, skillset, and physical work location.
+Why Choose Us:
+
+Medical, dental, vision insurance
+401k Retirement Plan
+Health Savings Account (HSA)
+Flexible Spending Account (FSA)
+Life, AD&amp;amp;D, short-term, and long-term disability
+Professional and personal development
+Generous paid time off
+Commuter and wellness benefits
+
+#LI-KR2 #LI-REMOTE
+
+To apply: https://weworkremotely.com/remote-jobs/michael-baker-international-oracle-apex-developer</description><pubDate>Thu, 19 Feb 2026 16:05:27 +0000</pubDate></item><item><title>DeweyLearn Inc.: Python AI Engineer</title><link>https://weworkremotely.com/remote-jobs/deweylearn-inc-python-ai-engineer</link><description>Headquarters: New York, USA
+    URL: https://deweylearn.com/
+
+
+
+We are DeweyLearn, Inc., an EdTech startup on a mission to revolutionize the education landscape. We’re building something extraordinary and are seeking exceptional engineers to join us on this journey. This is a unique opportunity to shape the future of education technology from the ground up.
+
+Tasks
+
+
+Build and maintain backend services and APIs in Python
+Design and ship AI features using LLMs and modern ML techniques
+Implement retrieval workflows (RAG, embeddings, vector search)
+Take AI systems from prototype to production and iterate based on real usage
+Work closely with other engineers and stakeholders to make good technical trade-offs
+Help keep our systems clean, reliable, and easy to extend
+
+
+Requirements
+
+General:
+
+You’re a curious technologist at heart. You like understanding how things work, and you enjoy exploring new tools, approaches, and ideas
+You have strong software engineering fundamentals and can build reliable systems that others can understand, maintain, and extend
+You are a good communicator and can ask the right questions, explain trade-offs in a straightforward way, and collaborate with stakeholders
+You enjoy collaborating with other team members
+You have a proven track record as a Python developer, with at least 3 years of professional software engineering experience
+You have experience working with ML/AI systems in a production environment.
+You have native/fluent proficiency in English
+Experience in early-stage startups is a plus
+
+Technical:
+
+Good command of the Python language
+Production API development experience
+Understanding of modern web frameworks
+Good understanding of “engineering basics” (version control, CI/CD, environments, debugging)
+Experience implementing and evaluating ML/AI solutions
+Experience building AI features using LLMs
+Familiarity with retrieval workflows (RAG) and embedding-based search
+Experience with PostgreSQL is a plus
+Experience with Natural Language Processing is a plus
+Familiarity with at least one front-end framework is a plus
+
+
+Benefits
+
+
+Flexible remote work arrangement (Europe and the Americas only)
+Collaborative, innovation-focused environment
+Opportunity to shape the future of education
+
+
+
+Join us in building the future of education technology. If you're passionate about creating innovative solutions and want to be part of something groundbreaking, we want to hear from you.
+
+
+To apply: https://weworkremotely.com/remote-jobs/deweylearn-inc-python-ai-engineer</description><pubDate>Thu, 19 Feb 2026 12:56:25 +0000</pubDate></item><item><title>The Church of Jesus Christ of Latter-day Saints: Frontend Web Development Grader - BYU-Pathway Worldwide</title><link>https://weworkremotely.com/remote-jobs/the-church-of-jesus-christ-of-latter-day-saints-frontend-web-development-grader-byu-pathway-worldwide-1</link><description>Headquarters: Sao Paulo, SP, Brazil
+    URL: http://churchofjesuschrist.org
+
+
+DescriptionCandidates must be fluent in English and submit their application in English to be considered.Only those currently living in and authorized to work in Brazil are eligible.The application system will store candidate information. Once submitted, application details will be shared with Church Education System (CES) partners involved in the selection process. Applicants may receive a rejection email during or after review; however, unless a direct rejection is received from the hiring manager, applications will remain active and under consideration.This posting serves as an interest list for future opportunities. Because hiring is based on enrollment needs, applicants may not be contacted immediately. Candidates not selected at this time will remain on file for consideration as future positions become available.If you have any questions, please contact our Human Resources representative, Easton at ebiddulph@byupw.edu.&amp;nbsp;Job DescriptionBYU Pathway and BYU Idaho online courses include both an instructor and graders. Instructors handle teaching and overall course delivery, while graders support learning by evaluating assignments and providing constructive feedback. We are seeking graders (support staff) who will apply their skills and subject expertise to grade assignments, support student learning, provide feedback, and collaborate with instructors.Important: This is a part-time work-from-home position with the following flexible schedule:10-12 hours per week (may vary week-to-week)Course DescriptionGrading support (using JavaScript, HTML, and CSS) for:WDD 130 - Web FundamentalsWDD 131 – Dynamic Web FundamentalsWDD 231 - Web Frontend Development IWDD 330 - Web Frontend Development IIThese courses provide students with foundational web design and development skills, enabling them to contribute to web development teams.&amp;nbsp;CES Dress and Grooming ExpectationsAll online instructors and graders who support BYU-Pathway Worldwide commit to upholding the CES Honor Code in their roles as institutional representatives, leaders, and mentors.Employees teach students through example and counsel how to make choices that exemplify these principles and expectations, while recognizing that the roles of employees and students are distinct from each other, and their choices will reflect these differences. Employees have a higher standard for dress and grooming.When choosing attire, employees make decisions appropriate for their professional role, responsibilities, purpose, and setting.Dress for men and women should:Be modest in fit and style. Dressing in a way that would cover the temple garment is a good guideline, whether or not one has been endowed. Accommodation may be made for athletic participation.Be neat and clean. Sloppy, overly casual, ragged, or extreme clothing is not acceptable.Grooming:Hair should be clean, neat, modest, and avoid extremes in styles and colors.Men's hair should be neatly trimmed. Men should be clean-shaven. If worn, mustaches should be neatly trimmed.ResponsibilitiesUsing university and department procedures and materials to evaluate student work (rubrics and feedback templates).Ensuring feedback is actionable, timely, and accurate.Responding to student questions and concerns about scoring.Coordinating with supervisors for quick resolution of grading issues.Participating in training sessions to receive guidance and feedback.Applying feedback from training and quality checks to improve performance.Performing other duties as assigned in support of the academic process.QualificationsNOTE: An applicant’s résumé and official transcripts will be used to determine eligibility for grading the Frontend Web Development courses. Please clearly highlight relevant education, professional work, and technologies on your résumé.&amp;nbsp;General Grader Requirements:Degree or coursework in a related field.Demonstrated subject matter expertise.Fluency in Portuguese and English (required).Experience with online teaching/learning, especially with at-risk learners (preferred).High accuracy, efficiency, and reliability in following procedures and meeting deadlines.Ability to focus and maintain quality, even with repetitive or complex tasks.Adaptability to new processes, procedures, and technologies.Professional, respectful, and unbiased in sensitive situations.Proficiency in Microsoft Office and discipline-specific software.Proven ability to grade effectively within these subject areas.&amp;nbsp;Specific Course Requirements: Frontend Web DevelopmentA bachelor’s degree in computer science or a related field is preferred.Equivalent education and/or work experience may be considered.Experience with the following is required: JavaScript, HTML, CSS, JSON.Understanding of web design principles, such as simplicity, responsiveness, usability, and visual design.Expert proficiency with basic web design and development concepts, such as DOM manipulation, form and event handling, JavaScript objects and functions, CSS layout and presentation, and data retrieval mechanisms.Experience with version control software, such as GitHub.Experience with code editors, such as Visual Studio Code.Experience with browser tools, such as Chrome Developer Tools.Attention to detail.Ability to follow test cases with efficiency, exactness, and accuracy.Ability to quickly read and debug imperfect code.Ability to communicate clearly in writing.&amp;nbsp;Additional Documentation RequirementCandidates who are selected to advance to the next stages of the hiring process will be required to provide the following academic documents:Copy of original transcript (histórico escolar)Copy of diploma (front and back) that clearly shows either the date of completion or the date of graduation/commencement ceremony (data da colação de grau)Academic documents issued by Brazilian or international institutions are acceptable, provided that the documents are officially recognized in Brazil and their country of origin. (Bacharelado/Licenciatura)&amp;nbsp;Documentação Adicional RequeridaOs(as) candidatos(as) selecionados(as) para as próximas etapas do processo seletivo deverão apresentar os seguintes documentos acadêmicos:Cópia do histórico escolar (original).Cópia do diploma (frente e verso) que comprove claramente a data de conclusão ou a data da colação de grau.Serão aceitos documentos acadêmicos emitidos por instituições brasileiras ou estrangeiras, desde que reconhecidos oficialmente no Brasil e no país de origem (Bacharelado/Licenciatura).
+
+To apply: https://weworkremotely.com/remote-jobs/the-church-of-jesus-christ-of-latter-day-saints-frontend-web-development-grader-byu-pathway-worldwide-1</description><pubDate>Wed, 18 Feb 2026 22:00:58 +0000</pubDate></item><item><title>Bright Vision Technologies: Front-End Developer</title><link>https://weworkremotely.com/remote-jobs/bright-vision-technologies-front-end-developer</link><description>Headquarters: Remote
+    URL: http://bvteck.com
+
+
+
+Front-End DeveloperBright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations.We leverage cutting-edge technologies to create scalable, secure, and user-friendly applications. As we continue to grow, we’re looking for a skilled Front-End Developer to join our dynamic team and contribute to our mission of transforming business processes through technology.This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.We are looking for OPT/CPT/H4 EAD/TN/E3 or any other Non-immigrant visa people who are looking for an H1B sponsorship for the year 2027 quota. Company: Bright Vision Technologies ( www.bvteck.com )Job Title: Front-End DeveloperJob Location: Bridgewater, New Jersey - 08807Onsite/Hybrid: RemoteFULL-TIME ROLE WITH BRIGHT VISION Job Description:Environment:HTML5, CSS3, JavaScript, TypeScript, React.js, Angular, Responsive Web Design, RESTful APIs, JSON, Redux, Bootstrap, Material UI, Cross-Browser Compatibility, Git, CI/CD pipelines, Agile methodologies, UI/UX best practices Again, we work only with direct clients. If you are already on H-1 B and are open to an H-1 B transfer, feel free to apply.BUT STRICTLY NO C2C/1099/3RD PARTY COMPANIES. ALL OUR ROLES ARE W2 AND NO 3RD PARTY BROKERING PLEASE.For every role, a coding test is required, so apply only if you are confident and technically strong.We prefer at least 3 to 5 years of real-time experience.Thanks&amp;amp; RegardsBest Regards,Sridhar PagoluSenior Manager&amp;nbsp;Bright Vision Technologies&amp;nbsp;Phone: 908-938-4442&amp;nbsp;Address:&amp;nbsp;#991 Route 22 West, Suite 200,&amp;nbsp;Bridgewater, New Jersey - 08807&amp;nbsp;Equal Employment Opportunity (EEO) Statement
+Bright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.
+BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment. 
+
+To apply: https://weworkremotely.com/remote-jobs/bright-vision-technologies-front-end-developer</description><pubDate>Wed, 18 Feb 2026 22:00:58 +0000</pubDate></item><item><title>AHU Technologies: Business Analyst- Chicago, IL</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-business-analyst-chicago-il</link><description>Headquarters: Washington, DC 20009
+    URL: http://ahutech.com
+
+
+
+
+Job Description&amp;nbsp;Drive identification of requirements for our Catering and Meals Services system replacement, working with our Catering, Hospitality, and Inflight business partners. Serve as thought leader for technical business processes, developing forward-thinking systems requirements that promote increased efficiency, reliability, and intelligence.&amp;nbsp;Primary Responsibilities:&amp;nbsp;Determine and develop user requirements for systems in production, to ensure maximum usabilityPartner with other stakeholder teams across business units to develop necessary analysis and documentation in a collaborative way, communicating effectively and efficiently with production, managerial, and executive teamsIdentify, evaluate, analyze, and communicate systems requirements and processes on a continuing basisAuthor and update internal and external documentation, and formally initiate and deliver requirements and documentation&amp;nbsp;
+Qualifications:Technical Degree or related work experienceProven experience in process and systems requirements gatheringProven analytical abilitiesPractical experience generating process documentation and reportsExcellent communicator with the ability to translate data into actionable insights
+
+This is a remote position.
+
+          Compensation: $36.00 - $38.00 per hour
+        
+ 
+About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&amp;nbsp; AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-business-analyst-chicago-il</description><pubDate>Wed, 18 Feb 2026 22:00:57 +0000</pubDate></item><item><title>Stellar AI: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</link><description>Headquarters: London
+    URL: https://joinstellar.ai/
+
+
+
+We are seeking experienced Software Engineers to contribute to projects across a wide range of technologies and programming languages, including JavaScript, Python, Go, C++, Ruby, and more.This is an open-ended contract opportunity, structured around project-based work with no set schedules or minimum time or task commitments. Contributors who work with us decide which available projects they'd like to work on, when they work, and how much they contribute, which makes it an excellent option for those seeking flexible and high-impact work.In this role, you will help advance AI research by understanding complex systems, exploring large codebases, and developing approaches to verify the correctness of software behavior.
+Compensation
+
+$70 per hour after passing the qualification
+Fully remote
+Project based work, no minimum time or task commitments
+
+Responsibilities
+
+Rapidly build context in large, multi-module codebases
+Analyze feature implementations for correctness and edge cases
+Produce clear, structured documentation of findings and rationale
+
+Requirements
+
+Bachelor's degree in Computer Science or a related field
+At least 2 years of experience as a Software Engineer
+Excellent written communication skills
+Ability to clearly explain complex technical concepts
+
+Location
+Remote in the US, UK, Canada, Europe, Australia, or New Zealand
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</description><pubDate>Tue, 21 Oct 2025 19:36:26 +0000</pubDate></item><item><title>BHFT: Market Data Engineering Manager</title><link>https://weworkremotely.com/remote-jobs/bhft-market-data-engineering-manager</link><description>Headquarters: United Arab Emirates
+    URL: https://bhft.com/
+
+
+
+
+
+We are building a world-class data platform to support systematic trading across 10+ global exchanges. This role will lead the&amp;nbsp;Data Engineering&amp;nbsp;team responsible for ingesting, processing, storing, and serving all market, reference, and alternative data with low latency and high reliability. You will also own the architecture and evolution of our Feature Store, which powers our live trading systems and research pipeline.
+This is a hands-on technical leadership position with significant ownership and influence over our trading technology stack.
+Responsibilities
+
+Drive end-to-end delivery of core data engineering initiatives, including market data platforms, real-time and batch pipelines, feature stores, and scalable storage and processing systems.
+Lead and mentor the Data Engineering team; translate business and research needs into clear roadmaps, execution plans, and engineering standards (code quality, testing, CI/CD).
+Own data ingestion and processing for live and historical datasets, defining SLAs, data quality metrics, monitoring, schemas, and governance.
+Design and operate feature generation and serving platforms, ensuring low-latency production pipelines, reproducibility, versioning, and lineage.
+Build and maintain data infrastructure and tooling, including collectors, ingestion services, metadata/catalog systems, and compute workflows.
+Collaborate closely with researchers, product and engineering teams, as well as compliance and risk, to enable fast experimentation and reliable production deployment.
+
+
+
+
+
+Qualifications
+
+
+
+6+ years in Data Engineering, with at least 2+ years in a lead role.
+Prior experience in trading, HFT, systematic hedge fund, crypto exchange, or similar (very important).
+Profound expertise in diverse types of market data.
+Strong experience with streaming systems, columnar storage, and distributed compute (e.g. Kafka/Redpanda, Parquet/ORC, Spark/Flink/Ray).
+Proficiency in Python and at least one systems language (Rust, Go, or C++).
+Proven ownership of data pipelines in latency-sensitive or production-critical environments.
+Ability to work independently, break down ambiguous problems, and deliver clear outcomes.
+Strong communication skills and a leadership mindset, including mentoring, setting standards, and documenting decisions.
+
+Nice to Have
+
+Experience building or operating a Feature Store.
+Background supporting quant research (alphas, signals, features).
+Familiarity with time-series databases.
+Experience onboarding multiple exchanges or large-scale market datasets.
+Understanding of market data vendor challenges, exchange-specific nuances, entitlements, and data quality.
+
+
+
+
+
+Additional Information
+
+
+What we offer:
+
+Working in a modern international technology company without bureaucracy, legacy systems, or technical debt.
+Excellent opportunities for professional growth and self-realization.
+We work remotely from anywhere in the world, with a flexible schedule.
+We offer compensation for health insurance, sports activities, and professional training.
+
+
+
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+To apply: https://weworkremotely.com/remote-jobs/bhft-market-data-engineering-manager</description><pubDate>Wed, 18 Feb 2026 16:46:41 +0000</pubDate></item><item><title>Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)</title><link>https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</link><description>Headquarters: USA
+    URL: http://www.close.com
+
+
+About Us
+Close is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again.
+&amp;nbsp;
+We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&amp;nbsp;
+&amp;nbsp;
+Our backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.
+&amp;nbsp;
+Our product development process is inspired by Shape Up. We love open sourcing our code and ideas on our GitHub and on The Making of Close, our behind-the-scenes Product &amp;amp; Engineering blog. Check out our open source projects like SocketShark, TaskTiger, LimitLion and ciso8601.
+&amp;nbsp;
+&amp;nbsp;
+About the Role
+You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp;amp; Onboarding, Conversations, Messaging &amp;amp; Scheduling, Automations &amp;amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp;amp; frontend engineers, product managers, designers, and other teams here at Close.
+&amp;nbsp;
+&amp;nbsp;
+About You
+We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.
+&amp;nbsp;
+You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team.
+Come help us with projects like...
+
+Conceiving, designing, building, and launching new user-facing features
+Implementing new AI features to turbocharge our customers’ daily tasks
+Improving the performance and scalability of our GraphQL and REST API
+Improving how we sync millions of sales emails and calendar events each month
+Working with Twilio's API, WebSockets, and WebRTC to improve our calling features
+Building user-facing analytics features that provide actionable insights based on sales activity data
+Improving our Elasticsearch-backed powerful search features
+Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&amp;nbsp;
+Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers
+Enhancing our web app with real-time updates powered by GraphQL Subscriptions
+Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI
+
+Help manage our ever growing data processing needs…
+
+Billions of Mongo documents
+Millions and millions of rows of PostgreSQL data
+55 Terabytes of logs / month
+500 billion OTEL spans over the last 30 days
+10+ million events / day
+Tens of thousands of docker containers
+7 million minutes of call recordings / month
+Petabytes / month of network traffic
+
+Requirements...
+
+Senior 1 &amp;amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity.
+Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python.
+You have built web APIs that were Internet facing or supported other high volume loads.
+You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&amp;nbsp;
+You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&amp;nbsp;
+You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&amp;nbsp;
+You care about the craftsmanship of the code and systems you produce.
+Located in the USA (lower 48 timezones).
+
+Bonus point if you have
+
+Contributed open source code related to our tech stack.
+Led small project teams building and launching features.
+Built B2B SaaS products.
+Implemented features that leveraged AI to deliver unimaginable new product capabilities.
+Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks.
+
+🌏 Why Close?
+
+Watch our most recent culture video featuring our annual team retreat in Italy
+100% remote company
+5 weeks PTO + Winter &amp;amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company
+1 month paid sabbatical every 5 years
+Paid parental leave
+Medical, Dental, Vision with HSA option (US residents)
+401k matching at 6% (US residents)
+Dependent care FSA (US residents)
+Our story and team 🚀
+
+Our Values
+
+Build a house you want to live in -- Examine long-term thinking and action
+No BS -- Practice transparency and honesty, especially when it’s hard
+Invest in each other -- Build successful relationships with your coworkers and customers&amp;nbsp;
+Discipline equals freedom -- Keep your word to yourself and others
+Strive for greatness -- Constantly challenge yourself and others&amp;nbsp;
+
+How We Work Together
+
+Productivity, Quality &amp;amp; Impact: We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&amp;nbsp;
+Asynchronous communication &amp;amp; collaboration: We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&amp;nbsp;
+Appreciation for Deep Work: *During your normal work day, not after a day of meetings*.&amp;nbsp;
+Autonomy &amp;amp; Freedom: Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&amp;nbsp;
+
+&amp;nbsp;
+We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp;amp; II is $140,000 to $210,000.
+
+To apply: https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</description><pubDate>Wed, 23 Jul 2025 14:31:54 +0000</pubDate></item><item><title>Jobgether: Remote Website Developer</title><link>https://weworkremotely.com/remote-jobs/jobgether-remote-website-developer</link><description>Headquarters: North America
     URL: http://jobgether.com
 
 
@@ -482,402 +854,4 @@ Enjoy collaborating with thoughtful, kind, and experienced people
 
 Want to make a lasting impact on a product used by thousands of real customers? Apply now!
 
-To apply: https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-1</description><pubDate>Fri, 13 Feb 2026 16:31:19 +0000</pubDate></item><item><title>ORGA-SOFT: Senior Frontend Software Developer (m/w/d) - React, GraphQL &amp; Progressive Web Apps (PWA)</title><link>https://weworkremotely.com/remote-jobs/orga-soft-senior-frontend-software-developer-m-w-d-react-graphql-progressive-web-apps-pwa</link><description>Headquarters: Mainz, Remote
-    URL: http://orga-soft.de
-
-
-
-
-Beschreibung
-
-Wir suchen Menschen, die Herausforderungen suchen! Ein Job in unserem Unternehmen kann dir viel bieten, nur keine Routinearbeiten. Wir sind ein Innovationstreiber und suchen Unseresgleichen!Es gibt Eigenschaften, auf die wir besonders achten, denn wir stellen Mitarbeiter:innen ein, die zu unserer Unternehmenskultur passen und die sich bei uns gut aufgehoben fühlen:Du bist ein echter Teamplayer, kreativer Kopf und mit eigenen IdeenDu arbeitest selbstständig und super motiviertDu bist kommunikationsstark und hast eine ausgeprägte ServiceorientierungDu hast ein gutes Gespür für Innovationen und einen hohen QualitätsanspruchDu bist neugierig und offen für Veränderungen, packst Dinge an und übernimmst VerantwortungDu bringst konzeptionelles und analytisches Denkvermögen mit und freust dich auf ein starkes TeamWir suchen für unser junges Start-up „AppComp – The&amp;nbsp;AppCompany“ neue&amp;nbsp;Kolleg:innen!&amp;nbsp;Was wir machen?&amp;nbsp;Wir analysieren Prozesse, erschaffen Prototypen und realisieren diese für mobile Geräte mit dem Ziel, dass unsere Kunden effizienter und einfacher ihren Alltag bestreiten. Du arbeitest bei uns in einem agilen Umfeld nach SCRUM.&amp;nbsp;Wer sind unsere Kunden?&amp;nbsp;Unsere Kunden bekommen wir von unserer Muttergesellschaft ORGA-SOFT. Denn ORGA-SOFT entwickelt und vertreibt&amp;nbsp;ERP-Software&amp;nbsp;für die Getränke- und Lebensmittelbranche.&amp;nbsp;Und aus diesem Grund sitzen wir im ORGA-SOFT Gebäude in Mainz-Hechtsheim und dürfen all die Vorteile eines/r ORGA-SOFTLER/IN mit nutzen.
-
-
-
-Deine Funktion / Verantwortung bei uns
-
-                            Als Senior Frontend Entwickler:in bist du ein wichtiger Teil der Umsetzung und kontinuierlichen Verbesserung unseres React-basierten Anwendung für unser ERP-System. Du setzt Features entlang der aktuellen Prioritäten um und stellst sicher, dass Qualität, Performance und Wartbarkeit auch bei wechselnden Anforderungen konsistent bleiben. &amp;nbsp;&amp;nbsp;Du arbeitest eng mit unserem Frontend Solution Architect, UX und Product zusammen. Dabei setzt du definierte Leitlinien konsistent um und bringst deine Erfahrung in die praktische Ausgestaltung ein.&amp;nbsp;Du arbeitest außerdem eng mit dem Backend-Team sowie weiteren Stakeholdern zusammen, um performante, skalierbare und nutzerfreundliche Lösungen für unsere ERP-Produkte zu realisieren. Neben der Entwicklung unterstützt du das Team durch Code-Reviews, Wissenstransfer/Mentoring sowie die kontinuierliche Verbesserung unserer Entwicklungsprozesse und Qualitätsstandards im agilen Umfeld.&amp;nbsp;Deine Aufgaben&amp;nbsp;Entwicklung und Weiterentwicklung unseres React-/TypeScript-Frontends&amp;nbsp;für unsere ERP-AnwendungenUmsetzung architektonischer Konzepte und technischer Standards in enger Zusammenarbeit mit dem Frontend Solution&amp;nbsp;ArchitectUmsetzung von UI/UX-Vorgaben in Abstimmung mit UX und&amp;nbsp;Product&amp;nbsp;(PM/PO)Entwicklung wieder verwendbarer Komponenten, Patterns und Libraries (Design System / UI-Architektur)Umsetzung unserer PWA-Funktionalitäten mit Fokus auf Flexibilität, Erweiterbarkeit, zuverlässige Updates und robuste Laufzeit-PerformanceIntegration von REST- und&amp;nbsp;GraphQL-APIs in enger Zusammenarbeit mit dem Backend-TeamSicherstellung von Codequalität und Stabilität durch:Code Reviews und&amp;nbsp;RefactoringUnit- &amp;amp; Integration-Tests (z. B. mitVitest/Jest)Best Practices, Standards und CI-ChecksPerformance-Optimierung (z. B. Rendering, Bundle-Größe, Laufzeitverhalten)Aktive Mitarbeit im agilen&amp;nbsp;Scrum-Team (Refinement, Umsetzung, technische Einschätzungen)Mentoring/Wissenstransfer und kontinuierliche Verbesserung von Prozessen und Qualitätsstandards
-
-
-
-Dein Profil
-
-Mehrjährige Erfahrung als&amp;nbsp;Senior Frontend&amp;nbsp;Entwickler:in&amp;nbsp;in professionellen SoftwareprojektenSehr gute Kenntnisse in&amp;nbsp;JavaScript /TypeScriptTiefgehende Erfahrung mit React, modernen Frontend-Patterns und Libraries (Tailwind,shadcn)Erfahrung mit der Integration von&amp;nbsp;REST und&amp;nbsp;GraphQLSicherer Umgang mit GitHubRoutine in agiler Entwicklung (Scrum)Hoher technischer Anspruch (Clean Code, Performance,Testing, Wartbarkeit)Du arbeitest eigenverantwortlich, lösungsorientiert und bringst aktiv Verbesserungsvorschläge einEnglischkenntnisse verhandlungssicher – Arbeitssprache überwiegend Deutsch, Englisch je nach Kontext möglich&amp;nbsp;Von Vorteil wäreErfahrung mit State-Management/Client- und Server-State wie&amp;nbsp;Redux, Zustand, React QueryUI/UX Design Systeme &amp;amp; komponentenbasierte UI-ArchitekturErfahrung im Umfeld von&amp;nbsp;ERP- oder Business-SoftwareVerständnis für betriebswirtschaftliche Prozesse (z. B. Verkauf, Lager &amp;amp; Logistik, Produktion)
-
-
-
-Was wir Dir bieten
-
-Unsere Arbeit macht einen großen Teil unseres Lebens aus, deshalb sollten wir sie genießen und Spaß haben. Gesundheit und Wohlbefinden sind für uns ebenso wichtig.&amp;nbsp;Anspruchsvolle Frontend-Architektur in einem modernen ERP-UmfeldModerner, konsistenter Tech-StackEnge Zusammenarbeit zwischen Backend- und Frontend-TeamsAgile ArbeitsweiseFlexible Arbeitszeiten und Remote-OptionMit über 40 Jahren Erfolg am Markt bieten wir dir die Stabilität eines etablierten Software-UnternehmensFestanstellung mit großer Flexibilität bezogen auf Arbeitszeit/-ort zur Gestaltung deiner Work-Life-BalancePatenprogramm und individueller Einarbeitungsplan für neue Mitarbeiter:innenPersönliche Fortbildungs- und EntwicklungsmöglichkeitenEin verantwortungsvolles und spannendes Arbeitsumfeld mit vielfältigen Tätigkeiten innerhalb eines engagierten TeamsSehr gute Arbeitsatmosphäre mit netten Kolleg:innenFirmen- und Teamevents, Fitnessmöglichkeiten im HauptgebäudePrämien für Mitarbeiter:innen WerbungErgonomische Arbeitsplätze (variable Tische, arbeiten im Stehen oder Sitzen) mit modernen ArbeitsmittelnZentraler Standort mit guter VerkehrsanbindungVermögenswirksame Leistungen (ab dem 1. Monat der Beschäftigung)Flache Hierarchien und kurze Entscheidungswege / Duz-KulturFamiliäres MiteinanderFortbildungen zu fachlichen und persönlichen ThemenCompany BikesFirmenparkplätze / FahrradstellplätzeUrlaubs-/WeihnachtsgratifikationPluxee-KarteBonusregelungenTischkicker / Obstkörbe / Cafeteria (ohne Verpflegung)
-
-
-
-
-Über uns
-
-ORGA-SOFT® ist ein international tätiges Software-Unternehmen, welches sich speziell auf Handel und Industrie der Getränke- und Lebensmittelbranche ausgerichtet hat. Seit 1979 verfolgt das inzwischen in der zweiten Generation geführte Familienunternehmen das Ziel, mittelständische Unternehmen in der Abbildung und Optimierung ihrer Geschäftsprozesse zu beraten sowie diese bei ihren Kund:innen zu implementieren. Dies erfolgt seit vielen Jahren auf Basis der eigens entwickelten ERP-Software INTEGRA®, welche bereits heute bei über 500 Kunden erfolgreich im Einsatz ist.1979 hatte Günther Kehl die Vision, kaufmännische Daten in Echtzeit zu verarbeiten. Mit einer Handvoll Kunden entwickelte man damals auf Basis von Unix eine Unternehmenssoftware, die Hardwareunabhängig genutzt werden konnte. Noch heute sind wir einer der führenden Anbieter für ERP-Software, nur dass heute nicht mehr bloß die kaufmännischen Prozesse abgedeckt werden, auch die Bereiche Lager &amp;amp; Logistik, Produktion &amp;amp; Fertigung sind im Portfolio enthalten. Ergänzt werden die Lösungen durch mobile Applikationen, die auf Smartphones und Tablets zum Einsatz kommen.
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/orga-soft-senior-frontend-software-developer-m-w-d-react-graphql-progressive-web-apps-pwa</description><pubDate>Thu, 12 Feb 2026 22:08:55 +0000</pubDate></item><item><title>EBG: PHP Web Application Developer (API)</title><link>https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer-api</link><description>Headquarters: Miami, FL, USA
-    URL: http://ebgsolutions.com
-
-
-Company DescriptionEBG is an e-commerce solutions provider specializing in travel and entertainment, and also offering retail products and services, voluntary benefits and insurance.&amp;nbsp;EBG powers a robust portfolio of technology solutions and operates a network of employer and membership-based platforms reaching a captive audience, providing leading brands with incremental distribution opportunities. EBG's expanded network reaches over 100 million users from participating companies and closed loop affinity and membership groups.&amp;nbsp;EBG owns and operates one of the largest and most comprehensive employee savings programs in the country — serving over 40,000 corporate clients through its proprietary platforms TicketsatWork, Plum Benefits, Working Advantage and Beneplace.&amp;nbsp;EBG is a b2b2c company headquartered in Miami (Aventura), with offices in New York, Orlando, and Austin. We offer a hybrid work environment with a balance of collaboration and flexibility.Job DescriptionEBG is looking for a dynamic person to join our performance driven team. We are growing very quickly so we need a “hands on” person that can find solutions and code one day, QA their work the next day, and help develop and support a scalable structure along the way.&amp;nbsp;&amp;nbsp;&amp;nbsp;The Web Application Developer position is a member of a team of software developers that develop, integrate, and maintain websites and internal applications within the organization. Development within the organization is done in a Linux, Apache, MySQL, and PHP environment and all candidates must be familiar with developing in this environment. The ability to create reusable code and understand the latest web technologies is important. This role will also be very involved in API integration and creation. The candidate should exhibit a desire to grow with the company, take pride in their work, and fit well within a multi-level team environment.This role is primarily WFH / Remote from only Florida (FL) or Texas (TX). First day is required to be onsite in an office. We do not provide sponsorship and we do not hire outside of the United States.Essential Functions:Support of existing EBG platformsDevelopment, implementation, and testing of web applicationsAnalysis of requirements to produce designs for new developmentWork with other developers in a collaborative environment and also work independently on projectsSet time estimates and expectations for new product development and implementing new features, tracking on target deadlinesWrite clean, well-documented, maintainable, bug-free code and enforce standards and best practicesOther support tasks as requiredQualifications5+ years of real-world development experience working in a LAMP stack (PHP) , backend development focus preferredExperience with MVC (Model View Controller) frameworks (Laravel, CodeIgniter, Symfony, Yii, etc.)Demonstrated experience with web design and web application programmingExperience working with, consuming, and building APIs (including 3rd party APIs)Able to contribute to planning and architecture discussionsSelf-motivated and organizedStrong communication skills (written and verbal)Ability to work both individually and with a teamSolid knowledge of object-oriented programming (OOP)Ability to write clean, reusable, secure (PCI compliant), well-documented codeAdvanced knowledge of Web Standards, Accessibility Standards &amp;amp; browser compatibilityAn understanding of the importance of User Experience &amp;amp; User InterfaceExperience in the demands of deadline-driven workBusiness process understandingExperience with applicable technologies:&amp;nbsp;LinuxApacheMySQLPHP 7CSSHTML5JavaScriptSource Control (SVN/GIT)Web Services, XML, JSONAPI integrationPreferred QualificationsExperience with travel integrations (Hotel, Car Rental, Cruise)Experience working with payment gatewaysExperience with MobileExperience with E-Commerce systems and PCI-DSSExperience with AGILE software development methodologyExperience with JIRAKnowledge of AWS Services and microservicesAdditional InformationEBG offers outstanding employee benefits including:Medical, Dental &amp;amp; Vision401k MatchShort Term Disability, Long Term Disability (Company Paid)Company Paid Basic Life and AD&amp;amp;DAdditional Voluntary Benefits&amp;nbsp;Flexible Work Arrangements3 Weeks of PTO + 5 Personal DaysPaid Holiday Break from Christmas to New YearPaid HolidaysFitness Reimbursement ProgramAnnual Day of GivingShare in the FUN! EBG gives $1000 per year in Tickets-At-Work gift cards&amp;nbsp;to full-time employees to experience and enjoy the savings marketplace!The statements contained herein reflect general details as necessary to describe the principal functions of this job, the level of knowledge and skill typically required, and the scope of responsibility, but should not be considered an all-inclusive listing of work requirements. All your information will be kept confidential according to EEO guidelines.
-
-To apply: https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer-api</description><pubDate>Thu, 12 Feb 2026 22:08:55 +0000</pubDate></item><item><title>WeVote: Donor Communications Specialist</title><link>https://weworkremotely.com/remote-jobs/wevote-donor-communications-specialist</link><description>Headquarters: Remote
-    URL: http://wevote.us
-
-
-
-* Fraud and phishing warning *&amp;nbsp;Please apply directly via our volunteering portal/ATS at&amp;nbsp;https://wevote.applytojob.com/apply. Do not apply via any other job portals, aggregators, or sites, as your information may not be secure, or the role may no longer be accepting applications. Thank you*About WeVote*WeVote is a 100% volunteer-powered, nonpartisan nonprofit that uses technology to help voters make informed decisions. With 130+ active volunteers and a national reach—all on a budget under $50K/year—we prove grassroots, mission-first civic tech can have real impact.Join the WeVote MovementWeVote has an open volunteer position for a Donor Communications Specialist, for 5 hours or more per week. You are an experienced professional with a passion for helping America navigate our current political environment. This is an opportunity to work remotely with our active team to help us get ready for multiple upcoming elections. Our ideal volunteer is passionate about politics and excited to use technology to educate voters and increase voter turnout.&amp;nbsp;You’ll also gain valuable technical skills, have opportunities for leadership development, and expand your personal and professional network.About UsWeVote is a nonpartisan get-out-the-vote nonprofit startup and a celebrated Fast Forward nonprofit technology grantee. WeVote is a movement of over 120 active passionate, part-time volunteers (starting with the founders) who build mobile technologies that will touch and mobilize millions of voters on Election Day. We believe that many voters are busy, distracted, and impatient. We have a goal of providing a positive voting experience that helps people decide how to vote. More information at https://WeVote.US or @WeVote on X.What You'll DoDevelop and write engaging fundraising materials that attract and motivate new individual donors.Design clear, donor-centered messaging for digital campaigns, emails, and social media outreach.Collaborate with the Recruitment Team to align messaging across volunteer engagement and donor acquisition efforts.Create toolkits, templates, and shareable assets volunteers can use to make donation asks within their own networks.Support volunteers with messaging guidance, talking points, and creative content that helps them confidently introduce our mission and fundraising goals.Assist in developing and refining donor journeys and follow-up communications to convert first-time donors into recurring supporters.Track engagement metrics and use data insights to optimize messaging and outreach strategies.Maintain consistent voice, tone, and storytelling across all donor recruitment materials.Who you are: Must haves.You want to work with an established and successful team. You are committed to strengthening American Democracy.You are striving for personal excellence, and want to do meaningful work that will make a difference.2+ years of experience in nonprofit fundraising, communications, or marketing.Excellent writing and storytelling skills with an understanding of donor motivation.Experience creating social media, email, or campaign content that drives action.Creative and mission-driven, with a strong sense of initiative and collaboration.A willingness to work with and support other volunteers.Familiarity with CRM, email marketing, or fundraising tools a plus.5+ hours per week during our core team hours M-F 8 a.m. - 6 p.m. PTHow to apply:Submit your resume (at&amp;nbsp;https://wevote.applytojob.com/apply/) and include a brief note/cover letter to why you are interested in WeVote and helping our mission. 
-
-To apply: https://weworkremotely.com/remote-jobs/wevote-donor-communications-specialist</description><pubDate>Thu, 12 Feb 2026 22:08:55 +0000</pubDate></item><item><title>Cotiviti: Sdet</title><link>https://weworkremotely.com/remote-jobs/cotiviti-sdet-1</link><description>Headquarters: Remote, India
-    URL: http://cotiviti.com
-
-
-
-
-
-
-
-
-Overview
-
-
-
-
-
-
-The successful candidate must have solid understanding and experience in test case automation and scripting for web applications and microservices/API testing.
-
-
-
-
-
-
-
-Responsibilities
-
-
-
-
-
-
-Contribute at the design, coding, and implementation level in creating and refining automation testing framework.Apply sound computer science practices to automate core API and web functionality tests across platforms.Analyze and test B2B information systems and microservice based multi-tier distributed applications based on technologies like Java, Angular etc.Validate applications E2E with different database systems like MySQL, MS SQL Server, Elasticsearch etc.Assume ownership for issues end to end.Test scripting and executions of functional tests.Performance, load and security testing.Work with Agile scrum team to ensure the acceptance criteria is met.
-
-
-
-
-
-
-
-Qualifications
-
-
-
-
-
-
-BS in Information Systems, Computer Science, Engineering, or a related field required.3+ years of hands-on coding experience in JavaContribute at the design, coding, and implementation level in creating and refining automation testing framework.Experience in Cucumber or similar testing tool.Apply sound computer science practices to automate core API and web functionality tests across platforms.Analyze and test B2B information systems and microservice based multi-tier distributed applications based on technologies like Java, Angular etc.Validate applications E2E with different database systems like MySQL, MS SQL Server, Elasticsearch etc.Assume ownership for issues end to end.Test scripting and executions of functional tests.Performance, load and security testing.Work with Agile scrum team to ensure the acceptance criteria is met.
-
-
-
-
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/cotiviti-sdet-1</description><pubDate>Thu, 12 Feb 2026 22:08:50 +0000</pubDate></item><item><title>Akamai: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/akamai-senior-software-engineer</link><description>Headquarters: India
-    URL: http://akamai.com
-
-
-DescriptionAre you excited to work on innovative enterprise security products?Are you passionate about developing top of the line applications using cutting-edge technologies?Join our Zero Trust Security teamOur team develops and maintains cutting-edge security solutions for Akamai's enterprise customers. We collaborate with Dev, QA, DevOps, product, support, and sales engineering to deliver secure products. Our goal is to help business to deliver secure products, enhance security features, and protect our customers.Shape internet securityAs a Senior Software Engineer, you will develop, maintain, and architect our cloud services and web applications. Focus on security standards, network security projects, and collaborate in a dynamic, rewarding learning environment.As a Senior Software Engineer, you will be responsible for:Developing new products and enhancing our Zero Trust solution with new featuresDesigning, developing, validating, maintaining, releasing, and operating Python and GoLang backend servicesReviewing and maintaining technical documents related to requirements, design, and architectureTaking full ownership of your areas of work from design to deploymentContributing to system design and architecture decisionsMentoring junior engineers and participate actively in code reviewsDo what you loveTo be successful in this role you will:Have 5+ years of experience and a degree in Computer Science or a related fieldHave experience with modern authorization mechanisms and modern identity management conceptsHave experience building backend services using Python and GolangHave working knowledge of frontend technologies to collaborate effectively with UI teamsHave a good understanding of microservices architecture, scalable architectures, and have work experience with RESTful APIsBe familiar with relational and non-relational databases, caching mechanisms, and service communicationsWork in a way that works for youFlexBase, Akamai's Global Flexible Working Program, is based on the principles that are helping us create the best workplace in the world. When our colleagues said that flexible working was important to them, we listened. We also know flexible working is important to many of the incredible people considering joining Akamai. FlexBase, gives 95% of employees the choice to work from their home, their office, or both (in the country advertised). This permanent workplace flexibility program is consistent and fair globally, to help us find incredible talent, virtually anywhere. We are happy to discuss working options for this role and encourage you to speak with your recruiter in more detail when you apply.Connect with us on social and see what life at Akamai is like!      We power and protect life online, by solving the toughest challenges, together.At Akamai, we're curious, innovative, collaborative and tenacious. We celebrate diversity of thought and we hold an unwavering belief that we can make a meaningful difference. Our teams use their global perspectives to put customers at the forefront of everything they do, so if you are people-centric, you'll thrive here.Working for youAt Akamai, we will provide you with opportunities to grow, flourish, and achieve great things. Our benefit options are designed to meet your individual needs for today and in the future. We provide benefits surrounding all aspects of your life:Your healthYour financesYour familyYour time at workYour time pursuing other endeavorsOur benefit plan options are designed to meet your individual needs and budget, both today and in the future.About usAkamai powers and protects life online. Leading companies worldwide choose Akamai to build, deliver, and secure their digital experiences  helping billions of people live, work, and play every day. With the world's most distributed compute platform  from cloud to edge  we make it easy for customers to develop and run applications, while we keep experiences closer to users and threats farther away.Join usAre you seeking an opportunity to make a real difference in a company with a global reach and exciting services and clients? Come join us and grow with a team of people who will energize and inspire you!
-
-To apply: https://weworkremotely.com/remote-jobs/akamai-senior-software-engineer</description><pubDate>Thu, 12 Feb 2026 22:08:50 +0000</pubDate></item><item><title>Varicent: Web Application Engineer (Remote - Mexico Only)</title><link>https://weworkremotely.com/remote-jobs/varicent-web-application-engineer-remote-mexico-only</link><description>Headquarters: Aguascalientes, Mexico
-    URL: http://varicent.com
-
-
-&amp;nbsp;
-At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a market leader in the&amp;nbsp;2025 Forrester Wave Report for SPM,&amp;nbsp;2023 Ventana Research Revenue Performance Management (RPM) Value Index,&amp;nbsp;Gartner Peer Insights,&amp;nbsp;2024 Gartner SPM Market Guide, and&amp;nbsp;G2.&amp;nbsp;Our solutions are trusted by a diverse range of global industry leaders like T-Mobile, ServiceNow, Wawanesa Bank, Shaw Industries, Moody's, Stryker and hundreds more. Here’s why you’ll thrive at Varicent:
-
-Innovate with Purpose: Build impactful solutions for customers worldwide.
-Join Excellence: Work in a diverse, collaborative, and innovative team.
-Shape the Future: Lead in redefining revenue optimization.
-Grow Together: Unlock your potential in a supportive environment.
-
-Join us at Varicent—where your talent and ambition meet limitless opportunities for success!THE OPPORTUNITY&amp;nbsp;
-&amp;nbsp;Data-driven decision-making is at the heart of modern business, but managing and processing data at scale can be a complex and time-consuming task. Our AI-powered ELT (Extract, Load, Transform) application simplifies data workflows, enabling organizations to extract insights faster, automate repetitive tasks, and unlock the true potential of their data.&amp;nbsp;
-&amp;nbsp;
-As a Backend Software Developer, you'll be at the forefront of delivering this innovation to our users, ensuring the application is not just functional but also delightful and snappy to use. Your work will directly influence how users interact with the platform, making ELT operations easy, efficient, and accessible for everyone.&amp;nbsp;
-&amp;nbsp;&amp;nbsp;
-THE TEAM&amp;nbsp;
-You’ll be working with a remote cross-functional team of designers, product managers, and software engineers. Together, we’re dedicated to revolutionize ELT operations by combining the latest advancements in AI with user-focused design and highly scalable performance.&amp;nbsp;
-&amp;nbsp;
-This is a team where your ideas are valued, your contributions are impactful, and your professional growth is supported. Together, we’re not just building software - we’re shaping the future of AI-powered ELT operations.&amp;nbsp;
-&amp;nbsp;&amp;nbsp;
-WHAT YOU BRING&amp;nbsp;
-&amp;nbsp;Technical Skills:&amp;nbsp;
-
-Experience in at least one backend language (e.g., Python, Typescript).
-Familiarity with AWS services (e.g., EC2, S3, Lambda, RDS, Redshift).
-Strong problem-solving skills and a passion for clean, maintainable code.&amp;nbsp;
-
-&amp;nbsp;&amp;nbsp;
-Collaboration &amp;amp; Communication:&amp;nbsp;
-
-Strong English communication skills and ability to work effectively in cross-functional teams. 
-B2 level English or higher is required.&amp;nbsp;
-
-&amp;nbsp;&amp;nbsp;
-WHAT YOU’LL DO&amp;nbsp;
-
-Build new features for the REST API on top of a modern tech stack using Node.js written in Typescript, and deployed to AWS.
-Work alongside senior developers, product management, designers, and QA team to implement new features and enhancements.
-Develop features using AWS tools such as Lambda, S3, DynamoDB, and Redshift.
-Contribute to improving the performance and scalability of our platform. Automate deployments and CI/CD pipelines using Infrastructure-as-Code technologies like Terraform and Serverless Framework.&amp;nbsp;
-
-&amp;nbsp;&amp;nbsp;
-FIRST 30 DAYS: GETTING STARTED&amp;nbsp;
-
-Get to know the team, set up your development environment, provision your AWS infrastructure, and get comfortable with our remote work routine.
-Dive into our tech stack, code, development workflow, and CI/CD systems.
-Fix minor bugs and assist in resolving client issues to familiarize yourself with the codebase.
-Make your first pull request, and participate in the review of pull requests.&amp;nbsp;
-
-&amp;nbsp;&amp;nbsp;
-FIRST 60 DAYS: BUILDING MOMENTUM&amp;nbsp;
-
-Take ownership of a small feature or module and finish implementation.
-Support senior developers and participate in the development of more complex features and enhancements.
-Collaborate with the QA team and your team lead to plan the deployment of a feature you worked on.
-Present your work in a demo session to QA and the product management team.
-Assist in the resolution of a client production issue or feature request.&amp;nbsp;
-
-&amp;nbsp;&amp;nbsp;
-FIRST 90 DAYS: HITTING YOUR STRIDE&amp;nbsp;
-
-Take full ownership for the development of a feature or module and see to the deployment of it to production.&amp;nbsp;
-Have a firm grasp on how the critical parts of the application works, and are able to troubleshoot reported defects without much assistance.
-Actively contribute to team discussions on architecture, design, and implementation strategies.
-Reflect on your contributions and onboarding, providing actionable feedback to the team on how they can improve their processes and workflows.&amp;nbsp;
-
-&amp;nbsp;
-Note&amp;nbsp;&amp;nbsp;
-
-Candidates selected for this position will be hired by Varicent’s designated professional employer organization. Your employment may be transferred to a local Varicent entity in the future. In such event, Varicent may recognize your seniority and provide you with comparable role, responsibilities and benefits.&amp;nbsp; We are excited to welcome you and support you throughout this journey!&amp;nbsp;
-This role requires employees to work within Eastern Standard Time (EST) business hours. While we are open to candidates from outside the EST time zone, please be prepared to adjust your working hours to align with this time zone. Flexibility will be essential to ensure seamless collaboration with the team and stakeholders.&amp;nbsp;
-This position is fully remote, offering you the flexibility to work from anywhere. We embrace a results-driven work culture, focusing on performance and collaboration over location. As part of our team, you’ll have the opportunity to build a work-life balance that suits you, while staying connected with a diverse, global team through virtual tools and regular online communication. Whether you're working from home, a co-working space, or another location of your choice, we’re committed to supporting you with the resources and autonomy needed to succeed in a remote environment.&amp;nbsp;
-
-&amp;nbsp;
-Benefits&amp;nbsp;&amp;nbsp;
-
-Market Leading Compensation Package&amp;nbsp;
-Wellness Programs to Support Health and Wellbeing &amp;nbsp;
-Working with the latest tools and technologies in a fast-paced environment &amp;nbsp;
-Remote Work Flexibility&amp;nbsp;
-Comprehensive Employee Insurance Coverage: Medical, Dental, Vision, Life Insurance &amp;nbsp;
-Annual Time Off: Time off is provided in accordance with applicable legislative requirements &amp;nbsp;
-Global Connected Culture: Hubs in Romania, UK, US, Canada
-Dynamic Work Culture: Thrive in our innovative and multicultural environment
-Grow with Us: Continuous development opportunities&amp;nbsp;
-
-&amp;nbsp;
-Want to Learn More About Us? Check out these Resources Below:&amp;nbsp;&amp;nbsp;
-
-Varicent Blog&amp;nbsp;
-Varicent Careers Blog &amp;nbsp;
-Varicent LinkedIn Page
-Varicent X Page&amp;nbsp;
-Varicent Instagram Page&amp;nbsp;
-Varicent Facebook Page&amp;nbsp;&amp;nbsp;
-
-Varicent is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. If you require accommodation at any time during the recruitment process please email accomodations@varicent.com
-&amp;nbsp;
-Varicent is also committed to compliance with all fair employment practices regarding citizenship and immigration status. By applying for a position at Varicent and/or by using this portal, you declare and confirm that you have read and agree to our&amp;nbsp;Job Applicant Privacy Notice&amp;nbsp;and that the information provided by you as part of your application is true and complete and includes no misrepresentation or material omission of fact
-
-
-To apply: https://weworkremotely.com/remote-jobs/varicent-web-application-engineer-remote-mexico-only</description><pubDate>Thu, 12 Feb 2026 22:08:50 +0000</pubDate></item><item><title>Agility Technologies: Web Developer (React/Angular|Responsive &amp; Accessible Web Application)</title><link>https://weworkremotely.com/remote-jobs/agility-technologies-web-developer-react-angular-responsive-accessible-web-application</link><description>Headquarters: Reston, VA 20190
-    URL: http://agilitytechinc.com
-
-
-
-
-
-
-Replies within 24 hours
-
-
-
-Benefits:
-
-401(k)
-Dental insurance
-Health insurance
-Paid time off
-Parental leave
-Vision insurance
-
-
-
-
-Role: Web Developer&amp;nbsp;Location: Remote (U.S.-based) Travel: Occasional travel to Washington, DC required Employment Type: Full-Time Clearance Requirement: Must be a U.S. Citizen and able to obtain a security clearanceAbout Agility TechnologiesAgility Technologies delivers modern technology solutions that help mission-driven organizations build secure, scalable, and resilient digital ecosystems. We specialize in systems integration, cloud architecture, automation, and user-centered digital platforms supporting high-impact outcomes.
-We are seeking a Web Developer to design and develop modern, responsive, and accessible web applications that support a large-scale online education ecosystem. This role will contribute to building intuitive user experiences and reliable front-end functionality across student- and staff-facing systems.
-
-Role Overview
-As a Web Developer, you will develop and maintain web applications and user interfaces that are secure, scalable, and optimized for usability. You’ll work closely with cross-functional teams to translate requirements into clean, maintainable code and ensure web experiences meet accessibility and responsive design standards.
-
-Key Responsibilities
-
-Design and develop modern websites and web applications using current front-end technologies
-Build responsive, mobile-friendly user interfaces with strong attention to usability and performance
-Ensure web applications meet accessibility standards (e.g., WCAG) and best practices
-Collaborate with product, UX, and technical teams to implement features and enhancements
-Troubleshoot issues, resolve defects, and improve overall application stability
-Maintain clean, reusable, well-documented code following development standards
-Support integration with APIs and enterprise backend systems as needed
-Participate in code reviews and continuous improvement of development practices
-
-&amp;nbsp;Required Qualifications
-
-
-Bachelor’s degree in Computer Science, Web Design, or related field
-
-3+ years of experience designing and developing websites or web applications
-Strong understanding of modern web development principles and UI best practices
-Experience delivering responsive web applications across multiple devices and browsers
-
-&amp;nbsp;Preferred Qualifications
-Proficiency in:
-HTML
-CSS
-JavaScript
-Experience with modern frameworks such as:
-React
-Angular
-Experience implementing:Accessibility standards (e.g., WCAG, Section 508 awareness)
-Responsive design and mobile-first development practices
-Work Authorization &amp;amp; Eligibility Requirements
-
-Must be a U.S. Citizen
-
-Must be eligible for and capable of obtaining a U.S. Government security clearance
-
-Must be currently residing in the United States
-
-Must be willing to travel occasionally to Washington, DC for in-person meetings
-
-Why Join Agility Technologies
-
-Build modern web experiences that support mission-driven outcomes
-Remote flexibility with a collaborative and delivery-focused engineering team
-Opportunity to contribute to a high-impact, enterprise-scale platform
-Work with modern frameworks and best practices in accessibility and UX
-&amp;nbsp;Agility is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, or disability.
-&amp;nbsp;
-
-This is a remote position.
-
-          Compensation: $100,000.00 - $105,000.00 per year
-        
- 
-Who We Are We are a leading System Integrator and at the forefront of new exponential technologies – including Artificial Intelligence, RPA, and the Internet of Things. We help clients design the future-state of their business using&amp;nbsp; Digital Cloud Solutions, and then we make IT real. Agility Technologies Inc. is 8(a) SBA, GSA Schedule 70 registered, minority-owned a small business specializing in cloud implementation for Federal Agencies and Commercial customers. We are experts at IT Strategic Planning and Digital Transformation, Lean EA and BPM, IV&amp;amp;V, Application Development, and Program Management. &amp;nbsp; The ways companies can learn from and adjust to today’s crisis will deeply influence their performance in tomorrow’s changing world, providing the opportunity to retain greater agility as well as closer ties with customers, employees, and suppliers. Now is the time to move forward with Digital initiatives by adopting Next-Gen technologies. OUR VALUES Agility Technologies as the name suggests is an Agile organization that has created a cohesive community with a common culture. Cultural norms are reinforced through positive peer behavior and influence in a high-trust environment. We have creative problem solvers with critical thinking skills who are resilient and battle-tested. Our team members are always invited to share their ideas with the group through Brown bag sessions for peak performance to occur. We believe to minimize risk and succeed in a constantly evolving environment, the best way is to embrace uncertainty and be the quickest and most productive in trying new things.
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/agility-technologies-web-developer-react-angular-responsive-accessible-web-application</description><pubDate>Thu, 12 Feb 2026 22:08:50 +0000</pubDate></item><item><title>Cyberpuerta: Frontend Web Developer</title><link>https://weworkremotely.com/remote-jobs/cyberpuerta-frontend-web-developer</link><description>Headquarters: Mexico
-    URL: http://cyberpuerta.mx
-
-
-Frontend Web Developer
-Estamos buscando un/a Frontend Developer con experiencia sólida en desarrollo web moderno, enfocado en performance, escalabilidad y buenas prácticas. Trabajarás en un ambiente enfocado a mantener proyectos heredados, adoptando tecnologías modernas como Vue/React, Nuxt/Next, TypeScript y Storybook. ¡Se clave en la evolución de nuestros productos digitales!Requisitos para aplicar:3 años de experiencia comprobables en desarrollo web con enfoque en FrontendExperiencia trabajando con Vue/React, Nuxt/NextLicenciatura o ingeniería terminada en ciencias computacionales, sistemas o afínConocimientos en arquitectura en Frontend, SEO, Core Web Vitals y estrategias de renderizadoExperiencia previa en proyectos grandes o de alto tráficoDominio de inglés avanzado, tanto hablado como escritoEs un buen plus:Experiencia trabajando con StorybookExperiencia utilizando herramientas IA (cursor, v0, Copilot)Participación previa en proyectos de migración a tecnologías modernasBeneficios de ser parte del equipo:Oferta salarial basada en tu trayectoria100% remoto de Lunes a Viernes en formato flexibleBono teletrabajoSGMMUtilidadesVacaciones superiores y permisos adicionalesAguinaldo de 30 díasFondo de ahorroDescuento de empleado en todos los artículos de CyberpuertaContratación directa y por tiempo indeterminado desde el primer díaCyberpuerta es la empresa líder de e-commerce en productos de tecnología en México, tenemos una cultura orientada a la innovación continua, trabajamos en base a altos estándares de servicio, brindamos herramientas de vanguardia y la oportunidad de desempeñarte con autonomía desarrollando así tu máximo potencial. A lo largo de una década hemos creado uno de los TOP 200 sitios web más visitados de México sobre bases sumamente sólidas usando herramientas de desarrollo e infraestructura de vanguardia.¡Abre la puerta de tu próximo reto laboral!
-
-
-To apply: https://weworkremotely.com/remote-jobs/cyberpuerta-frontend-web-developer</description><pubDate>Thu, 12 Feb 2026 15:40:38 +0000</pubDate></item><item><title>Digital Resource: Web Developer</title><link>https://weworkremotely.com/remote-jobs/digital-resource-web-developer</link><description>Headquarters: Remote
-    URL: http://yourdigitalresource.com
-
-
-
-Digital Resource is seeking a skilled Web Developer to join our talented Web Team. Reporting to the Website Development Manager, you will build, deploy, and maintain websites for a diverse clientele. This role involves front-end development, collaboration with designers, account managers, and adherence to industry best practices to deliver high-quality solutions. This is a fully remote role. Key ResponsibilitiesDevelop and maintain websites in Webflow and WordPress, implementing new features and customizations.Create website layouts and user interfaces while collaborating with designers to match visual intent.Write well-designed, testable, and efficient code using best practices.Gather and refine specifications and requirements based on technical needs.Optimize websites for search engines (SEO), speed, and performance.Perform website updates, content management, and troubleshoot issues.Maintain, expand, and scale client websites.Stay up-to-date with web development trends, technologies, and industry standards to propose improvements.Collaborate with cross-functional teams to deliver projects on time, meet client expectations, and provide progress updates.Qualifications &amp;amp; SkillsRequired:2-4 years of professional experience in web development.Experience building sites in Webflow.Proficiency with HTML, CSS, and responsive web design.Understanding of UI/UX principles and web accessibility standards.Ability to interpret client requirements and estimate development timelines.Strong troubleshooting, debugging, and problem-solving skills.General understanding of AI-assisted development workflows and the ability to collaborate with AI tools to accelerate coding, debugging, and prototyping.Experience building custom themes and plugins for WordPress.Preferred:Knowledge of JavaScriptKnowledge of Shopify theme development and Liquid templating.Experience implementing SEO enhancements and web performance optimizations.Understanding of web security principles and best practices.Strong written and verbal communication skills.Ability to mentor junior developers.Experience using AI-driven development platforms (such as Lovable.dev, Bolt.new, or v0.dev) to build, refine, or accelerate full-stack applications.Position DetailsThis role reports directly to the Website Development Manager and involves managing multiple client projects simultaneously, ensuring that project goals are met efficiently and on time.Primary Development PlatformsWebflowWordPressShopifyCustom Applications Development with NodeJS/ReactJS 
-
-To apply: https://weworkremotely.com/remote-jobs/digital-resource-web-developer</description><pubDate>Thu, 12 Feb 2026 15:40:38 +0000</pubDate></item><item><title>Steady Vision: Web Developer</title><link>https://weworkremotely.com/remote-jobs/steady-vision-web-developer</link><description>Headquarters: Boston, Massachusetts, United States
-    URL: http://steadyvision.com
-
-
-DescriptionWe are digital marketing agency seeking a web developer who exhibits strong attention to detail and thrives in a dynamic environment. We’re looking for someone who is passionate about what they do and enjoys working with a small team to create meaningful digital experiences.You’re A Fit If… You embrace change and are eager to learn and grow. You are organized and a good manager of time. You think and act creatively to solve problems. You are a good communicator and collaborator. You are willing to go the extra mile. RequirementsWhat You’ll Be Doing…Activities primarily focus on building, customizing and supporting digital initiatives (responsive, desktop, tablet and mobile) as well as providing CMS customization and support. As a web developer with a PHP focus, responsibilities encompass supporting the full deployment life cycle, including: Setup &amp;amp; Configuration (e.g. EE, DNS, SSL, PHP, Plesk, hosting, server environment, permissions) Coding &amp;amp; Programming (e.g. PHP/MySQL, JavaScript, HTML, CSS, troubleshooting, debugging) Customization &amp;amp; Integration (e.g. CMS add-ons/extensions/modules, APIs, payment gateways, XML) Optimization &amp;amp; Compliance (e.g. quality control, versioning, staging, performance, security, PCI) Database Administration (e.g. data imports/exports/synchronization, data manipulation, backups). You Must Have… Working knowledge of HTML5, CSS3, PHP/MySQL and JavaScript (including jQuery). Experience with popular CSS pre-processors (e.g. Sass, LESS) and frameworks (e.g. Bootstrap, Foundation). Been involved in development and/or deployment responsive websites. The ability to work with and advise use of device detection, cookies, sessions and CRON jobs. A track record of writing code that is clean, understandable and cross browser compatible. An appreciation for the interplay of design and development (including responsive design principles). It Would Be Nice If You Have... Background in Object-Oriented Programming. Prior exposure to API methods, protocols, integration and support. Experience with any of the following systems: ExpressionEngine, HubSpot, Magento, Shopify, SquareSpace, WordPress. Experience with any of the following technologies: AJAX, CodeIgniter, Nginx, node.js, SOAP Experience with popular JavaScriptMVC frameworks (e.g. angular.js, backbone.js, ember.js) Familiarity with integrating and customizing: Google APIs, social media channels, Salesforce. Professional certifications and/or educational degrees. Familiarity with Adobe Creative Suite. Benefits Small team in an entrepreneurial environment (be heard and have an impact). Scheduling flexibility and remote working opportunities. Company sponsored learning opportunities (e.g. resources, conferences, etc.). Casual attire, team lunches, group outings, free coffee (always!) and beer (occasionally!). Employee benefits (health/dental/life/disability insurance, 529 college fund &amp;amp; 401K options). 
-
-To apply: https://weworkremotely.com/remote-jobs/steady-vision-web-developer</description><pubDate>Thu, 12 Feb 2026 15:40:38 +0000</pubDate></item><item><title>Lemon.io: Senior Java Full-stack Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-java-full-stack-developer</link><description>Headquarters: New York, NY
-    URL: https://lemon.io
-
-
-Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
-What we offer:
-
-The rate depends on your location, skills and experience. We've already paid out over $11M to our engineers.
-No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
-We'll manually find the best project for you according to your skills and preferences.
-Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
-We respect your seniority so you can expect no micromanagement or screen trackers.
-Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
-We will support you from the time you submit the application throughout all cooperation stages.
-Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
-Through our community, we will connect you with the best developers from more than 71 countries.
-
-
-
-
-
-
-
-
-
-We have several Full-Stack Java positions, such as React &amp;amp; Java and Java &amp;amp; Vue &amp;amp; Spring Boot.
-
-
-
-
-&amp;nbsp;
-
-
-
-
-Requirements:
-
-4+ years of commercial software development experience;
-3+ years of commercial experience with React (required);
-3+ years of commercial experience with Java (required);
-Familiarity with Next.js (required).
-
-Other requirements:
-
-Strong technical skills: as a Senior Engineer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
-Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
-Strong self-organizational skills — ability to work full-time remotely with no supervision.
-Reliability — we want to trust you and expect that you won’t let us and the client down.
-Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
-
-NOT YOUR TECH STACK?
-We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas: AI Engineers, Data Engineers,&amp;nbsp;Angular &amp;amp; Node, Unity, Python &amp;amp; Vue, PHP &amp;amp; Angular, PHP &amp;amp; React, Blockchain, MLOps Engineers, Data Analysts,&amp;nbsp;Data Scientists,&amp;nbsp;Vue &amp;amp; Node, React Native &amp;amp; TypeScript, Python &amp;amp; Node, Java &amp;amp; Spring Boot &amp;amp; Vue.js,&amp;nbsp;Typescript &amp;amp;&amp;nbsp;Nest.js &amp;amp;&amp;nbsp;Node.js &amp;amp;&amp;nbsp;Vue.js, Rust, React &amp;amp; Golang, Golang &amp;amp; Vue.js, Python &amp;amp; Django &amp;amp; Vue, FastAPI &amp;amp; Python &amp;amp; Vue, .NET &amp;amp; React, .NET &amp;amp; Vue.js, .NET &amp;amp; Angular, Svelte, Shopify, Unreal Engine or DevOps — we’d be happy to connect and match you with a suitable project.
-If your experience matches our requirements, be ready for the next steps:
-
-VideoAsk — watch a short video about our startup, up to 10 minutes
-Complete your profile on our website
-30-minute screening call
-Technical interview
-Feedback
-Magic Box (we are looking for the best project for you).
-
-We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
-P.S. We work with developers from 71+ countries in different regions: Europe, LATAM, the U.S (if you are an owner of W-9 ben form), Canada, Asia (Japan, Singapore, South Korea, Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), and the the UK. However, we have some exceptions.
-Sounds good for you? Apply now and join the Lemon.io community!
-At the moment, we don’t have a legal basis to accept applicants from the following countries:
-
-European: Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia.
-Latin America: Cuba and Nicaragua
-Most Asian countries and Africa.
-
-We expand and shorten the list of exemptions regularly.
-Do you represent a company with engineers who match the description and want to collaborate with us through staff augmentation? Then register here.
-
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-java-full-stack-developer</description><pubDate>Thu, 12 Feb 2026 13:12:09 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-1</description><pubDate>Fri, 13 Feb 2026 16:31:19 +0000</pubDate></item></channel></rss>
