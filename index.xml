@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Glide: Principal Software Engineer - Product / Frontend</title><link>https://weworkremotely.com/remote-jobs/glide-principal-software-engineer-product-frontend</link><description>Headquarters: Remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Myshell: Product Marketing</title><link>https://weworkremotely.com/remote-jobs/myshell-product-marketing</link><description>Headquarters: Remote (APAC)
+
+
+About MyShell MyShell is revolutionizing the AI landscape by building an open ecosystem for AI-native apps. Our powerful platform and intuitive toolkit empower anyone to create, access, and benefit from AI-powered applications. Launched in April 2023, MyShell has quickly gained global traction, attracting a diverse community of creators and users. Our team of talented individuals from top institutions like MIT, Princeton, and Oxford is committed to fostering innovation in a supportive and transparent work environment. With funding from leading VCs, MyShell is poised to reshape the future of AI, making it accessible and integral to everyone's daily life. Join us on this thrilling journey as we redefine what's possible with AI.About the Role We are looking for a Product Marketing partner to help us bring our AI text-to-app product to global users. You don't need to be an AI technical expert, but you must be a power user of AI tools, skilled at using various AI tools to accelerate research, writing, and operations. We welcome fresh graduates, as long as you learn quickly, have strong English skills, and are willing to use AI as your personal superpower. Key Responsibilities.  Market and User Definition — Define our early product's core target user personas through quantitative and qualitative research, combining frontline user interviews, competitive analysis, and AI-assisted analytics. Channel Strategy Exploration — Following the principle of "Whoever defines the users, finds the users," design GTM strategies around target user groups, validate multiple user acquisition channels including Telegram, and continuously optimize reach and conversion efficiency.  Qualifications  Excellent English skills: Able to write and communicate independently, read international news, and communicate fluently with global users; recommended to have TOEFL 100+ or equivalent English proficiency. Power user of various international AI applications, with hands-on experience in basic prompt engineering. Fast learner, willing to quickly self-learn and deliver results in unknown territories.  Plus Points  International study or cross-cultural work experience. Experience managing online communities of 1,000+ members, or leading Telegram Bot / side projects. What We Offer  Competitive salary and equity package, commensurate with experience and location. Flexible working hours and a fully remote work environment, with the ability to collaborate effectively across time zones. A dynamic and collaborative work environment that fosters innovation, growth, and professional development. The opportunity to work on cutting-edge technologies and help shape the future of AI, transforming industries and making a global impact. 
+
+To apply: https://weworkremotely.com/remote-jobs/myshell-product-marketing</description><pubDate>Thu, 26 Feb 2026 09:46:06 +0000</pubDate></item><item><title>Glide: Principal Software Engineer - Product / Frontend</title><link>https://weworkremotely.com/remote-jobs/glide-principal-software-engineer-product-frontend</link><description>Headquarters: Remote
 
 
 Summary Glide is looking for a Tech Lead Manager to lead our Platform engineering team. We are growing fast and need to evolve our data sources strategy, become more efficient with our infrastructure utilization as we scale, and achieve a high level of operational excellence for availability, security, and performance. The ideal candidate has experience establishing services and architectural patterns that scale predictably, evolving legacy services already in production, and building data and infrastructure teams. We’re building a simpler, faster way for anyone to build custom software for their business, without any technical or design skills. Tens of thousands of non-technical people use Glide to build apps to power their businesses, organizations, personal projects, and more. As customers create apps to visualize, interact with, take action on, and analyze their growing data sets, we must keep this big picture in mind as we improve various levels of our engineering stack. Responsibilities As an engineering manager leading a deeply technical area, we don’t expect you to write code, but you should be able to engage in conversations around code, infrastructure, and architectural designs. &amp;nbsp; Technical  Facilitate the standardization of Glide’s data sync and persistence infrastructure   Drive integrations with data source platforms to be able to provide customers with new data sources at an accelerated pace   Design, develop, and maintain a REST API into Glide’s data and core services   Provide build, test, and runtime infrastructure to service teams   Ensure patterns are established for database throttling and request rate limiting to protect Glide’s uptime   Monitor infrastructure costs and coordinate improvements when necessary   Drive SRE tooling and best practices around observability and alerting  &amp;nbsp; People Management  Cultivate an environment where team members are empowered through a collective sense of ownership and belonging   Meet with team members 1-on-1 on a regular basis   Ensure that team members learn, grow, and advance in their careers   Create a shared understanding of decision making, direction, and progress for the team and the company   Encourage an environment of technical excellence, and facilitate architectural discussions and decision making   Provide technical project management support to the team, ensuring projects are scoped well for delivery, managed for risk, and delivered well   Collaborate with cross-functional stakeholders and across team boundaries to deliver key parts of our roadmap  Minimum Qualifications  5+ years engineering management experience   Experiencing building and maintaining highly available and scalable distributed systems   Have previously managed or built an infrastructure, developer experience, data, API, or equivalent platform team   Deep understanding of Accelerate concepts of Lead Time, Deployment Frequency, Mean Time to Recovery, Change Failure Rate and how they affect delivery   You are a clear and effective communicator, be it when you write code, write emails, or explain complex technical issues to non-technical co-workers   Passionate and self-motivated, with a demonstrated ability to work in a fast-paced and evolving environment  Preferred qualifications  Experience with data source platforms like Supabase, Airtable, Firestore, Sequin, Paragon   Experience with Google Cloud Platform services like Cloud SQL, Cloud Run, AlloyDB, or equivalent   Scaled an event-driven architecture using Apache Kafka, Cloud Pub/Sub, or other eventing system   Have given conference talks around the OpenAPI spec, REST, or GraphQL API patterns   Familiarity with telemetry and monitoring solutions like Datadog, Prometheus, Grafana, Splunk, Google Cloud Logging   Bachelor or Master’s degree in Computer Science, Software Engineering, or related field  Compensation We offer a competitive salary and benefits package, a supportive and dynamic remote work environment, and opportunities for career growth. If you are a self-starter with a passion for scaling platform services and the teams that support them, we want to hear from you! Glide is an equal opportunity employer and welcomes applicants from all backgrounds to apply.If you're unsure if you qualify for the role, or just want to meet us and learn more, please&amp;nbsp;record a quick video&amp;nbsp;to introduce yourself and show us something you've worked on. Send it to&amp;nbsp;jobs@glideapps.com&amp;nbsp;and we'll take a look.
@@ -812,82 +817,4 @@ What We Offer
 •&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Room to grow and take on more responsibility
 &amp;nbsp;
 
-To apply: https://weworkremotely.com/remote-jobs/summedd-full-stack-engineer-with-ai-coding-expertise-for-saas-platform</description><pubDate>Sun, 22 Feb 2026 04:18:34 +0000</pubDate></item><item><title>Sticker Mule: Software engineer</title><link>https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2</link><description>Headquarters: New York, NY
-    URL: https://www.stickermule.com
-
-
-About Sticker Mule
-Sticker Mule, the Internet's favorite custom printer, is building the Internet's best commerce platform. We are privately-owned, which means no meddlesome investors, with 9-figures in annual revenue and great profitability. Our commerce platform (Stores)&amp;nbsp;helped people earn $200k while in beta and now we are hiring to accelerate development.
-&amp;nbsp;
-We offer
-
-
-Remote work with flexible schedules
-
-
-A privately owned, low-stress culture
-
-
-A fun "no bullshit" work environment
-
-
-Great compensation with rising wages.
-&amp;nbsp;
-
-
-Compensation and benefits
-
-
-Salary: $145K&amp;nbsp;
-
-
-$20,000 signing bonus
-
-
-4 weeks vacation + holidays based on your country of residence
-
-
-&amp;nbsp;
-Requirements
-
-
-Go
-
-
-GraphQL
-
-
-Postgres
-
-
-Redis
-
-
-Docker
-
-
-Kubernetes
-
-
-Google Cloud Platform
-
-
-Excellent communication skills (English)
-
-
-Degree in Computer Science or equivalent practical experience
-
-
-Familiarity with Typescript
-
-
-Availability to travel to our factory in Italy a few times a year
-
-
-&amp;nbsp;
-What you will work on
-You'll help us develop our new&amp;nbsp;Stores&amp;nbsp;platform that already helped sellers earn nearly $200,000 while in beta. Stores is supported by a suite of tools that help anyone succeed online including&amp;nbsp;Give&amp;nbsp;(our giveaway platform),&amp;nbsp;Ship&amp;nbsp;(our shipping platform, Notify (our forthcoming email/sms marketing platform), and more coming soon.
-&amp;nbsp;
-We have an incredible roadmap and need your help to execute it quickly.
-
-To apply: https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2</description><pubDate>Thu, 22 Jan 2026 13:45:49 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/summedd-full-stack-engineer-with-ai-coding-expertise-for-saas-platform</description><pubDate>Sun, 22 Feb 2026 04:18:34 +0000</pubDate></item></channel></rss>
