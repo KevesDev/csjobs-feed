@@ -1,5 +1,431 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>C4Media: Frontend Developer</title><link>https://weworkremotely.com/remote-jobs/c4media-frontend-developer</link><description>Headquarters: Toronto, Ontario
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Yoko Co: WordPress Support Engineer</title><link>https://weworkremotely.com/remote-jobs/yoko-co-wordpress-support-engineer</link><description>Headquarters: McLean, VA
+    URL: https://www.yokoco.com/
+
+
+We’re seeking a WordPress Support Engineer who wants to make the world a better place through thoughtful troubleshooting, clear communication, and excellent technical support.
+This isn’t just about closing tickets – it’s about building relationships, understanding problems, and showing our clients that we’ve got their back.
+This role is perfect for someone who enjoys digging into problems, figuring out why things broke, and helping clients feel confident that their website is in good hands.
+Why work at Yoko Co?
+
+Do good, better:&amp;nbsp;We exclusively serve clients who make a positive impact on the world. This is your chance to build things that help create a better place for all of us.
+4-day work week and lots of holidays.&amp;nbsp;Mondays are flex days, meaning you’re free to take them off if you’re caught up on your work. Plus, we’re closed for nearly a full week at Thanksgiving (November), and two weeks at the end of the year, plus a bunch of other days, too.
+High performance, no jerks.&amp;nbsp;You’ll collaborate with good people who believe in doing great work.
+Best Place to Work&amp;nbsp;(and that’s not just our opinion). We’ve been named a Best Place to Work by the Inc. 5000 and Washington Business Journal.
+
+We value team members who are motivated by our mission and driven to make a positive impact. If you have a passion for excellence, a growth mindset, and a commitment to collaboration, we’d love to hear from you.
+What you’ll do:
+As part of our technical support team, you’ll troubleshoot client requests, implement fixes, and help ensure our clients’ websites continue running smoothly long after launch. The best candidates tend to be naturally curious problem-solvers who enjoy figuring out how systems work and helping people along the way.
+As such, you’ll:
+
+Provide hands-on technical support for client websites, troubleshooting requests and helping ensure sites run smoothly long after launch
+Diagnose technical issues, implement fixes, and coordinate with teammates when deeper investigation is needed
+Communicate clearly with clients throughout the support process, helping them understand issues and feel confident in the solutions provided
+Respond to incoming support requests with clear, friendly, and thoughtful communication
+Troubleshoot and resolve a wide range of WordPress issues, including plugin conflicts, functionality bugs, layout problems, integrations, and unexpected site behavior
+Read, debug, and occasionally modify HTML, CSS, JavaScript, and PHP within WordPress to diagnose problems and implement fixes
+Apply WordPress core, plugin, and theme updates while ensuring compatibility and site stability
+Monitor website health, performance, and security, proactively identifying potential risks or issues
+Investigate and resolve issues related to hosting environments, DNS configuration, email delivery, analytics tracking, and third-party integrations
+Conduct QA testing to confirm that updates and fixes function properly across browsers and devices
+Provide CMS guidance or quick tutorials to help clients manage their websites effectively
+Document support work clearly in the ticketing system to maintain visibility and accurate billing
+Collaborate with developers, project managers, and strategists when requests require deeper technical investigation
+Help maintain an organized support workflow so requests move forward smoothly
+Contribute to improving internal support processes, documentation, and knowledge sharing
+
+What we’re looking for:
+We’re less concerned with rigid checklists and more interested in capable, thoughtful problem solvers who communicate well and enjoy helping people.
+Strong candidates typically have:
+
+3–5+ years of experience working with WordPress in a technical capacity
+Strong understanding of WordPress themes, plugins, and site configuration
+Comfort reading and modifying HTML, CSS, JavaScript, and PHP within WordPress
+Experience debugging issues such as plugin conflicts, integrations, or unexpected site behavior
+Familiarity with WordPress hosting environments, migrations, and DNS basics
+Experience working within a support workflow or ticketing system
+Excellent written and verbal communication skills
+Fluent English for written and spoken communication
+
+Bonus points for:
+
+Experience with Git workflows
+Experience supporting websites in a multi-client or agency environment
+
+Examples of support work:
+To give you a better idea of the types of things you might encounter, here are a few examples of issues recently handled by our support team:
+
+Help a client understand why protected content isn’t accessible to the correct users
+Investigate the connection between WordPress and SendGrid to figure out why transactional emails aren’t being delivered
+Give a client tips on how to better optimize and format banner images they upload to their website
+Diagnose why Google Analytics tracking code appears to be capturing only a fraction of site visitors
+Migrate an outdated WordPress site from another hosting provider to our servers, update plugins, and help the client adjust DNS records
+Troubleshoot an SSO login issue that keeps kicking users out of the dashboard
+Triage a malware notification, clean malicious code, and harden the WordPress installation
+Send a short screencast showing a client how to create columns in their page builder
+Fix a layout bug caused by a plugin update that unexpectedly broke styling on a landing page
+
+However, maybe don’t apply if:
+
+Client communication isn’t something you enjoy
+You prefer highly predictable work instead of solving a variety of technical problems
+You find it frustrating when the solution to a problem isn’t immediately obvious
+
+Support work often requires patience, curiosity, and a willingness to dig into problems until the root cause becomes clear.
+What you get:
+You’ll get a flexible schedule, unlimited time off, a competitive salary, a profit share bonus (starting in your second year), the ability to work wherever you want, a personal development budget, and all US federal holidays and multiple weeks off at the end of the year to recharge. We’ll also offset your entire carbon footprint. If you’re in the US, we also offer health insurance, disability and life insurance, and 401(k) matching.
+More about us:
+We’re a group of people who are passionate about the work we do, the clients we serve, and improving our craft. We also care about each other — we don’t think of one another as coworkers or employees, but as fellow humans. From developers to designers, project managers to strategists, we bring out the best in each other.
+We’ve been in business for over a decade, our whole team is remote, we’ve been named a Best Place to Work by the Inc. 5000 and the Washington Business Journal.
+To apply:
+If you’re interested, fill out our&amp;nbsp;application form. (An actual human from our team looks at every submission.&amp;nbsp;P.S. – We encourage you to include a video message!)
+
+To apply: https://weworkremotely.com/remote-jobs/yoko-co-wordpress-support-engineer</description><pubDate>Tue, 17 Mar 2026 13:01:49 +0000</pubDate></item><item><title>Strange Loop Labs: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer</link><description>Headquarters: New York
+    URL: https://www.strangelooplabs.ai/
+
+
+We’re building an AI agent platform that processes unstructured data and reasons how to solve hard customer problems. We work alongside teams at F500s to build a deep understanding of their workflows, knowledge, tools, goals, and bottlenecks, and then automate their processes end-to-end using our AI platform.
+Strange Loop engineers also work across the entire AI stack and own customer relationships end-to-end, from understanding their business need to designing solutions to delivering outcomes. As a Strange Loop AI Engineer, you will:
+
+
+Work closely with customer, from executives to end users,&amp;nbsp;to deeply understand their problems and needs.
+
+
+Train, test, deploy, and operate propietary and public multimodal models&amp;nbsp;that power our core AI platform.
+
+
+Build and deploy efficient, scalable systems&amp;nbsp;that deliver a fantastic AI experience to our customers.
+
+
+Design novel AI UX patterns that integrate into our customers workflows and to
+
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+To apply: https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer</description><pubDate>Tue, 17 Mar 2026 06:05:35 +0000</pubDate></item><item><title>Rare Days: Full-Stack Engineering Lead</title><link>https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead</link><description>Headquarters: Vancouver
+    URL: http://raredays.com
+
+
+About Rare Days
+We're a multi-disciplinary digital product agency obsessed with helping creators build lasting legacies. Since 2020, we've built products at the sweet spot where content meets commerce, empowering established creators and content-led businesses to transform their passion into sustainable success.
+&amp;nbsp;
+Our clients include world-renowned creators like Esther Perel, Dr. Becky, Colin &amp;amp; Samir, and Ryan Trahan, as well as organizations like Airbnb, Notion, and Ziff Davis. We specialize in community-first platforms, membership tools, and creator infrastructure — and we build with care, context, and a clear point of view.
+&amp;nbsp;
+We’re a fully remote team based in Canada and are open to candidates able to work within 4 hours of PST.
+&amp;nbsp;
+About the Role
+We are hiring a Lead Engineer with deep backend expertise and strong fluency across modern web stacks. This role is ideal for someone who thrives on technical challenges, loves building scalable systems, and enjoys collaborating with product, design, and client teams.
+&amp;nbsp;
+You’ll work both independently and with small teams, depending on the project, write production code, and play a key role in steering technical direction.
+&amp;nbsp;
+Core Responsibilities
+Technical Leadership &amp;amp; Development
+
+Oversee day-to-day engineering work, keeping the team unblocked and aligned on priorities
+Architect scalable backend systems using languages and frameworks such as Go and Python. Experience with Kotlin is a plus.
+Contribute to frontend work using React and TypeScript as needed
+Drive decision-making around performance, scalability, and system design
+Write clean, maintainable code and ensure engineering best practices are followed
+Lead technical documentation, sprint planning, and ongoing delivery
+
+&amp;nbsp;
+Collaboration &amp;amp; Client Engagement
+
+Partner with product managers and designers to define and scope solutions
+Lead client-facing conversations around technical strategy and progress
+Present work during demos, milestone check-ins, and roadmap reviews
+Balance business needs with technical feasibility in collaborative planning sessions
+
+&amp;nbsp;
+Team Mentorship &amp;amp; Culture
+
+Provide regular feedback and guidance to engineers
+Contribute to hiring, onboarding, and leveling processes
+Help foster a strong, inclusive engineering culture rooted in transparency and accountability
+Identify opportunities to improve our tools, processes, and technical standards
+
+&amp;nbsp;
+What We’re Looking For
+
+7+ years of professional engineering experience
+English proficiency
+Experience with Go and Python, including system architecture and performance optimization, is required. Kotlin experience is a plus.
+Strong knowledge of React, NextJS and Typescript
+Backend experience with APIs, databases (SQL/NoSQL), cloud services (AWS, GCP), and distributed systems
+You can communicate effectively with both technical and non-technical audiences and are comfortable leading presentations and deep-dive technical discussions
+You understand how to compromise on business trade-offs and technical decisions
+You can design and communicate robust, scalable technical solutions that our internal and client teams understand and want to work on, and you understand how to achieve compromise on business trade-offs and technical decisions.
+You're comfortable dealing with uncertainty and are capable of disambiguating complex scope and domains to your team
+You care about people and are motivated to help your team members achieve success on projects.
+
+&amp;nbsp;
+Bonus Skills
+
+Experience building creator platforms, media tools, or community-driven products
+Familiarity with GraphQL, gRPC, or microservice infrastructure
+Interest in developer experience, automation, or DevOps tooling
+
+&amp;nbsp;
+Compensation and Benefits
+
+Extended health benefits for Canadian employees
+Flexible working hours and a remote-friendly culture
+Flexible time-off allowance for vacation, sick days, and personal time as needed. We actively encourage team members to make use of this time-off policy
+The opportunity to work with well-known creators and brands, including Esther Perel, Colin &amp;amp; Samir, Shan Boodram, and Sophia Amoruso
+
+&amp;nbsp;
+As an organization headquartered in British Columbia, we’re required to post the salary range if the position is to be filled locally. This range may be higher or lower for candidates based outside of BC, and actual pay will take into account the candidate’s experience and competencies.
+&amp;nbsp;
+We understand that women and other marginalized groups may hesitate to apply for roles unless they meet every qualification. If this role excites you, but you don’t meet every requirement, we encourage you to apply anyway! We’re proud to be an equal opportunity employer committed to inclusion, diversity, and hiring exceptional talent from around the world.
+
+To apply: https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead</description><pubDate>Tue, 17 Mar 2026 00:18:00 +0000</pubDate></item><item><title>Confluent: Senior Manager, Product-Led Growth Strategy and Operations</title><link>https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations</link><description>Headquarters: Remote, California
+
+
+We’re not just building better tech. We’re rewriting how data moves and what the world can do with it. With Confluent, data doesn’t sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them.It takes a certain kind of person to join this team. Those who ask hard questions, give honest feedback, and show up for each other. No egos, no solo acts. Just smart, curious humans pushing toward something bigger, together.One Confluent. One Team. One Data Streaming Platform.About the Role:We are hiring a Senior Manager to own Product-Led Growth (PLG) strategy and operating cadence across acquisition, activation, and high-value customer growth. This is a senior individual contributor role designed to operate as an internal strategy and operations owner, with direct executive exposure and broad cross-functional influence.This role goes beyond analytics or reporting. You will be accountable for defining the right growth strategy, structuring ambiguous problems, aligning cross-functional initiatives, and ensuring execution translates into decisions and measurable business outcomes. You will partner closely with leaders across Product, Engineering, Marketing, and Sales, with regular access to senior decision-making forums.You will play a central part in PLG executive communications. You will synthesize insights, progress, and tradeoffs into clear, executive-ready narratives, and help align PLG initiatives with broader company priorities. You will work closely with Product to inform roadmap prioritization and with Marketing and Sales to shape go-to-market strategy, campaign focus, and operating plans.Owning this role also requires the ability to establish ground truth in service of strategic decision-making. You are comfortable getting hands-on with data and materials when needed, including writing SQL queries, building structured models in spreadsheets, and developing executive-ready slide materials. You will be accountable for analyses being delivered with rigor and speed, whether by executing directly or by partnering with data science and analytics teams to deliver decision-ready outputs.This role is well-suited for candidates from consulting, strategy, or similar backgrounds who are looking to own a complex business problem end-to-end within an operating environment.What You Will Do:Own PLG Strategy and Planning Serve as the primary owner of PLG strategy and operating priorities across acquisition, activation, monetization, and high-value customer growth.Lead inputs into annual and quarterly planning, including target setting, scenario analysis, and operating tradeoffs.Partner with senior PLG leadership to drive prioritization, investment decisions, and alignment across initiatives.Drive Executive Decision Support and CommunicationsOwn preparation for PLG executive reviews and retrospectives, including synthesis of insights, storyline development, and rigorous, executive-ready slide materials.Translate complex analysis into clear, decision-oriented narratives that inform leadership direction and resource allocation.Act as a thought partner to senior stakeholders, shaping both problem framing and solution direction.Inform Product and GTM StrategyPartner closely with Product to inform roadmap priorities based on growth insights, customer behavior, and activation patterns.Work with Marketing and Sales to shape go-to-market strategy, campaign focus, and execution plans that support PLG objectives.Lead Funnel Performance and Growth DiagnosticsDiagnose end-to-end performance across acquisition and activation funnels, identifying root causes and sizing opportunities for improvement.Establish a structured, hypothesis-driven approach to experimentation and performance improvement.Ensure learnings are operationalized and reflected in roadmap, GTM, or execution changes.Orchestrate Cross-Functional ExecutionDrive progress across Product, Engineering, Marketing, and Sales by managing dependencies, sequencing, and timelines.Ensure unresolved dependencies and blockers are elevated to the appropriate level, with clear options and recommendations to maintain forward progress.Own Measurement and Insight FoundationsEnsure PLG metrics and analyses support leadership decision-making and prioritization.Guide the evolution from volume-based metrics toward value, usage, and customer-level outcomes.Partner with data and engineering teams to ensure analytical rigor and consistent definitions.Own analytical outcomes end-to-end, determining when to go deep personally and when to partner with data science or analytics teams to deliver rigorous, decision-ready analyses.What You Will Bring:Experience owning strategy, growth, or operating initiatives with accountability for business outcomes, ideally in a high-growth SaaS or technology environment.Demonstrated ability to structure ambiguous problems and drive work forward in complex, cross-functional settings.Strong analytical foundation, including comfort working directly with data, designing analyses, and evaluating experiments.Fluency in core analytical and communication tools, including SQL for data exploration, spreadsheet-based modeling, and structured slide development for executive audiences.Executive-level communication skills, including the ability to produce clear, rigorous, and detail-oriented slide materials.Comfort influencing without authority and operating with a high degree of ownership and autonomy.Ready to build what's next? Let’s get in motion.Come As You AreBelonging isn’t a perk here. It’s the baseline. We work across time zones and backgrounds, knowing the best ideas come from different perspectives. And we make space for everyone to lead, grow, and challenge what’s possible.We’re proud to be an equal opportunity workplace. Employment decisions are based on job-related criteria, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by law.
+
+To apply: https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations</description><pubDate>Sun, 15 Mar 2026 20:31:52 +0000</pubDate></item><item><title>Master-works: Full-stack Developer (React &amp; Node.js)</title><link>https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js</link><description>Headquarters: Egypt
+
+
+We are looking for a Full Stack Developer with strong hands-on expertise in React and Node.js to design, develop, and deliver scalable web and SaaS-based applications. The ideal candidate has a proven track record of implementing real-world solutions, contributing across frontend and backend layers, and supporting systems through production delivery.The role requires a practical, delivery-focused engineer with solid technical fundamentals and experience working on modern web platforms Frontend DevelopmentDevelop and maintain modern web applications using React.Build reusable, well-structured components using hooks and functional components.Implement state management solutions (e.g., Redux / Redux Toolkit, Context API, Zustand or equivalent).Integrate API-driven data flows, handling loading, error, and edge cases properly.Implement client-side routing, form handling, and validation.Ensure UI performance, accessibility, and responsive behavior.Work with UI libraries or design systems (e.g., MUI, Ant Design, Tailwind, or custom systems).Backend DevelopmentDesign, build, and maintain backend services using Node.js (Express, Fastify, or NestJS).Develop RESTful APIs with proper validation, error handling, and security controls.Implement authentication, authorization, and role-based access control (RBAC) mechanisms.Integrate with relational databases and manage data access layers.SaaS &amp;amp; Platform DevelopmentContribute to the development of SaaS solutions, including multi-tenant and role-based systems.Support configuration-driven features and environment-based deployments.Participate in architectural discussions to ensure scalability and maintainability.Maintain code quality and reliability in production environments.Collaboration &amp;amp; DeliveryCollaborate with product managers, designers, and engineering teams.Participate in code reviews and follow engineering best practices.Take ownership of assigned features from development through deployment and support.Required QualificationsBachelor’s degree in Software Engineering, Computer Science, or a related IT field.3+ years of experience in full-stack development with a proven track record in building scalable production apps.Technical SkillsStrong hands-on experience with React (modern React, hooks, component-driven development).Practical experience with state management (Redux / Redux Toolkit, Context API, or equivalent).Strong hands-on experience with Node.js and backend frameworks (Express, Fastify, or NestJS).Proficiency in JavaScript; TypeScript is strongly preferred.Experience designing and consuming RESTful APIs.Solid understanding of relational databases (e.g., PostgreSQL, MySQL).Experience using ORMs or query builders (e.g., Prisma, TypeORM, Sequelize, Knex).Engineering PracticesProficiency with Git-based version control systems.Understanding of secure coding practices and API security fundamentals.Familiarity with containerization and deployment pipelines (e.g., Docker, CI/CD).Experience working with production environments and supporting deployed systems.Preferred QualificationsFamiliarity with LLM-based development environments or "vibe coding" methodologiesExperience building or contributing to SaaS platforms.Exposure to multi-tenant architectures and role-based systems.Experience with cloud platforms (AWS, Azure, GCP, or equivalent).Familiarity with frontend UI frameworks or design systems.Exposure to automated testing practices (unit and/or integration testing).Knowledge of data visualization libraries (e.g., D3.js, Chart.js, ECharts) is a plus.Arabic language handling and localization experience is an advantage.Core Competencies:Fast learner with a hacker mindset and strong product sensibility.Ability to iterate quickly, handle ambiguity, and pivot based on feedback.Strong communication and collaboration across technical and non-technical teams.Attention to quality and usability even in early-stage prototypes.Passion for innovation, experimentation, and building new things 
+
+To apply: https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js</description><pubDate>Sat, 14 Mar 2026 20:32:00 +0000</pubDate></item><item><title>Sanctuary Computer: Senior Firmware Engineer</title><link>https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-firmware-engineer</link><description>Headquarters: New York City
+    URL: https://sanctuary.computer
+
+
+We are recruiting a Sr. Firmware Engineer to contribute to our IoT teams
+Original job post link here
+About garden3d
+We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.
+Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp;amp; Gagosian.
+We’re the software team behind innovative products like The Light Phone &amp;amp; Mill, and we operate a global, decentralized community space collective called Index Space.
+We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.
+Who We're Looking For
+We're looking for a Senior Firmware Engineer who owns their work completely - someone who can walk into a hardware bring-up, assess the state of the firmware, and immediately know what needs to be done and in what order. You don't need a spec to get started and you don't need a manager to tell you when something's off.
+You've shipped real products. You know the difference between firmware that works in the lab and firmware that survives in the field — and you build for the latter from day one. You're comfortable making architectural decisions under ambiguity, and you document those decisions so the team can follow.
+In this role, you'll work across a range of embedded initiatives, from connectivity and OTA infrastructure to display integration and sensor pipelines, finding pragmatic, cost-effective solutions to hard real-time problems. You'll collaborate directly with hardware engineers, product teams, and clients, and you'll be expected to hold your own in all three rooms.
+Responsibilities will include:
+
+Owning firmware architecture decisions across one or more active product platforms
+Bringing up new hardware revisions and integrating peripheral drivers with minimal ramp time
+Monitoring deployed firmware in the field, triaging issues, and shipping fixes with urgency and discipline
+Designing and implementing wireless connectivity flows - pairing, OTA, reconnect logic, fleet health
+Reprocessing and validating firmware behavior across hardware variants and edge cases
+Integrating new sensors, actuators, and communication modules into existing firmware architectures
+Participating in code reviews and holding a high bar - style, correctness, and long-term maintainability
+Keeping close track of project scope, timeline, and technical risk - and surfacing problems before they become crises
+Communicating directly with clients to align deliverables with constraints when scope and reality diverge
+
+Who you are
+The person we’re looking for is happy, relaxed and easy to get along with. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart”, by carefully managing their workflow and staggering features that have dependencies intelligently — they prefer deep work but are OK coming up to the surface now and then for top level / strategic conversations.
+We believe people with backgrounds or interests in design, art, music, food or fashion tend to have a well rounded sense of design &amp;amp; quality — so a variety of hobbies or side projects is a big nice to have!
+Must Have Competencies:
+
+Writes production C/C++ at the register level — owns memory layout, interrupt handling, and real-time constraints without supervision
+Has shipped embedded firmware through DVT into mass production on at least one product with real end users
+Brings up new hardware independently: bootloader, BSP, device tree, peripheral drivers — no hardware team babysitting required
+Deep RTOS fluency (FreeRTOS preferred) — has designed and debugged scheduling, priority inversion, watchdog logic, and power state machines under real constraints
+Owns the full debug cycle: reads schematics, probes with lab instruments, isolates timing and concurrency bugs, writes the postmortem
+Fluent in low-level bus protocols (I2C, SPI, UART, GPIO) at the register level - not just framework calls
+Self-managing: sets accurate estimates, flags risk early, delivers without being chased, and owns scope from kickoff to close
+Client-facing: has communicated technical tradeoffs directly to non-engineers, in writing, in real time, and been the person the client calls
+
+Nice to Have Competencies:
+
+ESP32 at the IDF level. Not Arduino wrappers.
+Wireless stack ownership: pairing flows, reconnect logic, OTA update pipelines, fleet-scale failure recovery
+Linux embedded depth - Yocto/Buildroot, device tree authorship, kernel module development, systemd service design
+Display pipeline integration (HDMI/DSI/LVDS) and shipped UI on constrained hardware using Qt, LVGL, or similar
+Cloud connectivity experience - MQTT under load, AWS IoT or similar, has debugged a deployed device fleet
+Product management instincts: can translate a vague client need into a scoped technical deliverable
+Experience in a startup or agency environment where specs are loose and timelines are tight
+USA based preferred for collaboration, but not a strict requirement
+
+Compensation
+The pay scale in on a contract basis, ranging**$150-200k/year** based on experience.
+How we interview:
+Our interview process starts with a call where you get to meet a few members of our team. From there we’ll ask appropriate candidates to take part in a technical exercise which helps illustrate skill level and comfort.
+Important Reminders:
+We kindly ask that you&amp;nbsp;submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process.
+Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying.
+
+To apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-firmware-engineer</description><pubDate>Fri, 13 Mar 2026 13:16:56 +0000</pubDate></item><item><title>ELECTE S.R.L.: Full-Stack Developer</title><link>https://weworkremotely.com/remote-jobs/electe-s-r-l-full-stack-developer</link><description>Headquarters: Milan, Italy
+    URL: https://www.electe.net/
+
+
+We are looking for a strong Full-Stack Developer to execute product features and contribute to our core platform development. Your focus will be clean, scalable implementation and high-quality execution. This role is ideal for a developer who enjoys building real product features end-to-end in a focused, no-bureaucracy environment.
+&amp;nbsp;
+Responsibilities
+
+Implement frontend features using TypeScript
+Develop backend services and APIs using Supabase / PostgreSQL
+Contribute to our Python-based AI &amp;amp; analytics engine (data logic, integrations)
+Write and optimize SQL queries and database logic
+Collaborate on feature specifications and translate them into clean technical execution
+Participate in code reviews and continuous improvement
+Work within modern serverless infrastructure (Vercel / Supabase)
+
+&amp;nbsp;
+Tech Stack
+
+Core Language: TypeScript
+Backend &amp;amp; Database: Supabase (PostgreSQL), PL/pgSQL
+AI Layer: Python
+Frontend &amp;amp; CMS: TypeScript, Webflow, Weglot API
+Infrastructure: Vercel / Netlify
+CI/CD: GitHub Actions
+
+&amp;nbsp;
+Requirements
+Must-have:
+
+Experience as a Full-Stack Developer (3+ years)
+Strong knowledge of TypeScript / JavaScript
+Solid experience with Python in backend, data, or analytics contexts
+Good understanding of PostgreSQL and data modeling
+Experience building and consuming APIs
+Ability to work independently and deliver clean production-ready code
+
+&amp;nbsp;
+Nice-to-have:
+
+Experience with analytics or AI-adjacent systems
+Hands-on experience with Supabase
+Knowledge of PL/pgSQL
+Experience using Webflow
+
+&amp;nbsp;
+What we offer
+
+€2,500–3,500/month (contractor)
+Full-time
+Remote-friendly
+Clear technical leadership and structured roadmap
+Small team, fast decision-making, no bureaucracy
+
+How to apply
+Please send your CV to anne.anderson@electe.net
+
+To apply: https://weworkremotely.com/remote-jobs/electe-s-r-l-full-stack-developer</description><pubDate>Fri, 13 Mar 2026 10:52:07 +0000</pubDate></item><item><title>Mobena: Frontend Engineer</title><link>https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</link><description>Headquarters: New York, NY
+    URL: https://mobena.co/
+
+
+Mobena is a three-person, remote-first startup building the “evolution” of multi-generational tax/estate planning software, targeting the advisors of America’s 2 million wealthiest families. We’re currently hiring our first dedicated UI Engineer to “own” the frontend of our flagship product, Mobena Evolution, for which we have little to no frontend code. You’ll work directly with our backend/algorithm-focused CTO, as well as our designer-founder, to turn evolving Figma concepts into fast, maintainable, and scalable user interfaces.
+What You’ll Do
+
+Choose and justify the frameworks and tools that best fit our needs.
+
+We have some holdover prototype code in Vite JS, but you can take it or leave it; all of our Figma concepts are new.
+The backend is a standard HTTP API. We are open to everything from established web stacks (React, Angular, Svelte, Vite) to cross-platform or native solutions (Qt, WASM, .NET MAUI, Tauri, Electron, Tk)—literally anything, if you can convince us it’s the right choice.
+
+Build our UI from the ground up, establishing clear, maintainable patterns for components, state management, styling, testing, performance, and accessibility.
+Collaborate to refine and sometimes re-frame existing screen designs in Figma.
+Connect the frontend to our APIs (REST, GraphQL, or similar).
+Lay groundwork for future mobile clients; however, experience in this regard is a plus rather than a requirement.
+
+About You
+
+You’ve shipped an interactive application—web, desktop, or mobile—via coursework, open source, side project or professional work.
+You care about usability and design quality. (That is, you care about the user.)
+You learn by doing: building things rather than sitting in committee.
+You are happy to say I don’t know. We try to cultivate “beginner’s mind” at Mobena—it helps us avoid conventional traps and groupthink. The first step of thinking like a beginner is acknowledging your own ignorance! 😊
+You can defend your technical choices in clear English, and can take credit for your successes as well your mistakes.
+You are comfortable in an early-stage, collaborative environment.
+
+
+To apply: https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</description><pubDate>Fri, 16 May 2025 20:03:34 +0000</pubDate></item><item><title>CodeSignal: Software Engineer, Business Experience</title><link>https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</link><description>Headquarters: San Francisco
+    URL: https://codesignal.com/
+
+
+We are looking for a Software Engineer who wants to be an impactful part of a small team looking to change the way technical hiring is done. In this role, you will be an integral part of our Product Engineering team and will drive features with immediate business impact to our core products:&amp;nbsp;Assessments,&amp;nbsp;Interviews, and&amp;nbsp;Learn. You’ll be a key member of the team that builds and maintains our identity and authentication systems, tying all of our products together.
+To learn more about the kinds of projects we work on, check out our&amp;nbsp;Engineering blog! Some noteworthy projects include:
+
+Why we moved from MongoDB &amp;amp; Meteor observers to Redis
+What we learned when 10,000 users hit our platform at once
+How to avoid issues with your HTML email formatting
+
+Day-to-Day&amp;nbsp;
+
+Contribute to building product features across the full stack (from the front-end to the back-end to separate microservices)
+Develop clean and maintainable code, with an emphasis on quality and craftsmanship
+Conduct code reviews and collaborate with your peers
+Lead technical design discussions on features where you're able to lend your expertise
+
+Basic Qualifications
+
+At least 4 years of professional, full-time software engineering experience
+Clear and effective communication skills
+Drive and initiative for getting things done
+Experience with TypeScript/JavaScript (browser, Node, or both)
+Available to work full-time. Candidates must be based within GMT-GMT+6 timezones.
+
+Bonus Points for the Following
+
+Experience with any part of our stack:
+React
+Node
+MongoDB
+GraphQL
+Experience with SSO, SCIM or RBAC.
+Any experience in a related industry, including assessments, HR tech, or education.
+
+
+To apply: https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</description><pubDate>Wed, 12 Nov 2025 08:56:02 +0000</pubDate></item><item><title>Confluent: Senior Product Manager, Confluent Cloud Kafka</title><link>https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-confluent-cloud-kafka</link><description>Headquarters: CA Remote Ontario
+
+
+We’re not just building better tech. We’re rewriting how data moves and what the world can do with it. With Confluent, data doesn’t sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them.It takes a certain kind of person to join this team. Those who ask hard questions, give honest feedback, and show up for each other. No egos, no solo acts. Just smart, curious humans pushing toward something bigger, together.One Confluent. One Team. One Data Streaming Platform.About the Role:As a Senior Product Manager in the Cloud Kafka team at Confluent, you’ll contribute to the mission of building the world’s best event streaming platform.We are seeking an experienced and strategic Product Manager to lead the vision, strategy, and execution for our Kafka Operator experience. This role is critical to simplifying the deployment, management, and scaling of Confluent Cloud Kafka environments for our enterprise customers. The ideal candidate has a strong technical background in cloud systems, familiarity with the Apache Kafka ecosystem, and a proven track record of delivering successful developer and operator-focused products.Key responsibilities include defining and owning the product strategy and vision for the Cloud Kafka Operator, conducting market research and competitive analysis, translating strategic objectives into comprehensive product and user experience requirements, collaborating with Engineering, UX/UI Design, Documentation, Support, and Field teams throughout the product lifecycle, and working with Product marketing to define and execute go-to-market.What You Will Do:You’ll be responsible for the success of major product initiatives, from initial conception and customer development to growth strategy. You’ll become the trusted resource for your product, making sure that the engineering, design, sales, and marketing have what they need to make the right trade-offs, build the right product, and grow it successfully in the market.  What You Will Bring:Minimum 5 years of experience as a software product manager, ideally for a developer productEmpathy for our enterprise customers, and a passion for solving their problems with the softwareAbility to craft a product strategy and roadmap in concert with customers, engineering, design, and go-to-market teamsExcellent communication skills, including the ability to distill technical concepts to a non-technical audienceStrong technical competency, especially with distributed data systems, public and private clouds, and stream processingExperience with data sharing technologies is a plusExperience engaging with an open-source community is a plusBachelor's, Master’s, or Ph.D. in Computer Science or related technical fieldReady to build what's next? Let’s get in motion.Come As You AreBelonging isn’t a perk here. It’s the baseline. We work across time zones and backgrounds, knowing the best ideas come from different perspectives. And we make space for everyone to lead, grow, and challenge what’s possible.We’re proud to be an equal opportunity workplace. Employment decisions are based on job-related criteria, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by law.
+
+To apply: https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-confluent-cloud-kafka</description><pubDate>Wed, 11 Mar 2026 20:32:16 +0000</pubDate></item><item><title>European Dynamics: .NET Full Stack Developer (Power Platform specialization)</title><link>https://weworkremotely.com/remote-jobs/european-dynamics-net-full-stack-developer-power-platform-specialization</link><description>Headquarters: , None, Greece
+
+
+We are currently seeking a skilled .NET Full Stack Developer (Power Platform specialization) to design and build apps, flows, and data integrations using Power Apps, Power Automate, and Dataverse in Athens (or Heraklion, Rethymnon) or remotely, for the implementation of a critical, large scale e-Government project.Main Responsibilities and Tasks: Develop and maintain Azure Functions, custom APIs, and plugins; Create PCF (PowerApps Component Framework) components; Help enforce DevOps practices in solution development; Develop Canvas and Model-Driven Apps using Power Apps; Automate business processes with Power Automate; Design data models and manage Dataverse entities.   University degree in Computer Science, Information Technology, Software or Electrical Engineering, or other related field; 3+ years of .NET and/or JavaScript/TypeScript experience; 2+ years in Power Platform development; Experience integrating with Azure and Power Platform (Dataverse SDK, Web APIs); Experience with Power Apps formulas, connectors, and security roles; Familiarity with CI/CD pipelines (Azure DevOps preferred); Excellent analytical, problem-solving, and communication skills. Fluency in oral and written English. Desired Qualifications Familiarity with Microsoft 365 integration and Power BI is a plus; Relevant Microsoft certification (Microsoft Certified: Power Platform Fundamentals, Microsoft Certified: Power Platform Developer Associate or Microsoft Certified: Power Automate RPA Developer Associate).  We believe in rewarding talent and dedication. Here's what you can expect as part of our team: Competitive full-time salary; Private Health Coverage on the Company’s group program; Flexible Working Hours; Top-of-the-Line Tools; Professional Development: Benefit from language courses, specialized training, and continuous learning opportunities; Career Growth: Work with some of the most innovative and exciting specialists in the industry; Dynamic Work Environment: Thrive in a setting that offers challenging goals, autonomy, and mentoring, fostering both personal and company growth. If you want an exciting challenge, work with some of the coolest technologies, and enjoy your time doing it, then join us! Submit your detailed CV in English, quoting reference: (NFSD/06/25/06/25).You may also consider all our other open vacancies by visiting the career section of our website (www.eurodyn.com) and follow us on Twitter (@EURODYN_Careers) and LinkedIn.EUROPEAN DYNAMICS (ED)&amp;nbsp;(www.eurodyn.com) is a leading European Software, Information, and Communication Technologies company, operating internationally (Athens, Brussels, Luxembourg, Copenhagen, Berlin, Stockholm, London, Nicosia, Valetta, Vienna, Den Haag, Hong Kong, etc.) The company employs over 1100 engineers, IT experts, and consultants (around 3% PhD, 41% MSc, and 54% BSc). We design and develop software applications using integrated, state-of-the-art technology. Our current IT projects have a value exceeding 300 million EURO. EUROPEAN DYNAMICS is a renowned supplier of IT services to European Union Institutions, international organizations, European Agencies, and national government Administrations in 40 countries and 4 continents.As part of our dedication to the diversity of our workforce, we are committed to Equal Employment Opportunity without regard for race, colour, national origin, ethnicity, gender, disability, sexual orientation, gender identity, or religion.EUROPEAN DYNAMICS (ED)&amp;nbsp;adheres to the General Data Protection Regulation principles by applying its Privacy Policy as published at&amp;nbsp;www.eurodyn.com/privacy. By submitting an application to this position and by sharing your personal data with ED, you acknowledge and accept its Policy and authorize ED to process your personal data for the purposes of the company's recruitment opportunities, in line with the Policy.
+
+To apply: https://weworkremotely.com/remote-jobs/european-dynamics-net-full-stack-developer-power-platform-specialization</description><pubDate>Wed, 11 Mar 2026 20:31:42 +0000</pubDate></item><item><title>Microventures: Senior Full Stack Developer (Laravel + Vue.js)</title><link>https://weworkremotely.com/remote-jobs/microventures-senior-full-stack-developer-laravel-vue-js</link><description>Headquarters: Texas
+
+
+About the Role:We're seeking a Senior Full Stack Developer to join our engineering team. You'll work across the entire stack, crafting performant APIs with Laravel and building dynamic, responsive interfaces with Vue.js. This role requires someone who can own features end-to-end, contribute to architectural decisions, and help mentor junior teammates.Our stack includes Laravel 12, Vue.js, MySQL, Redis, and TailwindCSS.What You'll Do: Develop, test, and maintain full-stack functionality using PHP 8.4 and Laravel 12.xBuild and consume RESTful APIs for internal and external applicationsUse wireframes and mockups to create responsive UIs using Vue.js 2.x+, and TailwindCSSImplement real-time features using WebSockets, Pusher, or Laravel BroadcastingDesign and optimize database schemas in MySQL; work with DynamoDB for appropriate workloadsManage AWS infrastructure including RDS, Lambda, CloudWatch, and related servicesDefine and maintain Infrastructure as Code using CloudFormation or AWS CDKBuild and maintain CI/CD pipelines using CodeBuild and CodePipelineProvide high-quality code reviews and help enforce team standardsPartner with product and engineering to develop and refine featuresDocument workflows, APIs, architecture decisions, and technical standardsMentor mid-level developers and contribute to team knowledge sharingWhat We're Looking For:6+ years of professional software development experience5+ years of hands-on experience with Laravel/PHP4+ years of hands-on experience with Vue.jsHighly proficient in modern PHP 8.x, unit testing, and RESTful API designStrong understanding of MySQL—schema design, optimization, and migrationsExperience with NoSQL databasesExperience with AWS services (RDS, Lambda, CloudWatch, S3, ElastiCache)Experience with Infrastructure as Code (CloudFormation or CDK)Solid command of Git workflows, branching strategies, and code review processesStrong awareness of security best practices and data consistencyExperience with testing frameworks (PHPUnit, Pest)Strong communication skills—written, verbal, and in team settingsPreferred Qualifications:TypeScript proficiencyFamiliarity with containerization (Docker)Experience with logging and monitoring tools (CloudWatch, Datadog)Background working on high-scale SaaS platformsHighlights of MicroVentures Benefits:401K Match (100% match on the first 5% and 50% on the next 5%)&amp;nbsp;Annual discretionary bonus&amp;nbsp;MicroVentures covers the base plan for Medical, Dental and Disability insurance&amp;nbsp;3 Weeks paid time off + holidays4 Weeks paid sabbatical after 5 years with MicroVentures with a travel stipend$100 monthly technology stipend (phone and internet)We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+To apply: https://weworkremotely.com/remote-jobs/microventures-senior-full-stack-developer-laravel-vue-js</description><pubDate>Wed, 11 Mar 2026 20:31:37 +0000</pubDate></item><item><title>Workana: Jr Product Administrator</title><link>https://weworkremotely.com/remote-jobs/workana-jr-product-administrator</link><description>Headquarters: Colombia
+
+
+Workana is the largest remote work platform for talent in Latin America. Our new segment, Workana Premium, focuses on matching the most exceptional professionals with leading and innovative companies around the globe. Enjoy competitive compensation, dedicated support, and the flexibility of remote work within a dynamic environment that fosters collaboration and professional advancement.About our clientOur client is a U.S.-based financial services company specialising in real estate lending. Their technology ecosystem includes a blend of in-house platforms and multiple vendor SaaS tools used across operations, underwriting, and customer-facing workflows.We are seeking a Junior Product Administrator / Analyst to support the configuration, administration, and daily operations of vendor SaaS applications used by internal teams.This is a hands-on role ideal for someone who enjoys learning new tools, understanding how systems fit together, and serving as an internal point of contact between engineering, architecture, vendor support, and business stakeholders.  1–2 years of experience in SaaS administration, product operations, or technical support.  Strong ability to learn new software tools and understand system behavior.  Excellent communication skills in English (written and verbal).  Basic analytical skills and comfort working with technical teams.  Ability to triage issues, manage priorities, and follow structured processes. ResponsibilitesConfigure, administer, and maintain multiple SaaS applications (user access, entitlements, backend switches, workflows).  Support onboarding, permissions, operational updates, and client-facing requests.  Troubleshoot issues, document findings, and escalate to vendors when needed.  Maintain product documentation and configuration standards.  Serve as a liaison between vendor systems and internal architecture/product teams.  Assist with light product analysis as tools integrate with internal systems (e.g., LOS, reporting). Bonus Points Experience in financial services, lending, or workflow-heavy SaaS products.  Prior exposure to product analysis or cross-functional vendor management.  Confidence navigating systems with complex configurations or backend rules. Competitive compensation in USD.Fully remote work.Flexible schedule and collaborative work environment.
+
+To apply: https://weworkremotely.com/remote-jobs/workana-jr-product-administrator</description><pubDate>Tue, 10 Mar 2026 20:36:13 +0000</pubDate></item><item><title>Dropbox: Staff Product Backend Software Engineer, Core Sync</title><link>https://weworkremotely.com/remote-jobs/dropbox-staff-product-backend-software-engineer-core-sync</link><description>Headquarters: Remote - US: All locations
+
+
+Role DescriptionAt Dropbox, we believe in simplifying the way people work together. Our engineers build the technology that powers seamless collaboration for hundreds of millions of users worldwide. As a Staff Engineer focused on Dropbox Sync, you will play a pivotal role in shaping the reliability, scalability, and future direction of one of Dropbox’s most critical systems.You will partner with Product Managers, Engineering Managers, and other senior technical leaders to deliver platform improvements that directly impact customers and enable future innovation. You’ll balance short-term execution with long-term architectural investments, ensuring Dropbox’s sync experience continues to set the standard for simplicity and trust.As a Staff Engineer, you’ll thrive if you love tackling ambiguity, operating with autonomy, and driving technical strategy across teams. This role offers the opportunity for substantial technical ownership, senior leadership exposure, and the chance to leave a lasting mark on Dropbox’s core product experience.Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here.ResponsibilitiesArchitect and deliver high-impact technical solutions that scale to millions of daily active users.Shape technical direction by evaluating tradeoffs between speed, quality, and long-term maintainability across projects.Partner cross-functionally with Product, Design, and Engineering peers to align on priorities and execute against critical business objectives.Lead technical initiatives that modernize core sync systems, improve performance, and reduce customer-reported issues.Mentor and elevate other engineers through design reviews, code reviews, and sharing best practices.Influence org-wide engineering standards by advocating for high-quality systems design, operational excellence, and pragmatic decision-making.Contribute to culture by participating in hiring, onboarding, and company-wide technical forums.Many teams at Dropbox run Services with on-call rotations, which entails being available for calls during both core and non-core business hours. If a team has an on-call rotation, all engineers on the team are expected to participate in the rotation as part of their employment. Applicants are encouraged to ask for more details of the rotations to which the applicant is applying.Requirements12+ years of software engineering experience with proven success in large-scale, user-facing systems.BS in Computer Science or related technical field involving coding (e.g., mathematics, physics), or equivalent technical experience.Demonstrated ability to design and ship technically complex products used at scale.Deep expertise in at least one systems-level area (e.g., sync, distributed systems, OS internals, file systems).Strong communication and collaboration skills, with experience influencing across multiple teams and functions.Comfortable balancing short-term delivery with long-term strategic investments.Willingness to participate in on-call rotations where required.Preferred QualificationsAdvanced proficiency in Rust or C++, with strong debugging and performance optimization skills.Familiarity with operating system internals, compilers, databases, or distributed storage systems.Knowledge of Python and/or Go a plus.Track record of setting technical direction across teams and driving adoption of new technologies.Experience building developer platforms or infrastructure that accelerates product delivery.CompensationUS Zone 1$240,600—$325,500 USDUS Zone 2$216,500—$292,900 USDUS Zone 3$192,400—$260,400 USD
+
+To apply: https://weworkremotely.com/remote-jobs/dropbox-staff-product-backend-software-engineer-core-sync</description><pubDate>Tue, 10 Mar 2026 20:35:27 +0000</pubDate></item><item><title>Abstrabit Technologies: Full Stack Developer Intern (AI Focus | Class of 2025 | Conversion Opportunity)</title><link>https://weworkremotely.com/remote-jobs/abstrabit-technologies-full-stack-developer-intern-ai-focus-class-of-2025-conversion-opportunity</link><description>Headquarters: EPIP Zone Whitefield Rd, Phase 2, Brookefield, Bengaluru, Karnataka, India
+
+
+Company DescriptionWe are an innovative AI consulting company dedicated to developing cutting-edge AI solutions for our clients. Our services include creating custom chatbots, building and managing knowledge bases, and integrating advanced AI/ML solutions into existing products. Additionally, we develop full-stack mobile and web applications with AI/ML functionalities, including generative AI.Job DescriptionAre you a passionate and curious student graduating in 2025, eager to kickstart your career in full-stack development within the exciting field of AI? We are seeking motivated Full Stack Developer Interns to join our remote team!This internship provides a unique opportunity to gain significant hands-on experience working on real-world client projects and internal tools. You'll be mentored by experienced engineers, contribute meaningfully to our development lifecycle, and work with a modern tech stack including Node.js/Python (backend), React/Next.js (frontend), and major cloud platforms (AWS/GCP/Azure). High-performing interns will be strongly considered for full-time positions upon successful completion of their degree in 2025.QualificationsEligibility: Currently pursuing a Bachelor's or Master's degree in Computer Science, Engineering, or a related field, with an expected graduation date in 2025.Backend Foundation: Foundational programming knowledge demonstrated through coursework or projects, preferably including exposure to Node.js or Python.Frontend Foundation: Foundational web development knowledge demonstrated through coursework or projects, preferably including exposure to React or Next.js.Web Fundamentals: Solid understanding of HTML, CSS, JavaScript, and basic concepts of RESTful APIs.Core Concepts: Familiarity with database concepts (SQL/NoSQL) and version control using Git.Cloud Curiosity: A strong desire to learn about cloud computing (AWS, GCP, Azure) and related DevOps practices.Aptitude: Strong analytical and problem-solving skills coupled with a proactive learning attitude.Teamwork: Good communication and collaboration skills suitable for a remote environment.
+
+To apply: https://weworkremotely.com/remote-jobs/abstrabit-technologies-full-stack-developer-intern-ai-focus-class-of-2025-conversion-opportunity</description><pubDate>Tue, 10 Mar 2026 20:34:15 +0000</pubDate></item><item><title>C4Media: Frontend Developer</title><link>https://weworkremotely.com/remote-jobs/c4media-frontend-developer</link><description>Headquarters: Toronto, Ontario
     URL: https://www.c4media.com/
 
 
@@ -290,213 +716,4 @@ To apply: https://weworkremotely.com/remote-jobs/dropbox-staff-backend-product-s
 
 We are seeking a specialized 3D Product Interface Designer to focus exclusively on creating intuitive user experiences for our mining software platform's 3D visualization components. You will be responsible for designing interactive 3D interfaces that allow mining professionals to effectively navigate and manipulate complex spatial data. We are looking for someone who is highly productive, quick with prototyping, and has experience in UI/UX design. Ideally, this person can design interfaces and has a reasonable understanding of how to build them, even if they don't possess all the front-end skills. We are not looking for someone focused on the latest design trends, but rather someone who can create simple, tactical, and user-friendly interfaces for our mining industry users.Required Tech Stack: FigmaAdobe XDThis is an hourly contract role with an hourly rate of $45-80 CAD / hour.
 
-To apply: https://weworkremotely.com/remote-jobs/stratum-ai-3d-product-interface-designer-contractor</description><pubDate>Sat, 07 Mar 2026 20:44:56 +0000</pubDate></item><item><title>Uncanny Owl: WordPress Developer</title><link>https://weworkremotely.com/remote-jobs/uncanny-owl-wordpress-developer</link><description>Headquarters: [Remote]
-    URL: https://automatorplugin.com
-
-
-As a WordPress Developer, you're responsible for Making Stuff Go. You'll build and maintain integrations that connect WordPress to hundreds of external services—from CRMs and email platforms to payment gateways and social networks. You'll own features from conception to completion, handling scoping, development, and testing.
-Day-to-day, you'll:
-
-Build new Automator integrations (triggers and actions) for third-party plugins and apps
-Scope, develop, and test product enhancements, new product features and product add-ons of all sizes
-Work with support to fix bugs reported by our internal team or by customers
-Refactor legacy code while maintaining backward compatibility
-Review pull requests from teammates and provide constructive feedback (GitHub PRs)
-Jump between front-end and back-end tasks as needed
-Communicate with the team and support your peers using chat, audio, and video
-
-Requirements
-You Must Have
-These are actual requirements, not a wish list:
-
-3+ years of WordPress plugin development&amp;nbsp;— professional experience with plugin architecture and WordPress standards, not just plugin and theme tweaks
-4+ years of Advanced PHP proficiency&amp;nbsp;— OOP, autoloading, namespacing, traits, interfaces, modern PHP practices. You write classes, not 2000-line functions.php files
-AI-assisted development expertise -&amp;nbsp;you know how to leverage AI to amplify and accelerate your work - not replace your brain
-Third-party API experience&amp;nbsp;— consuming APIs from services like Stripe, Drip, Zapier, Google, MailChimp, etc.
-WordPress hooks mastery&amp;nbsp;— actions, filters, priorities. You know when to use each and why
-Security awareness&amp;nbsp;— escaping, sanitization, nonces, capability checks are second nature
-Build tools&amp;nbsp;— ability to use and extend webpack and similar tools
-Package managers&amp;nbsp;— familiarity with Composer and NPM
-Git proficiency&amp;nbsp;— competent with version control through git and GitHub. You've worked on a team codebase before
-Keep it simple&amp;nbsp;— ability to keep complex ideas and features simple (simplicity is a core value!)
-Previous remote work experience&amp;nbsp;— freelance or remote work background
-Strong English communication&amp;nbsp;— fluent in both verbal and written English. Remote work requires clear async communication, and there's no such thing as overcommunicating on our team
-Personal Computer with Internet Access
-Availability&amp;nbsp;— able to participate in audio/video meetings between 9 am - 5 pm EST
-
-Nice to Have
-These will make you stand out:
-
-LearnDash experience&amp;nbsp;— if you've built LearnDash add-ons or customizations, we want to talk
-Existing Uncanny Automator integration&amp;nbsp;— if you've worked to extend Uncanny Automator, we want to talk
-Claude Code&amp;nbsp;- you're an expert at giving Claude Code the guidance and context necessary to plan and execute a project, resulting in code that is equal in quality to what you could produce yourself, but created in a fraction of the time
-HTML/CSS/SCSS experience&amp;nbsp;— layout, specificity, cross-browser compatibility, accessibility
-JavaScript expertise&amp;nbsp;— vanilla JS, jQuery, ES6, DOM manipulation, async programming, closures, promises, web components, VueJS or React proficiency
-MySQL expertise&amp;nbsp;— database design, queries, optimization
-REST API experience&amp;nbsp;— working with WordPress REST API and authentication
-TDD experience&amp;nbsp;— writing PHP unit tests
-UI/UX design chops
-DevOps or infrastructure management
-
-Who Thrives Here
-
-You're a&amp;nbsp;self-starter&amp;nbsp;who loves taking initiative and seeing things through from conception to completion
-You're an&amp;nbsp;excellent communicator&amp;nbsp;who makes sure nothing slips through the cracks
-You have the&amp;nbsp;curiosity and desire&amp;nbsp;to learn and grow your skills
-You're&amp;nbsp;passionate&amp;nbsp;about leaving your mark on the web and excited to impact millions of users
-You take&amp;nbsp;pride in quality and craftsmanship, not just checking boxes
-You're a&amp;nbsp;team player&amp;nbsp;who is comfortable working alongside and helping other developers, and you don't take critical feedback personally
-You're&amp;nbsp;adaptable&amp;nbsp;— happy working on tasks of all sizes
-
-What We Offer
-Working for a fast-growing bootstrapped company is a rare opportunity, one we consider a lifestyle choice rather than a job choice. Our positions are challenging, but also come with amazing advantages and fulfillment to those who earn them.
-
-Competitive salary
-Fully remote&amp;nbsp;— work from anywhere. Our team spans Canada, Colombia, Philippines, Pakistan, Finland, and more
-Annual all-company retreat&amp;nbsp;— we fly everyone out once a year and cover all travel costs
-Real ownership&amp;nbsp;— you'll own features from scoping to deployment
-Impact at scale&amp;nbsp;— your code runs on tens of thousands of websites
-Solve meaningful problems&amp;nbsp;— your work makes a tangible difference
-Work with the best&amp;nbsp;— frequent, often daily, interactions with talented teammates
-No politics, no b.s., and no jerks
-
-Location &amp;amp; Hours
-This is a remote position - our team is spread around the globe! Our home base is in Canada, so company operating hours are generally 9am - 5pm ET (UTC -5). While full coverage is not a requirement, you must be available during a portion of the day.
-How to Apply
- Interested in applying?
- Please read and follow these steps carefully.&amp;nbsp;
-Please clearly include the following in your cover letter:
-
-Your GitHub/GitLab/WordPress.org profile&amp;nbsp;(required - include code samples)
-Your experience with WordPress plugin development&amp;nbsp;— tell us about a specific plugin you've built or contributed to
-Your favorite WordPress hook/function and why&amp;nbsp;— we want to see how you think about WordPress development
-What AI coding tools you use&amp;nbsp;and how they fit into your workflow
-Tell us about yourself&amp;nbsp;— why you should be considered, your experience, qualifications, personality, etc.
-Other profile links&amp;nbsp;if available (your website, Twitter, LinkedIn, etc.)
-Answers to any additional interview questions&amp;nbsp;in the application form
-
-Important:&amp;nbsp;Don't forget to proofread before submitting. Check spelling, capitalization, etc. Attention to detail is one of our core values - this is your chance to stand out!
-Our process:&amp;nbsp;Application review → Skills assessment → Code challenge → Live interview → Offer
-We won't be able to individually respond to all applications, but if we feel you're a strong match, someone will be in touch shortly.&amp;nbsp;
-Thanks and we look forward to hearing from you!
-
-To apply: https://weworkremotely.com/remote-jobs/uncanny-owl-wordpress-developer</description><pubDate>Wed, 04 Feb 2026 21:57:47 +0000</pubDate></item><item><title>Tidal: PHL - Full-Stack Developer</title><link>https://weworkremotely.com/remote-jobs/tidal-phl-full-stack-developer</link><description>Headquarters: Manila NCR Philippines
-
-
-Job Title: Full-Stack Developer (OpenAI Integrations) Contractor Fee: $20 - $40/hour (USD) Work Arrangement: Remote Engagement Type: Independent Contractor Commitment: Part-time/Hourly to Full-time (long-term priority) Company Overview: Tidal is a Direct Placement Agency that helps job seekers find job opportunities for real growth. We work with stable, responsible businesses experienced in remote hires and are excited to welcome international team members. Tidal is owned and operated by consumer brand owners and operators. We have offshore team-building experience and aim to help businesses leverage global talent. About This Role:We are looking for a skilled Full-Stack Developer experienced in building and deploying modern web applications with OpenAI integrations. You’ll be responsible for connecting APIs, ensuring security and performance, and building intuitive frontend experiences. This role requires someone who can own both backend and frontend development while collaborating with a cross-functional team to launch and scale AI-powered applications. Key Responsibilities: Design and develop secure backend services and APIs for AI-powered features.Integrate OpenAI API (or similar LLM tools) into production-ready applications.Build and maintain web applications using JavaScript/TypeScript (Node.js + React/Next.js).Deploy and manage applications on Vercel, Netlify, or cloud platforms (AWS, GCP, Azure).Implement and manage databases (SQL/NoSQL) to support application needs.Ensure smooth communication between services using REST and WebSocket APIs.Collaborate with the team to design intuitive UX/UI for AI-driven apps.Bonus: Contribute to prompt engineering, analytics, and adaptive feedback loops. Software/Platforms/Tools: Frontend: React, Next.jsBackend: Node.js, Express, REST/WebSocket APIsCloud Hosting: Vercel, Netlify, AWS, GCP, AzureDatabases: SQL/NoSQLAI/LLM: OpenAI API (or similar integrations)Version Control: Git, GitHub/GitLab Qualifications: 3-5 years of freelancing experienceStrong JavaScript/TypeScript development skills (full-stack).Proven experience deploying web applications on cloud platforms.Hands-on experience with OpenAI API or LLM-based tools.Understanding of backend security, API authentication, and database design.Familiarity with Replit project migration is a plus.Strong problem-solving skills and ability to work independently.Excellent English communication skills (C1/C2 level).Bonus: Experience with UX/UI polish and analytics for AI tools. Shift Schedule: Monday Friday, Flexible working hours with overlap for team communication (US business hours).
-
-To apply: https://weworkremotely.com/remote-jobs/tidal-phl-full-stack-developer</description><pubDate>Fri, 06 Mar 2026 20:43:04 +0000</pubDate></item><item><title>Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - 100% remote oder hybrid</title><link>https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-full-stack-developer-mit-erfahrung-in-shopware-6-all-genders-2</link><description>Headquarters: Paderborn, NW, 33100 Germany
-
-
-Job descriptionDu bist nicht der typische Full Stack Developer? Wir suchen einen Developer, der transparente Kommunikation, sauberes Coding und qualitativ hochwertige Arbeit nicht nur als Floskel verwendet.Das „montagmorgens“-Gefühl gibt es bei uns nicht:Bei uns darfst Du so sein, wie Du wirklich bist! Koro, Zalando, FC Moto, Wöhrl – Abwechslungsreiche Aufgaben und ProjekteWir leben Feedback und fördern dies!Von Bahncard bis WalkingPad – wir lieben individuelle Ziel- &amp;amp; GehaltssystemeWeiterbildungsmaßnahmen gehören für uns zum AlltagDeine Wunsch-HardwareModerne Büros und die Möglichkeit 100&amp;nbsp;% remote zu arbeiten80–90 aktive Kunden, die man durch Werbung auf ProSieben oder Höhle der Löwen kenntTeamspirit wird bei uns großgeschrieben - Nerfgun und lustige Memes gehören für uns dazu!minimaler bis starker Kundenkontakt – du entscheidestTech Stack: https://stackshare.io/companies/8mylez-gmbhDiese Aufgaben warten auf DichEin variabler Mix aus Frontend und Backend – HTML, CSS &amp;amp; JavaScript (Vue.Js, React), PHP (Symfony)Konfiguration &amp;amp; Weiterentwicklung von einzigartigen OnlineshopsImplementierung &amp;amp; Umsetzung von Layouts und vorhandenen DesignsUmsetzung komplexer Funktionen und ErweiterungenEntwicklung von innovativen Ideen für den E-CommerceErkunden und Lernen von modernen und neuen WebtechnologienDas bringst Du mitMind. 2 Jahre Erfahrung in Showpare 6Gute Kenntnisse in PHP, insbesondere SymfonyErfahrung mit JavaScript-Frameworks wie Vue.js oder ReactSicherer Umgang mit Git und gängigen Entwicklungs-WorkflowsSpaß, Leidenschaft und persönliches Interesse am ProgrammierenVerantwortungs- und QualitätsbewusstseinLösungsorientierte und selbstständige ArbeitsweiseÜber unsAls ambitionierte E-Commerce-Agentur, mit rund 35 Menschen an Bord, gestalten wir das digitale Einkaufen von morgen und betreuen marktführende Onlineshops. Werde jetzt Teil und hilf mit, das Internet jeden Tag schöner, besser und schneller zu machen.Dir fehlt etwas in unserer Liste?Dann lass es uns in Deinem Anschreiben wissen.All done!Your application has been successfully submitted!Other jobs
-
-To apply: https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-full-stack-developer-mit-erfahrung-in-shopware-6-all-genders-2</description><pubDate>Fri, 06 Mar 2026 20:43:02 +0000</pubDate></item><item><title>Mrp My Recruitment Partners: German speaking Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - 100% remote</title><link>https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-german-speaking-full-stack-developer-mit-erfahrung-in-shopware-6-all</link><description>Headquarters: Paderborn, NW, 33100 Germany
-
-
-Job descriptionDu bist nicht der typische Full Stack Developer? Wir suchen einen Developer, der transparente Kommunikation, sauberes Coding und qualitativ hochwertige Arbeit nicht nur als Floskel verwendet.Das „montagmorgens“-Gefühl gibt es bei uns nicht:Bei uns darfst Du so sein, wie Du wirklich bist! Koro, Zalando, FC Moto, Wöhrl – Abwechslungsreiche Aufgaben und ProjekteWir leben Feedback und fördern dies!Von Bahncard bis WalkingPad – wir lieben individuelle Ziel- &amp;amp; GehaltssystemeWeiterbildungsmaßnahmen gehören für uns zum AlltagDeine Wunsch-HardwareModerne Büros und die Möglichkeit 100&amp;nbsp;% remote zu arbeiten80–90 aktive Kunden, die man durch Werbung auf ProSieben oder Höhle der Löwen kenntTeamspirit wird bei uns großgeschrieben - Nerfgun und lustige Memes gehören für uns dazu!minimaler bis starker Kundenkontakt – du entscheidestTech Stack: https://stackshare.io/companies/8mylez-gmbhDiese Aufgaben warten auf DichEin variabler Mix aus Frontend und Backend – HTML, CSS &amp;amp; JavaScript (Vue.Js, React), PHP (Symfony)Konfiguration &amp;amp; Weiterentwicklung von einzigartigen OnlineshopsImplementierung &amp;amp; Umsetzung von Layouts und vorhandenen DesignsUmsetzung komplexer Funktionen und ErweiterungenEntwicklung von innovativen Ideen für den E-CommerceErkunden und Lernen von modernen und neuen WebtechnologienDas bringst Du mitMind. 2 Jahre Erfahrung in Shopware 6Gute Kenntnisse in PHP, insbesondere SymfonyErfahrung mit JavaScript-Frameworks wie Vue.js oder ReactSicherer Umgang mit Git und gängigen Entwicklungs-WorkflowsSpaß, Leidenschaft und persönliches Interesse am ProgrammierenVerantwortungs- und QualitätsbewusstseinLösungsorientierte und selbstständige ArbeitsweiseÜber unsAls ambitionierte E-Commerce-Agentur, mit rund 35 Menschen an Bord, gestalten wir das digitale Einkaufen von morgen und betreuen marktführende Onlineshops. Werde jetzt Teil und hilf mit, das Internet jeden Tag schöner, besser und schneller zu machen.Dir fehlt etwas in unserer Liste?Dann lass es uns in Deinem Anschreiben wissen.All done!Your application has been successfully submitted!Other jobs
-
-To apply: https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-german-speaking-full-stack-developer-mit-erfahrung-in-shopware-6-all</description><pubDate>Fri, 06 Mar 2026 20:43:01 +0000</pubDate></item><item><title>Senex: Full Stack Developer (PHP, React, MySQL)</title><link>https://weworkremotely.com/remote-jobs/senex-full-stack-developer-php-react-mysql</link><description>Headquarters: Bari, Italia
-
-
-Descrizione dell'aziendaVuoi lavorare su un prodotto che migliora davvero la vita delle persone?In Ninacare stiamo costruendo il primo HR-tech italiano dedicato al settore sanitario, aiutando migliaia di professionisti sanitari a trovare il lavoro giusto e le strutture sanitarie a trovare professionisti qualificati.Con oltre 16.000 professionisti iscritti, un'integrazione diretta con Indeed ed altre job platform, e un motore di matching basato su AI, stiamo rivoluzionando un settore ancora troppo legato ai vecchi metodi di reclutamento.Siamo in forte crescita e cerchiamo un* Full Stack Developer pronto a imparare, contribuire e crescere con noi.Descrizione del lavoroCosa faraiLavorerai a stretto contatto con la nostra CPO ed il nostro Senior software engineer e ti occuperai di:Sviluppare e mantenere funzionalità full stack usando PHP (Laravel), React, MySQL e Inertia.jsCollaborare con il team di prodotto per creare interfacce moderne, responsive e performantiOttimizzare il codice per garantire scalabilità, velocità e stabilitàPartecipare a tutte le fasi del ciclo di sviluppo: idea, design, sviluppo, testing, rilascioMantenere alta la qualità del codice e contribuire all'automazione dei processiIl nostro tech stack:JS/TS, React, Tailwind, Inertia.jsPHP, Laravel, MySQLAWS, Terraform, Docker, GitHubQualificheChi cerchiamoAlmeno 2 anni di esperienza come sviluppatore full stackOttima padronanza di PHP (Laravel), Javascript, React, MySQLCapacità di scrivere codice pulito, scalabile e ben documentatoAttitudine al problem solving, curiosità e voglia di crescereEsperienza in ambienti Agile/ScrumMentalità proattiva, spirito di squadra e buone doti relazionaliCostituiscono un plusEsperienza di studio o lavoro all’esteroOttima conoscenza dell’inglese (o di un'altra lingua)Interesse per AI, Machine Learning e automazioni avanzateUlteriori informazioniCosa offriamoLavoro 100% remoto (con base a Bari ma team distribuito)Ambiente giovane, dinamico e data-drivenPossibilità concreta di crescita e formazione internaAccesso a progetti innovativi legati ad AI, CV parsing, automazioni, conversational agentsStock options e bonus legati agli obiettiviRAL tra €30.000 e €38.000, commisurata all’esperienza + bonus performance
-
-To apply: https://weworkremotely.com/remote-jobs/senex-full-stack-developer-php-react-mysql</description><pubDate>Fri, 06 Mar 2026 16:05:00 +0000</pubDate></item><item><title>Business-staffing-of-america-inc: Notice Design Lead (Fully Remote)</title><link>https://weworkremotely.com/remote-jobs/business-staffing-of-america-inc-notice-design-lead-fully-remote-3</link><description>Headquarters: San Francisco, CA
-
-
- We are seeking a Notice Content Migration &amp;amp; Redesign Specialist with expertise in OpenText Exstream to support the migration of taxpayer correspondence from legacy platforms and to lead the redesign of notices, letters, and forms. The ideal candidate will work closely with cross-functional teams, including Taxpayer Correspondence Services (TCS), IT, and business stakeholders, to modernize and improve the effectiveness of outbound communication.  Migration Duties: Migrate notices, letters, and correspondence from legacy platforms such as:OpenText xPressionCorrespondenxElixir DesignProECM and other legacy toolsinto OpenText ExstreamConvert and format content to ensure compatibility with Exstream data ingestion requirementsProvide development and configuration support to ingest files from legacy systems, establishing at least three complete end-to-end test cases to validate a repeatable migration process Redesign Duties: Redesign and enhance existing taxpayer correspondence content in OpenText Exstream based on direction from TCS and business unitsCreate new designs or update layouts, formatting, and structure (e.g., font, spacing, images, graphics) to align with updated standardsGenerate samples and prototypes for review and approval Collaboration &amp;amp; Testing: Collaborate with TCS on up to three design variations for A/B testing, incorporating feedback and performance insightsSupport TCS and IT priorities including pilot execution and adherence to the delivery scheduleContribute to the development of a standardized style guide within Exstream and codify reusable design standards Design &amp;amp; Evaluation: Apply design specifications and configure visual changes to enhance notice readability and effectivenessAssist in establishing a consistent approach for evaluating and improving design outcomesSupport design reviews and implement updates based on stakeholder feedback Proven experience with OpenText Exstream for both content migration and document designHands-on experience with legacy document composition systems (e.g., xPression, Elixir DesignPro, Correspondenx)Strong understanding of document formatting principles, design evaluation, and user experienceExperience collaborating with business and IT stakeholders on correspondence redesignFamiliarity with A/B testing methodologies and iterative design processes Experience in government or regulated environments, especially IRS or taxpayer correspondenceAbility to work with large volumes of content and tight delivery schedulesStrong attention to detail with excellent communication and documentation skillsBackground in visual design or document layout tools is a plus
-
-To apply: https://weworkremotely.com/remote-jobs/business-staffing-of-america-inc-notice-design-lead-fully-remote-3</description><pubDate>Fri, 06 Mar 2026 16:04:48 +0000</pubDate></item><item><title>Business-staffing-of-america-inc: Notice Design Lead (Fully Remote)</title><link>https://weworkremotely.com/remote-jobs/business-staffing-of-america-inc-notice-design-lead-fully-remote-1</link><description>Headquarters: Newark, NJ
-
-
- We are seeking a Notice Content Migration &amp;amp; Redesign Specialist with expertise in OpenText Exstream to support the migration of taxpayer correspondence from legacy platforms and to lead the redesign of notices, letters, and forms. The ideal candidate will work closely with cross-functional teams, including Taxpayer Correspondence Services (TCS), IT, and business stakeholders, to modernize and improve the effectiveness of outbound communication.  Migration Duties: Migrate notices, letters, and correspondence from legacy platforms such as:OpenText xPressionCorrespondenxElixir DesignProECM and other legacy toolsinto OpenText ExstreamConvert and format content to ensure compatibility with Exstream data ingestion requirementsProvide development and configuration support to ingest files from legacy systems, establishing at least three complete end-to-end test cases to validate a repeatable migration process Redesign Duties: Redesign and enhance existing taxpayer correspondence content in OpenText Exstream based on direction from TCS and business unitsCreate new designs or update layouts, formatting, and structure (e.g., font, spacing, images, graphics) to align with updated standardsGenerate samples and prototypes for review and approval Collaboration &amp;amp; Testing: Collaborate with TCS on up to three design variations for A/B testing, incorporating feedback and performance insightsSupport TCS and IT priorities including pilot execution and adherence to the delivery scheduleContribute to the development of a standardized style guide within Exstream and codify reusable design standards Design &amp;amp; Evaluation: Apply design specifications and configure visual changes to enhance notice readability and effectivenessAssist in establishing a consistent approach for evaluating and improving design outcomesSupport design reviews and implement updates based on stakeholder feedback Proven experience with OpenText Exstream for both content migration and document designHands-on experience with legacy document composition systems (e.g., xPression, Elixir DesignPro, Correspondenx)Strong understanding of document formatting principles, design evaluation, and user experienceExperience collaborating with business and IT stakeholders on correspondence redesignFamiliarity with A/B testing methodologies and iterative design processes Experience in government or regulated environments, especially IRS or taxpayer correspondenceAbility to work with large volumes of content and tight delivery schedulesStrong attention to detail with excellent communication and documentation skillsBackground in visual design or document layout tools is a plus
-
-To apply: https://weworkremotely.com/remote-jobs/business-staffing-of-america-inc-notice-design-lead-fully-remote-1</description><pubDate>Fri, 06 Mar 2026 16:04:34 +0000</pubDate></item><item><title>Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - Köln</title><link>https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-full-stack-developer-mit-erfahrung-in-shopware-6-all-genders-1</link><description>Headquarters: Köln, NW, Germany
-
-
-Job descriptionDu bist nicht der typische Full Stack Developer? Wir suchen einen Developer, der transparente Kommunikation, sauberes Coding und qualitativ hochwertige Arbeit nicht nur als Floskel verwendet.Das „montagmorgens“-Gefühl gibt es bei uns nicht:Bei uns darfst Du so sein, wie Du wirklich bist! Koro, Zalando, FC Moto, Wöhrl – Abwechslungsreiche Aufgaben und ProjekteWir leben Feedback und fördern dies!Von Bahncard bis WalkingPad – wir lieben individuelle Ziel- &amp;amp; GehaltssystemeWeiterbildungsmaßnahmen gehören für uns zum AlltagDeine Wunsch-HardwareModerne Büros und die Möglichkeit 100&amp;nbsp;% remote zu arbeiten80–90 aktive Kunden, die man durch Werbung auf ProSieben oder Höhle der Löwen kenntTeamspirit wird bei uns großgeschrieben - Nerfgun und lustige Memes gehören für uns dazu!minimaler bis starker Kundenkontakt – du entscheidestTech Stack: https://stackshare.io/companies/8mylez-gmbhDiese Aufgaben warten auf DichEin variabler Mix aus Frontend und Backend – HTML, CSS &amp;amp; JavaScript (Vue.Js, React), PHP (Symfony)Konfiguration &amp;amp; Weiterentwicklung von einzigartigen OnlineshopsImplementierung &amp;amp; Umsetzung von Layouts und vorhandenen DesignsUmsetzung komplexer Funktionen und ErweiterungenEntwicklung von innovativen Ideen für den E-CommerceErkunden und Lernen von modernen und neuen WebtechnologienDas bringst Du mitMind. 2 Jahre Erfahrung in Shopware 6Gute Kenntnisse in PHP, insbesondere SymfonyErfahrung mit JavaScript-Frameworks wie Vue.js oder ReactSicherer Umgang mit Git und gängigen Entwicklungs-WorkflowsSpaß, Leidenschaft und persönliches Interesse am ProgrammierenVerantwortungs- und QualitätsbewusstseinLösungsorientierte und selbstständige ArbeitsweiseÜber unsAls ambitionierte E-Commerce-Agentur, mit rund 35 Menschen an Bord, gestalten wir das digitale Einkaufen von morgen und betreuen marktführende Onlineshops. Werde jetzt Teil und hilf mit, das Internet jeden Tag schöner, besser und schneller zu machen.Dir fehlt etwas in unserer Liste?Dann lass es uns in Deinem Anschreiben wissen.All done!Your application has been successfully submitted!Other jobs
-
-To apply: https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-full-stack-developer-mit-erfahrung-in-shopware-6-all-genders-1</description><pubDate>Fri, 06 Mar 2026 16:04:07 +0000</pubDate></item><item><title>Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders)</title><link>https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-full-stack-developer-mit-erfahrung-in-shopware-6-all-genders</link><description>Headquarters: Paderborn, NW, 33100 Germany
-
-
-Job descriptionDu bist nicht der typische Full Stack Developer? Wir suchen einen Developer, der transparente Kommunikation, sauberes Coding und qualitativ hochwertige Arbeit nicht nur als Floskel verwendet.Das „montagmorgens“-Gefühl gibt es bei uns nicht:Bei uns darfst Du so sein, wie Du wirklich bist! Koro, Zalando, FC Moto, Wöhrl – Abwechslungsreiche Aufgaben und ProjekteWir leben Feedback und fördern dies!Von Bahncard bis WalkingPad – wir lieben individuelle Ziel- &amp;amp; GehaltssystemeWeiterbildungsmaßnahmen gehören für uns zum AlltagDeine Wunsch-HardwareModerne Büros und die Möglichkeit 100&amp;nbsp;% remote zu arbeiten80–90 aktive Kunden, die man durch Werbung auf ProSieben oder Höhle der Löwen kenntTeamspirit wird bei uns großgeschrieben - Nerfgun und lustige Memes gehören für uns dazu!minimaler bis starker Kundenkontakt – du entscheidestTech Stack: https://stackshare.io/companies/8mylez-gmbhDiese Aufgaben warten auf DichEin variabler Mix aus Frontend und Backend – HTML, CSS &amp;amp; JavaScript (Vue.Js, React), PHP (Symfony)Konfiguration &amp;amp; Weiterentwicklung von einzigartigen OnlineshopsImplementierung &amp;amp; Umsetzung von Layouts und vorhandenen DesignsUmsetzung komplexer Funktionen und ErweiterungenEntwicklung von innovativen Ideen für den E-CommerceErkunden und Lernen von modernen und neuen WebtechnologienDas bringst Du mitMind. 2 Jahre Erfahrung in Shopware 6Gute Kenntnisse in PHP, insbesondere SymfonyErfahrung mit JavaScript-Frameworks wie Vue.js oder ReactSicherer Umgang mit Git und gängigen Entwicklungs-WorkflowsSpaß, Leidenschaft und persönliches Interesse am ProgrammierenVerantwortungs- und QualitätsbewusstseinLösungsorientierte und selbstständige ArbeitsweiseÜber unsAls ambitionierte E-Commerce-Agentur, mit rund 35 Menschen an Bord, gestalten wir das digitale Einkaufen von morgen und betreuen marktführende Onlineshops. Werde jetzt Teil und hilf mit, das Internet jeden Tag schöner, besser und schneller zu machen.Dir fehlt etwas in unserer Liste?Dann lass es uns in Deinem Anschreiben wissen.All done!Your application has been successfully submitted!Other jobs
-
-To apply: https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-full-stack-developer-mit-erfahrung-in-shopware-6-all-genders</description><pubDate>Fri, 06 Mar 2026 16:03:39 +0000</pubDate></item><item><title>Hyphen Connect Limited: Web3 Full Stack Developer</title><link>https://weworkremotely.com/remote-jobs/hyphen-connect-limited-web3-full-stack-developer-1</link><description>Headquarters: Hong Kong
-
-
-We are hiring for one of our ecosystem projects in Web3. As a Web3 Full Stack Developer, you will design, develop, and maintain decentralized applications (dApps) and blockchain-based systems. You will work across the full stack, from smart contract development to front-end interfaces, collaborating with cross-functional teams to deliver secure, scalable, and user-friendly Web3 solutions. Your expertise in Web3 protocols and modern tech stacks will be critical to building robust applications for the decentralized web.Key ResponsibilitiesSmart Contract Development: Design, develop, test, and deploy secure smart contracts on various blockchain platforms (e.g., Ethereum, Solana, Polkadot, Cosmos).Backend Development: Build and maintain backend infrastructure for dApps using languages like Golang, Java, Node.js, or Rust, ensuring scalability and performance.Frontend Development: Create responsive, user-friendly front-end interfaces for dApps using modern frameworks (e.g., React, Vue.js, Next.js) integrated with Web3 libraries (e.g., ethers.js, web3.js).Blockchain Integration: Integrate dApps with blockchain networks, wallets (e.g., MetaMask, WalletConnect), and decentralized protocols (e.g., IPFS, The Graph).Protocol Development: Contribute to the design and implementation of Web3 protocols, including consensus mechanisms, cross-chain bridges, or DeFi primitives.Security &amp;amp; Testing: Implement secure coding practices, conduct audits, and develop testing frameworks to ensure the reliability and security of smart contracts and dApps.Optimization: Optimize performance of blockchain interactions, gas efficiency, and backend systems to enhance user experience and reduce costs.Collaboration: Work with product managers, blockchain engineers, and designers to deliver end-to-end Web3 solutions aligned with project goals.Research &amp;amp; Innovation: Stay updated on Web3 trends, emerging protocols, and new blockchain technologies to propose innovative solutions.QualificationsEducation: Bachelor’s or Master’s degree in Computer Science, Engineering, or a related technical field, or equivalent experience.Experience:3+ years of full stack development experience, with at least 1+ years in Web3 or blockchain development.Proven experience building dApps or working on Web3 protocols (e.g., DeFi, NFTs, DAOs, or layer-2 solutions).Technical Skills:Proficiency in Golang, Java, Node.js, or Rust for backend development.Experience with smart contract languages like Solidity, Vyper, or Rust (for Solana/Polkadot).Strong knowledge of front-end technologies (e.g., React, Vue.js, TypeScript, Next.js) and Web3 libraries (e.g., ethers.js, web3.js).Familiarity with blockchain protocols (e.g., Ethereum, Solana, Cosmos, Polkadot) and tools (e.g., Truffle, Hardhat, Foundry).Experience with decentralized storage (e.g., IPFS, Filecoin) and indexing solutions (e.g., The Graph).Understanding of RESTful APIs, GraphQL, and microservices architecture.Web3 Knowledge: Deep understanding of blockchain concepts (e.g., consensus mechanisms, gas fees, EVM, cross-chain interoperability) and Web3 ecosystems (e.g., DeFi, NFTs, DAOs).Security Skills: Knowledge of smart contract security best practices, common vulnerabilities (e.g., reentrancy, front-running), and auditing tool.Bonus Skills:Experience with layer-2 solutions (e.g., Arbitrum, Optimism) or cross-chain bridges.Familiarity with DevOps tools (e.g., Docker, Kubernetes) and cloud platforms (e.g., AWS, GCP).Contributions to open-source Web3 projects or blockchain protocols.Knowledge of cryptographic principles (e.g., zero-knowledge proofs, MPC).
-
-To apply: https://weworkremotely.com/remote-jobs/hyphen-connect-limited-web3-full-stack-developer-1</description><pubDate>Fri, 06 Mar 2026 16:02:40 +0000</pubDate></item><item><title>Java &amp; React: Full Stack Developer  Java &amp; React (100% remote)</title><link>https://weworkremotely.com/remote-jobs/java-react-full-stack-developer-java-react-100-remote</link><description>Headquarters: Remoto
-
-
-Descripción del puesto / Funciones¿Eres un/a desarrollador/a Full Stack con pasión por la innovación y la escalabilidad? ¡Esta es tu oportunidad! Estamos buscando un perfil versátil para unirse a un proyecto internacional del sector eCommerce, desarrollando soluciones digitales de alto impacto.Requisitos mínimos+3 años de experiencia profesional como desarrollador/a full stack.Desarrollar y mantener aplicaciones full stack escalables y de alto rendimiento.Construir servicios backend robustos usando Java y Spring Boot.Diseñar interfaces dinámicas y responsivas con React y Redux.Utilizar Docker para contenerización y desplegar en entornos AWS.Colaborar con desarrolladores, diseñadores y otros stakeholders en un entorno ágil.Participar en ceremonias Scrum: planning, dailies, retrospectives.Asegurar la calidad del código mediante unit testing y code reviews.Dominio de Java, Spring Boot, React y Redux.Experiencia con Docker y despliegue en AWS.Buenas habilidades de comunicación y trabajo en equipo.Experiencia previa en entornos organizativos complejos o multinacionales.Inglés fluido (imprescindible).Requisitos valorablesConocimiento de Azure DevOps (CI/CD, gestión de proyectos).Experiencia previa en plataformas eCommerce o de cara al cliente.Sensibilidad por principios de UX/UI y accesibilidad web.UbicaciónRemoto 100%¿Quiénes somos?                        Pasiona Consulting es una consultora tecnológica, partner de Microsoft, dedicada al diseño, desarrollo e implementación de aplicaciones de software a medida para clientes de múltiples sectores.                    
-
-To apply: https://weworkremotely.com/remote-jobs/java-react-full-stack-developer-java-react-100-remote</description><pubDate>Fri, 06 Mar 2026 16:02:40 +0000</pubDate></item><item><title>Hyphen Connect Limited: Web3 Full Stack Developer</title><link>https://weworkremotely.com/remote-jobs/hyphen-connect-limited-web3-full-stack-developer</link><description>Headquarters: Singapore
-
-
-We are hiring for one of our ecosystem projects in Web3. As a Web3 Full Stack Developer, you will design, develop, and maintain decentralized applications (dApps) and blockchain-based systems. You will work across the full stack, from smart contract development to front-end interfaces, collaborating with cross-functional teams to deliver secure, scalable, and user-friendly Web3 solutions. Your expertise in Web3 protocols and modern tech stacks will be critical to building robust applications for the decentralized web.Key ResponsibilitiesSmart Contract Development: Design, develop, test, and deploy secure smart contracts on various blockchain platforms (e.g., Ethereum, Solana, Polkadot, Cosmos).Backend Development: Build and maintain backend infrastructure for dApps using languages like Golang, Java, Node.js, or Rust, ensuring scalability and performance.Frontend Development: Create responsive, user-friendly front-end interfaces for dApps using modern frameworks (e.g., React, Vue.js, Next.js) integrated with Web3 libraries (e.g., ethers.js, web3.js).Blockchain Integration: Integrate dApps with blockchain networks, wallets (e.g., MetaMask, WalletConnect), and decentralized protocols (e.g., IPFS, The Graph).Protocol Development: Contribute to the design and implementation of Web3 protocols, including consensus mechanisms, cross-chain bridges, or DeFi primitives.Security &amp;amp; Testing: Implement secure coding practices, conduct audits, and develop testing frameworks to ensure the reliability and security of smart contracts and dApps.Optimization: Optimize performance of blockchain interactions, gas efficiency, and backend systems to enhance user experience and reduce costs.Collaboration: Work with product managers, blockchain engineers, and designers to deliver end-to-end Web3 solutions aligned with project goals.Research &amp;amp; Innovation: Stay updated on Web3 trends, emerging protocols, and new blockchain technologies to propose innovative solutions.QualificationsEducation: Bachelor’s or Master’s degree in Computer Science, Engineering, or a related technical field, or equivalent experience.Experience:3+ years of full stack development experience, with at least 1+ years in Web3 or blockchain development.Proven experience building dApps or working on Web3 protocols (e.g., DeFi, NFTs, DAOs, or layer-2 solutions).Technical Skills:Proficiency in Golang, Java, Node.js, or Rust for backend development.Experience with smart contract languages like Solidity, Vyper, or Rust (for Solana/Polkadot).Strong knowledge of front-end technologies (e.g., React, Vue.js, TypeScript, Next.js) and Web3 libraries (e.g., ethers.js, web3.js).Familiarity with blockchain protocols (e.g., Ethereum, Solana, Cosmos, Polkadot) and tools (e.g., Truffle, Hardhat, Foundry).Experience with decentralized storage (e.g., IPFS, Filecoin) and indexing solutions (e.g., The Graph).Understanding of RESTful APIs, GraphQL, and microservices architecture.Web3 Knowledge: Deep understanding of blockchain concepts (e.g., consensus mechanisms, gas fees, EVM, cross-chain interoperability) and Web3 ecosystems (e.g., DeFi, NFTs, DAOs).Security Skills: Knowledge of smart contract security best practices, common vulnerabilities (e.g., reentrancy, front-running), and auditing tool.Bonus Skills:Experience with layer-2 solutions (e.g., Arbitrum, Optimism) or cross-chain bridges.Familiarity with DevOps tools (e.g., Docker, Kubernetes) and cloud platforms (e.g., AWS, GCP).Contributions to open-source Web3 projects or blockchain protocols.Knowledge of cryptographic principles (e.g., zero-knowledge proofs, MPC).
-
-To apply: https://weworkremotely.com/remote-jobs/hyphen-connect-limited-web3-full-stack-developer</description><pubDate>Fri, 06 Mar 2026 16:02:31 +0000</pubDate></item><item><title>Renesas Electronics: Principal Engineer,SOC Physical Design</title><link>https://weworkremotely.com/remote-jobs/renesas-electronics-principal-engineer-soc-physical-design</link><description>Headquarters: Hyderabad, India
-
-
-Company DescriptionRenesas is one of the top global semiconductor companies in the world. We strive to develop a safer, healthier, greener, and smarter world, and our goal is to make every endpoint intelligent by offering product solutions in the automotive, industrial, infrastructure and IoT markets. Our robust product portfolio includes world leading MCUs, SoCs, Analog and power products, plus Winning Combination solutions that curate these complementary products. We are a key supplier to the world’s leading manufacturers of electronics you rely on every day; you may not see our products, but they are all around you.Renesas employs roughly 21,000 people in more than 30 countries worldwide. As a global team, our employees actively embody the Renesas Culture, our guiding principles based on five key elements: Transparent, Agile, Global, Innovative, and Entrepreneurial. Renesas believes in, and has a commitment to, diversity and inclusion, with initiatives and a leadership team dedicated to its resources and values. At Renesas, we want to build a sustainable future where technology helps make our lives easier. Join us and build your future by being part of what’s next in electronics and the world.Job DescriptionKey Responsibilities Lead physical design activities for SoC or large subsystems, including floorplanning, placement, CTS, routing, and signoff closure.Define and drive physical design strategies to meet aggressive performance, power, and area goals.Collaborate cross-functionally with architecture, RTL design, STA, power, verification, and backend teams to ensure seamless integration and closure.Develop and maintain physical design methodologies, design guidelines, and automation scripts to enhance productivity and quality.Manage congestion, timing, power integrity, and manufacturability challenges during physical implementation.Communicate design status, risks, and mitigation plans effectively to senior management and stakeholders.Qualifications14+ years of experience in SoC physical design with expertise in physical implementation flows (floorplanning, placement, CTS, routing) at advanced nodes (7nm, 5nm, or below).Proven track record leading complex SoC or subsystem physical design projects, balancing power, performance, and area while managing congestion and timing closure.Strong proficiency with industry-standard EDA tools (Synopsys ICC2, Cadence Innovus, PrimeTime) and scripting skills (Tcl, Python, Perl) for automation and methodology development.Deep understanding of SoC design flows with demonstrated ability to collaborate effectively across timing closure, power integrity, clocking, verification, and backend teams, including experience in developing physical design methodologies.Knowledge of power delivery network (PDN) design and integration. Familiarity with low-power design techniques including power gating and clock gating.Understanding of design for test (DFT) and its influence on physical design.Excellent leadership, communication, and collaboration skills to drive cross-team success.Additional InformationRenesas is an embedded semiconductor solution provider driven by its Purpose ‘To Make Our Lives Easier.’ As the industry’s leading expert in embedded processing with unmatched quality and system-level know-how, we have evolved to provide scalable and comprehensive semiconductor solutions for automotive, industrial, infrastructure, and IoT industries based on the broadest product portfolio, including High Performance Computing, Embedded Processing, Analog &amp;amp; Connectivity, and Power.&amp;nbsp;With a diverse team of over 21,000 professionals in more than 30 countries, we continue to expand our boundaries to offer enhanced user experiences through digitalization and usher into a new era of innovation. We design and develop sustainable, power-efficient solutions today that help people and communities thrive tomorrow, ‘To Make Our Lives Easier.’&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;At Renesas, you can:&amp;nbsp;Launch and advance your career&amp;nbsp;in technical and business roles across four Product Groups and various corporate functions. You will have the opportunities to explore our hardware and software capabilities and try new things.&amp;nbsp;&amp;nbsp;Make a real impact&amp;nbsp;by developing innovative products and solutions to meet our global customers' evolving needs and help make people’s lives easier, safe and secure.&amp;nbsp;Maximize your performance and wellbeing&amp;nbsp;in our flexible and inclusive work environment. Our people-first culture and global support system, including the remote work option and Employee Resource Groups, will help you excel from the first day.&amp;nbsp;&amp;nbsp; &amp;nbsp;Are you ready to own your success and make your mark? &amp;nbsp;Join Renesas. Let’s&amp;nbsp;Shape the Future&amp;nbsp;together.&amp;nbsp;&amp;nbsp;Renesas Electronics is an equal opportunity and affirmative action employer, committed to supporting diversity and fostering a work environment free of discrimination on the basis of sex, race, religion, national origin, gender, gender identity, gender expression, age, sexual orientation, military status, veteran status, or any other basis protected by law. For more information, please read our&amp;nbsp;Diversity &amp;amp; Inclusion Statement.I'm interestedRenesas is an embedded semiconductor solution provider driven by its Purpose ‘To Make Our Lives Easier.’ As the industry’s leading expert in embedded processing with unmatched quality and system-level know-how, we have evolved to provide scalable and comprehensive semiconductor solutions for automotive, industrial, infrastructure, and IoT industries based on the broadest product portfolio, including High Performance Computing, Embedded Processing, Analog &amp;amp; Connectivity, and Power.&amp;nbsp;With a diverse team of over 21,000 professionals in more than 30 countries, we continue to expand our boundaries to offer enhanced user experiences through digitalization and usher into a new era of innovation. We design and develop sustainable, power-efficient solutions today that help people and communities thrive tomorrow, ‘To Make Our Lives Easier.’&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;At Renesas, you can:&amp;nbsp;Launch and advance your career&amp;nbsp;in technical and business roles across four Product Groups and various corporate functions. You will have the opportunities to explore our hardware and software capabilities and try new things.&amp;nbsp;&amp;nbsp;Make a real impact&amp;nbsp;by developing innovative products and solutions to meet our global customers' evolving needs and help make people’s lives easier, safe and secure.&amp;nbsp;Maximize your performance and wellbeing&amp;nbsp;in our flexible and inclusive work environment. Our people-first culture and global support system, including the remote work option and Employee Resource Groups, will help you excel from the first day.&amp;nbsp;&amp;nbsp; &amp;nbsp;Are you ready to own your success and make your mark? &amp;nbsp;Join Renesas. Let’s&amp;nbsp;Shape the Future&amp;nbsp;together.&amp;nbsp;&amp;nbsp;Renesas Electronics is an equal opportunity and affirmative action employer, committed to supporting diversity and fostering a work environment free of discrimination on the basis of sex, race, religion, national origin, gender, gender identity, gender expression, age, sexual orientation, military status, veteran status, or any other basis protected by law. For more information, please read our&amp;nbsp;Diversity &amp;amp; Inclusion Statement.Renesas is an embedded semiconductor solution provider driven by its Purpose ‘To Make Our Lives Easier.’ As the industry’s leading expert in embedded processing with unmatched quality and system-level know-how, we have evolved to provide scalable and comprehensive semiconductor solutions for automotive, industrial, infrastructure, and IoT industries based on the broadest product portfolio, including High Performance Computing, Embedded Processing, Analog &amp;amp; Connectivity, and Power.&amp;nbsp;With a diverse team of over 21,000 professionals in more than 30 countries, we continue to expand our boundaries to offer enhanced user experiences through digitalization and usher into a new era of innovation. We design and develop sustainable, power-efficient solutions today that help people and communities thrive tomorrow, ‘To Make Our Lives Easier.’&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;At Renesas, you can:&amp;nbsp;Launch and advance your career in technical and business roles across four Product Groups and various corporate functions. You will have the opportunities to explore our hardware and software capabilities and try new things.&amp;nbsp;&amp;nbsp;Make a real impact by developing innovative products and solutions to meet our global customers' evolving needs and help make people’s lives easier, safe and secure.&amp;nbsp;Maximize your performance and wellbeing in our flexible and inclusive work environment. Our people-first culture and global support system, including the remote work option and Employee Resource Groups, will help you excel from the first day.&amp;nbsp;&amp;nbsp; &amp;nbsp;Are you ready to own your success and make your mark? &amp;nbsp;Join Renesas. Let’s Shape the Future together.&amp;nbsp;&amp;nbsp;Renesas Electronics is an equal opportunity and affirmative action employer, committed to supporting diversity and fostering a work environment free of discrimination on the basis of sex, race, religion, national origin, gender, gender identity, gender expression, age, sexual orientation, military status, veteran status, or any other basis protected by law. For more information, please read our&amp;nbsp;Diversity &amp;amp; Inclusion Statement.
-
-To apply: https://weworkremotely.com/remote-jobs/renesas-electronics-principal-engineer-soc-physical-design</description><pubDate>Fri, 06 Mar 2026 16:02:30 +0000</pubDate></item><item><title>Granicus: Sr. Design Services Engineer</title><link>https://weworkremotely.com/remote-jobs/granicus-sr-design-services-engineer</link><description>Headquarters: Costa Rica (Remote)
-
-
-The Company&amp;nbsp;Serving the People Who Serve the People&amp;nbsp;Granicus is driven by the excitement of building, implementing, and maintaining technology that is transforming the Govtech industry by bringing governments and their constituents together. We are on a mission to support our customers by meeting the needs of their communities and implementing our technology in ways that are equitable and inclusive. Granicus has consistently appeared on the GovTech 100 list over the past 5 years and has been recognized as the best companies to work on BuiltIn.&amp;nbsp;&amp;nbsp;Over the last 25 years, we have served 5,500 federal, state, and local government agencies and more than 300 million citizen subscribers powering an unmatched Subscriber Network that uses our digital solutions to make the world a better place. With comprehensive cloud-based solutions for communications, government website design, meeting and agenda management software, records management, and digital services, Granicus empowers stronger relationships between government and residents across the U.S., U.K., Australia, New Zealand, and Canada. By simplifying interactions with residents, while disseminating critical information, Granicus brings governments closer to the people they serve—driving meaningful change for communities around the globe.&amp;nbsp;Want to know more? See more of what we do&amp;nbsp;here.&amp;nbsp;&amp;nbsp;OneMeeting (By Granicus) is looking for a passionate and dynamic Sr. Design Services Engineer to join our Design Services team as part of the OneTeam Implementation group. He/She will be responsible for providing technical services for both the Customer Support and Implementation Teams. This position will provide the technical solutions for front end web design, web and forms, template design, reports, internal tool, business workflow configurations. A successful candidate will rely on their attention to detail, technical knowledge, and passion for improving and learning to ensure outputs are delivered in the utmost quality and satisfaction.&amp;nbsp;What Your Impact Will Look Like Here:Provide support to client teams in      numerous projects as well as existing customers through technical      expertise.Develop, implement, and maintain      front end applications with HTML, CSS, JavaScript, JQuery, and SQL while      consistently meeting project deadlines.Create and maintain customer HTML      forms, customer workflows, customer displays, manage customer      configurations, and maintain word document templates.Create reports with SQL by      utilizing SSRS report builder.Build scripts using C# for      workflows.Maintain implementation tool using      React.Conduct cross-browser and      multi-device testing and performance optimization.Engage with cross-functional teams      with varying levels of seniority and experience to support various      programs and client needs and to understand requirements and provide      estimates.Help determine best methods to      perform tasks; complete projects and makes recommendations for future      process enhancements as it relates to front end development and      optimization.Perform standard reporting for      management.Maintain detailed, organized      documentation of client projects using a combination of Confluence, Azure      and other tools. Provide timely, helpful, and      thorough responses and resolutions to inquiries and requests.Assist customers with complex      configurations. Troubleshoot complex      forms/workflows/scripts/reports.Mentor junior engineers.Provide timely,      helpful, and thorough responses and resolutions to inquiries      and requests.Help determine best methods to      perform tasks; complete projects and makes recommendations for future      process enhancements as it relates to front end development and optimization.Participate in      UAT/beta testing.You will love this job if you have:Bachelor of Computer Science or relevant      field/experienceStrong knowledge of HTML5, CSS3, JavaScript, JQuery, SQL, C# &amp;amp; React Knowledge of Angular is a plus.Strong understanding of application programming interfaces (API)Familiarity with browser testing and debugging.Capacity to manage priorities and deadlines.Capacity to work in a rapidly evolving environment.Strong team player, analytical and dynamic and able to work independently.Ability to handle multiple tasks and meet deadlines.Initiative to actively seek opportunities to broaden knowledge and improve skills.Strong interpersonal skills with the ability to collaborate and work effectively with individuals,strengthening relationships to achieve the best possible solutions.Ability to understand the client’s needs and apply a creative and logical approach to identify solutions.Ability to communicate to customers.Ability to receive and understand directions, ask questions when appropriate, and manage time to work effectively and independently.      Strong communication skillsDemonstrated track record of on-time task completion.Service-oriented with quick response time to questions and emails.Security and Privacy Requirements·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Responsible for Granicus information security by appropriately preserving the Confidentiality, Integrity, and Availability (CIA) of Granicus information assets in accordance with the company's information security program.·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Responsible for ensuring the data privacy of our employees and customers, their data, as well as taking all required privacy training in a timely manner, in accordance with company policies.&amp;nbsp;Don’t have all the skills/experience mentioned above? At Granicus, we are trying to build diverse, inclusive teams. We do not have degree requirements for most of our roles. If you don’t meet every requirement above but are excited to learn more, we encourage you to apply. We might just be able to find another role that could be a perfect fit!&amp;nbsp;The Team- We are a remote-first company with a globally distributed workforce across the United States, Canada, United Kingdom, India, Armenia, Australia, and New Zealand.The Culture- At Granicus, we are building a transparent, inclusive, and safe space for everyone who wants to bea part of our journey.- A few culture highlights include –&amp;nbsp;Employee Resource Groups to encourage diverse voices- Coffee with Mark sessions – Our employees get to interact with our CEO on very important andsometimes difficult issues ranging from mental health to work-life balance and current affairs.&amp;nbsp;- Microsoft Teams communities focused on wellness, art, furbabies, family, parenting, and more.-=- - We bring in special guests from time to time to discuss issues that impact our employeepopulation&amp;nbsp;The Impact- We are proud to serve dynamic organizations around the globe that use our digital solutions to make the world a better place — quite literally.&amp;nbsp;We have so many powerful success stories that illustrate how our solutions are impacting the world. See more of our impact&amp;nbsp;here.Granicus is committed to providing equal employment opportunities. All qualified applicants and employees will be considered for employment and advancement without regard to race, color, religion, creed, national origin, ancestry, sex, gender, gender identity, gender expression, physical or mental disability, age, genetic information, sexual or affectional orientation, marital status, status regarding public assistance, familial status, military or veteran status or any other status protected by applicable law.
-
-To apply: https://weworkremotely.com/remote-jobs/granicus-sr-design-services-engineer</description><pubDate>Fri, 06 Mar 2026 16:02:05 +0000</pubDate></item><item><title>Speechify Inc: Software Engineer, iOS Core Product</title><link>https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</link><description>Headquarters: Florida
-    URL: http://www.speechify.com
-
-
-Overview
-With the growth of our iOS app, being the #18 productivity app in the App Store category and also our recent recognition as Apple's 2025 Design Award for inclusivity, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward. &amp;nbsp;&amp;nbsp;
-This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
-We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;
-Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;
-What You’ll Do
-
-Opportunity to lead key engineering and product decisions
-Actively shipping production code for the Speechify iOS app
-Work within a dedicated product team
-Participate in product discussions to shape the product roadmap
-Maintain and enhance the existing complex app architecture
-
-An Ideal Candidate Should Have
-
-Experience. You've worked on products that scaled to a large user base
-Track record. You have worked on various products from inception to decent traction. You have been responsible for engineering the product
-Customer obsession. We expect every team member whose responsibilities directly impact customers to be constantly obsessed about providing the best possible experience
-Product thinking. You make thoughtful decisions about the evolution of your product and support internal teams and designers into taking the right direction
-Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time
-Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down
-Technical skills. Swift, SwiftUI
-
-Technical Requirements:
-
-Swift Programming Language
-SwiftUI experience
-Experience in Multithreading Programming
-Working with CI/CD infrastructure
-Experience with Fastlane
-SOLID principles, the ability to write every single class according to SOLID
-Experience with Git and understanding of different Git strategies
-
-What We offer:
-
-A fast-growing environment where you can help shape the company and product
-An entrepreneurial crew that supports risk, intuition, and hustle
-The opportunity to make a big impact in a transformative industry
-A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
-Work on a product that millions of people use and where daily feedback includes users sharing that they cried when they first found the product because it was so impactful on their lives
-Support people with learning differences like Dyslexia, ADD, Low Vision, Concussions, Autism, and Second Language Learners, and give reading superpowers to professionals all over the world
-Work in one of the fastest growing sectors of tech: Intersection of Artificial Intelligence and Audio
-
-Think you’re a good fit for this job?&amp;nbsp;
-Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
-Not looking but know someone who would make a great fit?&amp;nbsp;
-Refer them!&amp;nbsp;
-Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;
-Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
-
-To apply: https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product</description><pubDate>Wed, 09 Jul 2025 15:35:11 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/stratum-ai-3d-product-interface-designer-contractor</description><pubDate>Sat, 07 Mar 2026 20:44:56 +0000</pubDate></item></channel></rss>
