@@ -1,5 +1,269 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Mesh: Director of Product Money Movement</title><link>https://weworkremotely.com/remote-jobs/mesh-director-of-product-money-movement</link><description>Headquarters: United States - Remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)</title><link>https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</link><description>Headquarters: USA
+    URL: http://www.close.com
+
+
+About Us
+Close is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again.
+&amp;nbsp;
+We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&amp;nbsp;
+&amp;nbsp;
+Our backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.
+&amp;nbsp;
+Our product development process is inspired by Shape Up. We love open sourcing our code and ideas on our GitHub and on The Making of Close, our behind-the-scenes Product &amp;amp; Engineering blog. Check out our open source projects like SocketShark, TaskTiger, LimitLion and ciso8601.
+&amp;nbsp;
+&amp;nbsp;
+About the Role
+You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp;amp; Onboarding, Conversations, Messaging &amp;amp; Scheduling, Automations &amp;amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp;amp; frontend engineers, product managers, designers, and other teams here at Close.
+&amp;nbsp;
+&amp;nbsp;
+About You
+We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.
+&amp;nbsp;
+You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team.
+Come help us with projects like...
+
+Conceiving, designing, building, and launching new user-facing features
+Implementing new AI features to turbocharge our customers’ daily tasks
+Improving the performance and scalability of our GraphQL and REST API
+Improving how we sync millions of sales emails and calendar events each month
+Working with Twilio's API, WebSockets, and WebRTC to improve our calling features
+Building user-facing analytics features that provide actionable insights based on sales activity data
+Improving our Elasticsearch-backed powerful search features
+Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&amp;nbsp;
+Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers
+Enhancing our web app with real-time updates powered by GraphQL Subscriptions
+Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI
+
+Help manage our ever growing data processing needs…
+
+Billions of Mongo documents
+Millions and millions of rows of PostgreSQL data
+55 Terabytes of logs / month
+500 billion OTEL spans over the last 30 days
+10+ million events / day
+Tens of thousands of docker containers
+7 million minutes of call recordings / month
+Petabytes / month of network traffic
+
+Requirements...
+
+Senior 1 &amp;amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity.
+Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python.
+You have built web APIs that were Internet facing or supported other high volume loads.
+You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&amp;nbsp;
+You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&amp;nbsp;
+You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&amp;nbsp;
+You care about the craftsmanship of the code and systems you produce.
+Located in the USA (lower 48 timezones).
+
+Bonus point if you have
+
+Contributed open source code related to our tech stack.
+Led small project teams building and launching features.
+Built B2B SaaS products.
+Implemented features that leveraged AI to deliver unimaginable new product capabilities.
+Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks.
+
+🌏 Why Close?
+
+Watch our most recent culture video featuring our annual team retreat in Italy
+100% remote company
+5 weeks PTO + Winter &amp;amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company
+1 month paid sabbatical every 5 years
+Paid parental leave
+Medical, Dental, Vision with HSA option (US residents)
+401k matching at 6% (US residents)
+Dependent care FSA (US residents)
+Our story and team 🚀
+
+Our Values
+
+Build a house you want to live in -- Examine long-term thinking and action
+No BS -- Practice transparency and honesty, especially when it’s hard
+Invest in each other -- Build successful relationships with your coworkers and customers&amp;nbsp;
+Discipline equals freedom -- Keep your word to yourself and others
+Strive for greatness -- Constantly challenge yourself and others&amp;nbsp;
+
+How We Work Together
+
+Productivity, Quality &amp;amp; Impact: We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&amp;nbsp;
+Asynchronous communication &amp;amp; collaboration: We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&amp;nbsp;
+Appreciation for Deep Work: *During your normal work day, not after a day of meetings*.&amp;nbsp;
+Autonomy &amp;amp; Freedom: Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&amp;nbsp;
+
+&amp;nbsp;
+We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp;amp; II is $140,000 to $210,000.
+
+To apply: https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</description><pubDate>Wed, 23 Jul 2025 14:31:54 +0000</pubDate></item><item><title>Vee Technologiesorporated: Product Engineering Operations Director</title><link>https://weworkremotely.com/remote-jobs/vee-technologiesorporated-product-engineering-operations-director</link><description>Headquarters: Remote
+
+
+We are seeking a highly motivated and experienced Product Engineering Operations Director (Project Engineer) to join our growing team. This is a fully remote position.&amp;nbsp; In this role, you will support Vee Technologies’ clients by leveraging deep expertise across mechanical, automotive, maritime, and industrial engineering domains.&amp;nbsp; This position partners closely with clients and offshore delivery teams to provide technical leadership, guide project execution, and act as a critical liaison in developing and presenting customer-specific engineering solutions.&amp;nbsp; The ideal candidate is a technically adept professional with a strong passion for enabling seamless, end-to-end project delivery.&amp;nbsp;You will take full ownership of client interactions, ensuring clear and effective communication, aligning technical requirements, and overseeing project execution in close collaboration with the offshore delivery teams. Success in this role requires a balance of strong engineering knowledge, client-facing leadership, and operational excellence.Key Responsibilities:Serve as primary liaison between client and offshore delivery teams to ensure project objectives, timelines and quality expectations are met. Lead the development of client projects, including reviewing engineering drawings, interpreting client quotations (RFQs), and translating requirements into clear, actionable project plans.Maintain continuous communication with clients and internal teams to clarify scope, identify all applicable specifications, provide project status updates, address concerns, and proactively manage expectations.Collaborate closely with clients and suppliers to negotiate design specifications, technical requirements, and cost estimates. &amp;nbsp;Optimize manufacturing processes by evaluating the balance between cost efficiency and production volumes.Assess existing working methods and recommend improvements to process documentation, operational manuals and standard operating procedures.Leverage engineering expertise to enhance conceptual solutions, support the design of new equipment, and redesign existing systems, to meet client specifications.&amp;nbsp;&amp;nbsp; Address unique or non-standard requirements by identifying root causes and implementing corrective actions.Lead technical reviews, oversee corrective actions, and conduct in-depth analyses to continuously improve outcomes. Manage project timelines, deliverables, and quality standards to ensure full compliance with contractual agreements.Partner with sales teams to ensure a seamless transition of projects from post-sale to execution.Build and sustain strong working relationships with clients and internal teams, fostering collaboration, trust and long-term partnerships.Provide proactive leadership in navigating complex projects and delivering consistent, high-quality results.Prior experience working with offshore delivery teams is highly preferred.Qualifications &amp;amp; Skills:Bachelor’s degree in mechanical engineering, automotive engineering, or related experience required6 to 10 years of experience in automotive, mechanical, maritime or industrial engineeringStrong working knowledge of Solid Works or other 3D software systems, with proficiency in AutoCAD and application-based engineering design. Experience with pricing analysis, should-costing modeling, GD&amp;amp;T and statistical tolerancing Proven ability to build and maintain client relationships, identifying and leveraging business and technical opportunities.Demonstrated success managing and collaborating with offshore delivery teams.Exceptional verbal, written, presentations and interpersonal communication skills.Demonstrated experience in developing client-specific technical solutions or serving in a customer-facing engineering role.Strong organization and time-management skills with the ability to manage multiple projects concurrently.Natural leadership qualities with a track record of initiative, problem solving, and continuous improvement.Compensation &amp;amp; Benefits:Competitive base salary + commission ($100K – $140K)Health, dental, and vision insurance401(k) with company matchPaid time off and holidaysProfessional development opportunitiesVee Technologies is an equal opportunity employer committed to diversity and valuing the ways in which we are different. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristics protected by applicable law.&amp;nbsp;                
+
+To apply: https://weworkremotely.com/remote-jobs/vee-technologiesorporated-product-engineering-operations-director</description><pubDate>Thu, 19 Mar 2026 20:31:29 +0000</pubDate></item><item><title>CloudDevs:  Java Developer - AI (Backend)</title><link>https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend</link><description>Headquarters: San Francisco
+    URL: https://clouddevs.com/
+
+
+&amp;nbsp;
+Location:&amp;nbsp; Latams, or anywhere in Americas(canada, Central and South America)
+CloudDevs is helping fast-growing, venture-backed startups build high-performance engineering teams. As a Senior Java Backend Engineer, you’ll work on scalable, AI-driven products and play a key role in shaping core platform capabilities.
+You’ll be working in a high-ownership environment alongside product, design, and engineering teams to ship production-grade systems and solve complex backend challenges.
+Minimum qualifications:
+
+Bachelor’s degree in Computer Science or equivalent practical experience7+ years of
+experience as a backend or software engineer
+Strong communication skills in English
+Strong problem-solving ability and ownership mindset
+Experience working in distributed, remote teams
+
+Core requirements:
+
+7+ years of commercial experience with Java in SaaS/PaaS environments
+Strong experience with Spring / Spring Boot, Maven, and ORM frameworks&amp;nbsp;
+Experience designing and building secure, scalable REST APIs (API-first approach preferred)
+Hands-on experience with PostgreSQL, Redis, and AWS infrastructure
+Strong understanding of CI/CD pipelines and production observability
+Excellent debugging and production troubleshooting skills
+
+&amp;nbsp;
+AI / modern dev workflow (important):
+
+Strong experience using AI-assisted coding tools like Cursor, Codex, or similar
+Comfortable working with AI copilots and agent-style workflows to increase development speed and quality&amp;nbsp;
+Ability to use AI tools to navigate unfamiliar codebases, debug issues, and accelerate delivery&amp;nbsp;
+Working knowledge of LLMs and how they are integrated into applications is a strong plus
+
+Preferred qualifications:
+
+Experience with Python for backend/API development
+Exposure to frontend frameworks like React
+Strong architectural thinking and system design skills
+Experience working in fast-paced environments with rapid release cycles
+Strong attention to detail across code, tests, and reviews
+
+What you’ll do:
+Design and build scalable backend systems with high reliability and performanceWrite clean, maintainable, well-tested code using modern development practicesLeverage AI tools to improve development speed, debugging, and code qualityCollaborate in agile workflows, including code reviews and sprint ceremoniesInvestigate and resolve production issues using logs, telemetry, and system insightsContinuously improve systems, code quality, and development processes
+What’s in it for you:
+Remote work with high-growth startupsCompetitive compensation, often with bonuses and equityWork on cutting-edge AI-driven productsApply once and get matched with multiple pre-vetted companies
+&amp;nbsp;
+&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend</description><pubDate>Thu, 19 Mar 2026 15:08:14 +0000</pubDate></item><item><title>Mangomint: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/mangomint-senior-software-engineer</link><description>Headquarters: Los Angeles, California
+    URL: https://www.mangomint.com/
+
+
+About Mangomint
+Mangomint&amp;nbsp;is a fast-growing SaaS company on a mission to make every salon and spa more profitable. We are already the&amp;nbsp;highest-rated&amp;nbsp;salon and spa software in the US and Canada with thousands of customers and seek to become the #1 market leader in the coming years.
+We’re a primarily remote company, ambitious, and collaborative&amp;nbsp;team&amp;nbsp;that gathers together every few months. As we grow, we’re looking to attract high-potential individuals who want to be part of a winning team. If that’s you,&amp;nbsp;come join us!
+&amp;nbsp;
+&amp;nbsp;
+About the Role
+As a Senior Software Engineer at Mangomint, you’ll play a critical role on our Connect Engineering team, building and scaling the core communication systems our customers rely on every day: emails, texting, and phone calls.
+This role is focused on strengthening a mission-critical part of the product as we scale usage, integrations, and operational complexity. You’ll work across the full stack to design, build, and operate reliable communication features that integrate with external providers while delivering a seamless experience for customers and internal teams.
+&amp;nbsp;
+In the Senior Software Engineer role at Mangomint you will:
+
+
+Develop new features across the whole stack, including data design, backend APIs, frontend React UI, mobile, and HTML/CSS
+
+
+Work deeply with external integrations and third-party services, ensuring reliability and observability
+
+
+Support the scaling of our systems as we grow and acquire new customers, and improve engineering standards, tooling, and processes to enable rapid development and iteration
+
+
+Troubleshoot and debug production issues across various services and layers of the stack, ensuring a stable, efficient, and resilient system for our customers
+
+
+Technologies You Will Work With
+Backend/Rest API: Kotlin/JVM, PostgreSQL, AWS (RDS, SQS, Lambda, EC2/EB)
+Frontend: Typescript, React, Sass/CSS
+While experience or familiarity with our technology stack is a plus, it’s not a requirement. We care more about your general engineering skill set, and your ability to pick up new languages and technologies quickly.
+&amp;nbsp;
+&amp;nbsp;
+What We’re Looking For
+
+
+5+ years of experience in a software engineering role
+
+
+Experience as a Senior Software Engineer at a SaaS Company and with programming languages such as Kotlin, C#, Java, Ruby, etc.
+
+
+Someone who enjoys being a generalist, working on the frontend, backend, and anything it takes to solve problems
+
+
+Experience building software and systems that balance simplicity, flexibility, and maintainability
+
+
+Ability to thrive in a collaborative and iterative environment, working and empathizing with teammates, internal stakeholders, and customers
+
+
+Someone skilled in completing projects from start to finish, using various technologies and systems, while balancing technical, business, and customer priorities.
+
+
+Ability to stitch together many different services and processes even if you have not worked with them before
+
+
+&amp;nbsp;
+&amp;nbsp;
+What You'll Love About Us
+
+
+Health, dental, vision, life &amp;amp; LTD insurance
+
+
+Generous monthly wellness budget for gym memberships, yoga, etc.
+
+
+Premium subscription to the&amp;nbsp;Calm&amp;nbsp;app
+
+
+One Medical&amp;nbsp;membership
+
+
+Flexible PTO
+
+
+401k plan available (no matching)
+
+
+Employee stock option program
+
+
+&amp;nbsp;
+&amp;nbsp;
+Mangomint is an equal opportunity employer. We do not discriminate against any employee or job applicant on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability and genetic information (including family medical history).
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+To apply: https://weworkremotely.com/remote-jobs/mangomint-senior-software-engineer</description><pubDate>Wed, 18 Mar 2026 21:08:16 +0000</pubDate></item><item><title>Mesh: Director of Product Money Movement</title><link>https://weworkremotely.com/remote-jobs/mesh-director-of-product-money-movement</link><description>Headquarters: United States - Remote
 
 
 About MeshAt Mesh, our mission is to enable consumers to pay and be paid with any asset. Today, trillions of dollars in tokenized assets exist but remain largely unusable for everyday commerce. Mesh is bridging this gap by making crypto payments reliable, useful, and ubiquitous. We combine a powerful orchestration engine with a seamless consumer app to unlock liquidity for the world. Backed by leading investors like PayPal Ventures, Paradigm, and Galaxy Ventures, we are building the infrastructure for the next era of the global economy. Join us!Mesh is seeking a Director of Product, Money Movement to lead the platform at the heart of our ecosystem. Your work will enable the seamless conversion of any crypto asset into any other crypto asset, the exchange of crypto into fiat, and the movement of funds between wallets, exchanges, and bank accounts. This is a hands-on leadership role where strategy meets execution. You will act as the architect of our liquidity engine, defining the roadmap, driving high-impact initiatives, and building the high-performing team that will shape the future of global money movement.What You'll DoOwn the Engine: specific ownership of the end-to-end product roadmap for money movement. You will simplify complex payment flows, liquidity routing, and infrastructure challenges into a reliable API and user experience.Master the Fiat Rails: Optimize and expand our connectivity to traditional banking networks (ACH, RTP, Wires, FedNow). You ensure our off-ramps are just as fast and reliable as our on-ramps.Champion Safety &amp;amp; Compliance: Treat compliance as a product feature. You will ensure our rails adhere to global payment regulations, AML/KYC rules, and risk frameworks without stifling growth.Drive Partnerships: Build and manage relationships with liquidity providers, exchanges, and payment rails. You will translate external technical capabilities into internal product advantages.Execute with Rigor: Apply analytical rigor to every decision. You will set ambitious goals, measure success with data, and ensure Mesh operates with financial precision.Scale the Team: Recruit, mentor, and grow a world-class product team, fostering a culture of technical excellence, ownership, and customer obsession.Who You Are8+ years in Product Management with expert-level knowledge of traditional payment rails (ACH, Wires, RTP, Cards) and banking integrations.Fiat Fluency: You have deep experience connecting to the banking system. You know how money moves in the real world and how to solve for settlement times and reconciliation.Crypto Competency: You must understand the fundamentals of digital assets—wallets, exchanges, and stablecoins—and possess a strong desire to build the future of this technology.Technical Rigor: You can lead architecture discussions on API design, reconciliation, and ledger management.Strategic Problem Solving: You excel at solving ambiguous problems where legacy infrastructure clashes with new technology (e.g., "How do we offer instant availability on a slow rail?").Leadership:&amp;nbsp;Proven experience managing teams and influencing stakeholders across Engineering, Legal, Security and Compliance.Why You’ll Love It HereAt Mesh, you're not stepping into a typical role—you're joining a rocket ship in mid-liftoff. You'll tackle complex, meaningful problems that actually move an industry forward, working alongside a sharp, motivated team that moves quickly, collaborates deeply, and expects everyone to operate with ownership. This is the kind of place where you'll see your work ship fast, make real impact, and be able to point to something and say, "I built that." You'll grow fast, level up your skills, and get a front-row seat to how a high-growth company scales from the inside, with competitive comp, solid benefits, and room to stretch your craft all coming standard. If you're energized by building, learning, and shaping something big—this is where you'll want to be.How We Care For Our TeamWe believe great work happens when people feel valued and supported. That starts with competitive salary and equity that grows as you and the company grow, plus comprehensive health coverage for you and your family. We offer unlimited PTO—and we mean it. Take the time you need to recharge and show up at your best.We're invested in your growth with a dedicated budget for courses, conferences, and certifications. Work from wherever you're most productive with our remote-friendly approach, and count on having the top-tier tools and equipment you need to do exceptional work.Mesh Pay is committed to equal employment opportunities regardless of race, color, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, and non-job related physical or mental disability, or protected veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
@@ -708,70 +972,4 @@ To apply: https://weworkremotely.com/remote-jobs/attio-senior-product-engineer-b
 
 We are seeking a Senior Full Stack Developer to join our engineering team and contribute to the delivery of high-quality, scalable, and efficient software solutions. This role involves hands-on development across both frontend and backend components, refactoring and optimizing legacy code, addressing technical debt, and collaborating with cross-functional teams to improve overall system performance, stability, and user experience. You will work within a modern monorepo environment and play a key role in accelerating feature delivery. Key ResponsibilitiesDevelop and maintain frontend features using React 18, TypeScript, Redux Toolkit, and component-based architectures.Build and enhance backend services using Java 19, Spring Boot 3.x, and REST/GraphQL APIs.Refactor existing codebases, resolve bugs, and reduce technical debt.Work within a monorepo environment to contribute across multiple applications and shared libraries.Improve performance, code quality, and reliability across the stack.Troubleshoot and debug complex user interface and backend workflow issues.Collaborate with product, QA, and design teams to deliver high-impact functionality.Participate in code reviews, ensure best practices, and identify architectural improvement opportunities.Contribute to improving CI/CD pipelines, testing strategies, and release processes. RequirementsRequired Qualifications5+ years of experience as a Full Stack Developer or Software Engineer.Strong expertise in React 18+, TypeScript, Redux Toolkit, and modern frontend development patterns.Solid hands-on experience with Java 17/19, Spring Boot 3.x, REST APIs, and microservice development.Experience working with PostgreSQL, SQL queries, and relational data modeling.Familiarity with monorepos, shared component libraries, and modular architecture.Ability to debug complex UI and backend issues across multiple services.Strong understanding of code quality, testing, best practices, and performance optimization.Nice to HaveExperience with GraphQL (queries, resolvers, schema design).Familiarity with AWS services (S3, RDS, ECS, etc.).Exposure to microservices, distributed systems, and event-driven patterns.Experience contributing to CI/CD pipelines and DevOps workflows.Comfort working in fast-paced, iterative delivery environments.
 
-To apply: https://weworkremotely.com/remote-jobs/agentic-dream-senior-full-stack-developer-java</description><pubDate>Mon, 09 Mar 2026 20:32:36 +0000</pubDate></item><item><title>Kasama: Salesforce Cloud Commerce Full Stack Developer</title><link>https://weworkremotely.com/remote-jobs/kasama-salesforce-cloud-commerce-full-stack-developer</link><description>Headquarters: Philippines
-
-
- Work in close partnership with agile team members including project leads, engineers, analysts, and digital commerce stakeholders. Guide and support junior developers through mentoring and knowledge sharing. Build and maintain server-side logic, controllers, scripts, and integrations within Salesforce Commerce Cloud (SFCC). Produce clean, well-structured, and easily maintainable code to ensure long-term scalability and clarity for future contributors.Write performant solutions that can handle heavy traffic in an eCommerce environment. Integrate multiple systems by leveraging LINK cartridges or custom-built connections. Design and implement automated test coverage to safeguard core application functions. Document new features, workflows, and processes in a clear and structured manner. Diagnose and resolve issues across production and development environments, including integrations and scheduled jobs. Actively engage in agile ceremonies such as sprint planning, estimations, reviews, and retrospectives.   At least 3 years of professional experience in web application development. Minimum 3 years of hands-on expertise working with Salesforce Commerce Cloud (Demandware/SFCC). Strong proficiency in JavaScript, Node.js, and modern web technologies. Familiarity with REST APIs and proven experience building integrations with third-party systems. Knowledge of both relational and non-relational database structures. Solid understanding of version control, particularly Git workflows. Practical knowledge of Storefront Reference Architecture (SFRA). Skilled in using Business Manager for SFCC administration. Strong problem-solving mindset with the ability to analyze and resolve complex issues. Effective communication skills, both written and verbal. Team player who can collaborate with technical and non-technical stakeholders. A Salesforce Commerce Cloud Developer certification (or equivalent) is a plus.  Kasama offers a career experience defined by growth, impact, and global collaboration. We provide a dynamic, inclusive, and globally connected work environment where you can thrive personally and professionally.&amp;nbsp;Our commitment to continuous growth is reflected in providing access to ongoing learning opportunities, including sponsored training, certifications, and knowledge-sharing across international teams, to ensure you stay at the forefront of your field.&amp;nbsp;Our total rewards package includes attractive bonuses, paid leave, and comprehensive healthcare coverage for you and your family. We also prioritize well-being with employee wellness programs and performance incentives designed to help you perform at your best.
-
-To apply: https://weworkremotely.com/remote-jobs/kasama-salesforce-cloud-commerce-full-stack-developer</description><pubDate>Sun, 08 Mar 2026 20:46:01 +0000</pubDate></item><item><title>Appetiser: Part-Time Full-Stack Developer (Laravel and VueJS)</title><link>https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs</link><description>Headquarters: Colombo, 1, Sri Lanka
-
-
-Job description"Appetiser challenges me to give the best version of myself. I like how the company is transparent about its business model and anyone can contribute with an idea for its improvement. The culture within the team is unique and everyone is talented and skillful in their profession. We set goals guided by virtues created by the team rather than the traditional core values.” - Jeff Miralles / iOS DeveloperAre you someone who is DRIVING themselves to peak performance?Are you excited by HELPING PEOPLE create technology that impacts millions every day?If you answered YES to these questions, you may be a fit for Appetiser Apps. Join a high-performance team who are striving to go from an Australian market leader to a worldwide phenomenon. Our competitors cannot keep up with our technology, pace, and track record of successful clients.We need ambitious people like YOU to help us grow by 10X over the next 5 years.YOU WILL:BUILD beautiful websites using HTML and CSS to bring creative ideas to life.COLLABORATE with designers and developers to create web apps and backend mobile solutions.COORDINATE with teams to launch content, setting clear timelines and expectations.PLAN for the unexpected by preparing backup solutions to ensure site reliability.GROW and maintain the website by expanding its features and keeping content fresh.LEAD projects and, when needed, take charge of a team from start to finish.ADAPT quickly and take on new tasks as they arise.Job requirements​​The right fit for this role is DETERMINED and AMBITIOUS with: WORK ETHIC that leaves others in their dustRelentless desire to BECOME YOUR VERY BEST, and can prove it!DEEP KNOWLEDGE in technology&amp;nbsp;A TRACK RECORD of IT experience, with a strong background in mobile and web app development, plus a solid grasp of programming basics.BONUS: Past experience as a DEVELOPER, ENGINEER, or PRODUCT MANAGER.&amp;nbsp;Frontend/BackendProficient in using Git for version control and collaborationExperience in writing unit tests and building testable, maintainable codeSolid experience working with Stripe API and documentationUnderstanding of Agile software development practices (Scrum or Kanban)Reliable internet connection (minimum 30 Mbps download / 10 Mbps upload)Must own a personal laptop or desktop capable of handling development workloadsBackend:In-depth experience with Laravel 10 or later and a strong grasp of the Laravel ecosystemSolid knowledge of SQL schema design and SOLID principlesExperience with MySQL query optimization and performance profilingUnderstanding of scalable application architecture and design patternsProficient in developing RESTful APIs, including documentation using tools like Bruno, Insomnia, or PostmanFamiliarity with server setup and deployment, or experience using Amazon Web Services (AWS)Frontend:Proficient in HTML5, CSS3, JavaScript, and pre-processors like SassExperience with the Nuxt.js frameworkUnderstanding of modern frontend practices: composables, state management, component reuse, and responsive designBonus: Hands-on experience with Vitest, Cypress/Playwright, and TypeScriptJoin our team!Flexible Work Arrangements: The ability to work from anywhere in the world as long as you perform.Global Impact: Build products that reach users worldwide and truly make a difference in the world!Public Recognition: Track your achievements as you build a personal portfolio &amp;amp; track record.Join a Culture of Drivers: Become part of a team that’s striving to be their very best.&amp;nbsp;If this resonates with you, please apply today.P.S. We're hiring multiple individuals. If you want to recommend someone, please email us; an attractive referral bonus awaits!P.P.S. If you have any questions, email us at joinus@appetiser.com.auAll done!Your application has been successfully submitted!Other jobs
-
-To apply: https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs</description><pubDate>Sun, 08 Mar 2026 20:46:01 +0000</pubDate></item><item><title>A.Team: Senior Independent Software Developer ($90-$170/hr)</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</link><description>Headquarters: NYC and TLV
-    URL: https://build.a.team/wwrfastrackreferral
-
-
-Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under "how you heard about A·Team." No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue their craft with autonomy.Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.Not for:People seeking small gigs.Builders focused on simple WordPress/Wix/Squarespace sites.Early-career professionals and recent grads.Our Vision:A·Team is for the "unhirables" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.
-
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item><item><title>Speechify Inc: Software Engineer, macOS Core Product</title><link>https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-macos-core-product</link><description>Headquarters: Florida
-    URL: http://www.speechify.com
-
-
-Role Overview
-As a&amp;nbsp;Software Engineer on the macOS team, you’ll help build and scale Speechify’s core desktop experience for millions of users. You’ll own significant parts of our macOS app architecture, ship production-ready code, and collaborate closely with product, design, and engineering teams across the company.
-This is a key role for someone who thrives in a fast-paced startup environment, enjoys making high-impact product decisions, loves delightful user experiences, and has a passion for accessibility and performance.
-What You’ll Do
-
-Lead key engineering and product decisions for the macOS app.
-Write, test, and ship production-quality code that scales to millions of users.
-Maintain and evolve complex app architecture with a focus on performance and stability.
-Work within a cross-functional team, partnering with designers and PMs to shape features from concept to launch.
-Participate in product planning and roadmap discussions.
-Drive continuous improvement in code quality, CI/CD processes, and development workflows.
-
-You should have:
-
-Demonstrated experience shipping macOS (or related desktop) applications used by many customers.
-Strong engineering instincts with a deep focus on user experience.
-A strategic mindset for building great products—not just writing code.
-Ability to work quickly, decide what to build now vs. later, and iterate fast.
-Experience working in remote, distributed teams.
-
-Technical requirements:
-
-Swift / SwiftUI (macOS) proficiency.
-Solid understanding of&amp;nbsp;AppKit, macOS frameworks, and desktop-specific UI paradigms.
-Experience in multithreaded programming.
-Familiarity with CI/CD workflows (e.g., Xcode Cloud, GitHub Actions).
-Strong version control skills (Git), including branching strategies.
-
-What We offer:
-
-Impact &amp;amp; Ownership:&amp;nbsp;Build and influence a product used by millions globally.
-Remote First:&amp;nbsp;Flexible, asynchronous work culture.
-Growth &amp;amp; Leadership:&amp;nbsp;Flat org — leadership is earned by impact, not title.
-Collaborative Environment:&amp;nbsp;Work with smart, passionate engineers and designers.
-Competitive Compensation:&amp;nbsp;Market-aligned salary, bonus, and equity.
-
-Why Join Speechify?
-At Speechify, we ship fast, build for real users, and care deeply about quality and accessibility. You’ll work on products that change lives, and your contributions will shape both the product and the company.
-If this sounds like your kind of challenge, we’d love to hear from you.&amp;nbsp;Apply with your resume and links to your portfolio or GitHub!
-Think you’re a good fit for this job?&amp;nbsp;
-Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
-Not looking but know someone who would make a great fit?&amp;nbsp;
-Refer them!&amp;nbsp;
-Speechify is committed to a diverse and inclusive workplace.
-Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
-
-To apply: https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-macos-core-product</description><pubDate>Wed, 07 Jan 2026 12:37:47 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/agentic-dream-senior-full-stack-developer-java</description><pubDate>Mon, 09 Mar 2026 20:32:36 +0000</pubDate></item></channel></rss>
