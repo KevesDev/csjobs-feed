@@ -1,5 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Sticker Mule: Software engineer</title><link>https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2</link><description>Headquarters: New York, NY
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>OnTheGoSystems: Full-Stack PHP Developer </title><link>https://weworkremotely.com/remote-jobs/onthegosystems-full-stack-php-developer-1</link><description>Headquarters: Remote
+    URL: http://onthegosystems.com
+
+
+OnTheGoSystems is a profitable $12M fully remote company behind WPML, one of the most popular WordPress plugins in the world, powering over 1,5 million production websites and serving over 250,000 customers globally.
+We’re looking for a&amp;nbsp;Senior Full-Stack Developer with strong technical judgment, the ability to dive deep into complex problems and domains, and the ownership mindset to drive solutions from definition to production impact, using AI as a practical tool to support effective engineering work.
+You’ll design and build solutions used by customers worldwide, engage directly with real users, and continuously improve both functionality and user experience.
+What You’ll Do
+
+Own features end-to-end: from problem definition to production impact
+Use AI to understand, generate, review, and refine code efficiently
+Make architectural decisions and consider system-wide impact
+Identify gaps in requirements and define the right behavior
+Handle selected support cases that require a developer’s perspective, working directly with clients.
+Turn real user problems into product and UX/UI improvements
+Continuously improve what you build based on real usage
+Build a deep understanding of complex product and technical domains, identify root causes behind difficult problems, and work with the team to deliver clear, practical solutions.
+
+Indicators You’re a Good Fit
+
+You take responsibility for outcomes, not just task completion
+You work well with evolving requirements and take the initiative to define solutions
+You balance system-level thinking with a strong sense of how product and technical decisions affect the user experience.
+You can guide and validate AI-generated code effectively
+You’re comfortable engaging with users to resolve issues, digging into technical problems, and fixing root causes
+You proactively identify problems and improve both product and UX
+
+Technical Requirements
+
+Strong experience with PHP and JavaScript
+Solid experience with React (Redux is good to have)
+Experience with databases and system design
+Automated testing (PHPUnit or similar)
+End-to-end testing experience
+Git and version control
+WordPress experience (good-to-have)
+
+The role is about&amp;nbsp;owning problems,&amp;nbsp;shaping solutions, and making the product better in&amp;nbsp;real-world usage.
+If you’re looking for a role where you&amp;nbsp;own real outcomes&amp;nbsp;and operate at a&amp;nbsp;higher level than traditional development, we’d love to hear from you.
+Apply today to join OnTheGoSystems!
+
+To apply: https://weworkremotely.com/remote-jobs/onthegosystems-full-stack-php-developer-1</description><pubDate>Mon, 23 Mar 2026 13:46:27 +0000</pubDate></item><item><title>Sticker Mule: Software engineer</title><link>https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2</link><description>Headquarters: New York, NY
     URL: https://www.stickermule.com
 
 
@@ -764,61 +805,4 @@ Important Reminders:
 We kindly ask that you&amp;nbsp;submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process.
 Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying.
 
-To apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-firmware-engineer</description><pubDate>Fri, 13 Mar 2026 13:16:56 +0000</pubDate></item><item><title>ELECTE S.R.L.: Full-Stack Developer</title><link>https://weworkremotely.com/remote-jobs/electe-s-r-l-full-stack-developer</link><description>Headquarters: Milan, Italy
-    URL: https://www.electe.net/
-
-
-We are looking for a strong Full-Stack Developer to execute product features and contribute to our core platform development. Your focus will be clean, scalable implementation and high-quality execution. This role is ideal for a developer who enjoys building real product features end-to-end in a focused, no-bureaucracy environment.
-&amp;nbsp;
-Responsibilities
-
-Implement frontend features using TypeScript
-Develop backend services and APIs using Supabase / PostgreSQL
-Contribute to our Python-based AI &amp;amp; analytics engine (data logic, integrations)
-Write and optimize SQL queries and database logic
-Collaborate on feature specifications and translate them into clean technical execution
-Participate in code reviews and continuous improvement
-Work within modern serverless infrastructure (Vercel / Supabase)
-
-&amp;nbsp;
-Tech Stack
-
-Core Language: TypeScript
-Backend &amp;amp; Database: Supabase (PostgreSQL), PL/pgSQL
-AI Layer: Python
-Frontend &amp;amp; CMS: TypeScript, Webflow, Weglot API
-Infrastructure: Vercel / Netlify
-CI/CD: GitHub Actions
-
-&amp;nbsp;
-Requirements
-Must-have:
-
-Experience as a Full-Stack Developer (3+ years)
-Strong knowledge of TypeScript / JavaScript
-Solid experience with Python in backend, data, or analytics contexts
-Good understanding of PostgreSQL and data modeling
-Experience building and consuming APIs
-Ability to work independently and deliver clean production-ready code
-
-&amp;nbsp;
-Nice-to-have:
-
-Experience with analytics or AI-adjacent systems
-Hands-on experience with Supabase
-Knowledge of PL/pgSQL
-Experience using Webflow
-
-&amp;nbsp;
-What we offer
-
-€2,500–3,500/month (contractor)
-Full-time
-Remote-friendly
-Clear technical leadership and structured roadmap
-Small team, fast decision-making, no bureaucracy
-
-How to apply
-Please send your CV to anne.anderson@electe.net
-
-To apply: https://weworkremotely.com/remote-jobs/electe-s-r-l-full-stack-developer</description><pubDate>Fri, 13 Mar 2026 10:52:07 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-firmware-engineer</description><pubDate>Fri, 13 Mar 2026 13:16:56 +0000</pubDate></item></channel></rss>
