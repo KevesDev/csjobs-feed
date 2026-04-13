@@ -1,5 +1,137 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>OnTheGoSystems: Full-Stack PHP Developer </title><link>https://weworkremotely.com/remote-jobs/onthegosystems-full-stack-php-developer-1</link><description>Headquarters: Remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>LeadUp AI: Full-Stack Developer (Junior)</title><link>https://weworkremotely.com/remote-jobs/leadup-ai-full-stack-developer-junior</link><description>Headquarters: United States
+    URL: http://www.leadupgym.com
+
+
+The Role
+You build the majority of the user-facing application. You work from a detailed specification and follow patterns set by the senior developer. AI coding tools are a core part of your workflow.
+This is a fast-moving environment. You’ll have clear specs, but priorities will shift as the product meets real users. We need someone who treats that as normal.
+Why this is different from most junior roles: You're not joining a 50-person engineering team where you'll spend six months on a button. You work directly with the senior developer and the CTO - both hands-on builders. You'll get real code reviews, real architectural conversations, and real mentorship. The product is being built now, with pilot clients coming within months. Your code ships to actual users, fast.
+What You’ll Do
+
+
+Build the full user-facing web application: dashboards, reports, settings, onboarding
+
+
+Build admin views: user management, configuration, aggregate data
+
+
+Implement supporting systems: notifications, emails, exports
+
+
+Write tests against defined error scenarios
+
+
+Contribute to database schema design alongside the senior developer and the CTO
+
+
+Daily sync with senior developer; PR review on every merge
+
+
+Required
+
+
+1–3 years of professional development experience (internships and freelance count)
+
+
+React (or Next.js) for frontend, Python for backend (FastAPI experience is a strong plus)
+
+
+Basic PostgreSQL: can write queries, understands joins, can contribute to schema design
+
+
+Active AI coding tool user (Claude Code, Cursor, Copilot) — part of your daily workflow
+
+
+Can read a spec and ship features without hand-holding
+
+
+Comfortable with changing priorities
+
+
+Asks questions when unclear rather than guessing
+
+
+Solid written and spoken English
+
+
+Preferred
+
+
+FastAPI experience
+
+
+Tailwind CSS, responsive design
+
+
+Authentication flows (OAuth, JWT)
+
+
+Dashboard or report-style interfaces
+
+
+Portfolio or GitHub showing end-to-end projects
+
+
+Why Join
+You won’t guess what to build. Detailed spec. Your creativity goes into quality and speed.
+You’ll learn from strong people. Senior developer sets patterns. CTO works hands-on with the team.
+Your work ships fast. Pilot clients within months. Real users, real feedback.
+Ground floor. The product is being built now. If it succeeds, you were there from the beginning.
+Process
+1. Application review
+2. Technical conversation with the CTO
+3. Offer. If the interview goes well, we move fast
+
+To apply: https://weworkremotely.com/remote-jobs/leadup-ai-full-stack-developer-junior</description><pubDate>Wed, 25 Mar 2026 02:14:15 +0000</pubDate></item><item><title>Knack: Senior Frontend Engineer (React / Next.js) — Full-Time, Contract</title><link>https://weworkremotely.com/remote-jobs/knack-senior-frontend-engineer-react-next-js-full-time-contract</link><description>Headquarters: US
+    URL: https://knack.com
+
+
+About Knack
+Knack&amp;nbsp;is an AI-powered no-code software development platform enabling organizations to manage, analyze, and share business data. The no-code market is growing at over 30% annually and projected to be almost $200B by 2030. Founded in 2012, Knack has grown into a leading player in the no-code movement, enabling businesses, teams, and individuals to build custom applications without writing a single line of code. Serving a wide range of industries, from healthcare and education to finance and nonprofits, and organizations from small businesses to Fortune 500s, Knack enables users to boost data visibility and streamline operations. To date, the platform has powered 400,000 apps and stored more than 5 billion data records for over 15,000 customers. Its enterprise-grade functionality includes an AI-powered visual builder, robust data structures, user access controls, and automation capabilities, all delivered by a fully remote team committed to trust, continuous improvement, and measurable impact.
+The role:
+We’re hiring a brilliant Senior Front-end Engineer to help us meet the enormous challenges of building a world-class UI/UX for our new platform, built with React and Asterisk, our custom design system.
+We’re looking for someone who is not just a fast Typescript coder, but also&amp;nbsp;cares deeply about our customers' experiences, code quality, and architecture, can switch contexts easily, and enjoys diving into the deep end of challenging work.
+We seek applicants who are passionate about what matters to them and want to join a fun, close-knit team of high-quality individuals who, above all, enjoy working together!
+In this role, you will:
+
+Leverage React and Typescript&amp;nbsp;to craft clean, beautiful, maintainable, extensible, and secure code.
+Refactor and modernize our codebases to increase maintainability, performance, and rapid iteration.
+Drive innovative problem-solving on challenging engineering problems, including reusable and responsive UI components, app global state management, validations and error handling, theme management, rendering performance, and JS bundle optimizations.
+Collaborate with a broad set of stakeholders from Production Management to Customer Success&amp;nbsp;to enable well-informed business decision-making by bringing appropriate information to discussions, clarifying scope, accurately presenting tradeoffs, and communicating potential scope changes and alternatives with associated pros/cons.
+Be an&amp;nbsp;inspiring and supportive teammate&amp;nbsp;by following the engineering processes, communicating often and quickly, participating in PR reviews, pair programming, active feedback, idea generation, coaching, learning, and being a delightful human being.
+
+We're looking for someone who is:
+
+A problem solver.&amp;nbsp;You aren't afraid to go deep, experiment, learn on the fly, and do the work.
+Passionate about turning complex business requirements into elegant software that delights users.
+Flexible.&amp;nbsp;When given a UI/UX spec and requirements, you can achieve the resulting behavior, look, and feel, and help create the associated APIs to drive the backend data.
+Experienced as a meaningful contributor to a data-driven architecture at scale.
+Humble but opinionated.&amp;nbsp;You have lots of ideas, yet you are happy to shift directions when a better path emerges. You take your work much more seriously than you take yourself.
+An active collaborator.&amp;nbsp;You want feedback on your work early and often, and you enjoy a collaborative process because it challenges you to do better work.
+Hungry for meaningful work and space to do it. Knack is a complex product in a complex space, and the work is extremely challenging - but also deeply rewarding. Knack has a significant impact on the operations of thousands of companies and organizations.
+Comfortable in dynamic environments, making measurable progress amid competing priorities.
+Comfortable working both independently and as part of a&amp;nbsp;collaborative team environment.
+
+Qualifications:
+
+4+ years&amp;nbsp;of experience shipping enterprise-grade products.
+4+ years of extensive experience and proficiency in JavaScript, TypeScript,&amp;nbsp;React, and CSS.
+Experience building highly&amp;nbsp;reusable components&amp;nbsp;and writing unit/integration tests.
+Experience with API design and development.
+Experience with modern software engineering development and automation tools like Git and CI/CD pipelines.
+Excellent interpersonal and&amp;nbsp;communication skills, both written and verbal.
+
+Bonus points:
+
+Experience with AI technologies (CoPilot/Cursor, MCP server, agentic platform, etc.)
+Experience with Node.js, Tailwind, Tanstack, Zod, and Vue
+Experience with custom design systems and accessibility
+Experience in the no-code/low-code platforms
+A degree in computer science or software engineering
+
+
+To apply: https://weworkremotely.com/remote-jobs/knack-senior-frontend-engineer-react-next-js-full-time-contract</description><pubDate>Tue, 24 Mar 2026 19:28:57 +0000</pubDate></item><item><title>OnTheGoSystems: Full-Stack PHP Developer </title><link>https://weworkremotely.com/remote-jobs/onthegosystems-full-stack-php-developer-1</link><description>Headquarters: Remote
     URL: http://onthegosystems.com
 
 
@@ -682,127 +814,4 @@ To apply: https://weworkremotely.com/remote-jobs/confluent-senior-manager-produc
 
 We are looking for a Full Stack Developer with strong hands-on expertise in React and Node.js to design, develop, and deliver scalable web and SaaS-based applications. The ideal candidate has a proven track record of implementing real-world solutions, contributing across frontend and backend layers, and supporting systems through production delivery.The role requires a practical, delivery-focused engineer with solid technical fundamentals and experience working on modern web platforms Frontend DevelopmentDevelop and maintain modern web applications using React.Build reusable, well-structured components using hooks and functional components.Implement state management solutions (e.g., Redux / Redux Toolkit, Context API, Zustand or equivalent).Integrate API-driven data flows, handling loading, error, and edge cases properly.Implement client-side routing, form handling, and validation.Ensure UI performance, accessibility, and responsive behavior.Work with UI libraries or design systems (e.g., MUI, Ant Design, Tailwind, or custom systems).Backend DevelopmentDesign, build, and maintain backend services using Node.js (Express, Fastify, or NestJS).Develop RESTful APIs with proper validation, error handling, and security controls.Implement authentication, authorization, and role-based access control (RBAC) mechanisms.Integrate with relational databases and manage data access layers.SaaS &amp;amp; Platform DevelopmentContribute to the development of SaaS solutions, including multi-tenant and role-based systems.Support configuration-driven features and environment-based deployments.Participate in architectural discussions to ensure scalability and maintainability.Maintain code quality and reliability in production environments.Collaboration &amp;amp; DeliveryCollaborate with product managers, designers, and engineering teams.Participate in code reviews and follow engineering best practices.Take ownership of assigned features from development through deployment and support.Required QualificationsBachelor’s degree in Software Engineering, Computer Science, or a related IT field.3+ years of experience in full-stack development with a proven track record in building scalable production apps.Technical SkillsStrong hands-on experience with React (modern React, hooks, component-driven development).Practical experience with state management (Redux / Redux Toolkit, Context API, or equivalent).Strong hands-on experience with Node.js and backend frameworks (Express, Fastify, or NestJS).Proficiency in JavaScript; TypeScript is strongly preferred.Experience designing and consuming RESTful APIs.Solid understanding of relational databases (e.g., PostgreSQL, MySQL).Experience using ORMs or query builders (e.g., Prisma, TypeORM, Sequelize, Knex).Engineering PracticesProficiency with Git-based version control systems.Understanding of secure coding practices and API security fundamentals.Familiarity with containerization and deployment pipelines (e.g., Docker, CI/CD).Experience working with production environments and supporting deployed systems.Preferred QualificationsFamiliarity with LLM-based development environments or "vibe coding" methodologiesExperience building or contributing to SaaS platforms.Exposure to multi-tenant architectures and role-based systems.Experience with cloud platforms (AWS, Azure, GCP, or equivalent).Familiarity with frontend UI frameworks or design systems.Exposure to automated testing practices (unit and/or integration testing).Knowledge of data visualization libraries (e.g., D3.js, Chart.js, ECharts) is a plus.Arabic language handling and localization experience is an advantage.Core Competencies:Fast learner with a hacker mindset and strong product sensibility.Ability to iterate quickly, handle ambiguity, and pivot based on feedback.Strong communication and collaboration across technical and non-technical teams.Attention to quality and usability even in early-stage prototypes.Passion for innovation, experimentation, and building new things 
 
-To apply: https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js</description><pubDate>Sat, 14 Mar 2026 20:32:00 +0000</pubDate></item><item><title>ClickGUARD Inc.: AI Process Optimization Lead</title><link>https://weworkremotely.com/remote-jobs/clickguard-inc-ai-process-optimization-lead</link><description>Headquarters: United States
-    URL: https://www.clickguard.com/
-
-
-About the Job
-We’re looking for a curious and practical AI specialist to help optimize workflows across the company using AI. You will work with product, engineering, marketing, sales, and operations to identify inefficiencies and implement AI-driven solutions that save time and improve output.
-This is not a traditional analyst seat. You will operate as an internal consultant with a single mandate: find every process that can be improved or automated with AI, build the business case, and make it happen. You will own the full lifecycle from discovery through implementation and measurement.
-Key ResponsibilitiesWorkflow Discovery &amp;amp; Mapping
-
-Conduct structured interviews and shadow sessions with every team to document current workflows, tools, inputs, outputs, and pain points.
-Build and maintain a living process map of the organization
-Identify bottlenecks, repetitive tasks, and inefficiencies across workflows
-Prioritize automation opportunities based on ROI, complexity, and impact
-
-AI Solution Design &amp;amp; Implementation
-
-Evaluate, test, and recommend AI tools (LLMs, workflow automation platforms, custom integrations)
-Build solutions using APIs, orchestration tools, and custom scripts
-Develop reusable prompt frameworks, templates, and agent architectures for internal teams
-Integrate AI into internal systems using modern APIs (Claude, OpenAI, Gemini, etc.)
-Create internal documentation and training materials so teams can confidently adopt new AI-powered workflows.
-Ensure solutions are production-ready, scalable, and observable. 
-
-Measurement &amp;amp; Iteration
-
-Define success metrics for every automation initiative (time saved, error reduction, throughput increase, cost savings).
-Track adoption rates and gather qualitative feedback from end users to iterate on solutions.
-Produce monthly reports for leadership quantifying the cumulative impact of AI initiatives across the company.
-
-AI Landscape Intelligence 
-
-Stay current on emerging AI tools, models, techniques, and best practices relevant to SaaS operations.
-Maintain an internal knowledge base of evaluated tools, experiments, and lessons learned.
-Proactively surface new capabilities to leadership with concrete proposals for how they could apply at ClickGUARD.
-
-Required Skills &amp;amp; Experience
-
-Strong understanding of LLMs and prompt engineering
-Ability to create optimized, structured prompts for real use cases
-Hands-on experience with Claude, OpenAI, and/or Gemini APIs
-Comfortable working with APIs, basic scripting (Python preferred), and automation tools
-Clear communicator with a strong problem-solving mindset
-AI Safety &amp;amp; Security Awareness (Important)
-
-Preferred
-
-Experience with workflow automation tools (Zapier, Make, n8n, or similar).
-Familiarity with SaaS business models and common SaaS tooling (CRMs, support platforms, analytics tools).
-Exposure to process mapping or business analysis methodologies.
-Portfolio or demonstrated projects involving AI tool development, chatbot design, or automation prototyping.
-
-Logistics
-
-Remote, async-friendly team
-8 AM – 2 PM EST overlap required
-Full-time, long-term role
-
-How to apply
-If all of the above have piqued your interest and you believe you would be a good fit for the role, we invite you to submit a formal application by following the steps to ‘APPLY’ on this site.
-All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic.
-No recruiters:
-Please note that we are not accepting assistance from recruitment agencies at this time.
-
-To apply: https://weworkremotely.com/remote-jobs/clickguard-inc-ai-process-optimization-lead</description><pubDate>Fri, 13 Mar 2026 17:21:55 +0000</pubDate></item><item><title>Sanctuary Computer: Senior Firmware Engineer</title><link>https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-firmware-engineer</link><description>Headquarters: New York City
-    URL: https://sanctuary.computer
-
-
-We are recruiting a Sr. Firmware Engineer to contribute to our IoT teams
-Original job post link here
-About garden3d
-We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.
-Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp;amp; Gagosian.
-We’re the software team behind innovative products like The Light Phone &amp;amp; Mill, and we operate a global, decentralized community space collective called Index Space.
-We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.
-Who We're Looking For
-We're looking for a Senior Firmware Engineer who owns their work completely - someone who can walk into a hardware bring-up, assess the state of the firmware, and immediately know what needs to be done and in what order. You don't need a spec to get started and you don't need a manager to tell you when something's off.
-You've shipped real products. You know the difference between firmware that works in the lab and firmware that survives in the field — and you build for the latter from day one. You're comfortable making architectural decisions under ambiguity, and you document those decisions so the team can follow.
-In this role, you'll work across a range of embedded initiatives, from connectivity and OTA infrastructure to display integration and sensor pipelines, finding pragmatic, cost-effective solutions to hard real-time problems. You'll collaborate directly with hardware engineers, product teams, and clients, and you'll be expected to hold your own in all three rooms.
-Responsibilities will include:
-
-Owning firmware architecture decisions across one or more active product platforms
-Bringing up new hardware revisions and integrating peripheral drivers with minimal ramp time
-Monitoring deployed firmware in the field, triaging issues, and shipping fixes with urgency and discipline
-Designing and implementing wireless connectivity flows - pairing, OTA, reconnect logic, fleet health
-Reprocessing and validating firmware behavior across hardware variants and edge cases
-Integrating new sensors, actuators, and communication modules into existing firmware architectures
-Participating in code reviews and holding a high bar - style, correctness, and long-term maintainability
-Keeping close track of project scope, timeline, and technical risk - and surfacing problems before they become crises
-Communicating directly with clients to align deliverables with constraints when scope and reality diverge
-
-Who you are
-The person we’re looking for is happy, relaxed and easy to get along with. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart”, by carefully managing their workflow and staggering features that have dependencies intelligently — they prefer deep work but are OK coming up to the surface now and then for top level / strategic conversations.
-We believe people with backgrounds or interests in design, art, music, food or fashion tend to have a well rounded sense of design &amp;amp; quality — so a variety of hobbies or side projects is a big nice to have!
-Must Have Competencies:
-
-Writes production C/C++ at the register level — owns memory layout, interrupt handling, and real-time constraints without supervision
-Has shipped embedded firmware through DVT into mass production on at least one product with real end users
-Brings up new hardware independently: bootloader, BSP, device tree, peripheral drivers — no hardware team babysitting required
-Deep RTOS fluency (FreeRTOS preferred) — has designed and debugged scheduling, priority inversion, watchdog logic, and power state machines under real constraints
-Owns the full debug cycle: reads schematics, probes with lab instruments, isolates timing and concurrency bugs, writes the postmortem
-Fluent in low-level bus protocols (I2C, SPI, UART, GPIO) at the register level - not just framework calls
-Self-managing: sets accurate estimates, flags risk early, delivers without being chased, and owns scope from kickoff to close
-Client-facing: has communicated technical tradeoffs directly to non-engineers, in writing, in real time, and been the person the client calls
-
-Nice to Have Competencies:
-
-ESP32 at the IDF level. Not Arduino wrappers.
-Wireless stack ownership: pairing flows, reconnect logic, OTA update pipelines, fleet-scale failure recovery
-Linux embedded depth - Yocto/Buildroot, device tree authorship, kernel module development, systemd service design
-Display pipeline integration (HDMI/DSI/LVDS) and shipped UI on constrained hardware using Qt, LVGL, or similar
-Cloud connectivity experience - MQTT under load, AWS IoT or similar, has debugged a deployed device fleet
-Product management instincts: can translate a vague client need into a scoped technical deliverable
-Experience in a startup or agency environment where specs are loose and timelines are tight
-USA based preferred for collaboration, but not a strict requirement
-
-Compensation
-The pay scale in on a contract basis, ranging**$150-200k/year** based on experience.
-How we interview:
-Our interview process starts with a call where you get to meet a few members of our team. From there we’ll ask appropriate candidates to take part in a technical exercise which helps illustrate skill level and comfort.
-Important Reminders:
-We kindly ask that you&amp;nbsp;submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process.
-Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying.
-
-To apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-firmware-engineer</description><pubDate>Fri, 13 Mar 2026 13:16:56 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js</description><pubDate>Sat, 14 Mar 2026 20:32:00 +0000</pubDate></item></channel></rss>
