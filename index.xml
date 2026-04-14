@@ -1,5 +1,119 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>LeadUp AI: Full-Stack Developer (Junior)</title><link>https://weworkremotely.com/remote-jobs/leadup-ai-full-stack-developer-junior</link><description>Headquarters: United States
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Cue: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/cue-senior-software-engineer</link><description>Headquarters: Copenhagen, Denmark
+    URL: https://getcue.com
+
+
+Senior Software Engineer
+About the Role
+We're looking for a Senior Software Engineer who wants to own problem spaces, not just complete tasks. You'll be pointed at areas like "bank reconciliation for legacy ERP customers" and expected to figure out what to build, how to build it, and ship it. You'll make technical decisions that set precedents and shape the systems future engineers inherit.
+This is a role for someone who thrives in ambiguity. We won't hand you detailed specs — we'll share user problems and what we know, and trust you to go figure it out.
+What You'll Do
+
+Own entire problem spaces end-to-end: from understanding the user problem to shipping the solution
+Make meaningful technical decisions — choosing patterns, setting architectural direction, and building systems that last
+Work autonomously with minimal oversight, identifying what to build next rather than waiting to be told
+Ship frequently and iterate based on real usage, not theoretical perfection
+Communicate decisions and progress clearly in writing, working async-first across the team
+
+What We're Looking For
+You're a great fit if you:
+
+Treat the product like it's yours — you don't wait for permission to fix something or build something that needs building
+Think about the people using what you build, and ship useful over elegant
+Communicate well in writing and stay productive without needing constant real-time feedback
+Get energized by unclear problems — you ask clarifying questions and move forward, rather than stalling
+Have picked up new languages, frameworks, and domains throughout your career and enjoy doing so
+
+Technical Requirements
+
+Solid backend fundamentals — you've built and shipped production systems
+Data integration experience across APIs, webhooks, file ingestion, ETL, or similar
+Strong SQL and relational database skills
+
+Nice to Have
+
+Workflow orchestration experience (Airflow, Prefect, LangGraph, or similar)
+Graph database or complex data modeling experience
+Previous early-stage startup experience
+LLM/agent experience — tool-use patterns, agents that call APIs, document processing
+Production agent ops experience — evals, tracing, observability, prompt versioning
+
+Our Stack (All Learnable)
+
+Golang (backend — Go monolith architecture)
+Vue/Nuxt (dedicated SSR frontend, though this role is backend-heavy)
+GCP, PostgreSQL
+Agent orchestration frameworks (e.g., LangGraph)
+
+We care far more about your ability and willingness to learn than whether you already know our exact stack.
+What Success Looks Like
+In your first 90 days, you'll have:
+
+Shipped multiple features to production
+Started identifying what to build next on your own
+Made technical decisions that improved the product — including ones we might not have thought of
+Earned the trust to own a workstream independently
+Established at least one pattern or practice that makes the codebase better
+
+
+To apply: https://weworkremotely.com/remote-jobs/cue-senior-software-engineer</description><pubDate>Wed, 25 Mar 2026 20:21:42 +0000</pubDate></item><item><title>Aktor AI: (Senior) AI Solutions Engineer</title><link>https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer</link><description>Headquarters: Athens, Greece
+    URL: https://aktor.ai
+
+
+We are hiring a (Senior) AI Solutions Engineer to join our AI engineering team remotely and help us build, harden, and scale AI agents.
+The Role
+This is a hands-on engineering role at the frontier of AI-augmented software development. You will design, build, and ship production AI agents, but the way you build them may look different from what you’re used to.
+Our engineers work heavily with AI coding assistants and autonomous agent tooling. The craft has shifted: writing every line yourself matters less than knowing&amp;nbsp;what good looks like. Making sound architectural decisions, maintaining quality standards, and steering AI-generated output toward well-structured, maintainable systems. You will spend more time thinking, reviewing, and deciding than typing.
+That said, you still need strong engineering fundamentals. You can’t evaluate what you don’t understand. The best engineers in this new paradigm are the ones who know&amp;nbsp;when the AI is wrong&amp;nbsp;and can articulate&amp;nbsp;why.
+What You’ll Do
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Build and ship AI agents&amp;nbsp;end-to-end: from scoping and prototyping through optimisation and production rollout.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Architect for reliability:&amp;nbsp;design observability, logging, guardrails, evaluation pipelines, cost controls, and human-in-the-loop flows.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Integrate with enterprise systems:&amp;nbsp;build connectors and retrieval pipelines to data stores, APIs, and line-of-business applications.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Review and elevate:&amp;nbsp;review AI-generated code and designs with a critical eye. Challenge what doesn’t meet the bar, accept what does.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Own quality:&amp;nbsp;write and maintain evaluation datasets, define accuracy targets, and treat failure modes as first-class engineering concerns.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Document clearly:&amp;nbsp;produce designs, runbooks, and technical documentation that others can follow.
+What We’re Looking For
+Engineering Judgment Over Stack Knowledge
+We care far less about which specific frameworks you’ve used and far more about whether you make good decisions. Technologies change fast; judgment compounds.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Strong software engineering fundamentals.&amp;nbsp;You understand how systems are built, how they break, and how to keep them simple.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience with LLM-based systems&amp;nbsp;in production or near-production settings (agents, RAG, automation, orchestration).
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;A product-minded approach.&amp;nbsp;You think about what you’re building and why, not just how. You understand that the goal is a working solution that serves a business need.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Architectural taste.&amp;nbsp;You can look at a system design, whether you wrote it or an AI generated it, and tell whether it’s sound, over-engineered, or cutting corners that will cost you later.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Comfort with ambiguity.&amp;nbsp;AI systems don’t behave like deterministic code. You’re comfortable with probabilistic outputs, evaluation-driven development, and iterative refinement.
+Levels
+Engineer&amp;nbsp;(typically 2–5 years total; 1+ with AI systems)
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ships features and integrations independently.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Implements evaluation datasets, prompt engineering, and observability.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Contributes to design discussions and follows established guidelines.
+Senior Engineer&amp;nbsp;(typically 6–10+ years; 2+ leading AI deliveries)
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Leads end-to-end implementations and makes architecture choices.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Designs data/retrieval schemas, instrumentation, and cost/latency budgets.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Sets quality bars and mentors teammates.
+Nice to Have:
+Experience with agent orchestration frameworks, vector/graph databases, Postgres/Redis, tracing/observability platforms, Azure, or ERP integrations. Specific tools are flexible; equivalent experience is welcome.
+Professional Qualities
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;High ownership and follow-through.&amp;nbsp;You don’t wait to be told what to do next. You see what needs doing and you do it.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Pragmatic and quality-conscious.&amp;nbsp;You use the simplest approach that solves the problem well. You don’t gold-plate, but you also don’t take shortcuts that create future pain, especially when the cost of doing it right is marginal.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Reliability-first mindset.&amp;nbsp;You treat guardrails, evaluation, and failure handling as core engineering work, not afterthoughts.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Clear communicator.&amp;nbsp;You write crisp messages, document decisions, and can explain technical trade-offs plainly.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Dedicated and self-driven.&amp;nbsp;You’re comfortable with autonomy and manage your own time effectively. You’re the kind of person who, when something is running, keeps an eye on it, not because someone asked, but because you care about the outcome.
+What We Offer
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Competitive compensation and benefits.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The opportunity to build production AI agents used by real businesses, measured by tangible KPIs.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; A modern, AI-native engineering environment where you’ll work with cutting-edge tooling daily.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Autonomy to shape engineering standards and best practices.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Career growth with executive visibility in a large, impact-oriented group.
+Hiring Process
+1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Initial interview: a structured conversation to understand your experience, thinking, and motivations.
+2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Paid collaborative project: instead of a contrived take-home test, you’ll work on a real-scope assignment alongside other candidates over a ~2-week window, so you can fit it around your schedule. Top contributions will be awarded cash prizes. This is the core of our evaluation. We want to see how you work, not just how you talk about working.
+3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Final interview: a conversation with the CEO of Aktor AI and the Head of Solution Delivery.
+Our hiring process uses AI-assisted tools for application screening and includes an AI-powered interview stage. All decisions are made by people.
+Details
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Location:&amp;nbsp;100% Remote, in Europe or Asia.
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Reports to:&amp;nbsp;Head of Solution Delivery
+•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Collaboration:&amp;nbsp;You’ll work closely with the Athens-based engineering and solution delivery teams asynchronously, with regular video check-ins.
+
+To apply: https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer</description><pubDate>Wed, 25 Mar 2026 09:35:22 +0000</pubDate></item><item><title>LeadUp AI: Full-Stack Developer (Junior)</title><link>https://weworkremotely.com/remote-jobs/leadup-ai-full-stack-developer-junior</link><description>Headquarters: United States
     URL: http://www.leadupgym.com
 
 
@@ -728,90 +842,9 @@ Design novel AI UX patterns that integrate into our customers workflows and to
 &amp;nbsp;
 
 
-To apply: https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer</description><pubDate>Tue, 17 Mar 2026 06:05:35 +0000</pubDate></item><item><title>Rare Days: Full-Stack Engineering Lead</title><link>https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead</link><description>Headquarters: Vancouver
-    URL: http://raredays.com
-
-
-About Rare Days
-We're a multi-disciplinary digital product agency obsessed with helping creators build lasting legacies. Since 2020, we've built products at the sweet spot where content meets commerce, empowering established creators and content-led businesses to transform their passion into sustainable success.
-&amp;nbsp;
-Our clients include world-renowned creators like Esther Perel, Dr. Becky, Colin &amp;amp; Samir, and Ryan Trahan, as well as organizations like Airbnb, Notion, and Ziff Davis. We specialize in community-first platforms, membership tools, and creator infrastructure — and we build with care, context, and a clear point of view.
-&amp;nbsp;
-We’re a fully remote team based in Canada and are open to candidates able to work within 4 hours of PST.
-&amp;nbsp;
-About the Role
-We are hiring a Lead Engineer with deep backend expertise and strong fluency across modern web stacks. This role is ideal for someone who thrives on technical challenges, loves building scalable systems, and enjoys collaborating with product, design, and client teams.
-&amp;nbsp;
-You’ll work both independently and with small teams, depending on the project, write production code, and play a key role in steering technical direction.
-&amp;nbsp;
-Core Responsibilities
-Technical Leadership &amp;amp; Development
-
-Oversee day-to-day engineering work, keeping the team unblocked and aligned on priorities
-Architect scalable backend systems using languages and frameworks such as Go and Python. Experience with Kotlin is a plus.
-Contribute to frontend work using React and TypeScript as needed
-Drive decision-making around performance, scalability, and system design
-Write clean, maintainable code and ensure engineering best practices are followed
-Lead technical documentation, sprint planning, and ongoing delivery
-
-&amp;nbsp;
-Collaboration &amp;amp; Client Engagement
-
-Partner with product managers and designers to define and scope solutions
-Lead client-facing conversations around technical strategy and progress
-Present work during demos, milestone check-ins, and roadmap reviews
-Balance business needs with technical feasibility in collaborative planning sessions
-
-&amp;nbsp;
-Team Mentorship &amp;amp; Culture
-
-Provide regular feedback and guidance to engineers
-Contribute to hiring, onboarding, and leveling processes
-Help foster a strong, inclusive engineering culture rooted in transparency and accountability
-Identify opportunities to improve our tools, processes, and technical standards
-
-&amp;nbsp;
-What We’re Looking For
-
-7+ years of professional engineering experience
-English proficiency
-Experience with Go and Python, including system architecture and performance optimization, is required. Kotlin experience is a plus.
-Strong knowledge of React, NextJS and Typescript
-Backend experience with APIs, databases (SQL/NoSQL), cloud services (AWS, GCP), and distributed systems
-You can communicate effectively with both technical and non-technical audiences and are comfortable leading presentations and deep-dive technical discussions
-You understand how to compromise on business trade-offs and technical decisions
-You can design and communicate robust, scalable technical solutions that our internal and client teams understand and want to work on, and you understand how to achieve compromise on business trade-offs and technical decisions.
-You're comfortable dealing with uncertainty and are capable of disambiguating complex scope and domains to your team
-You care about people and are motivated to help your team members achieve success on projects.
-
-&amp;nbsp;
-Bonus Skills
-
-Experience building creator platforms, media tools, or community-driven products
-Familiarity with GraphQL, gRPC, or microservice infrastructure
-Interest in developer experience, automation, or DevOps tooling
-
-&amp;nbsp;
-Compensation and Benefits
-
-Extended health benefits for Canadian employees
-Flexible working hours and a remote-friendly culture
-Flexible time-off allowance for vacation, sick days, and personal time as needed. We actively encourage team members to make use of this time-off policy
-The opportunity to work with well-known creators and brands, including Esther Perel, Colin &amp;amp; Samir, Shan Boodram, and Sophia Amoruso
-
-&amp;nbsp;
-As an organization headquartered in British Columbia, we’re required to post the salary range if the position is to be filled locally. This range may be higher or lower for candidates based outside of BC, and actual pay will take into account the candidate’s experience and competencies.
-&amp;nbsp;
-We understand that women and other marginalized groups may hesitate to apply for roles unless they meet every qualification. If this role excites you, but you don’t meet every requirement, we encourage you to apply anyway! We’re proud to be an equal opportunity employer committed to inclusion, diversity, and hiring exceptional talent from around the world.
-
-To apply: https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead</description><pubDate>Tue, 17 Mar 2026 00:18:00 +0000</pubDate></item><item><title>Confluent: Senior Manager, Product-Led Growth Strategy and Operations</title><link>https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations</link><description>Headquarters: Remote, California
+To apply: https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer</description><pubDate>Tue, 17 Mar 2026 06:05:35 +0000</pubDate></item><item><title>Confluent: Senior Manager, Product-Led Growth Strategy and Operations</title><link>https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations</link><description>Headquarters: Remote, California
 
 
 We’re not just building better tech. We’re rewriting how data moves and what the world can do with it. With Confluent, data doesn’t sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them.It takes a certain kind of person to join this team. Those who ask hard questions, give honest feedback, and show up for each other. No egos, no solo acts. Just smart, curious humans pushing toward something bigger, together.One Confluent. One Team. One Data Streaming Platform.About the Role:We are hiring a Senior Manager to own Product-Led Growth (PLG) strategy and operating cadence across acquisition, activation, and high-value customer growth. This is a senior individual contributor role designed to operate as an internal strategy and operations owner, with direct executive exposure and broad cross-functional influence.This role goes beyond analytics or reporting. You will be accountable for defining the right growth strategy, structuring ambiguous problems, aligning cross-functional initiatives, and ensuring execution translates into decisions and measurable business outcomes. You will partner closely with leaders across Product, Engineering, Marketing, and Sales, with regular access to senior decision-making forums.You will play a central part in PLG executive communications. You will synthesize insights, progress, and tradeoffs into clear, executive-ready narratives, and help align PLG initiatives with broader company priorities. You will work closely with Product to inform roadmap prioritization and with Marketing and Sales to shape go-to-market strategy, campaign focus, and operating plans.Owning this role also requires the ability to establish ground truth in service of strategic decision-making. You are comfortable getting hands-on with data and materials when needed, including writing SQL queries, building structured models in spreadsheets, and developing executive-ready slide materials. You will be accountable for analyses being delivered with rigor and speed, whether by executing directly or by partnering with data science and analytics teams to deliver decision-ready outputs.This role is well-suited for candidates from consulting, strategy, or similar backgrounds who are looking to own a complex business problem end-to-end within an operating environment.What You Will Do:Own PLG Strategy and Planning Serve as the primary owner of PLG strategy and operating priorities across acquisition, activation, monetization, and high-value customer growth.Lead inputs into annual and quarterly planning, including target setting, scenario analysis, and operating tradeoffs.Partner with senior PLG leadership to drive prioritization, investment decisions, and alignment across initiatives.Drive Executive Decision Support and CommunicationsOwn preparation for PLG executive reviews and retrospectives, including synthesis of insights, storyline development, and rigorous, executive-ready slide materials.Translate complex analysis into clear, decision-oriented narratives that inform leadership direction and resource allocation.Act as a thought partner to senior stakeholders, shaping both problem framing and solution direction.Inform Product and GTM StrategyPartner closely with Product to inform roadmap priorities based on growth insights, customer behavior, and activation patterns.Work with Marketing and Sales to shape go-to-market strategy, campaign focus, and execution plans that support PLG objectives.Lead Funnel Performance and Growth DiagnosticsDiagnose end-to-end performance across acquisition and activation funnels, identifying root causes and sizing opportunities for improvement.Establish a structured, hypothesis-driven approach to experimentation and performance improvement.Ensure learnings are operationalized and reflected in roadmap, GTM, or execution changes.Orchestrate Cross-Functional ExecutionDrive progress across Product, Engineering, Marketing, and Sales by managing dependencies, sequencing, and timelines.Ensure unresolved dependencies and blockers are elevated to the appropriate level, with clear options and recommendations to maintain forward progress.Own Measurement and Insight FoundationsEnsure PLG metrics and analyses support leadership decision-making and prioritization.Guide the evolution from volume-based metrics toward value, usage, and customer-level outcomes.Partner with data and engineering teams to ensure analytical rigor and consistent definitions.Own analytical outcomes end-to-end, determining when to go deep personally and when to partner with data science or analytics teams to deliver rigorous, decision-ready analyses.What You Will Bring:Experience owning strategy, growth, or operating initiatives with accountability for business outcomes, ideally in a high-growth SaaS or technology environment.Demonstrated ability to structure ambiguous problems and drive work forward in complex, cross-functional settings.Strong analytical foundation, including comfort working directly with data, designing analyses, and evaluating experiments.Fluency in core analytical and communication tools, including SQL for data exploration, spreadsheet-based modeling, and structured slide development for executive audiences.Executive-level communication skills, including the ability to produce clear, rigorous, and detail-oriented slide materials.Comfort influencing without authority and operating with a high degree of ownership and autonomy.Ready to build what's next? Let’s get in motion.Come As You AreBelonging isn’t a perk here. It’s the baseline. We work across time zones and backgrounds, knowing the best ideas come from different perspectives. And we make space for everyone to lead, grow, and challenge what’s possible.We’re proud to be an equal opportunity workplace. Employment decisions are based on job-related criteria, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by law.
 
-To apply: https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations</description><pubDate>Sun, 15 Mar 2026 20:31:52 +0000</pubDate></item><item><title>Master-works: Full-stack Developer (React &amp; Node.js)</title><link>https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js</link><description>Headquarters: Egypt
-
-
-We are looking for a Full Stack Developer with strong hands-on expertise in React and Node.js to design, develop, and deliver scalable web and SaaS-based applications. The ideal candidate has a proven track record of implementing real-world solutions, contributing across frontend and backend layers, and supporting systems through production delivery.The role requires a practical, delivery-focused engineer with solid technical fundamentals and experience working on modern web platforms Frontend DevelopmentDevelop and maintain modern web applications using React.Build reusable, well-structured components using hooks and functional components.Implement state management solutions (e.g., Redux / Redux Toolkit, Context API, Zustand or equivalent).Integrate API-driven data flows, handling loading, error, and edge cases properly.Implement client-side routing, form handling, and validation.Ensure UI performance, accessibility, and responsive behavior.Work with UI libraries or design systems (e.g., MUI, Ant Design, Tailwind, or custom systems).Backend DevelopmentDesign, build, and maintain backend services using Node.js (Express, Fastify, or NestJS).Develop RESTful APIs with proper validation, error handling, and security controls.Implement authentication, authorization, and role-based access control (RBAC) mechanisms.Integrate with relational databases and manage data access layers.SaaS &amp;amp; Platform DevelopmentContribute to the development of SaaS solutions, including multi-tenant and role-based systems.Support configuration-driven features and environment-based deployments.Participate in architectural discussions to ensure scalability and maintainability.Maintain code quality and reliability in production environments.Collaboration &amp;amp; DeliveryCollaborate with product managers, designers, and engineering teams.Participate in code reviews and follow engineering best practices.Take ownership of assigned features from development through deployment and support.Required QualificationsBachelor’s degree in Software Engineering, Computer Science, or a related IT field.3+ years of experience in full-stack development with a proven track record in building scalable production apps.Technical SkillsStrong hands-on experience with React (modern React, hooks, component-driven development).Practical experience with state management (Redux / Redux Toolkit, Context API, or equivalent).Strong hands-on experience with Node.js and backend frameworks (Express, Fastify, or NestJS).Proficiency in JavaScript; TypeScript is strongly preferred.Experience designing and consuming RESTful APIs.Solid understanding of relational databases (e.g., PostgreSQL, MySQL).Experience using ORMs or query builders (e.g., Prisma, TypeORM, Sequelize, Knex).Engineering PracticesProficiency with Git-based version control systems.Understanding of secure coding practices and API security fundamentals.Familiarity with containerization and deployment pipelines (e.g., Docker, CI/CD).Experience working with production environments and supporting deployed systems.Preferred QualificationsFamiliarity with LLM-based development environments or "vibe coding" methodologiesExperience building or contributing to SaaS platforms.Exposure to multi-tenant architectures and role-based systems.Experience with cloud platforms (AWS, Azure, GCP, or equivalent).Familiarity with frontend UI frameworks or design systems.Exposure to automated testing practices (unit and/or integration testing).Knowledge of data visualization libraries (e.g., D3.js, Chart.js, ECharts) is a plus.Arabic language handling and localization experience is an advantage.Core Competencies:Fast learner with a hacker mindset and strong product sensibility.Ability to iterate quickly, handle ambiguity, and pivot based on feedback.Strong communication and collaboration across technical and non-technical teams.Attention to quality and usability even in early-stage prototypes.Passion for innovation, experimentation, and building new things 
-
-To apply: https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js</description><pubDate>Sat, 14 Mar 2026 20:32:00 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations</description><pubDate>Sun, 15 Mar 2026 20:31:52 +0000</pubDate></item></channel></rss>
