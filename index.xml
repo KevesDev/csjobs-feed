@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Cue: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/cue-senior-software-engineer</link><description>Headquarters: Copenhagen, Denmark
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>FINN: Lead Frontend Engineer</title><link>https://weworkremotely.com/remote-jobs/finn-lead-frontend-engineer</link><description>Headquarters: Singapore
+    URL: https://www.finn-app.com/
+
+
+Are you ready to shape the financial future of a rapidly growing fintech that’s transforming lives across Southeast Asia and beyond?
+We’re not your typical company - we’re a rocketship! At FINN, established in 2022, by experienced serial founders - we’re on a mission to transform financial well-being for underbanked employees. Our product provides early wage access, financial education, budgeting tools, part-time job opportunities, and micro-insurances. We've hit product-market fit with explosive growth during the past 12 months.
+We need a true Frontend Lead who stays deep in the code but also guides the frontend team (currently 2–3 devs, growing).
+This is a heavily hands-on role (80–90% coding) with light people leadership (1:1s, code-review ownership, tech direction, mentoring). If you enjoy both building pixel-perfect features yourself and helping others level up, this is for you. Future growth into Head of Frontend is realistic for the right person.
+What You’ll Own
+
+Own the entire frontend codebase (Angular 17+, TypeScript, Ionic/Capacitor, Firebase)
+Ship our native Android app via Capacitor (and add iOS down the road)
+Turn Figma designs into responsive, performant, pixel-perfect UIs
+Architect reusable components and maintain a clean, scalable codebase
+Drive performance optimization (rendering, lazy loading, bundle size, API efficiency)
+Set up and maintain testing strategy (unit with Jest, e2e with Playwright/Cypress)
+Run feature-flag and A/B testing flows
+Lead code reviews and enforce best practices
+Run weekly 1:1s, help unblock the team, and keep frontend velocity high
+Collaborate directly with backend, product, and design on a daily basis
+Keep us up to date with modern Angular/Ionic ecosystem practices
+
+What You Bring
+
+6+ years frontend development, at least 3–4 years deep with modern Angular working on high-traffic consumer platforms.
+Experience in cross-platform frameworks - ideally Capacitor/Ionic.
+Strong TypeScript, RxJS, NgRx (or similar state management)
+Excellent feel for product &amp;amp; design – you can open Figma, spot inconsistencies, and implement pixel-perfect UIs without hand-holding
+Performance optimization experience (Lighthouse 95+, bundle analysis, lazy loading, memoization, etc.)
+Testing discipline (Jest + Testing Library, Playwright/Cypress)
+Experience mentoring or technically leading small frontend teams (formal or informal)
+Fluent English and strong communication skills
+Reliable internet &amp;amp; hardware, able to work ≥35h/week with decent overlap with UTC+8 (Singapore time)
+
+Nice-to-Have
+
+Proven track record shipping production Ionic/Capacitor apps to App Store &amp;amp; Play Store
+Previous work with financial services APIs or regulated environments
+Firebase expertise (Auth, Firestore, Cloud Functions, Hosting)
+Lottie / advanced animations
+CI/CD with GitHub Actions or similar
+Playwright for component &amp;amp; e2e testing
+Experience with Tailwind, Storybook, or Chromatic
+
+Why You’ll Love It Here
+
+Real ownership – you will literally shape the entire product experience
+No corporate nonsense, fast decision making
+Competitive salary + meaningful equity (early stage package)
+Fully remote, flexible hours (as long as you have good overlap with Asia timezones)
+Small, high-caliber team that values clean code and shipping fast
+
+If you live and breathe Angular/Ionic, care deeply about product and UX, and want to lead while staying hands-on, let’s talk.
+
+To apply: https://weworkremotely.com/remote-jobs/finn-lead-frontend-engineer</description><pubDate>Wed, 25 Mar 2026 21:35:33 +0000</pubDate></item><item><title>Cue: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/cue-senior-software-engineer</link><description>Headquarters: Copenhagen, Denmark
     URL: https://getcue.com
 
 
@@ -842,9 +896,4 @@ Design novel AI UX patterns that integrate into our customers workflows and to
 &amp;nbsp;
 
 
-To apply: https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer</description><pubDate>Tue, 17 Mar 2026 06:05:35 +0000</pubDate></item><item><title>Confluent: Senior Manager, Product-Led Growth Strategy and Operations</title><link>https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations</link><description>Headquarters: Remote, California
-
-
-We’re not just building better tech. We’re rewriting how data moves and what the world can do with it. With Confluent, data doesn’t sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them.It takes a certain kind of person to join this team. Those who ask hard questions, give honest feedback, and show up for each other. No egos, no solo acts. Just smart, curious humans pushing toward something bigger, together.One Confluent. One Team. One Data Streaming Platform.About the Role:We are hiring a Senior Manager to own Product-Led Growth (PLG) strategy and operating cadence across acquisition, activation, and high-value customer growth. This is a senior individual contributor role designed to operate as an internal strategy and operations owner, with direct executive exposure and broad cross-functional influence.This role goes beyond analytics or reporting. You will be accountable for defining the right growth strategy, structuring ambiguous problems, aligning cross-functional initiatives, and ensuring execution translates into decisions and measurable business outcomes. You will partner closely with leaders across Product, Engineering, Marketing, and Sales, with regular access to senior decision-making forums.You will play a central part in PLG executive communications. You will synthesize insights, progress, and tradeoffs into clear, executive-ready narratives, and help align PLG initiatives with broader company priorities. You will work closely with Product to inform roadmap prioritization and with Marketing and Sales to shape go-to-market strategy, campaign focus, and operating plans.Owning this role also requires the ability to establish ground truth in service of strategic decision-making. You are comfortable getting hands-on with data and materials when needed, including writing SQL queries, building structured models in spreadsheets, and developing executive-ready slide materials. You will be accountable for analyses being delivered with rigor and speed, whether by executing directly or by partnering with data science and analytics teams to deliver decision-ready outputs.This role is well-suited for candidates from consulting, strategy, or similar backgrounds who are looking to own a complex business problem end-to-end within an operating environment.What You Will Do:Own PLG Strategy and Planning Serve as the primary owner of PLG strategy and operating priorities across acquisition, activation, monetization, and high-value customer growth.Lead inputs into annual and quarterly planning, including target setting, scenario analysis, and operating tradeoffs.Partner with senior PLG leadership to drive prioritization, investment decisions, and alignment across initiatives.Drive Executive Decision Support and CommunicationsOwn preparation for PLG executive reviews and retrospectives, including synthesis of insights, storyline development, and rigorous, executive-ready slide materials.Translate complex analysis into clear, decision-oriented narratives that inform leadership direction and resource allocation.Act as a thought partner to senior stakeholders, shaping both problem framing and solution direction.Inform Product and GTM StrategyPartner closely with Product to inform roadmap priorities based on growth insights, customer behavior, and activation patterns.Work with Marketing and Sales to shape go-to-market strategy, campaign focus, and execution plans that support PLG objectives.Lead Funnel Performance and Growth DiagnosticsDiagnose end-to-end performance across acquisition and activation funnels, identifying root causes and sizing opportunities for improvement.Establish a structured, hypothesis-driven approach to experimentation and performance improvement.Ensure learnings are operationalized and reflected in roadmap, GTM, or execution changes.Orchestrate Cross-Functional ExecutionDrive progress across Product, Engineering, Marketing, and Sales by managing dependencies, sequencing, and timelines.Ensure unresolved dependencies and blockers are elevated to the appropriate level, with clear options and recommendations to maintain forward progress.Own Measurement and Insight FoundationsEnsure PLG metrics and analyses support leadership decision-making and prioritization.Guide the evolution from volume-based metrics toward value, usage, and customer-level outcomes.Partner with data and engineering teams to ensure analytical rigor and consistent definitions.Own analytical outcomes end-to-end, determining when to go deep personally and when to partner with data science or analytics teams to deliver rigorous, decision-ready analyses.What You Will Bring:Experience owning strategy, growth, or operating initiatives with accountability for business outcomes, ideally in a high-growth SaaS or technology environment.Demonstrated ability to structure ambiguous problems and drive work forward in complex, cross-functional settings.Strong analytical foundation, including comfort working directly with data, designing analyses, and evaluating experiments.Fluency in core analytical and communication tools, including SQL for data exploration, spreadsheet-based modeling, and structured slide development for executive audiences.Executive-level communication skills, including the ability to produce clear, rigorous, and detail-oriented slide materials.Comfort influencing without authority and operating with a high degree of ownership and autonomy.Ready to build what's next? Let’s get in motion.Come As You AreBelonging isn’t a perk here. It’s the baseline. We work across time zones and backgrounds, knowing the best ideas come from different perspectives. And we make space for everyone to lead, grow, and challenge what’s possible.We’re proud to be an equal opportunity workplace. Employment decisions are based on job-related criteria, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by law.
-
-To apply: https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations</description><pubDate>Sun, 15 Mar 2026 20:31:52 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer</description><pubDate>Tue, 17 Mar 2026 06:05:35 +0000</pubDate></item></channel></rss>
