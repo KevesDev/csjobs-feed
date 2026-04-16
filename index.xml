@@ -1,5 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>FINN: Lead Frontend Engineer</title><link>https://weworkremotely.com/remote-jobs/finn-lead-frontend-engineer</link><description>Headquarters: Singapore
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Cortes 23: Software Engineer</title><link>https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-4</link><description>Headquarters: Remote
+    URL: https://cortes23.com
+
+
+
+Please apply with the "Apply Now" button below. Applications not sent to the WWR email will not be considered.
+&amp;nbsp;
+About the role
+&amp;nbsp;
+We’re looking for a software engineer who wants to build end-to-end. You’ll report directly to the CTO and work across our React/Next.js frontend and TypeScript backend to ship new features into production. Occasionally, you’ll work with Python to build data pipeline integrations with our partners.
+
+What you’ll do
+
+Implement new product features end-to-end in React, TypeScript, and Next.js (from data layer to UI).
+Work with well-defined specifications, so you can focus on building instead of untangling unclear requirements.
+Extend and reuse existing modules and components, keeping things consistent and maintainable.
+Write tests and maintain code quality, ensuring reliability and readability.
+Participate in CI/CD workflows, helping ensure smooth, repeatable deployments.
+
+
+What we’re looking for
+
+3–5+ years of professional software engineering experience.
+Strong experience with React and TypeScript, comfortable with modern patterns and tooling.
+Hands-on experience with Next.js, including routing and data fetching.
+Experience with CI/CD pipelines and shipping code to production.
+Proven track record of deploying software and owning features through release.
+Clear, direct communication and a builder mindset: you like taking a specification and making it real.
+
+
+Nice to have
+
+Experience with serverless or cloud-native architectures.
+Experience working in a JavaScript/TypeScript monorepo.
+Familiarity with infrastructure-as-code or deployment automation tools.
+Experience with Pulumi (with SST) and the event-driven architecture.
+Familiarity with Python and data pipelines.
+
+
+&amp;nbsp;
+What you’ll get from us
+
+Remote forever.
+Casual work environment.
+Opportunity to work with a growing, international team.
+
+&amp;nbsp;
+Interview process
+
+
+Intro call (20 min)
+
+
+Technical interview (1h)
+
+
+Meet members of our team (15 min each)
+
+
+
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+
+To apply: https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-4</description><pubDate>Tue, 24 Feb 2026 15:35:41 +0000</pubDate></item><item><title>FINN: Lead Frontend Engineer</title><link>https://weworkremotely.com/remote-jobs/finn-lead-frontend-engineer</link><description>Headquarters: Singapore
     URL: https://www.finn-app.com/
 
 
@@ -848,52 +922,4 @@ We’ve been in business for over a decade, our whole team is remote, we’ve be
 To apply:
 If you’re interested, fill out our&amp;nbsp;application form. (An actual human from our team looks at every submission.&amp;nbsp;P.S. – We encourage you to include a video message!)
 
-To apply: https://weworkremotely.com/remote-jobs/yoko-co-wordpress-support-engineer</description><pubDate>Tue, 17 Mar 2026 13:01:49 +0000</pubDate></item><item><title>Strange Loop Labs: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer</link><description>Headquarters: New York
-    URL: https://www.strangelooplabs.ai/
-
-
-We’re building an AI agent platform that processes unstructured data and reasons how to solve hard customer problems. We work alongside teams at F500s to build a deep understanding of their workflows, knowledge, tools, goals, and bottlenecks, and then automate their processes end-to-end using our AI platform.
-Strange Loop engineers also work across the entire AI stack and own customer relationships end-to-end, from understanding their business need to designing solutions to delivering outcomes. As a Strange Loop AI Engineer, you will:
-
-
-Work closely with customer, from executives to end users,&amp;nbsp;to deeply understand their problems and needs.
-
-
-Train, test, deploy, and operate propietary and public multimodal models&amp;nbsp;that power our core AI platform.
-
-
-Build and deploy efficient, scalable systems&amp;nbsp;that deliver a fantastic AI experience to our customers.
-
-
-Design novel AI UX patterns that integrate into our customers workflows and to
-
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-To apply: https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer</description><pubDate>Tue, 17 Mar 2026 06:05:35 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/yoko-co-wordpress-support-engineer</description><pubDate>Tue, 17 Mar 2026 13:01:49 +0000</pubDate></item></channel></rss>
