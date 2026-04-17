@@ -1,5 +1,248 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Cortes 23: Software Engineer</title><link>https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-4</link><description>Headquarters: Remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>EventMobi: Senior Front End Engineer - Remote</title><link>https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-engineer-remote-1</link><description>Headquarters: 151 Yonge Street 11th Floor Toronto, Ontario M5C 2W7
+    URL: https://www.eventmobi.com/
+
+
+*** EventMobi is an all-remote company and this is a fully remote position, open to all candidates with a focus in Pakistan, India, Brazil, Columbia, Argentina and Mexico.&amp;nbsp;
+You will need to be able to work in EST time zones. ***
+&amp;nbsp;
+WHY YOU SHOULD JOIN US?
+At EventMobi, you won’t just ship UI features. You’ll help shape the core front-end architecture behind a global event platform used by thousands of organizations that rely on it to perform, scale and evolve.
+Our web applications are not thin presentation layers. They are large, offline-capable, cross-device React/TypeScript systems with shared design foundations, complex state management, performance-sensitive rendering and long-term architectural considerations. &amp;nbsp;The decisions you make here compound.
+We believe great software is built by engineers who take ownership beyond the ticket. You’ll have the space to challenge assumptions, improve abstractions, influence technical direction, and think in systems - not just components.
+We also believe the strongest engineers of the future know how to work with AI. &amp;nbsp;We actively encourage AI-native development to reduce repetitive work, increase quality and ultimately drive higher throughput — so your time goes toward design thinking, architecture, and meaningful problem-solving.
+If you care about product thinking, craftsmanship and building software that lasts, you’ll find real leverage here.
+HEAR FROM OUR SENIOR ENGINEER &amp;amp; DEV LEAD ALI:
+“I joined the team as a Software Engineer five years ago, and what keeps me here is the rare balance between high-level technical challenge and a genuinely sustainable pace. In many senior roles, you expect to spend your days 'extinguishing fires,' but here, the focus is on architectural integrity and long-term stability.
+The engineering culture is built on mutual respect and deep technical expertise. We don't just ship features to hit arbitrary deadlines; we take the time to conduct thorough, meaningful PR reviews that serve as a mentorship tool for the whole team. Having been here for half a decade, I've seen our systems evolve, and I've always felt empowered to take ownership of the roadmap and advocate for the right technical decisions.
+What stands out most is the lack of ego. Even as a Senior, I'm constantly learning from my peers. The environment is collaborative which makes it easy to focus on what actually matters - writing clean, scalable code and solving complex problems.
+If you're a seasoned engineer looking for a place where your experience is valued, your growth is supported, and your work-life balance is actually protected, this is the place to be.”
+WHAT YOUR WORK WILL FOCUS ON:
+This isn’t a “pixel pusher” role. You’ll operate at the intersection of product thinking, architecture, and hands-on engineering.
+Build Modern Web Experiences
+
+Evolve our high-performance, responsive Progressive Web App
+Implement offline-first capabilities, real-time updates, and scalable front-end architecture
+Deliver experiences that work flawlessly across devices, even in low-connectivity environments
+
+Own Features End-to-End
+
+From ideation and design review to implementation, testing, CI/CD, deployment, and monitoring
+Implement offline-first capabilities, real-time updates, and scalable front-end architecture
+Deliver experiences that work flawlessly across devices, even in low-connectivity environments
+
+Architect for Scale
+
+Design abstractions that survive real-world complexity
+Navigate and improve large codebases and legacy systems
+Keep performance, maintainability, and developer experience in balance
+
+Raise the Bar
+
+Mentor engineers and lead by example
+Advocate for clean code, strong testing, and disciplined engineering practices
+Contribute to a culture of technical excellence
+
+Work Smarter with AI
+
+Embrace AI-assisted development using tools like Claude, Codex, and other LLMs to move faster on feature, tech and routine work
+Reinvest that time into more ambitious features, stronger code quality, and better long-term systems
+Focus on solving high-impact problems instead of repetitive tasks
+
+YOUR QUALIFICATIONS:
+You’re not just experienced—you’re thoughtful about how software should be built.
+
+8+ years building scalable, user-facing software
+4+ years of deep experience with JavaScript/TypeScript and React
+Strong architectural thinking and problem-solving skills
+Comfort working in large, evolving codebases
+Experience with REST APIs, JSX, modern HTML/CSS
+Automated testing experience (Jest, React Testing Library, end-to-end)
+Clear, professional written communication (we’re async-first)
+Strong understanding of SOLID principles, domain modeling, and design patterns
+A mentorship mindset—you elevate the people around you
+
+NICE TO HAVE:
+
+Strongly typed TypeScript across hooks and components
+React Query or similar API integration libraries
+Mobile app development experience (Capacitor, Cordova, React Native)
+Docker, AWS, GitHub Actions, and CI/CD pipelines
+
+THIS ROLE IS PROBABLY NOT&amp;nbsp;FOR YOU IF..
+Let’s be honest. You’ll struggle here if:
+
+You prefer tightly scoped, ambiguity-free tasks
+You need frequent synchronous meetings to move work forward
+You’re uncomfortable making independent decisions
+You’re skeptical of AI-assisted workflows
+You haven’t worked in a fully remote, async-first environment
+
+We value autonomy, clarity in writing, and momentum.
+OUR INTERVIEW PROCESS
+If your profile moves forward, here’s what you can expect during the hiring process:
+
+Introductory Conversation (45 minutes)Meet with the VP of Product &amp;amp; Engineering to discuss your background, experience, and career goals.
+Technical Assessment (120 minutes)Participate in a live, hands-on session with members of our technical team to demonstrate your problem-solving and coding skills.
+Project Deep Dive (90 minutes)Walk us through impactful projects you’ve worked on, highlighting your contributions, decisions, and outcomes.
+Offer StageFinal discussions and next steps.
+
+We’ll provide more details at each stage and ensure you have plenty of opportunities to ask questions along the way.
+BONUS
+Hey - If you’ve made it this far, are excited about what you’ve read and feel that you have what it takes, then we’d love to hear from you.
+Please use this link to submit a&amp;nbsp;short video answering&amp;nbsp;a few questions. We guarantee you’ll receive a response from us within five business days, either way.
+And don’t forget to submit your application for the role as well!
+WHAT WILL YOU GET FROM EVENTMOBI?
+
+Compensation: Base salary ranges from $50k to $85k CAD per annual, depending on experience
+Time-Off:&amp;nbsp;2-weeks PTO + 3-summer days + your birthday is a &amp;nbsp;holiday (seriously! log-off and hang out with the fam or go do something fun) + opportunities to meet your co-workers in person throughout the year
+Tools:&amp;nbsp;Top of the line hardware and the best collaboration software for remote work so you can be as productive as possible while working from home
+The Best Coworkers Ever:&amp;nbsp;If you ask anyone that has worked at EventMobi, they will tell you that their fellow Mobiers are the best part of their experience! Don't underestimate the positive impact of caring co-workers have on your everyday happiness.
+
+REMOTE WORKSPACE REQUIREMENTS:
+
+You have a safe, comfortable, and ergonomic workspace and working environment - a private and quiet workspace is a vital requirement for doing your best work!
+You have a reliable internet connection capable of participating in video calls, with at least 30Mbps download speed
+Ability to collaborate during EST working hours
+
+
+To apply: https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-engineer-remote-1</description><pubDate>Fri, 27 Mar 2026 17:07:25 +0000</pubDate></item><item><title>Sanctuary Computer: Senior Frontend Developer</title><link>https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer-1</link><description>Headquarters: New York City
+    URL: https://sanctuary.computer
+
+
+We are hiring a contract-based Senior Frontend Developer for the garden3d creative collective with a focus on West Coast candidates.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Original job posting link
+About garden3d
+We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.
+Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp;amp; Gagosian.
+We’re the software team behind innovative products like The Light Phone &amp;amp; Mill, and we operate a global, decentralized community space collective called Index Space.
+We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.
+Who we’re looking for:
+We're looking for a Senior Frontend Developer who excels at building pixel-perfect websites using modern frontend frameworks. You'll collaborate with our team to build elegant, performant, and visually stunning web experiences. Your work will span a diverse range of client projects, from immersive brand websites to complex web applications, all requiring a keen eye for detail and technical excellence.
+This hiring effort will focus on Front-End Developers based in the U.S. West Coast. Candidates in the Pacific Time zone are preferred (LA/SF proximity is a plus). We are also open to candidates located in the Mountain Time zone.
+In this role, you’ll work on a variety of client projects to find cost-effective, high-quality, pragmatic solutions to complex problems. Responsibilities will include:
+
+Collaborating with Technical Lead to meet clients' development needs
+Building and maintaining high-performance web applications with modern frontend frameworks and tools
+Implementing responsive, accessible, and pixel-perfect user interfaces based on design specifications
+Integrating frontend applications with headless CMS platforms, APIs, and third-party services
+Optimizing application performance, including bundle size, load times, and runtime efficiency
+Architecting scalable component libraries and design systems for consistency across projects
+Writing clear documentation for code maintenance and usage
+Participating in project team meetings, including Sprint Planning, daily standups, and retrospectives
+Participating in code reviews, providing constructive feedback to teammates and ensuring adherence to best practices
+
+The person we’re looking for is happy, relaxed and easy to get along with. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart”, by carefully managing their workflow and staggering features that have dependencies intelligently — they prefer deep work but are OK coming up to the surface now and then for top level / strategic conversations.
+We believe people with backgrounds or interests in design, art, music, food or fashion tend to have a well rounded sense of design &amp;amp; quality — so a variety of hobbies or side projects is a big nice to have!
+Must Have Competencies:
+We’re always pitching for new and exciting technology niches. Some of the areas below are relevant to us!
+
+8+ years writing highly performant frontend code, an obsession for 95+ Lighthouse scores
+Expert level experience with Typescript, and one of Next.js, Nuxt, Svelte, Vue
+Extensive experience with headless CMS like Sanity, Contentful, Prismic or more
+Fluency in industry standard PaaS like Vercel, Netlify, Firebase, etc
+Fluency in eCommerce technologies like Shopify (headless &amp;amp; liquid), Stripe, Swell and others
+Experience building accessible, responsive interfaces with attention to performance optimization and SEO best practices
+Strong understanding of modern CSS methodologies (Tailwind, CSS Modules, etc) and animation libraries
+Experience with state management solutions (Redux, Zustand, Pinia) and API integration patterns
+Proficiency with testing frameworks (Jest, Playwright, Cypress) and commitment to writing maintainable, well-documented code
+Experience with design systems and component libraries, working closely with designers to ensure pixel-perfect implementations
+Real-time &amp;amp; performance optimization: experience with WebSockets for live data updates, caching strategies (Redis, CDN-level caching), CDN configuration and optimization (Cloudflare, Fastly), and image optimization techniques including proxies and delivery networks
+
+Nice to Have Competencies:
+We’re always pitching for new and exciting technology niches. Some of the areas below are relevant to us!
+
+WebGL &amp;amp; Canvas expertise: experience building interactive graphics, animations, and visualizations using WebGL, Three.js, or native Canvas API
+Data visualization: creating compelling, interactive data visualizations with libraries like Mapbox, D3.js, Chart.js, or similar tools
+Full-stack development experience: comfortable working across the entire stack, from frontend to backend and database layers
+PostgreSQL expertise: strong experience with database design, query optimization, and managing complex relational data structures
+GraphQL &amp;amp; API design: building and maintaining GraphQL or REST APIs with a focus on performance and developer experience
+Real-time technologies: experience with WebSockets, Server-Sent Events, or similar technologies for building live, interactive features
+Authentication &amp;amp; security: implementing secure authentication flows (OAuth, JWT) and following security best practices
+Client-facing experience: working directly with customers to gather requirements and provide technical solutions
+Product management experience: defining product roadmaps and collaborating closely with stakeholders
+Engineering management experience: leading teams, setting technical direction, and mentoring developers
+
+Compensation
+Our pay scale ranges from $100/hr to $130/hr pending seniority (&amp;amp; team leadership experience), and our projects are rarely less than 8 full time weeks at 40 hours per week.
+We prefer long standing relationships with highly accountable and communicative team members, so we encourage candidates to expect longer term engagements.
+How we interview:
+Our interview process starts with a call where you get to meet a few members of our team. From there we’ll ask appropriate candidates to take part in a technical exercise which helps illustrate skill level and comfort.
+‍ How we work:
+We believe that there’s a better balance between the poles of freelancing &amp;amp; full time, and for that reason Sanctuary works differently to most shops:
+
+Transparency &amp;amp; Ownership:&amp;nbsp;We release out Profit &amp;amp; Loss statements to the community each year, open source our best ideas, and talk business &amp;amp; money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team &amp;amp; community.
+**150% Carbon Negative:** Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. We have been certified climate neutral since 2021.
+**Strong Morals:** Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).
+Async &amp;amp; Decentralized: We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.
+Remote Friendly:&amp;nbsp;Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.
+Ideas &amp;amp; Products:&amp;nbsp;In our spare studio time, we work to build our own open source or internal products to diversify &amp;amp; bolster our income. We create amazing technology products for our clients, so why not for the studio?
+
+Important RemindersKindly submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process.
+Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying.
+
+To apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer-1</description><pubDate>Fri, 27 Mar 2026 16:28:28 +0000</pubDate></item><item><title>EngagedMD: Staff Software Engineer</title><link>https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer</link><description>Headquarters: Washington, DC
+    URL: https://engaged-md.com
+
+
+You’re an experienced engineer with exceptional skill and leadership ability, capable of making an impact across our product ecosystem. We’re EngagedMD and we have a patient journey application used by more than 3 million users nationwide and internationally since its launch. We continue to see enormous growth and adoption from medical clinics across multiple markets. This is an exciting opportunity to join us in our mission to help carers carry on caring.&amp;nbsp;
+You will have the opportunity to architect backend infrastructure and develop new features for our customers while also closely collaborating with our Platform, Product and Customer Success teams.
+This fully remote role reports to our Director of Engineering and candidates are required to reside in the United States. This role requires legal authorization to work in the United States. EngagedMD is unable to sponsor current H1B visa holders for this role.&amp;nbsp;
+&amp;nbsp;
+What You’ll Do
+
+Design, build and maintain backend services and APIs using TypeScript and modern Node.js frameworks
+Lead system design efforts for new and existing platforms, including service decomposition, data modeling, scalability and reliability considerations
+Own complex backend domains end-to-end, from initial architecture through implementation, deployment and long-term maintenance
+Drive technical direction and standards across the backend stack, including coding practices, service boundaries, observability, error handling and performance
+Make pragmatic architectural tradeoffs that balance delivery speed with system quality and long-term maintainability
+Collaborate closely with product, frontend, and infrastructure teams to deliver scalable, reliable product capabilities
+Identify and proactively address technical debt, scalability bottlenecks, security concerns and operational risks
+Mentor and support engineers through code reviews, design discussions and hands-on technical guidance
+Contribute to incident response, root-cause analysis and improvements to system resiliency
+
+Technical Focus Areas
+
+TypeScript and Node.js backend development
+API design (REST, GraphQL, or equivalent)
+Databases, schema design and data consistency
+Distributed systems fundamentals (scalability, fault tolerance, eventual consistency)
+Cloud-based deployments and production operations
+
+What You’ll Bring
+
+8+ years of professional software engineering experience, with significant backend focus
+Deep expertise in TypeScript and building production backend services
+Strong system design skills, with experience designing and evolving large-scale or business-critical systems
+Proven ability to operate autonomously and make sound technical decisions in ambiguous environments
+Experience balancing long-term architectural quality with short-term delivery needs
+Strong communication skills; able to clearly explain technical concepts to engineers and non-engineers
+A mission-driven orientation to all you do&amp;nbsp;
+Ability to thrive in a small, fast-paced organization&amp;nbsp;
+Bachelor’s degree or equivalent career experience&amp;nbsp;
+
+&amp;nbsp;
+It’s Also Nice If You…
+
+Have at least a passing familiarity with the fertility industry and/or experience in healthtech with a focus on patient journey software
+Have successfully worked remotely with distributed teams in the past
+
+&amp;nbsp;
+What We Offer
+
+Competitive compensation and equity
+Medical, dental, and vision coverage heavily subsidized by the company
+Open Paid Time Off
+Paid family and medical leave
+Generous paid holidays
+401(k) retirement savings plan&amp;nbsp;
+
+&amp;nbsp;
+EngagedMD is an equal opportunity employer. We’re committed to diversity, equity, and inclusion. We believe our company and products are made better by the varied perspectives of our employees, each of whom we seek to empower and support in their individuality. We hire our team members on the basis of merit, qualifications, and the needs of our business in order to best achieve our mission to help carers carry on caring. Pursuant to this commitment, EngagedMD will ensure that persons with disabilities are provided reasonable accommodations for the hiring process. If reasonable accommodation is needed, please contact&amp;nbsp;peopleops@engagedmd.com.
+
+About EngagedMD
+At EngagedMD, we embrace a mission-driven culture where committed individuals come together to make a real impact in healthcare. Our core values of integrity, collaboration, impact, recognition and growth inform how we work together. They also make possible our culture of belonging and excellence where our team members can be themselves, grow professionally, do their best work, and be rewarded for it. Join us today in our mission to help carers carry on caring.
+
+To apply: https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer</description><pubDate>Fri, 27 Mar 2026 14:03:38 +0000</pubDate></item><item><title>Cortes 23: Software Engineer</title><link>https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-4</link><description>Headquarters: Remote
     URL: https://cortes23.com
 
 
@@ -721,205 +964,4 @@ Remote work with high-growth startupsCompetitive compensation, often with bonuse
 &amp;nbsp;
 &amp;nbsp;
 
-To apply: https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend</description><pubDate>Thu, 19 Mar 2026 15:08:14 +0000</pubDate></item><item><title>Mangomint: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/mangomint-senior-software-engineer</link><description>Headquarters: Los Angeles, California
-    URL: https://www.mangomint.com/
-
-
-About Mangomint
-Mangomint&amp;nbsp;is a fast-growing SaaS company on a mission to make every salon and spa more profitable. We are already the&amp;nbsp;highest-rated&amp;nbsp;salon and spa software in the US and Canada with thousands of customers and seek to become the #1 market leader in the coming years.
-We’re a primarily remote company, ambitious, and collaborative&amp;nbsp;team&amp;nbsp;that gathers together every few months. As we grow, we’re looking to attract high-potential individuals who want to be part of a winning team. If that’s you,&amp;nbsp;come join us!
-&amp;nbsp;
-&amp;nbsp;
-About the Role
-As a Senior Software Engineer at Mangomint, you’ll play a critical role on our Connect Engineering team, building and scaling the core communication systems our customers rely on every day: emails, texting, and phone calls.
-This role is focused on strengthening a mission-critical part of the product as we scale usage, integrations, and operational complexity. You’ll work across the full stack to design, build, and operate reliable communication features that integrate with external providers while delivering a seamless experience for customers and internal teams.
-&amp;nbsp;
-In the Senior Software Engineer role at Mangomint you will:
-
-
-Develop new features across the whole stack, including data design, backend APIs, frontend React UI, mobile, and HTML/CSS
-
-
-Work deeply with external integrations and third-party services, ensuring reliability and observability
-
-
-Support the scaling of our systems as we grow and acquire new customers, and improve engineering standards, tooling, and processes to enable rapid development and iteration
-
-
-Troubleshoot and debug production issues across various services and layers of the stack, ensuring a stable, efficient, and resilient system for our customers
-
-
-Technologies You Will Work With
-Backend/Rest API: Kotlin/JVM, PostgreSQL, AWS (RDS, SQS, Lambda, EC2/EB)
-Frontend: Typescript, React, Sass/CSS
-While experience or familiarity with our technology stack is a plus, it’s not a requirement. We care more about your general engineering skill set, and your ability to pick up new languages and technologies quickly.
-&amp;nbsp;
-&amp;nbsp;
-What We’re Looking For
-
-
-5+ years of experience in a software engineering role
-
-
-Experience as a Senior Software Engineer at a SaaS Company and with programming languages such as Kotlin, C#, Java, Ruby, etc.
-
-
-Someone who enjoys being a generalist, working on the frontend, backend, and anything it takes to solve problems
-
-
-Experience building software and systems that balance simplicity, flexibility, and maintainability
-
-
-Ability to thrive in a collaborative and iterative environment, working and empathizing with teammates, internal stakeholders, and customers
-
-
-Someone skilled in completing projects from start to finish, using various technologies and systems, while balancing technical, business, and customer priorities.
-
-
-Ability to stitch together many different services and processes even if you have not worked with them before
-
-
-&amp;nbsp;
-&amp;nbsp;
-What You'll Love About Us
-
-
-Health, dental, vision, life &amp;amp; LTD insurance
-
-
-Generous monthly wellness budget for gym memberships, yoga, etc.
-
-
-Premium subscription to the&amp;nbsp;Calm&amp;nbsp;app
-
-
-One Medical&amp;nbsp;membership
-
-
-Flexible PTO
-
-
-401k plan available (no matching)
-
-
-Employee stock option program
-
-
-&amp;nbsp;
-&amp;nbsp;
-Mangomint is an equal opportunity employer. We do not discriminate against any employee or job applicant on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability and genetic information (including family medical history).
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-To apply: https://weworkremotely.com/remote-jobs/mangomint-senior-software-engineer</description><pubDate>Wed, 18 Mar 2026 21:08:16 +0000</pubDate></item><item><title>Mesh: Director of Product Money Movement</title><link>https://weworkremotely.com/remote-jobs/mesh-director-of-product-money-movement</link><description>Headquarters: United States - Remote
-
-
-About MeshAt Mesh, our mission is to enable consumers to pay and be paid with any asset. Today, trillions of dollars in tokenized assets exist but remain largely unusable for everyday commerce. Mesh is bridging this gap by making crypto payments reliable, useful, and ubiquitous. We combine a powerful orchestration engine with a seamless consumer app to unlock liquidity for the world. Backed by leading investors like PayPal Ventures, Paradigm, and Galaxy Ventures, we are building the infrastructure for the next era of the global economy. Join us!Mesh is seeking a Director of Product, Money Movement to lead the platform at the heart of our ecosystem. Your work will enable the seamless conversion of any crypto asset into any other crypto asset, the exchange of crypto into fiat, and the movement of funds between wallets, exchanges, and bank accounts. This is a hands-on leadership role where strategy meets execution. You will act as the architect of our liquidity engine, defining the roadmap, driving high-impact initiatives, and building the high-performing team that will shape the future of global money movement.What You'll DoOwn the Engine: specific ownership of the end-to-end product roadmap for money movement. You will simplify complex payment flows, liquidity routing, and infrastructure challenges into a reliable API and user experience.Master the Fiat Rails: Optimize and expand our connectivity to traditional banking networks (ACH, RTP, Wires, FedNow). You ensure our off-ramps are just as fast and reliable as our on-ramps.Champion Safety &amp;amp; Compliance: Treat compliance as a product feature. You will ensure our rails adhere to global payment regulations, AML/KYC rules, and risk frameworks without stifling growth.Drive Partnerships: Build and manage relationships with liquidity providers, exchanges, and payment rails. You will translate external technical capabilities into internal product advantages.Execute with Rigor: Apply analytical rigor to every decision. You will set ambitious goals, measure success with data, and ensure Mesh operates with financial precision.Scale the Team: Recruit, mentor, and grow a world-class product team, fostering a culture of technical excellence, ownership, and customer obsession.Who You Are8+ years in Product Management with expert-level knowledge of traditional payment rails (ACH, Wires, RTP, Cards) and banking integrations.Fiat Fluency: You have deep experience connecting to the banking system. You know how money moves in the real world and how to solve for settlement times and reconciliation.Crypto Competency: You must understand the fundamentals of digital assets—wallets, exchanges, and stablecoins—and possess a strong desire to build the future of this technology.Technical Rigor: You can lead architecture discussions on API design, reconciliation, and ledger management.Strategic Problem Solving: You excel at solving ambiguous problems where legacy infrastructure clashes with new technology (e.g., "How do we offer instant availability on a slow rail?").Leadership:&amp;nbsp;Proven experience managing teams and influencing stakeholders across Engineering, Legal, Security and Compliance.Why You’ll Love It HereAt Mesh, you're not stepping into a typical role—you're joining a rocket ship in mid-liftoff. You'll tackle complex, meaningful problems that actually move an industry forward, working alongside a sharp, motivated team that moves quickly, collaborates deeply, and expects everyone to operate with ownership. This is the kind of place where you'll see your work ship fast, make real impact, and be able to point to something and say, "I built that." You'll grow fast, level up your skills, and get a front-row seat to how a high-growth company scales from the inside, with competitive comp, solid benefits, and room to stretch your craft all coming standard. If you're energized by building, learning, and shaping something big—this is where you'll want to be.How We Care For Our TeamWe believe great work happens when people feel valued and supported. That starts with competitive salary and equity that grows as you and the company grow, plus comprehensive health coverage for you and your family. We offer unlimited PTO—and we mean it. Take the time you need to recharge and show up at your best.We're invested in your growth with a dedicated budget for courses, conferences, and certifications. Work from wherever you're most productive with our remote-friendly approach, and count on having the top-tier tools and equipment you need to do exceptional work.Mesh Pay is committed to equal employment opportunities regardless of race, color, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, and non-job related physical or mental disability, or protected veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-
-To apply: https://weworkremotely.com/remote-jobs/mesh-director-of-product-money-movement</description><pubDate>Tue, 17 Mar 2026 20:31:34 +0000</pubDate></item><item><title>Yoko Co: WordPress Support Engineer</title><link>https://weworkremotely.com/remote-jobs/yoko-co-wordpress-support-engineer</link><description>Headquarters: McLean, VA
-    URL: https://www.yokoco.com/
-
-
-We’re seeking a WordPress Support Engineer who wants to make the world a better place through thoughtful troubleshooting, clear communication, and excellent technical support.
-This isn’t just about closing tickets – it’s about building relationships, understanding problems, and showing our clients that we’ve got their back.
-This role is perfect for someone who enjoys digging into problems, figuring out why things broke, and helping clients feel confident that their website is in good hands.
-Why work at Yoko Co?
-
-Do good, better:&amp;nbsp;We exclusively serve clients who make a positive impact on the world. This is your chance to build things that help create a better place for all of us.
-4-day work week and lots of holidays.&amp;nbsp;Mondays are flex days, meaning you’re free to take them off if you’re caught up on your work. Plus, we’re closed for nearly a full week at Thanksgiving (November), and two weeks at the end of the year, plus a bunch of other days, too.
-High performance, no jerks.&amp;nbsp;You’ll collaborate with good people who believe in doing great work.
-Best Place to Work&amp;nbsp;(and that’s not just our opinion). We’ve been named a Best Place to Work by the Inc. 5000 and Washington Business Journal.
-
-We value team members who are motivated by our mission and driven to make a positive impact. If you have a passion for excellence, a growth mindset, and a commitment to collaboration, we’d love to hear from you.
-What you’ll do:
-As part of our technical support team, you’ll troubleshoot client requests, implement fixes, and help ensure our clients’ websites continue running smoothly long after launch. The best candidates tend to be naturally curious problem-solvers who enjoy figuring out how systems work and helping people along the way.
-As such, you’ll:
-
-Provide hands-on technical support for client websites, troubleshooting requests and helping ensure sites run smoothly long after launch
-Diagnose technical issues, implement fixes, and coordinate with teammates when deeper investigation is needed
-Communicate clearly with clients throughout the support process, helping them understand issues and feel confident in the solutions provided
-Respond to incoming support requests with clear, friendly, and thoughtful communication
-Troubleshoot and resolve a wide range of WordPress issues, including plugin conflicts, functionality bugs, layout problems, integrations, and unexpected site behavior
-Read, debug, and occasionally modify HTML, CSS, JavaScript, and PHP within WordPress to diagnose problems and implement fixes
-Apply WordPress core, plugin, and theme updates while ensuring compatibility and site stability
-Monitor website health, performance, and security, proactively identifying potential risks or issues
-Investigate and resolve issues related to hosting environments, DNS configuration, email delivery, analytics tracking, and third-party integrations
-Conduct QA testing to confirm that updates and fixes function properly across browsers and devices
-Provide CMS guidance or quick tutorials to help clients manage their websites effectively
-Document support work clearly in the ticketing system to maintain visibility and accurate billing
-Collaborate with developers, project managers, and strategists when requests require deeper technical investigation
-Help maintain an organized support workflow so requests move forward smoothly
-Contribute to improving internal support processes, documentation, and knowledge sharing
-
-What we’re looking for:
-We’re less concerned with rigid checklists and more interested in capable, thoughtful problem solvers who communicate well and enjoy helping people.
-Strong candidates typically have:
-
-3–5+ years of experience working with WordPress in a technical capacity
-Strong understanding of WordPress themes, plugins, and site configuration
-Comfort reading and modifying HTML, CSS, JavaScript, and PHP within WordPress
-Experience debugging issues such as plugin conflicts, integrations, or unexpected site behavior
-Familiarity with WordPress hosting environments, migrations, and DNS basics
-Experience working within a support workflow or ticketing system
-Excellent written and verbal communication skills
-Fluent English for written and spoken communication
-
-Bonus points for:
-
-Experience with Git workflows
-Experience supporting websites in a multi-client or agency environment
-
-Examples of support work:
-To give you a better idea of the types of things you might encounter, here are a few examples of issues recently handled by our support team:
-
-Help a client understand why protected content isn’t accessible to the correct users
-Investigate the connection between WordPress and SendGrid to figure out why transactional emails aren’t being delivered
-Give a client tips on how to better optimize and format banner images they upload to their website
-Diagnose why Google Analytics tracking code appears to be capturing only a fraction of site visitors
-Migrate an outdated WordPress site from another hosting provider to our servers, update plugins, and help the client adjust DNS records
-Troubleshoot an SSO login issue that keeps kicking users out of the dashboard
-Triage a malware notification, clean malicious code, and harden the WordPress installation
-Send a short screencast showing a client how to create columns in their page builder
-Fix a layout bug caused by a plugin update that unexpectedly broke styling on a landing page
-
-However, maybe don’t apply if:
-
-Client communication isn’t something you enjoy
-You prefer highly predictable work instead of solving a variety of technical problems
-You find it frustrating when the solution to a problem isn’t immediately obvious
-
-Support work often requires patience, curiosity, and a willingness to dig into problems until the root cause becomes clear.
-What you get:
-You’ll get a flexible schedule, unlimited time off, a competitive salary, a profit share bonus (starting in your second year), the ability to work wherever you want, a personal development budget, and all US federal holidays and multiple weeks off at the end of the year to recharge. We’ll also offset your entire carbon footprint. If you’re in the US, we also offer health insurance, disability and life insurance, and 401(k) matching.
-More about us:
-We’re a group of people who are passionate about the work we do, the clients we serve, and improving our craft. We also care about each other — we don’t think of one another as coworkers or employees, but as fellow humans. From developers to designers, project managers to strategists, we bring out the best in each other.
-We’ve been in business for over a decade, our whole team is remote, we’ve been named a Best Place to Work by the Inc. 5000 and the Washington Business Journal.
-To apply:
-If you’re interested, fill out our&amp;nbsp;application form. (An actual human from our team looks at every submission.&amp;nbsp;P.S. – We encourage you to include a video message!)
-
-To apply: https://weworkremotely.com/remote-jobs/yoko-co-wordpress-support-engineer</description><pubDate>Tue, 17 Mar 2026 13:01:49 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend</description><pubDate>Thu, 19 Mar 2026 15:08:14 +0000</pubDate></item></channel></rss>
