@@ -1,5 +1,123 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>The Corvus Group Inc: React Frontend Developer</title><link>https://weworkremotely.com/remote-jobs/the-corvus-group-inc-react-frontend-developer</link><description>Headquarters: 9500 Arena Drive, Suite 300 Largo, MD 20774, US
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>ContentJet Inc.: AI Agent Architect / Builder</title><link>https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder</link><description>Headquarters: Montreal, Canada
+    URL: https://www.contentjet.com
+
+
+ABOUT CONTENTJET
+ContentJet is a Canadian UGC creative agency that connects brands with creators to produce high-performing user-generated content at scale. We serve global clients across e-commerce, healthcare, and marketing verticals. Our core belief: every manual, repetitive task inside an agency can and should be replaced by an AI agent or automation. We use Claude Code CLI, Claude Cowork with MCP connectors, OpenClaw, n8n, VAPI, and custom multi-agent systems to eliminate manual work across every layer of our operations — from creator sourcing and outreach to content production, team coordination, and client delivery.
+THE MISSION: REPLACE MANUAL WORK WITH AI AGENTS
+ContentJet is on a mission to become a fully AI-native agency. That means every workflow that currently requires a human clicking, copying, pasting, searching, emailing, or following up manually should be handled by an AI agent instead. We’re not looking for someone to build chatbots — we’re looking for someone who can systematically identify manual bottlenecks across our operations and replace them with autonomous agent systems that run 24/7 without human intervention.
+This includes: creator discovery and vetting, outreach campaign creation, brief reading and task assignment, content pipeline management, quality control, reporting, team notifications, client communication, and any repetitive operational task that currently eats human hours.
+THE ROLE
+You are the person who designs and builds complete AI agent systems from concept to production. You will own the architecture of multi-agent pipelines — defining agent roles, communication flows, tool integrations, and orchestration logic.
+You will work extensively with Claude Code CLI to build, test, and iterate on agent systems directly from the terminal — writing production-grade code, managing project structures, and leveraging Claude’s coding capabilities for rapid development. You will use Claude Cowork with MCP connectors to orchestrate complex workflows that read from Monday.com, discover creators on TikTok/Modash, create Instantly campaigns, produce personalized documents, and coordinate across Slack channels — all without manual intervention.
+You will deploy agents via OpenClaw, our open-source AI agent gateway, to make them accessible across multiple platforms (Slack, Telegram, web) with full DM and group chat support, tool management, and multi-model routing.
+WHAT YOU WILL DO
+
+
+Systematically audit ContentJet’s operations to identify every manual task that can be replaced by an AI agent or automation
+
+
+Design and build multi-agent systems that fully replace manual workflows: creator sourcing, outreach, qualification, brief processing, campaign management, reporting, and team coordination
+
+
+Use Claude Code CLI as your primary development environment to build, debug, and ship agent systems rapidly from the terminal
+
+
+Build complex automation workflows using Claude Cowork with MCP connectors — orchestrating Monday.com, TikTok, Modash, Instantly, Google Drive, Slack, and other platforms into seamless, zero-touch pipelines
+
+
+Deploy and configure agents via OpenClaw for multi-platform delivery (Slack, Telegram, web interfaces) with DM and group chat support
+
+
+Architect agent communication flows, decision trees, tool-use schemas, and escalation logic within the OpenClaw gateway
+
+
+Integrate agents with external tools via APIs and MCP connectors (Monday.com, Modash, TikTok, Instantly, Apollo, Apify, Firecrawl, ElevenLabs, Creatomate, etc.)
+
+
+Build AI-powered creator sourcing and outreach pipelines — from Monday.com brief reading through creator discovery to Instantly campaign creation, with personalized Word document guides produced automatically for team members
+
+
+Build AI voice agents using VAPI + Claude + Twilio/Telnyx for creator and lead qualification, replacing manual phone screening
+
+
+Write production-grade Python agent code with proper error handling, logging, Slack integration (multi-channel), and monitoring
+
+
+Design prompt systems at the systems level — agent instructions, OpenClaw tool configurations, Claude Cowork task definitions, output parsing, and quality control
+
+
+Create CLAUDE.md project files for agent codebases following enterprise-grade standards (security, design philosophy, code organization)
+
+
+Continuously look for new manual processes to automate — the goal is zero manual work for repetitive tasks
+
+
+MUST-HAVE SKILLS
+
+
+Python (production-level, not just scripting) — you write code that runs in production 24/7
+
+
+Deep prompt engineering — system-level agent instructions, multi-step reasoning chains, tool-use orchestration, not simple chatbot prompts
+
+
+Claude Code CLI proficiency — comfortable building, testing, and shipping entire projects from the terminal using Claude as a coding partner
+
+
+Claude Cowork experience — ability to design and execute complex multi-step workflows using MCP connectors to orchestrate across platforms
+
+
+Experience with OpenClaw or similar AI agent gateways/orchestration frameworks for multi-platform agent deployment
+
+
+API integration experience (REST, webhooks, OAuth, API chaining) — you can wire any two systems together
+
+
+Experience building multi-agent or multi-step AI systems (CrewAI, AutoGen, LangGraph, or custom builds)
+
+
+Strong understanding of MCP (Model Context Protocol) — how to connect Claude to external tools, databases, and services
+
+
+Understanding of agent design patterns: ReAct, tool-use, delegation, human-in-the-loop, autonomous decision-making
+
+
+Experience deploying agents across multiple platforms (Slack bots, Telegram bots, web chat)
+
+
+Strong English communication (written) — you’ll write agent specs, workflow documentation, and team guides
+
+
+NICE-TO-HAVE
+&amp;nbsp;
+
+
+Familiarity with n8n (self-hosted) for workflow automation alongside agent systems
+
+
+Background in UGC, creator economy, influencer marketing, or content operations
+
+
+Experience with Monday.com API, Modash, TikTok Creator Marketplace, or similar creator tools
+
+
+Experience configuring OpenClaw for multi-platform deployment with tool availability management and config troubleshooting
+
+
+French or Arabic language skills (for MENA market projects)
+
+
+WHAT SUCCESS LOOKS LIKE
+Within 30 days: You’ve audited our current manual workflows, deployed your first multi-agent system via OpenClaw integrated with Slack, and shipped a working creator sourcing automation using Claude Cowork with MCP connectors.
+Within 60 days: You’ve replaced at least 3 major manual workflows with autonomous agent systems. You’re independently designing agent architectures using Claude Code CLI and deploying them via OpenClaw with minimal direction.
+Within 90 days: You’re leading AI agent delivery across 5–9 concurrent automation projects, have eliminated the majority of repetitive manual tasks in our operations, and are training team members on agent-powered workflows. Manual work at ContentJet is the exception, not the norm.
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder</description><pubDate>Mon, 30 Mar 2026 12:49:53 +0000</pubDate></item><item><title>The Corvus Group Inc: React Frontend Developer</title><link>https://weworkremotely.com/remote-jobs/the-corvus-group-inc-react-frontend-developer</link><description>Headquarters: 9500 Arena Drive, Suite 300 Largo, MD 20774, US
     URL: https://www.thecorvusgroup.com/
 
 
@@ -945,52 +1063,4 @@ Autonomy &amp;amp; Freedom: Create a work environment that is sustainable for yo
 &amp;nbsp;
 We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp;amp; II is $140,000 to $210,000.
 
-To apply: https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</description><pubDate>Wed, 23 Jul 2025 14:31:54 +0000</pubDate></item><item><title>CloudDevs:  Java Developer - AI (Backend)</title><link>https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend</link><description>Headquarters: San Francisco
-    URL: https://clouddevs.com/
-
-
-&amp;nbsp;
-Location:&amp;nbsp; Latams, or anywhere in Americas(canada, Central and South America)
-CloudDevs is helping fast-growing, venture-backed startups build high-performance engineering teams. As a Senior Java Backend Engineer, you’ll work on scalable, AI-driven products and play a key role in shaping core platform capabilities.
-You’ll be working in a high-ownership environment alongside product, design, and engineering teams to ship production-grade systems and solve complex backend challenges.
-Minimum qualifications:
-
-Bachelor’s degree in Computer Science or equivalent practical experience7+ years of
-experience as a backend or software engineer
-Strong communication skills in English
-Strong problem-solving ability and ownership mindset
-Experience working in distributed, remote teams
-
-Core requirements:
-
-7+ years of commercial experience with Java in SaaS/PaaS environments
-Strong experience with Spring / Spring Boot, Maven, and ORM frameworks&amp;nbsp;
-Experience designing and building secure, scalable REST APIs (API-first approach preferred)
-Hands-on experience with PostgreSQL, Redis, and AWS infrastructure
-Strong understanding of CI/CD pipelines and production observability
-Excellent debugging and production troubleshooting skills
-
-&amp;nbsp;
-AI / modern dev workflow (important):
-
-Strong experience using AI-assisted coding tools like Cursor, Codex, or similar
-Comfortable working with AI copilots and agent-style workflows to increase development speed and quality&amp;nbsp;
-Ability to use AI tools to navigate unfamiliar codebases, debug issues, and accelerate delivery&amp;nbsp;
-Working knowledge of LLMs and how they are integrated into applications is a strong plus
-
-Preferred qualifications:
-
-Experience with Python for backend/API development
-Exposure to frontend frameworks like React
-Strong architectural thinking and system design skills
-Experience working in fast-paced environments with rapid release cycles
-Strong attention to detail across code, tests, and reviews
-
-What you’ll do:
-Design and build scalable backend systems with high reliability and performanceWrite clean, maintainable, well-tested code using modern development practicesLeverage AI tools to improve development speed, debugging, and code qualityCollaborate in agile workflows, including code reviews and sprint ceremoniesInvestigate and resolve production issues using logs, telemetry, and system insightsContinuously improve systems, code quality, and development processes
-What’s in it for you:
-Remote work with high-growth startupsCompetitive compensation, often with bonuses and equityWork on cutting-edge AI-driven productsApply once and get matched with multiple pre-vetted companies
-&amp;nbsp;
-&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend</description><pubDate>Thu, 19 Mar 2026 15:08:14 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</description><pubDate>Wed, 23 Jul 2025 14:31:54 +0000</pubDate></item></channel></rss>
