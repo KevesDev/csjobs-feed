@@ -1,5 +1,130 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>8am: Product Designer | Growth</title><link>https://weworkremotely.com/remote-jobs/8am-product-designer-growth</link><description>Headquarters: Remote - US
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Speechify: Software Engineer, Web Core Product &amp; Chrome Extension</title><link>https://weworkremotely.com/remote-jobs/speechify-software-engineer-web-core-product-chrome-extension</link><description>Headquarters: Remote
+
+
+The mission of Speechify is to make sure that reading is never a barrier to learning.Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&amp;nbsp;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;What You’ll DoActively ship production code to the web productsWork closely with your dedicated product teamParticipate in product discussions to shape the product roadmapHave the opportunity to work on new and exciting features that will impact millions of livesAn Ideal Candidate Should HaveExperience. You've built and ship products that have scaled to thousands or millions of usersCustomer obsession. You are passionate about the field and have the desire to build high quality product that serves customer needsSpeed. You work quickly to generate ideas and know how to decide which things can ship now and what things need timeFocus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads downCollaboration. You know how to inspire, play, and negotiate with opinionated designers, marketers, and PMsTech Stack: Vanilla JS, ReactJS, Redux, Firebase, TypescriptWhat We Offer A fast-growing environment where you can help shape the cultureAn entrepreneurial crew that supports risk, intuition, and hustleA hands-off approach so you can focus and do your best workThe opportunity to make an impact in a transformative industryA competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous cultureCompensation: The US base salary range for this full-time position is $140,000-$200,000 + bonus + equity depending on experienceThink you’re a good fit for this job?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Tell us more about yourself and why you're interested in the role when you apply. And don’t forget to include links to your portfolio and LinkedIn.Not looking but know someone who would make a great fit?&amp;nbsp;Refer them!&amp;nbsp;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+To apply: https://weworkremotely.com/remote-jobs/speechify-software-engineer-web-core-product-chrome-extension</description><pubDate>Mon, 06 Apr 2026 18:02:14 +0000</pubDate></item><item><title>Elevated Leads Limited: Chrome Extension Developer — iGaming Product (New Build)</title><link>https://weworkremotely.com/remote-jobs/elevated-leads-limited-chrome-extension-developer-igaming-product-new-build</link><description>Headquarters: Malta
+    URL: https://elevated.ltd/
+
+
+Chrome Extension Developer — iGaming Product (New Build)
+The Company
+Elevated Leads Limited operates established brands in the iGaming affiliate space, including CryptoCasinos.com and CryptoBetting.com. We have a team of 20 people and strong relationships with major operators and game developers across the industry.
+&amp;nbsp;
+We're building a new product — a Chrome extension for the online casino space. The product is first-of-its-kind and currently in the planning stage. Full product details will be shared with shortlisted candidates after signing a standard NDA.
+&amp;nbsp;
+&amp;nbsp;
+
+&amp;nbsp;
+The Role
+We're looking for a mid-to-senior developer to own this product technically from day one. This isn't task-by-task freelance work — you'll make architectural decisions, flag problems early, and ship something real alongside a small, experienced team.
+&amp;nbsp;
+Contract role, 3-6 months initially, with strong potential to become long-term depending on product traction and fit.
+&amp;nbsp;
+&amp;nbsp;
+
+&amp;nbsp;
+What We Need
+Must-Have
+
+
+Chrome Extension development with Manifest V3
+
+
+JavaScript or TypeScript — strong, not just functional
+
+
+DOM manipulation and content scripts — the extension interacts with third-party websites with varying front-end architectures
+
+
+Experience shipping a product — you've taken something from zero to live users, not just contributed to an existing codebase
+
+
+Strong Preferences
+
+
+Experience with data visualization (Chart.js, D3, Recharts, or similar)
+
+
+Backend capability (Node.js, Python, or similar — needed for later phases)
+
+
+Has published an extension on the Chrome Web Store before
+
+
+Familiarity with the iGaming industry is a plus but not required
+
+
+&amp;nbsp;
+&amp;nbsp;
+
+&amp;nbsp;
+How We Work
+
+
+Communication: Async-first (Discord or similar), calls when needed
+
+
+Updates: Brief daily written updates on progress and blockers
+
+
+Code: Private GitHub repo, PR-based workflow
+
+
+Location: Fully remote — timezone flexibility, but some overlap with CET preferred
+
+
+Decision-making: You own technical decisions. We own product direction. Trade-offs are discussed together.
+
+
+&amp;nbsp;
+&amp;nbsp;
+
+&amp;nbsp;
+Compensation
+
+
+Monthly contract: Salary is up for discussion depending on experience and location
+
+
+Performance bonus tied to KPI milestones
+
+
+Potential equity or revenue share for the right person who wants to grow with the product
+
+
+Budget for tools and services as needed
+
+
+&amp;nbsp;
+&amp;nbsp;
+
+&amp;nbsp;
+To Apply
+Send the following to sam@elevated.ltd:
+&amp;nbsp;
+
+
+A Chrome extension you've built — published or private, we just want to see your work
+
+
+A brief note on your experience with content scripts that interact with third-party sites (injecting UI, reading page data, handling iframes)
+
+
+Your availability and rate expectations
+
+
+&amp;nbsp;
+No generic CVs. No cover letter templates. We'll respond to every serious application within a few days.
+&amp;nbsp;
+&amp;nbsp;
+
+&amp;nbsp;
+&amp;nbsp;
+Elevated Leads Limited — Malta
+
+To apply: https://weworkremotely.com/remote-jobs/elevated-leads-limited-chrome-extension-developer-igaming-product-new-build</description><pubDate>Mon, 06 Apr 2026 10:20:00 +0000</pubDate></item><item><title>8am: Product Designer | Growth</title><link>https://weworkremotely.com/remote-jobs/8am-product-designer-growth</link><description>Headquarters: Remote - US
 
 
 It's a new day with a new opportunity at 8am!&amp;nbsp;About the role:As a Product Designer on the Growth team at 8am, you will help shape how new and existing customers discover value, adopt core capabilities, and expand their use of our platform. This role focuses on designing experiences that directly support customer acquisition, onboarding, engagement, retention, and revenue growth within a complex B2B fintech product.You will take ownership of growth-focused initiatives such as first-time use, onboarding flows, feature discovery, in-product education, and upsell experiences. Working in close partnership with Product Managers, Engineers, and a Senior Product Designer, you will help translate growth strategy into thoughtful, user-centered solutions that balance business impact with clarity and usability.This role is well suited for a designer who is comfortable operating in ambiguity, enjoys connecting user needs to business outcomes, and has experience designing for growth within complex, professional products.About us:At 8am, our vision is to power a world where professionals thrive. We start every day on a mission to empower professionals with the most trusted, innovative technology to deliver world-class outcomes for their clients and exceptional financial results for their business. They count on our purpose-built solutions to simplify operations, ensure compliance, and fuel profitable growth, so they can focus on their clients and do more of the work that matters.Founded in 2005, 8am™ (formerly AffiniPay) is the professional business platform built to help legal, accounting, and other client-focused professionals run stronger, more profitable businesses. Today, more than 250,000 professionals across the U.S. trust 8am to help them work smarter, serve clients better, and unlock their full potential. We have been recognized as one of Inc 5000’s fastest growing companies in the U.S. for 13 years in a row, and as a result, our teams continue to grow as well!What you'll do:Design for Growth and Customer OutcomesDesign and iterate on experiences that support acquisition, activation, onboarding, engagement, retention, and expansion.Own growth-related problem spaces such as first-time user experiences, feature discovery, in-product education, training modules, and upsell flows.Translate growth hypotheses and product strategy into user-centered solutions that are measurable and impactful.Partner with Product and Growth stakeholders to define success metrics and evaluate the effectiveness of shipped work.Partner Deeply with Product and EngineeringWork closely with Product Managers to frame problems, explore solutions, and align design decisions with growth and business goals.Collaborate with Engineers throughout the design and development process, providing clear intent, flows, and interaction details to support high-quality implementation.Partner with a Senior Product Designer to align on approach, receive feedback, and elevate craft while maintaining ownership of your work.Contribute meaningfully to cross-functional discussions, tradeoffs, and prioritization.Understand and Advocate for Professional UsersDevelop a strong understanding of professional users, their motivations, and their workflows within a B2B or B2B2C context.Use research inputs, customer feedback, and product data to inform design decisions.Design experiences that are intuitive, trustworthy, and respectful of users’ time in high-stakes, workflow-driven environments.Execute with Quality and OwnershipProduce high-quality design deliverables across the lifecycle, including user flows, wireframes, prototypes, and polished UI.Take ownership of your problem areas, proactively identifying opportunities to improve user experience and growth outcomes.Communicate design rationale and tradeoffs clearly to cross-functional partners.&amp;nbsp;Preferred Qualifications:Experience designing in partnership with Growth, Marketing, or Revenue teams.Familiarity with experimentation frameworks (A/B testing, funnel analysis, cohort analysis).Experience designing in-product education, training, or enablement experiences.Exposure to AI-assisted, automated, or intelligent workflows.Experience working in regulated or high-trust environments (fintech, legal, healthcare).About you:4–7 years of product design experience, with a strong portfolio demonstrating product thinking, ownership, and measurable impact.Experience designing for B2B or B2B2C products, ideally within SaaS, fintech, or other complex platforms.Demonstrated experience designing for growth strategies such as onboarding, activation, retention, expansion, or monetization.Comfort working in ambiguous problem spaces and iterating based on feedback, data, and constraints.Strong interaction and visual design skills, with attention to usability and clarity.High proficiency in Figma.Clear and effective communicator who collaborates well with Product Managers and Engineers.A proactive, ownership-oriented mindset with a desire to learn and improDemonstrated experience leveraging AI tools and technologies to improve workflows, enhance decision-making, or drive innovation.Additional InformationThe annual salary range for this position is $120,000 to $140,000. The salary range for performing this role outside of the US / Austin / California may differ.&amp;nbsp; 8am is committed to offering competitive, fair and commensurate compensation and has provided an estimated pay range for this role. Actual compensation may vary based on job-related knowledge, skills, experience and education.Why 8am:&amp;nbsp;At 8am, our culture is shaped by the people who bring it to life every day. Together, we build a company rooted in continuous learning, genuine community, holistic wellness, and meaningful engagement—values that empower us as individuals and unite us as a team. Our culture is grounded in our core values: Work Smart, Win Fast; Outshine Ordinary, and We Find a Way. These values drive how we serve our customers and work with each other in a collaborative, inspiring, and empowering environment, every day.Here’s how we support our 8Team:Health Insurance Coverage: We offer our 8Team a variety of medical, dental, and vision plans, designed to fit your needs, including a 100% company-paid HDHP plan for employees.Financial perks: We offer a competitive compensation and benefits package including annual bonuses, equity options and 401(k) or RRSP if in Canada, with a company match for all team members.Time for what matters: Flexible Time Off, paid holidays, and a parental leave program for our new parents.Wellness: Wellness stipends, mental health support, and one-on-one nutrition coaching.Learning and Development: Continuous learning through 8am.edu, leadership programs, professional development funds, and individually focused talent development.Giving back to the communities around us: Participate in our charitable matching gift program, paid time off for volunteer service, and company-sponsored volunteer events (both local and virtually).Engagement: Virtual and in-person team-building events, quarterly award recognition through our Rise &amp;amp; Shine Award of Excellence Program, and our peer-to-peer appreciation platform.At 8am, we don’t just offer benefits - we create an environment where people can thrive, grow, and make a real impact every day.Diversity, equity &amp;amp; inclusion at 8am:At 8am, we recognize that innovation occurs with a strong team of people who are diverse in background, personality, talent and ideas. Experience comes in many forms and ensuring a diverse and inclusive workplace where we continue to learn from each other is an integral part of our culture. We are committed to creating a welcoming and transparent environment for all that embraces those differences through education, equal access to opportunities and information, inclusionary programs, and community outreach.&amp;nbsp;Security advisory:Our hiring teams at 8am are dedicated to recruiting top talent that share our passion for serving the professional services industry through innovative financial technology.&amp;nbsp; As such, our Talent Acquisition Team only follows legitimate hiring practices.&amp;nbsp; We will always communicate with our candidates using emails with the 8am domain and will never ask for sensitive/personal data during the application process.&amp;nbsp; All interviews take place over phone call, Zoom/Google Meet or in person.&amp;nbsp; All offers are communicated verbally by our Talent Acquisition Specialists with a written offer letter as a follow up.&amp;nbsp;&amp;nbsp;
@@ -1137,145 +1262,4 @@ Earned the trust to own a workstream independently
 Established at least one pattern or practice that makes the codebase better
 
 
-To apply: https://weworkremotely.com/remote-jobs/cue-senior-software-engineer</description><pubDate>Wed, 25 Mar 2026 20:21:42 +0000</pubDate></item><item><title>Aktor AI: (Senior) AI Solutions Engineer</title><link>https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer</link><description>Headquarters: Athens, Greece
-    URL: https://aktor.ai
-
-
-We are hiring a (Senior) AI Solutions Engineer to join our AI engineering team remotely and help us build, harden, and scale AI agents.
-The Role
-This is a hands-on engineering role at the frontier of AI-augmented software development. You will design, build, and ship production AI agents, but the way you build them may look different from what you’re used to.
-Our engineers work heavily with AI coding assistants and autonomous agent tooling. The craft has shifted: writing every line yourself matters less than knowing&amp;nbsp;what good looks like. Making sound architectural decisions, maintaining quality standards, and steering AI-generated output toward well-structured, maintainable systems. You will spend more time thinking, reviewing, and deciding than typing.
-That said, you still need strong engineering fundamentals. You can’t evaluate what you don’t understand. The best engineers in this new paradigm are the ones who know&amp;nbsp;when the AI is wrong&amp;nbsp;and can articulate&amp;nbsp;why.
-What You’ll Do
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Build and ship AI agents&amp;nbsp;end-to-end: from scoping and prototyping through optimisation and production rollout.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Architect for reliability:&amp;nbsp;design observability, logging, guardrails, evaluation pipelines, cost controls, and human-in-the-loop flows.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Integrate with enterprise systems:&amp;nbsp;build connectors and retrieval pipelines to data stores, APIs, and line-of-business applications.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Review and elevate:&amp;nbsp;review AI-generated code and designs with a critical eye. Challenge what doesn’t meet the bar, accept what does.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Own quality:&amp;nbsp;write and maintain evaluation datasets, define accuracy targets, and treat failure modes as first-class engineering concerns.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Document clearly:&amp;nbsp;produce designs, runbooks, and technical documentation that others can follow.
-What We’re Looking For
-Engineering Judgment Over Stack Knowledge
-We care far less about which specific frameworks you’ve used and far more about whether you make good decisions. Technologies change fast; judgment compounds.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Strong software engineering fundamentals.&amp;nbsp;You understand how systems are built, how they break, and how to keep them simple.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience with LLM-based systems&amp;nbsp;in production or near-production settings (agents, RAG, automation, orchestration).
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;A product-minded approach.&amp;nbsp;You think about what you’re building and why, not just how. You understand that the goal is a working solution that serves a business need.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Architectural taste.&amp;nbsp;You can look at a system design, whether you wrote it or an AI generated it, and tell whether it’s sound, over-engineered, or cutting corners that will cost you later.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Comfort with ambiguity.&amp;nbsp;AI systems don’t behave like deterministic code. You’re comfortable with probabilistic outputs, evaluation-driven development, and iterative refinement.
-Levels
-Engineer&amp;nbsp;(typically 2–5 years total; 1+ with AI systems)
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ships features and integrations independently.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Implements evaluation datasets, prompt engineering, and observability.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Contributes to design discussions and follows established guidelines.
-Senior Engineer&amp;nbsp;(typically 6–10+ years; 2+ leading AI deliveries)
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Leads end-to-end implementations and makes architecture choices.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Designs data/retrieval schemas, instrumentation, and cost/latency budgets.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Sets quality bars and mentors teammates.
-Nice to Have:
-Experience with agent orchestration frameworks, vector/graph databases, Postgres/Redis, tracing/observability platforms, Azure, or ERP integrations. Specific tools are flexible; equivalent experience is welcome.
-Professional Qualities
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;High ownership and follow-through.&amp;nbsp;You don’t wait to be told what to do next. You see what needs doing and you do it.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Pragmatic and quality-conscious.&amp;nbsp;You use the simplest approach that solves the problem well. You don’t gold-plate, but you also don’t take shortcuts that create future pain, especially when the cost of doing it right is marginal.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Reliability-first mindset.&amp;nbsp;You treat guardrails, evaluation, and failure handling as core engineering work, not afterthoughts.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Clear communicator.&amp;nbsp;You write crisp messages, document decisions, and can explain technical trade-offs plainly.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Dedicated and self-driven.&amp;nbsp;You’re comfortable with autonomy and manage your own time effectively. You’re the kind of person who, when something is running, keeps an eye on it, not because someone asked, but because you care about the outcome.
-What We Offer
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Competitive compensation and benefits.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The opportunity to build production AI agents used by real businesses, measured by tangible KPIs.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; A modern, AI-native engineering environment where you’ll work with cutting-edge tooling daily.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Autonomy to shape engineering standards and best practices.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Career growth with executive visibility in a large, impact-oriented group.
-Hiring Process
-1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Initial interview: a structured conversation to understand your experience, thinking, and motivations.
-2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Paid collaborative project: instead of a contrived take-home test, you’ll work on a real-scope assignment alongside other candidates over a ~2-week window, so you can fit it around your schedule. Top contributions will be awarded cash prizes. This is the core of our evaluation. We want to see how you work, not just how you talk about working.
-3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Final interview: a conversation with the CEO of Aktor AI and the Head of Solution Delivery.
-Our hiring process uses AI-assisted tools for application screening and includes an AI-powered interview stage. All decisions are made by people.
-Details
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Location:&amp;nbsp;100% Remote, in Europe or Asia.
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Reports to:&amp;nbsp;Head of Solution Delivery
-•&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Collaboration:&amp;nbsp;You’ll work closely with the Athens-based engineering and solution delivery teams asynchronously, with regular video check-ins.
-
-To apply: https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer</description><pubDate>Wed, 25 Mar 2026 09:35:22 +0000</pubDate></item><item><title>LeadUp AI: Full-Stack Developer (Junior)</title><link>https://weworkremotely.com/remote-jobs/leadup-ai-full-stack-developer-junior</link><description>Headquarters: United States
-    URL: http://www.leadupgym.com
-
-
-The Role
-You build the majority of the user-facing application. You work from a detailed specification and follow patterns set by the senior developer. AI coding tools are a core part of your workflow.
-This is a fast-moving environment. You’ll have clear specs, but priorities will shift as the product meets real users. We need someone who treats that as normal.
-Why this is different from most junior roles: You're not joining a 50-person engineering team where you'll spend six months on a button. You work directly with the senior developer and the CTO - both hands-on builders. You'll get real code reviews, real architectural conversations, and real mentorship. The product is being built now, with pilot clients coming within months. Your code ships to actual users, fast.
-What You’ll Do
-
-
-Build the full user-facing web application: dashboards, reports, settings, onboarding
-
-
-Build admin views: user management, configuration, aggregate data
-
-
-Implement supporting systems: notifications, emails, exports
-
-
-Write tests against defined error scenarios
-
-
-Contribute to database schema design alongside the senior developer and the CTO
-
-
-Daily sync with senior developer; PR review on every merge
-
-
-Required
-
-
-1–3 years of professional development experience (internships and freelance count)
-
-
-React (or Next.js) for frontend, Python for backend (FastAPI experience is a strong plus)
-
-
-Basic PostgreSQL: can write queries, understands joins, can contribute to schema design
-
-
-Active AI coding tool user (Claude Code, Cursor, Copilot) — part of your daily workflow
-
-
-Can read a spec and ship features without hand-holding
-
-
-Comfortable with changing priorities
-
-
-Asks questions when unclear rather than guessing
-
-
-Solid written and spoken English
-
-
-Preferred
-
-
-FastAPI experience
-
-
-Tailwind CSS, responsive design
-
-
-Authentication flows (OAuth, JWT)
-
-
-Dashboard or report-style interfaces
-
-
-Portfolio or GitHub showing end-to-end projects
-
-
-Why Join
-You won’t guess what to build. Detailed spec. Your creativity goes into quality and speed.
-You’ll learn from strong people. Senior developer sets patterns. CTO works hands-on with the team.
-Your work ships fast. Pilot clients within months. Real users, real feedback.
-Ground floor. The product is being built now. If it succeeds, you were there from the beginning.
-Process
-1. Application review
-2. Technical conversation with the CTO
-3. Offer. If the interview goes well, we move fast
-
-To apply: https://weworkremotely.com/remote-jobs/leadup-ai-full-stack-developer-junior</description><pubDate>Wed, 25 Mar 2026 02:14:15 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/cue-senior-software-engineer</description><pubDate>Wed, 25 Mar 2026 20:21:42 +0000</pubDate></item></channel></rss>
