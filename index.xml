@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Treehouse Job Board: Electrical Design Lead</title><link>https://weworkremotely.com/remote-jobs/treehouse-job-board-electrical-design-lead</link><description>Headquarters: Chicago, IL
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>CloudDevs: Full-stack/Backend developers LLM focused.</title><link>https://weworkremotely.com/remote-jobs/clouddevs-full-stack-backend-developers-llm-focused</link><description>Headquarters: San Francisco
+    URL: https://clouddevs.com/
+
+
+Location LATAMs (Americas) and Europe preffered.&amp;nbsp;
+&amp;nbsp;
+Do&amp;nbsp;you want to shape the future of autonomous agents like OpenClaw?
+We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows.
+Whether you are a passionate orchestration guru or experienced software developer -- we want you to help us train the world's most advanced generative systems.
+&amp;nbsp;
+About the opportunity:
+
+Outlier is looking for skilled software experts to help train generative AI models.
+This freelance role is&amp;nbsp;fully remote and offers flexible hours—you can contribute whenever it fits your schedule.
+
+&amp;nbsp;
+You may contribute your expertise by…
+
+Developing objective, verifiable criteria (rubrics) to evaluate system performance and ensure outputs meet strict functional requirements.
+Reviewing system logs and "trajectories" to refactor code, improve execution paths, and reach a "Golden Path" of perfect reliability
+Testing systems for vulnerabilities, including improper data exposure, unauthorized access escalations, and edge-case failures.
+
+&amp;nbsp;
+We’re looking for people with…
+
+2+ years of experience in backend engineering, AI automation, or complex systems integration
+Proven ability to build and maintain production-grade software with modular separation (e.g., distinct services for data parsing, logic processing, and reporting)
+Strong command of at least two major languages (e.g., Python, JavaScript, Go, or Java) and experience working with SQL databases
+Practical experience building for live, non-mocked environments and handling multi-turn system interactions.
+Outstanding attention to detail and the ability to provide clear, high-density technical feedback on complex system behaviors
+
+&amp;nbsp;
+&amp;nbsp;
+Nice to have…
+
+Expertise building multi-stage coordination tasks where data acquisition leads to reasoned output
+Hands on experience integrating agents with live tools such as Supabase, Gmail, and various APIs to solve real-world problems
+High level of comfort implementing persistent state and session discovery using&amp;nbsp;MEMORY.md&amp;nbsp;to track agent progress.
+Experience identifying subtle failures like privacy leaks, authority escalation, or indirect prompt injections.
+
+&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/clouddevs-full-stack-backend-developers-llm-focused</description><pubDate>Tue, 07 Apr 2026 17:04:23 +0000</pubDate></item><item><title>Treehouse Job Board: Electrical Design Lead</title><link>https://weworkremotely.com/remote-jobs/treehouse-job-board-electrical-design-lead</link><description>Headquarters: Chicago, IL
 
 
 About Treehouse&amp;nbsp;Treehouse is an electrical contractor committed to accelerating the decarbonization of the places we live and work. By operating as a centralized, end-to-end partner, Treehouse helps companies scale electrification programs and delivers seamless, delightful installation experiences for customers.About the RoleThis role is ideal for a highly skilled Journeyman Electrician who is ready to move beyond the field and into design and enablement. The Electrical Design Lead is responsible for ensuring the electrical scope of every project is technically sound, code-compliant, and ready for execution. This role provides scoping oversight, supports pre-sale technical review, and helps prepare every job for a smooth, high-quality install. The ideal candidate combines deep field knowledge with design aptitude and strong communication skills to bridge gaps between design, scoping, and delivery.ResponsibilitiesThe Electrical Design Lead will:Provide technical design and scoping support by reviewing complex project scopes to ensure feasibility and compliance, supporting project scoping escalations, and creating or advising on diagrams and layout recommendations in partnership with drafters and permit designersAct as the technical partner to sales by clarifying edge-case designs and customer constraints before proposal finalization, providing fast, high-confidence answers to questions on installation approach, and flagging risky or non-standard conditions early to prevent installation delaysProvide permitting and plan set guidance by reviewing permit plan sets for accuracy, providing field-informed feedback to improve diagram quality and jurisdictional alignment, and partnering with the Head Electrician and permitting team on AHJ-specific requirements or technical justificationsProvide support to installation teams by reviewing projects for completeness before handoff to installation operations and collaborating with install operations to flag projects that may require field reverification or Master Electrician inputServe as knowledge management expert by creating technical FAQs, reference guides, and installation readiness checklists and contributing to scoping libraries and internal playbooks with field-proven best practicesContribute to continuous improvement of installation process, tools and procedures by identifying opportunities for simplification and standardization, gaps in scoping logic and repeat issues.&amp;nbsp;&amp;nbsp;&amp;nbsp;Minimum QualificationsSuccessful Electrical Design Lead candidates will demonstrate:Licensed Journeyman Electrician certification with at least 5 years hands-on residential experienceKnowledge and experience with NEC and the ability to interpret code for real-world scenariosExperience working in a software-based environment, including comfortable use of G-suite and/or Microsoft Office.Preferred QualificationsAdditionally, successful Electrical Design Lead candidates may demonstrate:Experience in a startup or high-growth tech company environment10 + years of hands-on residential experience, ideally in L2 EV charging, service upgrades, load management, and smart panelsExcellent written and oral communication skillsComfort and experience reviewing phots, plans, and scopes in digital systems (HubSpot, Dropbox, Figma, etc)Strong communication skills and ability to explain technical tradeoffs to non-technical teammates and customersStrong attention to detail, but never at the the cost of slowing things downThis role may be based in any of the following locations: Chicago, Denver, San Francisco, or Remote. The salary range for this position is $75,000 - $90,000 annually, plus equity. This is a good faith estimate of what Treehouse may pay for a new hire; actual pay may vary based on prevailing wages in geographic location and a candidate's knowledge, skills, abilities, related experience, education, certifications, and ability to meet required job qualifications.Featured benefits include:Medical insuranceVision insuranceDental insurance401(k)Unlimited paid time off
@@ -438,111 +480,4 @@ To apply: https://weworkremotely.com/remote-jobs/tether-ai-research-engineer</de
 
 Bounteous is a premier end-to-end digital transformation consultancy dedicated to partnering with ambitious brands to create digital solutions for today’s complex challenges and tomorrow’s opportunities. With uncompromising standards for technical and domain expertise, we deliver innovative and strategic solutions in Strategy, Analytics, Digital Engineering, Cloud, Data &amp;amp; AI, Experience Design, and Marketing.Our Co-Innovation methodology is a unique engagement model designed to align interests and accelerate value creation. Our clients worldwide benefit from the skills and expertise of over 4,000+ expert team members across the Americas, APAC, and EMEA. By partnering with leading technology providers, we craft transformative digital experiences that enhance customer engagement and drive business success.We are seeking a high-impact Principal Product Leader to serve as the visionary architect and chief evangelist for our AI-powered B2B MarTech suite. This is not a role for a traditional "feature manager." We need a growth-minded owner who can bridge the gap between cutting-edge Generative AI and enterprise-scale revenue impact. You will define the roadmap, own the product’s commercial success, and evangelize the future of AI-driven personalization to the world’s most sophisticated marketing organizations.Information Security ResponsibilitiesPromote and enforce awareness of key information security practices, including acceptable use of information assets, malware protection, and password security protocolsIdentify, assess, and report security risks, focusing on how these risks impact the confidentiality, integrity, and availability of information assetsUnderstand and evaluate how data is stored, processed, or transmitted, ensuring compliance with data privacy and protection standards (GDPR, CCPA, etc.)Ensure data protection measures are integrated throughout the information lifecycle to safeguard sensitive informationCore Pillars of Responsibility1. Product Evangelism &amp;amp; Market Leadership The Voice of AI: Act as the primary technical and strategic spokesperson for our AI suite. You will translate LLM complexities into a "value-first" narrative for C-suite stakeholders and enterprise clients.&amp;nbsp;Customer Advocacy: Drive product-led growth (PLG) by deeply understanding the "jobs to be done" for modern marketers and turning those insights into compelling market stories.&amp;nbsp;Thought Leadership: Represent the product in industry forums and executive briefings, positioning our AI capabilities (RAG, content automation, predictive modeling) as the gold standard in MarTech.&amp;nbsp;2. Strategic Roadmap &amp;amp; Visionary Ownership The North Star: Own the multi-year product vision. You aren't just shipping features; you are building a proprietary AI ecosystem that redefines content generation and personalization.&amp;nbsp;High-Stakes Prioritization: Balance aggressive innovation with technical feasibility, ensuring the roadmap focuses on high-growth levers that drive ROI and enterprise retention.&amp;nbsp;Governance &amp;amp; Ethics: Lead the charge on ethical AI, ensuring our roadmap adheres to global data privacy (GDPR, CCPA) while maintaining a competitive edge.&amp;nbsp;3. Product Growth &amp;amp; Lifecycle Velocity Growth Mechanics: Identify untapped opportunities within the MarTech stack (CDP, CRM, Creative Ops) to expand the product’s footprint and increase "stickiness" within enterprise workflows.&amp;nbsp;Agile Experimentation: Lead a culture of "fail fast, scale faster." Use pilots and MVPs to validate AI models, then rapidly operationalize them for global scale.&amp;nbsp;Commercial Impact: Define and own the KPIs that matter: Product-Qualified Leads (PQLs), adoption velocity, and AI-attributed revenue growth.Key QualificationsThe AI Expert: You have a deep, intuitive understanding of LLMs, RAG, and NLP frameworks. You don't just know what they are; you know how to monetize them.&amp;nbsp;The MarTech Veteran (nice to have): You’ve spent years navigating the Adobe/Salesforce/CDP ecosystems and know exactly where AI can disrupt traditional marketing silos.&amp;nbsp;The Strategic Communicator: You possess the rare ability to command a room of engineers in the morning and a room of CMOs in the afternoon.&amp;nbsp;The Growth Mindset: You have a proven track record of taking products from "experimental pilot" to "enterprise-wide adoption.$160,000 - $175,000 a yearWe invite you to stay connected with us by subscribing to our monthly job openings alert here.Bounteous is proud to be an equal opportunity employer. Bounteous does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, national origin, veteran status, or any other status protected under federal, state, or local law.&amp;nbsp;Bounteous is willing to sponsor eligible candidates for employment visas.&amp;nbsp;#BI-Remote#LI-RemoteWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
 
-To apply: https://weworkremotely.com/remote-jobs/bounteous-principal-product-lead-martech-ai</description><pubDate>Wed, 01 Apr 2026 20:31:34 +0000</pubDate></item><item><title>EventMobi: Front End Engineer - Remote</title><link>https://weworkremotely.com/remote-jobs/eventmobi-front-end-engineer-remote</link><description>Headquarters: 151 Yonge Street 11th Floor Toronto, Ontario M5C 2W7
-    URL: https://www.eventmobi.com/
-
-
-*** EventMobi is an all-remote company and this is a fully remote position, open to all candidates with a focus in Pakistan, India, Brazil, Columbia, Argentina and Mexico.&amp;nbsp;
-You will need to be able to work in EST time zones. ***
-&amp;nbsp;
-WHY YOU SHOULD JOIN US?
-At EventMobi, you won’t just build UI components. &amp;nbsp;You’ll help deliver meaningful product experiences used by thousands of organizations around the world.
-Our front-end applications are large-scale React/TypeScript systems with real-world complexity: offline capabilities, cross-device support, and performance-sensitive rendering. You’ll work on features that directly impact users, while developing a deeper understanding of how modern front-end systems are designed and evolve over time.
-This role is ideal for engineers who are strong in fundamentals, take pride in their craft, and want to grow into more advanced system design and ownership over time.We believe great engineers take ownership of their work, collaborate openly, and continuously improve. You’ll be supported by experienced teammates while having the autonomy to contribute meaningfully from day one.
-We also believe the next generation of engineers will be AI-native. You’ll be encouraged to use AI-assisted tools to improve productivity, code quality, and learning speed.
-HEAR FROM OUR FRONT-END ENGINEER, MOEED:&amp;nbsp;
-“I’ve been here a little over 2 years, working across the front end, mostly focused on onsite and registration flows. What I have enjoyed the most here is a mix of real ownership and strong support. &amp;nbsp;You’re trusted to lead meaningful work, but there’s always someone ready to jump in and debug or brainstorm with you.&amp;nbsp;
-There’s also never a shortage of genuinely interesting technical challenges, which keep things fun and help you grow. The team is very collaborative and product‑minded, and being here has pushed me to think beyond ‘just code’ to how what I build actually impacts customers and the business.”
-WHAT YOUR WORK WILL FOCUS ON:
-This role sits at the intersection of hands-on development, product thinking, and continuous growth.
-Build Modern Web Experiences
-
-Develop responsive, high-quality interfaces using React &amp;amp; JavaScript/TypeScript
-Contribute to features within our Progressive Web App
-Help deliver reliable experiences across devices and varying network conditions
-
-Contribute to Feature Development
-
-Implement features from defined requirements and collaborate on design decisions
-Work closely with product managers, designers, and senior engineers
-Balance user experience, performance, and technical constraints
-
-Work Within Scalable Front-End Systems
-
-Contribute to a shared codebase with established patterns and practices
-Participate in discussions around architecture and system improvements
-Learn how to navigate and improve large, evolving applications
-
-Collaborate and Improve as a Team
-
-Participate in code reviews and technical discussions
-Apply feedback to continuously improve code quality and approach
-Contribute to a culture of collaboration, clarity, and shared ownership
-
-Work Smarter with AI
-
-Use AI-assisted tools (e.g. Claude, Codex) to accelerate development
-Improve productivity in debugging, testing, and implementation tasks
-Continuously refine how you integrate AI into your workflow
-
-YOUR QUALIFICATIONS:
-You’re a solid engineer with strong fundamentals and a desire to grow.
-
-3–5 years of experience building user-facing web applications
-2+ years of experience with JavaScript/TypeScript and React
-Strong understanding of modern HTML, CSS, and front-end fundamentals
-Experience working with APIs and integrating backend services
-Ability to debug issues and work within existing codebases
-Familiarity with testing (unit and end-to-end)
-Clear written communication skills (we’re async-first)
-
-NICE TO HAVE:
-
-Experience with state management or data-fetching libraries (e.g., React Query)
-Exposure to performance optimization or scalable front-end patterns
-Familiarity with CI/CD workflows or cloud environments
-Interest in mobile or cross-platform development
-
-THIS ROLE IS A GREAT FIT FOR YOU IF..
-
-You enjoy building real features that users rely on
-You’re comfortable working with some ambiguity but appreciate guidance
-You want to grow your skills in architecture and system design over time
-You value feedback and continuous improvement
-You’re excited about using modern tools, including AI, to work more effectively
-
-THIS ROLE IS PROBABLY NOT&amp;nbsp;FOR YOU IF..
-
-You’re primarily looking to define architecture and lead technical direction
-You prefer highly structured, narrowly scoped tasks with little ambiguity
-You’re not interested in collaborating closely or receiving feedback
-You’re uncomfortable working in a remote, async-first environment
-
-OUR INTERVIEW PROCESS
-If your profile moves forward, here’s what you can expect during the hiring process:
-
-Introductory Conversation (45 minutes)Meet with the VP of Product &amp;amp; Engineering to discuss your background, experience, and career goals.
-Technical Assessment (120 minutes)Participate in a live, hands-on session with members of our technical team to demonstrate your problem-solving and coding skills.
-Project Deep Dive (90 minutes)Walk us through impactful projects you’ve worked on, highlighting your contributions, decisions, and outcomes.
-Offer StageFinal discussions and next steps.
-
-We’ll provide more details at each stage and ensure you have plenty of opportunities to ask questions along the way.
-BONUS
-Hey - If you’ve made it this far, are excited about what you’ve read and feel that you have what it takes, then we’d love to hear from you.
-Please use this link to submit a short video answering&amp;nbsp;a few questions. We guarantee you’ll receive a response from us within five business days, either way.
-And don’t forget to submit your application for the role as well!
-WHAT WILL YOU GET FROM EVENTMOBI?&amp;nbsp;
-
-Compensation: Base salary ranges from $40k to $65k CAD per annual, depending on experience
-Time-Off:&amp;nbsp;2-weeks PTO + 3-summer days + your birthday is a &amp;nbsp;holiday (seriously! log-off and hang out with the fam or go do something fun) + opportunities to meet your co-workers in person throughout the year
-Tools:&amp;nbsp;Top of the line hardware and the best collaboration software for remote work so you can be as productive as possible while working from home
-The Best Coworkers Ever:&amp;nbsp;If you ask anyone that has worked at EventMobi, they will tell you that their fellow Mobiers are the best part of their experience! Don't underestimate the positive impact of caring co-workers have on your everyday happiness.
-
-REMOTE WORKSPACE REQUIREMENTS:
-
-You have a safe, comfortable, and ergonomic workspace and working environment - a private and quiet workspace is a vital requirement for doing your best work!
-You have a reliable internet connection capable of participating in video calls, with at least 30Mbps download speed.
-Ability to collaborate during EST working hours.
-
-
-To apply: https://weworkremotely.com/remote-jobs/eventmobi-front-end-engineer-remote</description><pubDate>Tue, 31 Mar 2026 18:28:48 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/bounteous-principal-product-lead-martech-ai</description><pubDate>Wed, 01 Apr 2026 20:31:34 +0000</pubDate></item></channel></rss>
