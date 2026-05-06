@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Mmdsmart Ltd: Senior Full Stack Developer (Go/React)</title><link>https://weworkremotely.com/remote-jobs/mmdsmart-ltd-senior-full-stack-developer-go-react</link><description>Headquarters: Poland
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Glückliche Gäste: Backend Engineer (TypeScript/Node.js)  DevOps Mindset (m/w/d)</title><link>https://weworkremotely.com/remote-jobs/gluckliche-gaste-backend-engineer-typescript-node-js-devops-mindset-m-w-d</link><description>Headquarters: Remote, hybrid
+
+
+Deine Rolle                        Für die FoodGenius Labs GmbH suchen wir einen Backend Engineer mit ausgeprägtem DevOps-Mindset.Du entwickelst Backend-Services und technische Komponenten für FoodGenius und sorgst dafür, dass diese zuverlässig gebaut, ausgerollt, betrieben und weiterentwickelt werden.&amp;nbsp;Dabei endet Deine Verantwortung nicht beim Commit: Du denkst in Deployments, Umgebungen und Betriebsszenarien. Du baust Software so, dass sie in Produktion stabil läuft – arbeitest dabei eng mit unserem Platform-Engineering zusammen, das den 24x7-Plattformbetrieb verantwortet.&amp;nbsp;Du bewegst Dich bewusst an der Schnittstelle zwischen Entwicklung und Betrieb und hast Freude daran, Dinge zu automatisieren, technische Zusammenhänge zu verstehen und Systeme ganzheitlich zu betrachten.                    Das wirst Du tunEntwicklung von Backend-Services und technischen Komponenten mit TypeScript / Node.jsArbeit an produktionsnahen Systemen mit PostgreSQL, APIs und serviceorientierten ArchitekturenContainerisierung von Anwendungen mit DockerMitarbeit an CI/CD-Pipelines (GitLab) und Automatisierung von Build- und Deployment-ProzessenDeployments und Betrieb eigener Services in Kubernetes-UmgebungenEntwicklung und Betrieb von Software auf unterschiedlichen Zielsystemen:&amp;nbsp; &amp;nbsp; • &amp;nbsp; &amp;nbsp;Server- und Cloud-Umgebungen&amp;nbsp; &amp;nbsp; • &amp;nbsp; &amp;nbsp;kundennahen Edge-Systemen (z. B. Raspberry Pi)&amp;nbsp; &amp;nbsp; • &amp;nbsp; &amp;nbsp;lokalen Entwicklungs-Setups auf macOSMitarbeit an KI-gestützten Funktionen und Integrationen:&amp;nbsp; &amp;nbsp; • &amp;nbsp; &amp;nbsp;Nutzung und Einbindung von KI-APIs&amp;nbsp; &amp;nbsp; • &amp;nbsp; &amp;nbsp;Aufbau technischer Schnittstellen (z. B. agentenbasierte Konzepte, MCP-artige&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Architekturen)&amp;nbsp; &amp;nbsp; • &amp;nbsp; &amp;nbsp;Fokus auf Integration und Anwendung, kein zwingendes ModelltrainingEnge Zusammenarbeit mit Produkt, Platform Engineering, Head of Engineering und Scrum MasterDas bringst Du mitMehrjährige Erfahrung in der Backend-SoftwareentwicklungSehr gute Kenntnisse in TypeScript und Node.jsSicherer Umgang mit Linux als Entwicklungs- und LaufzeitumgebungSehr gutes Verständnis von Docker und containerisierten AnwendungenErfahrung mit Kubernetes im Sinne von Deployment und Betrieb eigener WorkloadsErfahrung mit relationalen Datenbanken, idealerweise PostgreSQLPraxis mit CI/CD, bevorzugt GitLabStarkes Automatisierungs- und Betriebsverständnis („You build it, you run it“ – im Team)Erfahrung oder Interesse an:• Hosting- und Cloud-Umgebungen (z. B. Hetzner)• Edge-/Kundensystemen (z. B. Raspberry Pi)• KI-gestützten Anwendungen und deren technischer IntegrationNice to have: erste Berührung mit KI-Modelltraining oder tiefergehenden ML-KonzeptenStrukturierte Arbeitsweise, technischer Anspruch und Lust, Dinge wirklich zu verstehenSehr gute DeutschkenntnisseDas bieten wir DirMaximale Flexibilität beim Arbeitsort: 100 % Remote, Hybrid oder 100 % vor Ort in St. WendelArbeit an realen, produktiven Systemen mit echtem ImpactKlare Rollenverteilung zwischen Produktentwicklung und PlattformbetriebEnge Zusammenarbeit mit erfahrenen Engineering-RollenRaum für technische Gestaltung und WeiterentwicklungWeiterbildungsmöglichkeiten und berufliche Entwicklung.Ein faires und angemessenes Gehalt, das Deiner Qualifikation und Erfahrung entspricht.30 Tage Urlaub, damit Du Dich ausreichend erholen und neue Energie tanken kannst.Regelmäßige Firmenevents wie z. B. ein Sommerfest, bei denen Teamgeist und gemeinsamer Spaß im Vordergrund stehen.Ein motiviertes, freundliches Team, das Zusammenarbeit und Austausch schätzt und fördert.BewerbungWenn Du Lust hast, unser Team zu bereichern und die Zukunft unserer Produkte mitzugestalten, freuen wir uns auf Deine Bewerbung. Bewirb Dich bitte über unser Jobportal:&amp;nbsp;https://gluecklichegaeste.jobs.personio.de&amp;nbsp;Glückliche Gäste GmbH – wir machen Ernährung einfach und gesund.                        Über uns                        Wir sind vier Unternehmen unter einem Dach. Uns verbindet ein gemeinsamer Anspruch und ein klares Motto: Wir schaffen Wissen, Werkzeuge und Bewusstsein für eine wirtschaftliche, nachhaltige und gesunde Gesellschaft.Jedes Unternehmen löst dabei ein anderes Stück des großen Puzzles – von Ernährung im Alltag über Gastro-Software bis hin zur Dienstplanung im Gesundheitswesen.Glückliche Gäste GmbHDie Glückliche Gäste GmbH entwickelt branchenspezifische Lösungen, digitale Innovationen und individuelle Konzepte – mit starkem Fokus auf Gastronomie und Food-Service. Dazu gehören unter anderem Marken- und Konzeptarbeit, digitale Bestell- und Shop-Lösungen, POS-/Kassen-Themen, Schulungen und praxisnahe Unterstützung entlang des operativen Geschäfts. &amp;nbsp;uninu GmbHuninu ist eine smarte Ernährungs-App, die Menschen im Alltag unterstützt – bewusst, effizient und alltagstauglich. Im Zentrum steht ein KI-gestützter Ernährungsbegleiter: Kalorientracking per Foto, Barcode-Scan oder Eingabe, Nährwertanalyse sowie Unterstützung per Chat, vollautomatische Pläne für schnelles und gesundes Essen. Ergänzt wird das durch personalisierte Funktionen (z. B. Berücksichtigung von Unverträglichkeiten) und eine Rezeptwelt, die auf Routinen statt Verzicht ausgelegt ist. &amp;nbsp;FoodGenius Labs GmbHFoodGenius ist eine KI gestützte „All-in-one“-Lösung für Restaurant- und Lieferservice-Management: Bestellannahme, Kassensystem, KI-Telefonannahme, WhatsApp Bestellungen, Online-Shop und vieles mehr. Besonders stark ist FoodGenius dort, wo im Alltag Zeit verloren geht: bei Transparenz über Prozesse und bei der intelligenten Organisation von Lieferungen, inklusive Touren- und Routenplanung. &amp;nbsp;Personal.Manager Software GmbHPersonal.manager digitalisiert Dienst- und Personalplanung im Gesundheitswesen – mit dem Ziel, Planung fairer, effizienter und verlässlicher zu machen. Die Software adressiert typische Klinik-Herausforderungen wie Schichtplanung, Abwesenheiten, mobile Nutzbarkeit und Integrationen (z. B. SAP-gestützte Abrechnungsvorbereitung) und stellt dabei den Menschen in den Mittelpunkt: weniger Konflikte, mehr Planbarkeit, mehr Zeit für Versorgung. &amp;nbsp;Unser gemeinsamer Nenner: Technologie, die Menschen entlastet und Qualität erhöht – zu Hause, in der Küche, im Betrieb und in der Klinik. Genau dafür bauen wir unsere Produkte.
+
+To apply: https://weworkremotely.com/remote-jobs/gluckliche-gaste-backend-engineer-typescript-node-js-devops-mindset-m-w-d</description><pubDate>Thu, 09 Apr 2026 20:33:23 +0000</pubDate></item><item><title>Mmdsmart Ltd: Senior Full Stack Developer (Go/React)</title><link>https://weworkremotely.com/remote-jobs/mmdsmart-ltd-senior-full-stack-developer-go-react</link><description>Headquarters: Poland
 
 
 We are seeking a&amp;nbsp;Senior Full Stack Developer&amp;nbsp;to join our development team. Our products require innovative and open-minded engineers working in an Agile environment. You will be part of a world-class team of engineers that focuses on new functionality and stabilization for our large-scale system. As a part of your team, you will have the opportunity to learn from others and drive your own initiatives.Since 2007, MMDSmart has been a&amp;nbsp;leading supplier in cloud-based business communications, delivering game-changing IT products to businesses in over 100 countries. Our success is fueled by the inspiration and innovative ideas of our team members, encouraging their growth and impacting our Messaging and&amp;nbsp;Voice solutions. These empower our clients to communicate more effectively with their customers. Don’t miss this chance to excel in a rapidly expanding tech company, where your potential and ambitions are not just recognized, but celebrated. What will you do at MMDSmart?Participation in designing and developing new features and projects, occasionally leading to the realization of&amp;nbsp; new development opportunities;Presenting demos as part of your team to stakeholders;Investigating, diagnosing, and resolving product issues, striving for constant product improvement.You are a perfect match if you have:4+ years of commercial experience as Full Stack Developer;3+ years of experience with GoLang;2+ years of experience with React.jsStrong knowledge of TypeScript;Experience with SQL and NoSQL databases;Ability to work independently and in a team environment. Why do talents choose and stay at MMDSmart?Embrace the opportunity to work in a company that cares about:Your Wellness: Access to mental health programs, comprehensive medical insurance, and a sports card*.Your Happiness: Enjoy the company of cool teammates, a friendly atmosphere, a strong mentorship, and a variety of bonuses &amp;amp; corporate gifts.Your Development: Benefit from free educational events &amp;amp; courses, and English classes with native speakers.Your Career: Focus on your professional development in a supportive environment.Work-Life Balance: Choose your working format - remote, office-based, or hybrid and engage in team-building activities.Think this role's got your name on it? Go ahead and apply, we'd love to see what you've got!Equal-Opportunity EmploymentWe are an equal opportunity employer committed to creating a diverse and inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.*Medical Insurance and Sport Card perks are available for employees located in Bulgaria.
@@ -185,124 +190,4 @@ To apply: https://weworkremotely.com/remote-jobs/workwize-product-manager-b2b-sa
 
 The mission of Speechify is to make sure that reading is never a barrier to learning.Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.&amp;nbsp;This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&amp;nbsp;Our interview process involves several technical interviews and we aim to complete them within 1 week.&amp;nbsp;What You’ll DoActively ship production code to the web productsWork closely with your dedicated product teamParticipate in product discussions to shape the product roadmapHave the opportunity to work on new and exciting features that will impact millions of livesAn Ideal Candidate Should HaveExperience. You've built and ship products that have scaled to thousands or millions of usersCustomer obsession. You are passionate about the field and have the desire to build high quality product that serves customer needsSpeed. You work quickly to generate ideas and know how to decide which things can ship now and what things need timeFocus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads downCollaboration. You know how to inspire, play, and negotiate with opinionated designers, marketers, and PMsTech Stack: Vanilla JS, ReactJS, Redux, Firebase, TypescriptWhat We Offer A fast-growing environment where you can help shape the cultureAn entrepreneurial crew that supports risk, intuition, and hustleA hands-off approach so you can focus and do your best workThe opportunity to make an impact in a transformative industryA competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous cultureCompensation: The US base salary range for this full-time position is $140,000-$200,000 + bonus + equity depending on experienceThink you’re a good fit for this job?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Tell us more about yourself and why you're interested in the role when you apply. And don’t forget to include links to your portfolio and LinkedIn.Not looking but know someone who would make a great fit?&amp;nbsp;Refer them!&amp;nbsp;Speechify is committed to a diverse and inclusive workplace.&amp;nbsp;Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
 
-To apply: https://weworkremotely.com/remote-jobs/speechify-software-engineer-web-core-product-chrome-extension</description><pubDate>Mon, 06 Apr 2026 18:02:14 +0000</pubDate></item><item><title>Elevated Leads Limited: Chrome Extension Developer — iGaming Product (New Build)</title><link>https://weworkremotely.com/remote-jobs/elevated-leads-limited-chrome-extension-developer-igaming-product-new-build</link><description>Headquarters: Malta
-    URL: https://elevated.ltd/
-
-
-Chrome Extension Developer — iGaming Product (New Build)
-The Company
-Elevated Leads Limited operates established brands in the iGaming affiliate space, including CryptoCasinos.com and CryptoBetting.com. We have a team of 20 people and strong relationships with major operators and game developers across the industry.
-&amp;nbsp;
-We're building a new product — a Chrome extension for the online casino space. The product is first-of-its-kind and currently in the planning stage. Full product details will be shared with shortlisted candidates after signing a standard NDA.
-&amp;nbsp;
-&amp;nbsp;
-
-&amp;nbsp;
-The Role
-We're looking for a mid-to-senior developer to own this product technically from day one. This isn't task-by-task freelance work — you'll make architectural decisions, flag problems early, and ship something real alongside a small, experienced team.
-&amp;nbsp;
-Contract role, 3-6 months initially, with strong potential to become long-term depending on product traction and fit.
-&amp;nbsp;
-&amp;nbsp;
-
-&amp;nbsp;
-What We Need
-Must-Have
-
-
-Chrome Extension development with Manifest V3
-
-
-JavaScript or TypeScript — strong, not just functional
-
-
-DOM manipulation and content scripts — the extension interacts with third-party websites with varying front-end architectures
-
-
-Experience shipping a product — you've taken something from zero to live users, not just contributed to an existing codebase
-
-
-Strong Preferences
-
-
-Experience with data visualization (Chart.js, D3, Recharts, or similar)
-
-
-Backend capability (Node.js, Python, or similar — needed for later phases)
-
-
-Has published an extension on the Chrome Web Store before
-
-
-Familiarity with the iGaming industry is a plus but not required
-
-
-&amp;nbsp;
-&amp;nbsp;
-
-&amp;nbsp;
-How We Work
-
-
-Communication: Async-first (Discord or similar), calls when needed
-
-
-Updates: Brief daily written updates on progress and blockers
-
-
-Code: Private GitHub repo, PR-based workflow
-
-
-Location: Fully remote — timezone flexibility, but some overlap with CET preferred
-
-
-Decision-making: You own technical decisions. We own product direction. Trade-offs are discussed together.
-
-
-&amp;nbsp;
-&amp;nbsp;
-
-&amp;nbsp;
-Compensation
-
-
-Monthly contract: Salary is up for discussion depending on experience and location
-
-
-Performance bonus tied to KPI milestones
-
-
-Potential equity or revenue share for the right person who wants to grow with the product
-
-
-Budget for tools and services as needed
-
-
-&amp;nbsp;
-&amp;nbsp;
-
-&amp;nbsp;
-To Apply
-Send the following to sam@elevated.ltd:
-&amp;nbsp;
-
-
-A Chrome extension you've built — published or private, we just want to see your work
-
-
-A brief note on your experience with content scripts that interact with third-party sites (injecting UI, reading page data, handling iframes)
-
-
-Your availability and rate expectations
-
-
-&amp;nbsp;
-No generic CVs. No cover letter templates. We'll respond to every serious application within a few days.
-&amp;nbsp;
-&amp;nbsp;
-
-&amp;nbsp;
-&amp;nbsp;
-Elevated Leads Limited — Malta
-
-To apply: https://weworkremotely.com/remote-jobs/elevated-leads-limited-chrome-extension-developer-igaming-product-new-build</description><pubDate>Mon, 06 Apr 2026 10:20:00 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/speechify-software-engineer-web-core-product-chrome-extension</description><pubDate>Mon, 06 Apr 2026 18:02:14 +0000</pubDate></item></channel></rss>
