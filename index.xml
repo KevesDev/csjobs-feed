@@ -1,5 +1,158 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Supportyourapp: (Native Norwegian) Customer Support Consultant (remotely)</title><link>https://weworkremotely.com/remote-jobs/supportyourapp-native-norwegian-customer-support-consultant-remotely</link><description>Headquarters: Stavanger, Rogaland, Norway
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Mobena: Frontend Engineer</title><link>https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</link><description>Headquarters: New York, NY
+    URL: https://mobena.co/
+
+
+Mobena is a three-person, remote-first startup building the “evolution” of multi-generational tax/estate planning software, targeting the advisors of America’s 2 million wealthiest families. We’re currently hiring our first dedicated UI Engineer to “own” the frontend of our flagship product, Mobena Evolution, for which we have little to no frontend code. You’ll work directly with our backend/algorithm-focused CTO, as well as our designer-founder, to turn evolving Figma concepts into fast, maintainable, and scalable user interfaces.
+What You’ll Do
+
+Choose and justify the frameworks and tools that best fit our needs.
+
+We have some holdover prototype code in Vite JS, but you can take it or leave it; all of our Figma concepts are new.
+The backend is a standard HTTP API. We are open to everything from established web stacks (React, Angular, Svelte, Vite) to cross-platform or native solutions (Qt, WASM, .NET MAUI, Tauri, Electron, Tk)—literally anything, if you can convince us it’s the right choice.
+
+Build our UI from the ground up, establishing clear, maintainable patterns for components, state management, styling, testing, performance, and accessibility.
+Collaborate to refine and sometimes re-frame existing screen designs in Figma.
+Connect the frontend to our APIs (REST, GraphQL, or similar).
+Lay groundwork for future mobile clients; however, experience in this regard is a plus rather than a requirement.
+
+About You
+
+You’ve shipped an interactive application—web, desktop, or mobile—via coursework, open source, side project or professional work.
+You care about usability and design quality. (That is, you care about the user.)
+You learn by doing: building things rather than sitting in committee.
+You are happy to say I don’t know. We try to cultivate “beginner’s mind” at Mobena—it helps us avoid conventional traps and groupthink. The first step of thinking like a beginner is acknowledging your own ignorance! 😊
+You can defend your technical choices in clear English, and can take credit for your successes as well your mistakes.
+You are comfortable in an early-stage, collaborative environment.
+
+
+To apply: https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</description><pubDate>Fri, 16 May 2025 20:03:34 +0000</pubDate></item><item><title>CodeSignal: Software Engineer, Business Experience</title><link>https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</link><description>Headquarters: San Francisco
+    URL: https://codesignal.com/
+
+
+We are looking for a Software Engineer who wants to be an impactful part of a small team looking to change the way technical hiring is done. In this role, you will be an integral part of our Product Engineering team and will drive features with immediate business impact to our core products:&amp;nbsp;Assessments,&amp;nbsp;Interviews, and&amp;nbsp;Learn. You’ll be a key member of the team that builds and maintains our identity and authentication systems, tying all of our products together.
+To learn more about the kinds of projects we work on, check out our&amp;nbsp;Engineering blog! Some noteworthy projects include:
+
+Why we moved from MongoDB &amp;amp; Meteor observers to Redis
+What we learned when 10,000 users hit our platform at once
+How to avoid issues with your HTML email formatting
+
+Day-to-Day&amp;nbsp;
+
+Contribute to building product features across the full stack (from the front-end to the back-end to separate microservices)
+Develop clean and maintainable code, with an emphasis on quality and craftsmanship
+Conduct code reviews and collaborate with your peers
+Lead technical design discussions on features where you're able to lend your expertise
+
+Basic Qualifications
+
+At least 4 years of professional, full-time software engineering experience
+Clear and effective communication skills
+Drive and initiative for getting things done
+Experience with TypeScript/JavaScript (browser, Node, or both)
+Available to work full-time. Candidates must be based within GMT-GMT+6 timezones.
+
+Bonus Points for the Following
+
+Experience with any part of our stack:
+React
+Node
+MongoDB
+GraphQL
+Experience with SSO, SCIM or RBAC.
+Any experience in a related industry, including assessments, HR tech, or education.
+
+
+To apply: https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1</description><pubDate>Wed, 12 Nov 2025 08:56:02 +0000</pubDate></item><item><title>Jimdo: Head of Experience Design</title><link>https://weworkremotely.com/remote-jobs/jimdo-head-of-experience-design</link><description>Headquarters: Germany
+
+
+About JimdoWe exist to unleash the power of the self-employed - helping solopreneurs and micro-businesses thrive by doing what they're passionate about and removing the complexity of building lasting, successful businesses.Jimdo started in 2007 when three school friends built a website builder in a Northern German farmhouse to help everyone build a presence online. Today, we're a profitable, remote-first company with 220+ people from 50+ nationalities working across 15+ countries. We've helped build over 36 million websites to get online across the world.We're more than just a website builder. We're an AI-powered platform that helps self-employed people actually run and build successful businesses — from getting found online, winning customers and running their business with a peace of mind by knowing exactly what to do next to move forward.At the heart of Jimdo is a strong belief in personalized, data-driven guidance. Our platform combines design, business tools, and an AI-powered core that turns real customer data into clear insights and next steps helping our customers focus on what moves their business forward.Role Overview :This role exists to build on the strong design foundation already in place at Jimdo and help evolve it further as the company scales, changes focus to a multiproduct platform, and our AI capabilities mature.As Head of Design, you will lead and develop our Product Design function, with a focus on simplicity, usability, and customer outcomes for solopreneurs and micro-businesses. You will ensure design is deeply embedded in how we understand customer problems, shape product strategy, and deliver coherent experiences across the customer lifecycle working closely with our VP of Product &amp;amp; Design on building out this vision.A defining aspect of the role is advancing how AI is used within design, not to replace craft or judgment, but to remove low-value iteration, increase leverage, and allow designers to focus on higher-impact work leading to customer success.Your impact:Set clear design direction that raises the quality, clarity, and consistency of product experiences, grounded in the needs of solopreneurs and micro-businesses.Ensure design is a strong partner in problem definition, shaping product strategy—not just executing solutions.Lead the evolution of AI-enabled design practices to increase speed, reduce low-value iteration, and improve outcomes without compromising craft.Own and evolve the design system in close partnership with Product and Engineering, balancing consistency, scalability, and innovation.Take a holistic view of the end-to-end customer experience across product touchpoints and the broader lifecycle.Partner closely with Marketing and Brand to ensure alignment across product experience, content, narrative, and visual language.Lead, coach, and grow a senior Product Design team, fostering a culture of quality, curiosity, and continuous improvement.Work cross-functionally with Product and Engineering leadership to support effective discovery, prioritisation, and execution.What you bring:Senior leadership experience building and scaling high-performing product design teams.A strong point of view on simplicity, usability, and user-centered design.Demonstrated ability to evolve design systems and experience quality at scale across the full customer journey.Practical experience integrating AI into design workflows to improve speed and outcomes.Deep empathy for small businesses, solopreneurs, or similarly constrained customer segments.Comfort operating across product, brand, content, and lifecycle design.Strong collaboration skills and a systems-thinking mindset.High standards, clear taste, and the ability to raise the bar without creating friction.Experience in optimising for conversion while not detracting from usability.What we offer:Inspiring Mission: At our core, we are driven by a meaningful mission - to&amp;nbsp; empower solopreneurs and small businesses to succeed and&amp;nbsp; to contribute to the sustainability and vibrancy of the communities they serve.Flexibility and Trust: Our work environment thrives on flexibility and trust. We offer fully remote work set-up&amp;nbsp; with opportunities for in-person collaboration. You can manage your working hours flexibly because we prioritize the results you deliver over the number of hours you put in.&amp;nbsp;An International Diverse Team: Our team is a mosaic of over 248 individuals hailing from 50+ different countries and working across 15+ diverse locations. We take pride in our openness and inclusivity, with an Employee-led DEI Council and active ERGs that ensure everyone's voices are heard.Continuous&amp;nbsp; Growth and Career Development: We invest in your growth with company-wide access to LinkedIn Learning and  Coaching. From day one, you have the chance to contribute your ideas and create a meaningful impact. Our flat hierarchies and swift decision-making processes provide an open platform for your career progression.Competitive Benefits Package:&amp;nbsp;Annual compensation reviews to ensure you're rewarded fairly.A remote office set-up bonus to enhance your workspace.A unique workation policy that allows you to work from different locations.An employee assistance program, offering resources and counseling.Plus, a perk that keeps giving: up to three free Jimdo websites for your personal or professional projects that you get to keep forever.Jimdo is proud to be an equal opportunity employer. This means that we don’t discriminate based on race or ethnic origin, color, the language(s) you speak, where you (or your parents) are from, or whether or not you consider yourself to have a disability. Neither will your age, gender, gender identity, sexual orientation, religion, beliefs, or political opinions play a part in your application with us. Our diverse team values and celebrates the uniqueness of each individual. We embrace differences and believe that they enrich our organization, making us stronger and more innovative. Join us, and let's continue to create a workplace where everyone can thrive, regardless of background or identity.By sending your application, you declare that you read and understand the Jimdo Applicant Privacy Policy
+
+To apply: https://weworkremotely.com/remote-jobs/jimdo-head-of-experience-design</description><pubDate>Fri, 10 Apr 2026 20:31:31 +0000</pubDate></item><item><title>Ssc Hr Solutions: System Design / Solution Architect</title><link>https://weworkremotely.com/remote-jobs/ssc-hr-solutions-system-design-solution-architect</link><description>Headquarters: Cairo, Cairo Governorate, Egypt
+
+
+Description: Designing system architectures and technical solutions to ensure scalability, stability, and security, while aligning solutions with business requirements.Key Responsibilities: Design system and application architectures (High-Level &amp;amp; Low-Level Design).  Analyze requirements and translate them into executable architectural solutions.  Define design standards and technical governance.  Design system and service integrations (APIs / Integration).  Review technical decisions and development team deliverables.  Support implementation teams and resolve architectural challenges.  Document architecture and technical diagrams. Requirements: Minimum of 10 years of experience in System Design or Solution Architecture.  Experience designing large and complex systems.  Strong understanding of architectural principles (Scalability, Availability, Security).  Experience with Microservices or SOA.  Good knowledge of design patterns and databases.  Strong communication skills and ability to work with multiple teams.  Strong communication skills and ability to work within a team.  
+
+To apply: https://weworkremotely.com/remote-jobs/ssc-hr-solutions-system-design-solution-architect</description><pubDate>Fri, 10 Apr 2026 20:31:28 +0000</pubDate></item><item><title>Sai Group Ltd: Customer Support Executive  AI Platform</title><link>https://weworkremotely.com/remote-jobs/sai-group-ltd-customer-support-executive-ai-platform</link><description>Headquarters: Kolkata, West Bengal, India
+
+
+We are looking for a Customer Support Executive to assist users of our AI-based platform that enables database connections, file uploads, and conversational interaction with data. The ideal candidate will help customers resolve technical issues, understand product features, and ensure a smooth user experience.Key Responsibilities:• Assist users with connecting databases (MySQL, PostgreSQL, MongoDB, etc.)• Help customers upload files (CSV, Excel, etc.) and query them using AI chat• Troubleshoot basic technical and usage issues• Guide users through product features and workflows• Respond to customer queries via chat, email, or ticketing system• Escalate bugs or complex issues to the technical team with clear details• Maintain logs of customer issues and resolutions• Collect user feedback and share insights with the product teamRequired Skills:• Good communication skills (written &amp;amp; verbal)• Basic understanding of databases and file formats• Familiarity with AI tools / chat-based systems is a plus• Ability to understand technical problems and explain solutions simply• Customer-first mindset and problem-solving attitudePreferred Qualifications:• Experience in SaaS / AI / Tech support• Basic knowledge of SQL queries• Understanding of APIs and data workflows• Prior experience with customer support tools (Freshdesk, Zendesk, Jira, etc.)What We Offer:• Opportunity to work with an AI-driven product• Learning and growth in AI, data, and SaaS platforms• Collaborative and fast-growing start-up environment• Competitive salary (as per experience)
+
+To apply: https://weworkremotely.com/remote-jobs/sai-group-ltd-customer-support-executive-ai-platform</description><pubDate>Fri, 10 Apr 2026 20:31:11 +0000</pubDate></item><item><title>Lemon.io: Senior AI Engineer / Data Annotator</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-data-annotator</link><description>Headquarters: New York, NY
+    URL: https://lemon.io
+
+
+Are you a talented Senior Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
+What we offer:
+
+The rate depends on your skills and experience. We've already paid out over $11M to our engineers.
+No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
+We'll manually find the best project for you according to your skills and preferences.
+Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
+We respect your seniority so you can expect no micromanagement or screen trackers.
+Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
+We will support you from the time you submit the application throughout all cooperation stages.
+Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
+Through our community, we will connect you with the best developers from more than 71 countries.
+
+We are seeking specialists in AI/Data: AI Engineers, Data Annotators, Data Engineers, MLOps Engineers, Data Analysts, and Data Scientists. Below are the requirements for some of the roles:
+Requirements – AI Engineers:
+
+3+ years of commercial experience applying AI to practical technology solutions;
+3+ years of experience with Python required; experience with other programming languages commonly used in AI is a plus;
+At least 3 years of experience with LLMs and 2+ years of experience in AI agent development, LangChain, or OpenAI required, OR 2+ years of expertise with LangChain and OpenAI;
+Familiarity with AWS, GCP, or Azure required;
+Experience developing and shipping AI agents.
+
+Requirements – Data Annotator:
+
+
+4+ years of commercial experience as an engineer;
+
+
+3+ years of commercial experience with Python.
+
+
+Strong technical skills: as a Senior Engineer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
+
+
+Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
+
+
+Strong self-organizational skills — ability to work full-time remotely with no supervision.
+
+
+Reliability — we want to trust you and expect that you won’t let us and the client down.
+
+
+Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
+
+
+Sounds good for you? Apply now and join the Lemon.io community!
+NOT YOUR TECH STACK?
+We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas:&amp;nbsp;React &amp;amp; Python, React &amp;amp; Node, React &amp;amp; Ruby, PHP &amp;amp; Angular, PHP &amp;amp; Vue, Vue &amp;amp; Node.js, React &amp;amp; .NET, Android &amp;amp; iOS, Angular &amp;amp; .NET, Angular &amp;amp; Node.js, Vue &amp;amp; .NET, Python &amp;amp; Vue, MLOps, React &amp;amp; Java, Data Science, Blockchain (Web3/Solidity/Solana), Symfony &amp;amp; React, Symfony &amp;amp; Vue, Symfony &amp;amp; Angular, Symfony &amp;amp; JavaScript &amp;amp; Next.js &amp;amp; TypeScript, Data Analysis, React &amp;amp; PHP, Data Engineering, DevOps, React &amp;amp; Golang, Svelte &amp;amp; Python, Svelte &amp;amp; Node, Svelte &amp;amp; TypeScript, Rust, Golang, Shopify &amp;amp; JavaScript, Vue &amp;amp; Nuxt, Python &amp;amp; Node, Angular &amp;amp; TypeScript, Ruby &amp;amp; Ruby on Rails, React Native &amp;amp; Ruby, React Native &amp;amp; Python, PHP &amp;amp; Laravel, .NET &amp;amp; C#, Java &amp;amp; Spring, Unreal Engine &amp;amp; C++, Python &amp;amp; LLM, Unity, Machine Learning Engineering, Python &amp;amp; Flask&amp;nbsp;— we’d be happy to connect and match you with a suitable project.
+If your experience matches our requirements, be ready for the next steps:
+
+VideoAsk — watch a short video about our startup, up to 10 minutes
+Complete your profile on our website
+30-minute screening call
+Technical interview
+Feedback
+Magic Box (we are looking for the best project for you).
+
+We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
+P.S. We work with developers from 71+ countries in different regions: Europe, LATAM, the U.S (if you are an owner of W-9 ben form), Canada, Asia (Japan, Singapore, South Korea, Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), and the the UK. However, we have some exceptions.
+At the moment, we don’t have a legal basis to accept applicants from the following countries:
+
+European: Hungary, Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia.
+Latin America: Cuba and Nicaragua
+Most Asian countries and Africa.
+
+We expand and shorten the list of exemptions regularly.
+Do you represent a company with engineers who match the description and want to collaborate with us through staff augmentation? Then register here.
+&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-data-annotator</description><pubDate>Fri, 10 Apr 2026 09:12:30 +0000</pubDate></item><item><title>Supportyourapp: (Native Norwegian) Customer Support Consultant (remotely)</title><link>https://weworkremotely.com/remote-jobs/supportyourapp-native-norwegian-customer-support-consultant-remotely</link><description>Headquarters: Stavanger, Rogaland, Norway
 
 
 Who we are?SupportYourApp is a global Support-as-a-Service leader, collaborating with top-tier tech companies like Mastercard, Calm, and MacPaw since 2010. We operate in 30+ countries and from 90+ countries, and support customers in 60 languages, helping SaaS, software, and hardware brands deliver secure, world-class customer and technical support.Right now, we’re expanding our talent bench — a pool of skilled Customer Support Consultants who want to grow with us and be the first in line when new projects open.If you’re ready to join a multicultural, multilingual community and grow professionally while working from home, this could be your next step.What you will do:Deliver outstanding customer support via calls, chats and emailsBuild strong and lasting customer relationshipsKeep up with evolving tools and technologyHandle sensitive customer data with care and securityApply the latest and greatest customer happiness practicesMaintain deep understanding of client solutions and meet KPICommunicate with developers and cross-functional specialistsWhat you need to succeed in this role: Native Norwegian and good English communication skills (at B2 level or higher)6+ months of experience in customer support roleCRM systems expertiseStrong analytical thinking and research skillsPositive, proactive and responsible attitudePersonal computer (at least 8Gb of RAM) with a stable internet connection (minimum 50 Mbps–download and 40 Mbps–upload)Will be a great plus: Experience in technical supportWhat you get in return:Provide services during flexible hoursOpportunity to cooperate fully remotelyInclusive international environmentCompensation in USDRewards for referring friendsBalance between project workload and personal time, but also –&amp;nbsp;internal health policyResponsive leadership interested in your development and long-lasting cooperationGreenhouse conditions for self-developmentA culture built on trust, with no time-tracking requirementsIf this is about you — let’s get to know each other before 2026 opens its doors. We can simply exchange ideas or talk through the opportunities for our growth together *Benefits and conditions may vary depending on the terms of your engagement. Some benefits typically apply to employees; independent contractors may not be eligible for all of them. Final terms will be clearly defined in your agreement if selected.We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law.Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice. 
@@ -122,72 +275,4 @@ Chooose is an equal opportunity employer and does not discriminate based on race
 &amp;nbsp;
 Prerequisite for Employment: Chooose may request to conduct background checks on prospective applicants to verify the information provided in the CV, transcripts, and other documentation. This background check may be carried out by our partner and will not be conducted without the applicant's prior consent. Prospective applicants will receive more information about this.
 
-To apply: https://weworkremotely.com/remote-jobs/chooose-engagement-manager-us-et</description><pubDate>Wed, 08 Apr 2026 08:11:30 +0000</pubDate></item><item><title>31 Green Ltd: Full Stack Developer - Backend Focus</title><link>https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus</link><description>Headquarters: Islamabad, Federal, Pakistan
-
-
-Job Title: Full Stack Developer (Backend / Python / Pose Models)Company: 31 Green LtdJob Type: Full Time – Remote / HybridExperience: 5+ yearsAbout Us31 Green is a fast-growing and innovative organization building the digital infrastructure that powers next-generation HealthTech solutions. We are committed to transforming health outcomes by combining advanced AI, deep learning, and real-time movement analysis. We are looking for a highly skilled Full Stack Developer with deep expertise in Python and Pose Estimation technologies to join our team.Role OverviewThe Full Stack Developer will play a key role in developing and scaling the backend architecture of a cutting-edge health application. This role requires strong proficiency in Python, deep learning frameworks, and backend deployment. You will work on real-time human movement analysis through AI Pose Estimation Models, contributing directly to patient care optimization.Key Responsibilities:Develop and maintain backend systems using Python with Django/Flask/FastAPI.Implement Deep Learning and Computer Vision pipelines with TensorFlow/PyTorch.Integrate Pose Estimation models into production-grade environments.Manage and optimize databases including PostgreSQL, MongoDB, and Redis.Build and deploy applications using Docker and cloud platforms (AWS/GCP/Azure).Ensure full compliance with HIPAA/GDPR and secure handling of medical data.Collaborate with technical teams to optimize backend scalability and performance.Troubleshoot system issues and enhance system resiliency and automation.Prepare documentation and support best practices across development processes.Skills &amp;amp; Qualifications:Absolute mastery of Python with hands-on experience using Django/Flask/FastAPI.Proven experience with Deep Learning frameworks (TensorFlow/PyTorch).Strong understanding of Computer Vision and Pose Estimation Models.Proficiency with relational and non-relational databases (PostgreSQL, MongoDB, Redis).Skilled in Docker and deployment across AWS, GCP, or Azure.Knowledge of HIPAA/GDPR and security protocols for health data.Strong analytical, problem-solving, and debugging skills.Excellent communication and time management abilities.Preferred Experience:Previous experience working on HealthTech or MedTech platforms.Successful deployment of AI/ML models into production environments.Experience integrating medical movement datasets or biomechanical data.Familiarity with CI/CD tools, microservices, and distributed architecture.How to ApplyIf you are passionate about health technology, AI innovation, and building solutions that directly improve patient outcomes — we would love to hear from you!Please send your CV, along with a Cover Letter to:  zainab.zahra@31g.co.uk
-
-To apply: https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus</description><pubDate>Tue, 07 Apr 2026 20:34:46 +0000</pubDate></item><item><title>act digital: Full-stack Developer (SP)</title><link>https://weworkremotely.com/remote-jobs/act-digital-full-stack-developer-sp</link><description>Headquarters: Warsaw, Poland
-
-
-Company DescriptionOur mission as a company providing IT services is to provide our clients all over the world with the best solutions. We manage to do this by analyzing the needs of our clients and matching them to the skills and aspirations of our employees. Therefore, one of our main motivations is to provide each Employee and Consultant with a satisfying experience. Joining us means being part of a community with diverse personalities. Start your adventure with act digital!Job DescriptionThe project integrates the Charge app into the electric vehicle ecosystem for a leading German car manufacturer. It ensures seamless interaction between various Charge Point Operators (CPOs) and end-users, focusing on real-time synchronization of charging station data (availability, power) and delivering a smooth experience from locating a charger to invoicing.Qualifications3+ years of professional experience as a Full Stack or Backend/Frontend Developer.Strong experience with Java and Spring Boot.Solid frontend development skills using React.Experience working with cloud platforms and microservices architecture.Familiarity with message brokers (e.g., Kafka, RabbitMQ) and NoSQL databases.Good understanding of REST API design, development, and testing practices.English proficiency at a B2 level.Additional InformationWork model:&amp;nbsp;RemoteType of contract:&amp;nbsp;B2BRate:&amp;nbsp;up to 150 PLN/H net + VATWe offerAccess to local and international projects - Clients from France, Germany, Portugal, UK, and Benelux.Professional development support - trainings, technical certificates, conference participation, foreign language classes, and soft skills trainings are subsidized for up to 2 000 PLN.Bonus for recommending Candidates starting from 6 000 up to 10000 PLN.Fully paid Medicover healthcare card.Psychological support program WellBee.Multisport card.Regular integration events and gifts.Long-term cooperation.Relocation Program.If You applied for this position the Controller of your personal will be&amp;nbsp; ACT DIGITAL POLSKA Sp. z o.o., with its registered office at Przyokopowa 31, 01-208 Warsaw. The personal data provided by you will be processed for the purpose of the recruitment process and&amp;nbsp;for future recruitment processes. You will have the right too choose one or both options on next page.You have the right to access the content of your data, request their rectification, erasure, restriction of processing, the right to data portability, the right to object to the processing of your data and the right to lodge a complaint to the President of the Personal Data Protection Office.
-
-To apply: https://weworkremotely.com/remote-jobs/act-digital-full-stack-developer-sp</description><pubDate>Tue, 07 Apr 2026 20:33:41 +0000</pubDate></item><item><title>Manifest Cyber Public: Senior Backend Application Engineer - Product &amp; Platform</title><link>https://weworkremotely.com/remote-jobs/manifest-cyber-public-senior-backend-application-engineer-product-platform</link><description>Headquarters: Remote-US
-
-
-Manifest is hiring a highly qualified, Senior+ backend software engineer responsible for designing and scaling new and existing web services and ETL architecture to support hundreds of thousands of transactions per second. This role will drive high-performance, resilient system designs in a fast-paced, data-intensive environment.The impact you will have:Architect and build robust, fault-tolerant web and ETL services that scale to high throughput.Act as a key communicator, bridging gaps between teams, clarifying technical concepts, and ensuring alignment across projects.Identify and implement improvements in system performance and processes, ensuring the company remains competitive in a fast-paced market.Design and build new features for the Manifest platform to be used by critical organizations around the world.As a Senior Backend Engineer - Product &amp;amp; Platform:Architect and implement scalable web services and ETL pipelinesDesign high-performance systems that efficiently handle 10K's+ transactions/secCollaborate with engineering teams to optimize existing systems and integrate new technologiesDevelop robust monitoring, testing, and deployment strategies for mission-critical servicesDefine and maintain the high standards of our engineering culture. As a part of a high performing engineering team, you’ll help recruit and onboard your colleaguesWork closely with product management, designers, and other engineersResolve issues together quickly and collaborativelyCommunicate internally and externally on what we’re building and why it’s specialAs an experienced Backend Engineer you bring the following skills and experience to the team:8+ years of experience in software engineering, with a focus on web services and ETL systemsProven track record scaling high-volume, data-intensive systemsExpertise in distributed systems, microservices, and cloud architecturesFamiliarity with containerization, orchestration, and CI/CD pipelinesHigh proficiency in our primary stack (Typescript, Mongo, Go, Python) is not strictly required, but you should be familiar enough to be able to quickly spin up on languages applicable to your role.Previous experience with commercial software products (SaaS and on-prem) that support 3rd party/external customers.Experience working in early stage technology (B2B SaaS) startupsStrong communication skills and the ability to work effectively in a collaborative environmentBonus but not required:Strong experience with MongoDB in particular and other data stores as wellExperience with or general familiarity with AI/ML, LLMs, &amp;amp; model tuningBackground or experience in infosec, red teaming, or broader cybersecurity conceptsExperience with other FOSS and Commercial SDLC security and DevSecOps tooling including SCA, DAST, SAST, etc.The benefits of working at Manifest include: Help organizations get new-found visibility into their software, and be more secure! Fully remote work (with potential for hybrid co-working) Unlimited PTO (which we take seriously) Medical/dental/vision insurance coverage for you and your dependents paid at 100%! Competitive salary &amp;amp; meaningful stock options 401(k) and retirement options️ Help get in at the ground floor of a well-funded, early stage startup! Additional benefits to come (retirement, holiday gifts, etc.)
-
-To apply: https://weworkremotely.com/remote-jobs/manifest-cyber-public-senior-backend-application-engineer-product-platform</description><pubDate>Tue, 07 Apr 2026 20:32:52 +0000</pubDate></item><item><title>Miragon: Full Stack Developer (m/w/d)</title><link>https://weworkremotely.com/remote-jobs/miragon-full-stack-developer-m-w-d</link><description>Headquarters: Augsburg, München, Remote, Hamburg
-
-
-Was wir machenReady to go digital? Mit uns?Wir sind ein junges Technologieunternehmen aus Augsburg, das Organisationen dabei unterstützt, ihre Prozesse digital und nachhaltig zu automatisieren. Mit einem klaren Fokus auf modernen Open-Source-Technologien wie Camunda, Spring Boot und React entwickeln wir Software, die echten Mehrwert schafft. Dabei denken wir End-to-End, arbeiten eng mit unseren Kunden zusammen und setzen auf Technologien, die echten Nutzen bringen. Wir gestalten Digitalisierung, die bleibt!Deine AufgabenEntwicklung und Implementierung von webbasierten, verteilten Business-Anwendungen mit Java, Spring Boot sowie TypeScript und React.Verantwortung für den gesamten Software-Entwicklungsprozess – von der Architektur über die Implementierung bis hin zum Rollout.Enge Zusammenarbeit mit den Verantwortlichen von externen Schnittstellen, um eine nahtlose Integration der verschiedenen Systemkomponenten zu gewährleisten.Gestaltung, Optimierung und Bereitstellung von REST-APIs für interne und externe Systeme.Durchführung von Code-Reviews, Testing und Qualitätssicherung.Automatisierung von DevOps-Prozessen und Continuous Integration/Continuous Deployment (CI/CD).Überwachung, Sicherstellung und Verbesserung der Performance und Skalierbarkeit der Anwendungen im Betrieb.Analyse, Planung und Umsetzung von technischen Anforderungen und Lösungen in enger Abstimmung mit den Kunden.Dein ProfilAbgeschlossenes Studium in Informatik, Wirtschaftsinformatik oder eine vergleichbare Qualifikation.Mehrjährige praktische Erfahrung in der Entwicklung von Full-Stack-Anwendungen, insbesondere mit Java und Spring Boot sowie React und TypeScript.Erfahrung mit relationalen Datenbanken und SQL (primär PostgreSQL).Grundkenntnisse im Bereich DevOps und in der Nutzung von CI/CD-Tools (GitHub Actions).Erfahrung im Umgang mit Cloud-Technologien (Google Cloud Platform) und Kubernetes ist von Vorteil.Fähigkeit, komplexe technische Anforderungen verständlich zu kommunizieren und pragmatische Lösungen zu entwickeln.Selbstständige Arbeitsweise, hohe Eigeninitiative und Begeisterung für die kontinuierliche Weiterentwicklung von Technologien.Fließende Deutsch- und Englischkenntnisse in Wort und Schrift.Du übernimmst die Verantwortung für Projekte – von der Entwicklung der Architektur bis zum Rollout.Warum wir?4+1 Modell: 20 % deiner Arbeitszeit für Weiterbildung oder interne Projekte.Remote-First: Arbeiten wann &amp;amp; wo du willst + 30 Tage Urlaub + Workation im EU-Ausland möglich.Work-Life-Balance: Flexible Arbeitszeiten, die zu deinem Leben passen.Dein Setup: Mac, Linux oder Windows – du entscheidest, was du brauchst. Homeoffice-Ausstattung inklusive.Teamkultur: Regelmäßige Teamevents, gemeinsame Workations.Zusätzliche Benefits**:** 50 € steuerfreie Sachbezüge im Monat &amp;amp; Zugang zu Corporate Benefits.Über unsWir begrüßen alle Bewerbungen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion oder Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität. Entscheidend für uns sind Motivation, Qualifikation und Persönlichkeit.Bei uns ist jeder, egal ob Werkstudent oder Geschäftsführer, gleichberechtigt und kann sich in alle Bereiche des Unternehmens einbringen.
-
-To apply: https://weworkremotely.com/remote-jobs/miragon-full-stack-developer-m-w-d</description><pubDate>Tue, 07 Apr 2026 20:31:03 +0000</pubDate></item><item><title>A.Team: Senior Independent Software Developer ($90-$170/hr)</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</link><description>Headquarters: NYC and TLV
-    URL: https://build.a.team/wwrfastrackreferral
-
-
-Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under "how you heard about A·Team." No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue their craft with autonomy.Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.Not for:People seeking small gigs.Builders focused on simple WordPress/Wix/Squarespace sites.Early-career professionals and recent grads.Our Vision:A·Team is for the "unhirables" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.
-
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item><item><title>CloudDevs: Full-stack/Backend developers LLM focused.</title><link>https://weworkremotely.com/remote-jobs/clouddevs-full-stack-backend-developers-llm-focused</link><description>Headquarters: San Francisco
-    URL: https://clouddevs.com/
-
-
-Location LATAMs (Americas) and Europe preffered.&amp;nbsp;
-&amp;nbsp;
-Do&amp;nbsp;you want to shape the future of autonomous agents like OpenClaw?
-We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows.
-Whether you are a passionate orchestration guru or experienced software developer -- we want you to help us train the world's most advanced generative systems.
-&amp;nbsp;
-About the opportunity:
-
-Outlier is looking for skilled software experts to help train generative AI models.
-This freelance role is&amp;nbsp;fully remote and offers flexible hours—you can contribute whenever it fits your schedule.
-
-&amp;nbsp;
-You may contribute your expertise by…
-
-Developing objective, verifiable criteria (rubrics) to evaluate system performance and ensure outputs meet strict functional requirements.
-Reviewing system logs and "trajectories" to refactor code, improve execution paths, and reach a "Golden Path" of perfect reliability
-Testing systems for vulnerabilities, including improper data exposure, unauthorized access escalations, and edge-case failures.
-
-&amp;nbsp;
-We’re looking for people with…
-
-2+ years of experience in backend engineering, AI automation, or complex systems integration
-Proven ability to build and maintain production-grade software with modular separation (e.g., distinct services for data parsing, logic processing, and reporting)
-Strong command of at least two major languages (e.g., Python, JavaScript, Go, or Java) and experience working with SQL databases
-Practical experience building for live, non-mocked environments and handling multi-turn system interactions.
-Outstanding attention to detail and the ability to provide clear, high-density technical feedback on complex system behaviors
-
-&amp;nbsp;
-&amp;nbsp;
-Nice to have…
-
-Expertise building multi-stage coordination tasks where data acquisition leads to reasoned output
-Hands on experience integrating agents with live tools such as Supabase, Gmail, and various APIs to solve real-world problems
-High level of comfort implementing persistent state and session discovery using&amp;nbsp;MEMORY.md&amp;nbsp;to track agent progress.
-Experience identifying subtle failures like privacy leaks, authority escalation, or indirect prompt injections.
-
-&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/clouddevs-full-stack-backend-developers-llm-focused</description><pubDate>Tue, 07 Apr 2026 17:04:23 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/chooose-engagement-manager-us-et</description><pubDate>Wed, 08 Apr 2026 08:11:30 +0000</pubDate></item></channel></rss>
