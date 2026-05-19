@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Direct Sourcing Solutions: DevOps Engineer</title><link>https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer</link><description>Headquarters: 
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Hrtx: DevOps Engineer</title><link>https://weworkremotely.com/remote-jobs/hrtx-devops-engineer</link><description>Headquarters: NCR Philippines
+
+
+Job brief We are looking for a DevOps Engineer to join an international team supporting large-scale digital engineering initiatives. The role focuses on developing, maintaining, and improving CI/CD pipelines and infrastructure to support modern software applications across web, cloud, and embedded platforms. You'll be working in a dynamic environment that applies Scaled Agile (SAFe) methodologies and drives digital transformation globally. Responsibilities Develop, enhance, and maintain automated CI/CD pipelines to support reliable and efficient software delivery.Manage build and release processes across multiple platforms including desktop, cloud, and mobile.Collaborate with developers, QA engineers, and infrastructure teams to ensure seamless deployment and system integration.Assist in the selection, integration, and use of DevOps tools (e.g., source control, test automation, deployment frameworks).Support packaging, containerization, and versioning strategies for internal and external software releases.Identify areas for improvement and drive automation efforts across development operations.Participate in agile planning, sprint reviews, and backlog refinement to align DevOps goals with product delivery.  RequirementsBachelors degree in Computer Science, Engineering, or related field.Minimum 2 years of experience in a DevOps or similar systems engineering role.Hands-on experience with tools such as Git, Jenkins, Docker, TFS/Azure DevOps, or Ansible.Strong scripting knowledge using PowerShell, Python, Bash, or other relevant languages.Familiarity with Windows and Linux environments and basic networking concepts.Strong problem-solving skills and attention to operational excellence.Effective communicator across technical and non-technical stakeholders. Nice to Have:   Exposure to modern frameworks and technologies such as .NET Core, React, Angular, REST APIs, Xamarin, or TypeScript.   Experience with container orchestration and infrastructure automation tools.   Familiarity with using AI-assisted coding tools like GitHub Copilot.   Background in Agile development environments, particularly Scrum or SAFe.   Experience supporting multi-platform development teams or large-scale enterprise applications.Why Join Us?   Be part of a globally integrated team driving innovation in automation and software systems.   Work in a supportive, inclusive, and innovation-driven culture.   Access to professional development and training opportunities.   Flexible work arrangements and a comprehensive wellness benefits package. 
+
+To apply: https://weworkremotely.com/remote-jobs/hrtx-devops-engineer</description><pubDate>Wed, 29 Apr 2026 08:35:08 +0000</pubDate></item><item><title>Direct Sourcing Solutions: DevOps Engineer</title><link>https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer</link><description>Headquarters: 
 
 
 This role is only open for candidates that are legally allowed to work within the PhilippinesAs a pivotal member of the engineering team, you will design, build, and maintain scalable, secure, and highly automated AWS cloud infrastructure that supports our AI-powered content management and life sciences documentation platform. Your team will lead the development and optimization of CI/CD pipelines, implement Infrastructure as Code (IaC) practices, and collaborate closely with data scientists and software engineers to operationalize machine learning models and AI workloads. Your work will directly enable rapid, reliable software and AI model deployments, ensuring high availability, security, and compliance in a regulated environment. You will drive automation and infrastructure scalability to support company’s evolving AI and MLOps capabilities.ResponsibilitiesAWS Cloud Infrastructure: Architect, deploy, and manage secure, scalable cloud infrastructure using AWS services such as EC2, Lambda, S3, DynamoDB, CloudFormation, CDK, EKS, and ECS.Infrastructure as Code: Develop and maintain IaC templates and scripts using AWS CloudFormation, AWS CDK, Terraform, or similar tools to automate provisioning and configuration, ensuring reproducibility and consistency across environments.CI/CD Pipeline Development: Design, implement, and optimize automated CI/CD pipelines using GitLab CI/CD to enable continuous integration, testing, and deployment of both software and AI/ML models.AI Platforms and MLOps: Collaborate with data scientists and ML engineers to deploy, monitor, and maintain machine learning models in production. Build and automate end-to-end ML pipelines, including model training, evaluation, versioning, and deployment using tools such as AWS SageMaker.Monitoring and Observability: Implement comprehensive monitoring, logging, and alerting solutions using AWS CloudWatch and New Relic to ensure system health, performance, and security. Proactively detect and resolve issues impacting AI workloads and infrastructure.Security and Compliance: Integrate security best practices into all stages of the infrastructure and deployment lifecycle. Manage secrets, enforce access controls, and embed compliance checks into CI/CD pipelines to meet regulatory requirements in the life sciences domain.Automation and Optimization: Continuously identify manual processes and bottlenecks to automate using scripting languages (Python, Bash, PowerShell) and AI-driven automation tools, improving efficiency, reliability, and scalability.Collaboration: Work cross-functionality with software engineers, data scientists, and product teams to align infrastructure and deployment strategies with business goals and AI innovation.&amp;nbsp;&amp;nbsp;Requirements &amp;amp; Qualifications:&amp;nbsp;Strong expertise in AWS cloud services: EC2, Lambda, S3, DynamoDB, EKS, ECS, CloudFormation, CDK, IAM, CloudWatch.Proficiency in Infrastructure as Code tools such as AWS CloudFormation, AWS CDK, Terraform.Experience building and maintaining CI/CD pipelines with, GitLab CI/CD, AWS CodePipeline, or GitHub Actions.Hands-on experience with AI/ML deployment and MLOps tools like MLflow, Kubeflow, AWS SageMaker.Strong scripting skills in Python, Bash, PowerShell, or similar languages for automation.Knowledge of monitoring and observability tools such as New Relic or AWS CloudWatch.Solid understanding of networking, security best practices, and compliance requirements in cloud environments.Excellent communication skills to collaborate effectively across technical and non-technical teams.Strong problem-solving mindset with a passion for automation and continuous improvement.Adaptability to fast-paced, evolving environments with a focus on innovation.Team-oriented approach with a willingness to participate in on-call rotations for production support.&amp;nbsp;&amp;nbsp;Nice To Have Certifications:&amp;nbsp;AWS Certified DevOps Engineer – ProfessionalAWS Certified Solutions Architect – Associate or ProfessionalAWS Certified Machine Learning – SpecialtyAWS Certified Security - Specialty
@@ -680,61 +685,7 @@ Comfortable with ambiguity. You build the plane while flying it
 Bonus: experience in consulting, agencies, or client-facing technical work
 
 
-To apply: https://weworkremotely.com/remote-jobs/calibrate-group-ai-senior-technical-lead</description><pubDate>Mon, 20 Apr 2026 18:01:26 +0000</pubDate></item><item><title>SuperPlane: Product Engineer</title><link>https://weworkremotely.com/remote-jobs/superplane-product-engineer</link><description>Headquarters: USA
-    URL: https://superplane.com
-
-
-We are hiring exceptional product engineers who can fully own projects and get them done.
-This is a remote role. We currently work across GMT+2 to GMT-3 and welcome candidates in that range.
-At SuperPlane, we are not splitting engineering into frontend and backend roles. Everyone is a well-rounded builder who can move across the stack, make strong product and technical calls, ask for help when needed, and deliver features end to end. You might spend one day tightening an API or workflow engine, and the next day polishing a React surface that users touch every day.
-Strong backend and architecture judgment is a real advantage. So is product taste. So is the ability to use AI as a force multiplier without lowering the bar.
-What We Are Looking For
-
-
-You are genuinely full-stack.
-
-
-Your workflow is AI-driven and you know how to stay fast without getting sloppy.
-
-
-You are strong in Go, TypeScript, React, or comparable tools, and you can get productive fast in adjacent parts of the stack.
-
-
-You have solid systems judgment. APIs, data models, reliability, and trade-offs matter to you.
-
-
-You are comfortable with cloud-native tooling and modern software delivery.
-
-
-You want ownership, not a narrow lane.
-
-
-You want an early-stage company where the pace is high, the standards are high, and the upside is real.
-
-
-&amp;nbsp;
-How To Apply
-We care more about proof of work than polished applications, and we want to see how you show up in open source.
-Before you apply, submit at least one pull request to superplanehq/superplane. It can be small and it does not need to be merged.
-When you apply, send your GitHub username and a link to your pull request. We verify both, and applications missing either field will not move forward.
-&amp;nbsp;
-Why You'll Love Working at SuperPlane
-
-
-See your work used and relied on by engineers across the globe.
-
-
-Meaningful equity and real ownership.
-
-
-Small team, fast feedback loops.
-
-
-Remote role that lets you focus and create.
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/superplane-product-engineer</description><pubDate>Mon, 20 Apr 2026 15:58:02 +0000</pubDate></item><item><title>Stellar AI: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</link><description>Headquarters: London
+To apply: https://weworkremotely.com/remote-jobs/calibrate-group-ai-senior-technical-lead</description><pubDate>Mon, 20 Apr 2026 18:01:26 +0000</pubDate></item><item><title>Stellar AI: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</link><description>Headquarters: London
     URL: https://joinstellar.ai/
 
 
