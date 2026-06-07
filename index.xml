@@ -1,5 +1,189 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Bazaarvoice: Product Marketing Manager</title><link>https://weworkremotely.com/remote-jobs/bazaarvoice-product-marketing-manager</link><description>Headquarters: Remote, United States
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)</title><link>https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</link><description>Headquarters: USA
+    URL: http://www.close.com
+
+
+About Us
+Close is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We’re eager to make a product our customers fall in love with over and over again.
+&amp;nbsp;
+We 💛 small scaling businesses. Since 2013, we’ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.&amp;nbsp;
+&amp;nbsp;
+Our backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.
+&amp;nbsp;
+Our product development process is inspired by Shape Up. We love open sourcing our code and ideas on our GitHub and on The Making of Close, our behind-the-scenes Product &amp;amp; Engineering blog. Check out our open source projects like SocketShark, TaskTiger, LimitLion and ciso8601.
+&amp;nbsp;
+&amp;nbsp;
+About the Role
+You will be joining one of our six cross-functional teams. These are the CRM, Admin &amp;amp; Onboarding, Conversations, Messaging &amp;amp; Scheduling, Automations &amp;amp; Integrations and Data Insights teams. You will be regularly collaborating with other backend &amp;amp; frontend engineers, product managers, designers, and other teams here at Close.
+&amp;nbsp;
+&amp;nbsp;
+About You
+We’re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.
+&amp;nbsp;
+You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team.
+Come help us with projects like...
+
+Conceiving, designing, building, and launching new user-facing features
+Implementing new AI features to turbocharge our customers’ daily tasks
+Improving the performance and scalability of our GraphQL and REST API
+Improving how we sync millions of sales emails and calendar events each month
+Working with Twilio's API, WebSockets, and WebRTC to improve our calling features
+Building user-facing analytics features that provide actionable insights based on sales activity data
+Improving our Elasticsearch-backed powerful search features
+Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis&amp;nbsp;
+Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and web conferencing providers
+Enhancing our web app with real-time updates powered by GraphQL Subscriptions
+Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI
+
+Help manage our ever growing data processing needs…
+
+Billions of Mongo documents
+Millions and millions of rows of PostgreSQL data
+55 Terabytes of logs / month
+500 billion OTEL spans over the last 30 days
+10+ million events / day
+Tens of thousands of docker containers
+7 million minutes of call recordings / month
+Petabytes / month of network traffic
+
+Requirements...
+
+Senior 1 &amp;amp; 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity.
+Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python.
+You have built web APIs that were Internet facing or supported other high volume loads.
+You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.&amp;nbsp;
+You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.&amp;nbsp;
+You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.&amp;nbsp;
+You care about the craftsmanship of the code and systems you produce.
+Located in the USA (lower 48 timezones).
+
+Bonus point if you have
+
+Contributed open source code related to our tech stack.
+Led small project teams building and launching features.
+Built B2B SaaS products.
+Implemented features that leveraged AI to deliver unimaginable new product capabilities.
+Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks.
+
+🌏 Why Close?
+
+Watch our most recent culture video featuring our annual team retreat in Italy
+100% remote company
+5 weeks PTO + Winter &amp;amp; Summer Holiday Breaks with 2 additional PTO days for every year with the company
+1 month paid sabbatical every 5 years
+Paid parental leave
+Medical, Dental, Vision with HSA option (US residents)
+401k matching at 6% (US residents)
+Dependent care FSA (US residents)
+Our story and team 🚀
+
+Our Values
+
+Build a house you want to live in -- Examine long-term thinking and action
+No BS -- Practice transparency and honesty, especially when it’s hard
+Invest in each other -- Build successful relationships with your coworkers and customers&amp;nbsp;
+Discipline equals freedom -- Keep your word to yourself and others
+Strive for greatness -- Constantly challenge yourself and others&amp;nbsp;
+
+How We Work Together
+
+Productivity, Quality &amp;amp; Impact: We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level.&amp;nbsp;
+Asynchronous communication &amp;amp; collaboration: We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.&amp;nbsp;
+Appreciation for Deep Work: *During your normal work day, not after a day of meetings*.&amp;nbsp;
+Autonomy &amp;amp; Freedom: Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.&amp;nbsp;
+
+&amp;nbsp;
+We are looking for US-based Software Engineers to join our team. Base salary range for Senior I &amp;amp; II is $140,000 to $210,000.
+
+To apply: https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</description><pubDate>Wed, 23 Jul 2025 14:31:54 +0000</pubDate></item><item><title>OnTheGoSystems: Senior Ruby on Rails Developer </title><link>https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2</link><description>Headquarters: Remote
+    URL: http://onthegosystems.com
+
+
+We’re looking for a Senior Ruby on Rails developer with a curious, hands-on mindset who enjoys building reliable systems, owning meaningful features, solving complex problems, and using AI tools to improve development workflows, product quality, and user experience.
+What you’ll be working on:
+
+
+Building and maintaining Ruby on Rails systems used at scaleOwning features from implementation to production
+
+
+Writing and maintaining automated tests (unit, integration, E2E)
+
+
+Investigating production issues, debugging complex problems, and helping design practical solutions
+
+
+Improving performance, reliability, and maintainability
+
+
+What we’re looking for:
+To succeed in this role, you’ll have:
+
+
+4+ years of professional experience with Ruby on Rails
+
+
+Experience building and running production systems
+
+
+Strong backend skills, including databases, performance, and API design
+
+
+Solid experience writing and maintaining automated tests (including E2E)
+
+
+Curiousity about AI technologies and use AI-powered tools to improve productivity, debugging, testing, research, or development workflows.
+
+
+Nice to have:&amp;nbsp;
+
+
+Experience with React&amp;nbsp;
+
+
+CI/CD, background jobs, or AWS experience
+
+
+Why Join OTGS?
+
+
+Stable &amp;amp; self-funded: Founded in 2007, profitable, and independent.
+
+
+Industry leaders: Creators of WPML, the #1 multilingual plugin for WordPress, used on 1.5M+ sites
+
+
+Fully remote, async-friendly: Work from anywhere within EMEA hours
+
+
+Engineering-driven culture: Ownership, autonomy, testing, and thoughtful problem-solving
+
+
+Fair compensation and great benefits: Designed to support your well-being both inside and outside of work.
+
+
+You’ll enjoy this role if you:
+
+
+Take pride in ownership and accountability
+
+
+Care about testing and long-term code quality
+
+
+Are motivated by solving problems in complex systems
+
+
+Enjoy collaborative environments where kind and experienced people learn, investigate issues, and solve problems.
+
+
+Want to make a lasting impact on a product used by thousands of real customers? We would love to hear from you.
+
+To apply: https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2</description><pubDate>Tue, 19 May 2026 06:26:21 +0000</pubDate></item><item><title>createIT s.c. Borkowski Bartosz, Fredrych Aleksander: DevOps Engineer</title><link>https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer</link><description>Headquarters: Warsaw, 14, Poland
+
+
+Job descriptionDevOps Engineer for one of our long-term clientsJob requirementsAWS Stack (SQS/SQS/Api Gateway/RDS/Mongo/DynamoDb etc.)KubernetesNode.js/React deploymentsCI/CDEnglish min. B2All done!Your application has been successfully submitted!Other jobs
+
+To apply: https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer</description><pubDate>Mon, 18 May 2026 20:31:17 +0000</pubDate></item><item><title>Bazaarvoice: Product Marketing Manager</title><link>https://weworkremotely.com/remote-jobs/bazaarvoice-product-marketing-manager</link><description>Headquarters: Remote, United States
 
 
 &amp;nbsp;About Bazaarvoice&amp;nbsp;At Bazaarvoice, we create smart shopping experiences. Through our expansive global network, product-passionate community &amp;amp; enterprise technology, we connect thousands of brands and retailers with billions of consumers. Our solutions enable brands to connect with consumers and collect valuable user-generated content, at an unprecedented scale. This content achieves global reach by leveraging our extensive and ever-expanding retail, social &amp;amp; search syndication network. And we make it easy for brands &amp;amp; retailers to gain valuable business insights from real-time consumer feedback with intuitive tools and dashboards. The result is smarter shopping: loyal customers, increased sales, and improved products.&amp;nbsp;The problem we are trying to solve : Brands and retailers struggle to make real connections with consumers. It's a challenge to deliver trustworthy and inspiring content in the moments that matter most during the discovery and purchase cycle. The result? Time and money spent on content that doesn't attract new consumers, convert them, or earn their long-term loyalty.&amp;nbsp;Our brand promise : closing the gap between brands and consumers.&amp;nbsp;Founded in 2005, Bazaarvoice is headquartered in Austin, Texas with offices in North America, Europe, Asia and Australia. &amp;nbsp;It’s official: Bazaarvoice is a Great Place to Work in the US , Australia, India, Lithuania, France, Germany and the UK!We’re seeking a strategic, results-driven Product Marketing Manager to join the team driving the evolution of Bazaarvoice’s flagship product: Ratings &amp;amp; Reviews. As AI transforms how consumers shop, trust is the ultimate currency. You will help define the next era of shopping, where ratings and reviews are powering AI-driven shopping experiences.&amp;nbsp;You’ll play a central role in shaping product messaging and positioning, influencing roadmap strategy, enabling Sales and Client Success, and driving adoption and growth for the market leading solution. You’ll thrive in this role if you’re a builder—someone who loves translating complex capabilities into clear business value, aligning cross-functional teams, and turning market insights into powerful GTM strategies.What You'll Do:Define and execute GTM strategy for Bazaarvoice Ratings &amp;amp; Reviews releases, including launch positioning, messaging, internal and external enablement/comms, and ongoing adoption motions across different business sizes, personas, industries and geographies.&amp;nbsp;Build compelling narratives that clearly differentiate Bazaarvoice as the premium offering in the ratings and reviews space.Lead product launches and feature releases with cross-functional partners across Product, Sales, CS, and Enablement, delivering key assets, messaging, and training.Create competitive positioning and de-positioning with research-backed insights and strategic clarity; guide internal teams on how to win.Collaborate with Sales, Client Success, and Enablement teams to equip the field with the tools they need to confidently sell, support, and upsell our Ratings &amp;amp; Reviews offering.&amp;nbsp;Gather market intelligence and voice of the customer to inform roadmap prioritization and guide product-market fit.Create clear, compelling sales and marketing collateral, from one-sheets and web copy to playbooks and pitch decks.&amp;nbsp;Serve as a strategic partner to Product Management, influencing roadmap decisions with market context and go-to-market requirements.&amp;nbsp;What You'll Need:3-5 years of product marketing or relevant experience in B2B SaaS, ideally in e-commerce, martech or adtech.&amp;nbsp;Proven experience owning GTM strategy, leading successful product launches, and working cross-functionally.&amp;nbsp;&amp;nbsp;Exceptional messaging and positioning skills; you are able to turn features into compelling stories that resonate with marketing and e-commerce leaders.&amp;nbsp;Understanding of modern consumer behavior, especially in the e-commerce industry.Strategic thinker with a bias for action. You know how to prioritize for highest impact, and are not afraid of experimenting and making mistakes.&amp;nbsp;Excellent written and verbal communication.&amp;nbsp;Familiarity with our tools is ideal, but not required: Google Suite, Asana, Gemini, Confluence, Crayon, Pendo.&amp;nbsp;Understanding of and/or experience with our top industries is desired: Retail, Apparel &amp;amp; Fashion, Consumer Electronics, Health &amp;amp; Beauty, Food &amp;amp; Bev, Home &amp;amp; Garden.&amp;nbsp;$108,347.27 - $162,520.90 a yearAt Bazaarvoice, we carefully consider multiple factors when determining compensation. Since we believe the transparency and integrity builds trust, we want to share that we expect the base salary for this position to be in the range listed above and is based on Bazaarvoice's good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic location, work experience, market conditions, education/training, and skill level. While this is a good faith estimate of the expected base pay range, Bazaarvoice reserves the right to pay outside this range if these assumptions and understandings are modified as we progress through the interview process. Your recruiter can share more about the salary range and total compensation package during the hiring process. If this compensation is somewhere close to your desired range, we encourage you to apply!Why join Bazaarvoice?&amp;nbsp;Customer is keyWe see our own success through our customers’ outcomes.&amp;nbsp;&amp;nbsp;We approach every situation with a customer first mindset.&amp;nbsp;Transparency &amp;amp; Integrity&amp;nbsp;Builds TrustWe believe in the power of authentic feedback because it’s in our DNA.&amp;nbsp;We do the right thing when faced with hard choices.&amp;nbsp;Transparency and trust accelerate our collective performance.&amp;nbsp;Passionate Pursuit of PerformanceOur energy is contagious, because we hire for passion, drive &amp;amp; curiosity.&amp;nbsp;We love what we do, and because we’re laser focused on our mission.&amp;nbsp;Innovation over ImitationWe seek to innovate as we are not content with the status quo.&amp;nbsp;We embrace agility and experimentation as an advantage.&amp;nbsp;Stronger TogetherWe bring our whole selves to the mission and find value in diverse perspectives.&amp;nbsp;We champion what’s best for Bazaarvoice before individuals or teams.&amp;nbsp;&amp;nbsp;As a stronger company we build a stronger community.&amp;nbsp;Commitment to diversity and inclusion&amp;nbsp;Bazaarvoice provides equal employment opportunities (EEO) to all team members and applicants according to their experience, talent, and qualifications for the job without regard to race, color, national origin, religion, age, disability, sex (including pregnancy, gender stereotyping, and marital status), sexual orientation, gender identity, genetic information, military/veteran status, or any other category protected by federal, state, or local law in every location in which the company has facilities. Bazaarvoice believes that diversity and an inclusive company culture are key drivers of creativity, innovation and performance. Furthermore, a diverse workforce and the maintenance of an atmosphere that welcomes versatile perspectives will enhance our ability to fulfill our vision of creating the world’s smartest network of consumers, brands, and retailers.The successful candidate will be required to complete a background check. We will provide additional information and obtain your written consent before proceeding.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
@@ -464,122 +648,4 @@ You can defend your technical choices in clear English, and can take credit for 
 You are comfortable in an early-stage, collaborative environment.
 
 
-To apply: https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</description><pubDate>Fri, 16 May 2025 20:03:34 +0000</pubDate></item><item><title>Lemon.io: Senior Full-stack Symfony Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-symfony-developer</link><description>Headquarters: New York, NY
-    URL: https://lemon.io
-
-
-Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
-What we offer:
-
-The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
-No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
-We'll manually find the best project for you according to your skills and preferences.
-Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
-We respect your seniority so you can expect no micromanagement or screen trackers.
-Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
-We will support you from the time you submit the application throughout all cooperation stages.
-Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
-Through our community, we will connect you with the best developers from more than 71 countries.
-
-Requirements:
-
-4+ years of software development experience
-3+ years of experience with Symfony and 2+ years with Vue.js
-
-OR
-
-3+ years of experience with Symfony and 2+ years with Angular
-
-OR
-
-
-3+ years of experience with Symfony, 2+ years with Next.js, and 3+ years with JavaScript and TypeScript
-
-
-Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
-
-
-Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
-
-
-Strong self-organizational skills — ability to work full-time remotely with no supervision.
-
-
-Reliability — we want to trust you and expect that you won’t let us and the client down.
-
-
-Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
-
-
-Sounds good for you? Apply now and join the Lemon.io community!
-NOT YOUR TECH STACK?
-We have different projects for Senior Full-Stack Developers, so if you have 4+ years of commercial experience in software development and you are fluent with AI Agent Architecture, React &amp;amp; Ruby, PHP &amp;amp; Angular, PHP &amp;amp; Vue, Vue &amp;amp; Node.js, React &amp;amp; .NET, Android &amp;amp; iOS, Angular &amp;amp; .NET, Angular &amp;amp; Node.js, Vue &amp;amp; .NET, Python &amp;amp; Vue, DevOps with Azure DevOps, MLOps, React &amp;amp; Java, Data Science, Blockchain (Web3/Solidity/Solana), Symfony &amp;amp; React, Data Analysis, React &amp;amp; PHP, Data Engineering, AI Engineering, Data Annotation, React &amp;amp; Node, React &amp;amp; Golang, React &amp;amp; Python, Svelte &amp;amp; Python, Svelte &amp;amp; Node, Svelte &amp;amp; TypeScript, Rust, Shopify &amp;amp; JavaScript, Vue &amp;amp; Nuxt, PHP &amp;amp; Laravel, .NET &amp;amp; C#, Unreal Engine &amp;amp; C++, Python &amp;amp; LLM, Unity, Machine Learning Engineering, we would be happy to communicate and provide you with a project that matches your experience. Just apply, and we will share more details with you.
-We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
-P.S. We work with developers from 71+ countries in different regions: Europe, LATAM, the U.S (if you are an owner of W-9 ben form), Canada, Asia (Japan, Singapore, South Korea, Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), and the the UK. However, we have some exceptions.
-At the moment, we don’t have a legal basis to accept applicants from the following countries:
-
-European: Hungary, Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia.
-Latin America: Cuba and Nicaragua
-Most Asian countries and Africa.
-
-We expand and shorten the list of exemptions regularly.
-We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
-
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-symfony-developer</description><pubDate>Thu, 07 May 2026 18:24:43 +0000</pubDate></item><item><title>A.Team: Senior Independent AI Engineer / Architect</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</link><description>Headquarters: NYC and TLV
-    URL: http://a.team/ai-jobs?utm_source=wwr&amp;amp;utm_medium=post&amp;amp;utm_campaign=wwrai
-
-
-Senior Independent AI Engineer / Architect
-Remote | Americas, Europe, or Israel
-Most AI engineers can find work.
-Finding work worth doing is harder.
-A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies.
-Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.
-The Work
-You'll join small teams tackling problems that matter.
-Not demos.
-Not prototypes that never ship.
-Not another chatbot wrapper.
-Real systems. Real users. Real outcomes.
-Recent work has included:
-- LLM-powered products and workflows- Agent architectures and orchestration systems- Retrieval, evaluation, and reliability infrastructure- Enterprise AI deployments- AI-native products built from zero to one- Machine learning platforms operating at scale
-You'll work directly with founders, CTOs, and product leaders, helping shape both the technical approach and the outcome.
-Why Builders Join
-Most independent engineers eventually run into the same problem:
-The best opportunities rarely make it to the open market.
-A.Team exists to solve that.
-No bidding.
-No prospecting.
-No competing with thousands of other freelancers.
-Just access to ambitious companies, difficult problems, and experienced peers.
-Who Thrives Here
-People who have already shipped.
-Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn research into business value.
-You might be an:
-- AI Architect- AI Engineer- MLOps- Deep Learning Engineer- Data Scientist- Applied AI Engineer- ML Engineer- AI Researcher- Staff+ Engineer focused on AI- Technical founder with deep AI experience
-What matters is a track record of building and shipping.
-The Details
-
-Typical rates: $120-$170/hr
-Remote (almost all roles)
-You keep 100% of your rate
-
-Not a Fit
-
-Early-career engineers
-People without production AI experience
-Small gig seekers
-Developers focused primarily on simple AI wrappers or templated implementations
-
-Apply
-Tell us what you've built.
-We'll take it from there.
-build.a.team/AI-Builders
-
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</description><pubDate>Sun, 16 Jun 2024 18:08:52 +0000</pubDate></item><item><title>A.Team: Senior Independent Software Developer ($90-$170/hr)</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</link><description>Headquarters: NYC and TLV
-    URL: https://build.a.team/wwrfastrackreferral
-
-
-Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under "how you heard about A·Team." No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue their craft with autonomy.Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.Not for:People seeking small gigs.Builders focused on simple WordPress/Wix/Squarespace sites.Early-career professionals and recent grads.Our Vision:A·Team is for the "unhirables" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.
-
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</description><pubDate>Fri, 16 May 2025 20:03:34 +0000</pubDate></item></channel></rss>
