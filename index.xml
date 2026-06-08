@@ -1,5 +1,165 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)</title><link>https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</link><description>Headquarters: USA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Nomad: Senior Software Engineer II</title><link>https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii</link><description>Headquarters: Denver CO
+    URL: https://nomadlease.com
+
+
+About Nomad
+Nomad is unlocking economic opportunity for everyone in the long-term rental community. We offer property owners guaranteed rent and peace of mind, while delivering a better rental experience for residents. Backed by leading investors, we're transforming a massive, fragmented market with technology that makes renting better for everyone involved.
+&amp;nbsp;
+About the Team
+Nomad's Engineering team builds the platform that powers guaranteed rent, owner dashboards, resident experiences, and the operational tools that make our business run. We're a small, senior team that ships fast and owns our outcomes. You'll work alongside product, design, and ops to solve real problems in a massive, underserved market. We're entering a new phase of growth. This is a high-leverage moment to join.
+&amp;nbsp;
+About the Role
+We're hiring a Senior Software Engineer to take on meaningful ownership of our platform and deliver features that directly impact the business. You'll work across the stack, make real technical decisions, and ship end-to-end. This is a role for someone who's moved past needing close direction. You see what needs to be done, you build it well, and you make the people around you better in the process.
+&amp;nbsp;
+In this role, you will:
+
+
+Build and ship features across our Rails backend and Typescript+React frontend
+
+
+Play a crucial role in bringing solid engineering principles into multiple legacy codebases
+
+
+Own your work end-to-end; from technical design through implementation, testing, and deployment
+
+
+Collaborate directly with product and design to refine requirements and deliver solutions that move business metrics
+
+
+Write clean, well-tested code and contribute to improving our engineering standards
+
+
+Participate in code reviews and provide constructive feedback that raises the quality bar
+
+
+Identify and address technical debt, bugs, and performance issues proactively
+
+
+Contribute to architectural discussions and help the team make sound technical decisions
+
+
+&amp;nbsp;
+Who you are
+
+
+An experienced product engineer with strong systems thinking abilities; you should be comfortable asking questions and improving the ideas that shape product iteration as well as executing on product vision
+
+
+Significant professional software engineering experience, with strong experience in Typescript+React, Ruby+Rails, and RDBMS (we use Postgre)
+
+
+You have experience with modern testing philosophies and can actively improve test suites that are slow, nondeterministic, or need updated practices
+
+
+Bonus: You have experience automating workflows, using Playwright, Slack bots, and other tooling
+
+
+You've shipped meaningful features or systems and can point to work you owned and delivered
+
+
+Solid technical fundamentals; you write clean code, think about edge cases, and care about quality
+
+
+You introduce and discuss modern tooling and libraries that solve recurring problems in the codebase
+
+
+You are relentless in pushing for simplified patterns in the code and you have examples of systems you've simplified.
+
+
+You have built out tooling (CI/Editor) to enforce improved coding practices across a codebase and improve developer experience.
+
+
+You have experience with writing component and e2e-level visual browser tests and know when to use each.
+
+
+Comfortable working across the stack; you're not precious about frontend vs. backend
+
+
+Strong collaborator who communicates clearly with both technical and non-technical teammates
+
+
+Self-directed: You take initiative, manage your own work, and don't wait to be told what's next
+
+
+Experience in a startup or high-growth environment preferred
+
+
+You’re comfortable using AI coding tools when they speed up implementation, debugging, or test writing, but you don’t rely on them to replace engineering judgment.
+
+
+&amp;nbsp;
+Interview process
+
+
+Quick meeting with recruiter to discuss role and company
+
+
+Hiring manager interview
+
+
+(up to) 3 hour technical assessment where you'll work on a real problem that a Nomad engineer would own, building a feature.
+
+
+Discuss technical assessment with engineering and product
+
+
+Founder interview
+
+
+&amp;nbsp;
+Where you'll be
+Remote within the continental United States. Denver-based candidates are preferred and are encouraged to work hybrid from our downtown office.
+&amp;nbsp;
+At Nomad, we are committed to offering competitive compensation that reflects the value each team member brings to our mission. Salary ranges for this role are determined based on factors such as experience, skills, location, and role expectations. Final offers may vary from the posted range, ensuring fair and equitable consideration for every candidate.
+&amp;nbsp;
+Our Values
+ Nomads Build Community: We foster genuine relationships and act as dependable stewards of our community.
+ One Percent Better Every Day: We are always learning, taking small, deliberate actions to continuously improve.
+ Mission Before Ourselves: We're a championship team driven to make our customers' lives better.
+ Act From Ownership: We roll up our sleeves, solve problems proactively, and take responsibility for our work.
+ Dream Without Boundaries: We challenge the status quo and strive to achieve the extraordinary.
+&amp;nbsp;
+Benefits at Nomad
+We believe in supporting our team with benefits that enhance your life, both inside and outside of work.
+
+
+ Medical, Dental &amp;amp; Vision Insurance Plans: Comprehensive coverage to keep you and your family healthy.
+
+
+ Team Bonding Outings and Volunteer Days: Opportunities to connect and give back to the community.
+
+
+ Dog-Friendly Office: Because we know pets are family too!
+
+
+️ 11 Paid Company Holidays: Including a dedicated Mental Health Day.
+
+
+ Company Equity: Become a part owner of Nomad and share in our success.
+
+
+☂️ Short-Term &amp;amp; Long-Term Disability: Supporting you when life throws curveballs.
+
+
+ MacBook: Plus, an equipment budget to set you up for success.
+
+
+⏰ Sick, Parental, and Generous Paid Time Off: Work-life balance matters to us.
+
+
+ Nomadic Anniversary Rewards: Celebrate milestones with rewards ranging from paid yearly events to a 4-week sabbatical.
+
+
+ Discounted Employee Brokerage Rates: Helping you buy or sell a home with ease.
+
+
+&amp;nbsp;
+Equal Opportunity Employer
+Nomad Labs Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii</description><pubDate>Tue, 19 May 2026 15:45:54 +0000</pubDate></item><item><title>Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)</title><link>https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1</link><description>Headquarters: USA
     URL: http://www.close.com
 
 
@@ -293,12 +453,7 @@ To apply: https://weworkremotely.com/remote-jobs/s-pro-senior-lead-devops-engine
 
 At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it.&amp;nbsp;We are seeking an experienced and innovative Senior AI Platform Designer to join our team. In this role, you will contribute to the enhancement and expansion of our Agentic experiences. The ideal candidate is passionate about crafting meticulous, purpose-driven interfaces and has a proven track record in designing and managing complex systems within high-velocity iterative. If you thrive in a collaborative, remote-first setting and are excited about contributing to a world-class product, we want to hear from you.The Experience Design organization champions our customers by creating and delivering efficient consumer grade experiences through our trust management platform. We aim to earn their trust and contribute to a more secure internet. By providing valuable solutions, we empower Vanta to grow as a business. Our role is vital to the company’s strategic direction, and you will have a significant impact on our product development.You will report to a Director of Design within the Experience Design Organization.What you’ll do as a Senior AI Platform Designer at Vanta:Enhance and expand the Agentic experiences  to meet the evolving needs of the Vanta platform.Create and maintain high-quality AI patternsPair and collaborate with product teams on improving workflowsHelp define a playbook for iterative experimentation with engineeringBring the latest thinking to help enable our EPD organization at largeHow to be successful in this role:Familiarity with AI toolingHealthy skepticism and a critical lens on AI tooling6+ years experience in product design.Strong portfolio demonstrating expertise in design systems, UI/UX design, and system thinking, and high visual craftsmanship.Excellent problem-solving skills and attention to detail.Strong communication and presentation skills.Ability to work collaboratively in a cross-functional team environment.Open to using AI to amplify their skills and strengthen their work - demonstrating curiosity, a willingness to learn, and sound judgment in applying AI responsibly to improve efficiency and impactWhat you can expect as a Vanta’n:Industry-competitive salary and equityComprehensive medical, dental, and vision coverage, with 100% of employee-only benefit premiums covered for most medical plans16 weeks fully-paid Parental Leave for all new parentsHealth &amp;amp; wellness stipendRemote workspace, internet, and cellphone stipendCommuter benefits for team members who report to the SF and NYC officeFamily planning benefitsMatching 401(k) contribution with immediate vestingFlexible PTO policy, plus 80 hours of Sick Time11 company-paid holidaysVirtual team building activities, lunch and learns, and other company-wide events!Offices in SF, NYC, London, Dublin, Tel Aviv, and SydneyTo provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar-stage growth companies. Final offer amounts are determined by multiple factors and may vary based on candidate location, skills, depth of work experience, and relevant licenses/credentials. #LI-remoteAt Vanta, we are committed to hiring diverse talent of different backgrounds and as such, it is important to us to provide an inclusive work environment for all. We do not discriminate on the basis of race, gender identity, age, religion, sexual orientation, veteran or disability status, or any other protected class. As an equal opportunity employer, we encourage and welcome people of all backgrounds to apply.About VantaWe started in 2018, in the wake of several high-profile data breaches. Online security was only becoming more important, but we knew firsthand how hard it could be for fast-growing companies to invest the time and manpower it takes to build a solid security foundation.&amp;nbsp;Vanta was inspired by a vision to restore trust in internet businesses by enabling companies to improve and prove their security. From our early days automating security monitoring for compliance standards like SOC 2, HIPAA and ISO 27001 to creating the world's leading Trust Management Platform, our vision remains unchanged.&amp;nbsp;Now more than ever, making security continuous—not just a point-in-time check— is essential. Thousands of companies rely on Vanta to build, maintain and demonstrate their trust— all in a way that's real-time and transparent.
 
-To apply: https://weworkremotely.com/remote-jobs/vanta-senior-product-designer-ai-platform</description><pubDate>Sat, 16 May 2026 20:31:49 +0000</pubDate></item><item><title>Activate Talent: Mobile App Product Manager</title><link>https://weworkremotely.com/remote-jobs/activate-talent-mobile-app-product-manager</link><description>Headquarters: Singapore
-
-
-Client: https://gabbybernstein.com/ Location: 100% Remote EST Contract: Long Term | Independent ContractorPayment: Monthly | USD About the AppOur coaching app offers a comprehensive digital toolkit for personal growth, providing users with hundreds of guided meditations, spiritual practices, talks, and workshops led by a #1 New York Times bestselling author. The platform includes a personalized 24/7 AI coach, habit-tracking challenges, and on-demand AI support designed to provide immediate relief and practical spiritual guidance.Recognized by major media publications and maintaining a top-tier 4.9-star rating with a highly loyal community, the app serves as a best-in-class foundation for our ambitious retention and growth strategy.Our MissionWe are committed to helping people transform their lives while building a joyful, purpose-driven workplace. Every team member is encouraged to align with their highest potential and contribute meaningfully to the impact we create in the world.Role SummaryAs a Mobile App Product Manager, you will work closely with our development, executive, and marketing teams to maintain the health, performance, and evolution of the app. You will take full ownership of the product roadmap—building, testing, and optimizing existing features while driving adoption and increasing subscriber growth.What is this role, in simple terms?The Mobile App Product Manager is the full owner of the mobile product (iOS and Android).Your mission is to grow the app, retain users, and increase subscribers by ensuring that: The app performs well (performance, bugs, stability)  The right features are built in the right order  Content is consumed more frequently and more effectively  AI becomes a real engine for engagement and retention  Decisions are driven by data, not intuition This is not a purely technical role nor a purely strategic one—it’s execution + strategy + coordination.What problem is this role meant to solve?The app already: Has strong content  Has a loyal user base  Has an excellent rating (4.9) The typical challenges at this stage are: How do we better activate new users?  How do we reduce churn?  How do we get users to come back every day?  How do we use AI to personalize the experience?  Which features actually move the needle, and which don’t? This role exists to turn the app into a growth and retention engine, not just a content library.Key ResponsibilitiesLead overall product strategy and execution for the mobile app.Drive development of minimal but high-impact features in collaboration with the wider content team.Serve as the primary point of contact for developers and lead weekly alignment calls on priorities.Define clear KPIs and evaluate success metrics related to app performance.Track and report weekly on usage data, churn, and retention.Monitor analytics and translate insights into actionable product improvements.Analyze in-app behavior, customer feedback, and competitor research to inform feature creation and bug resolution.Manage ongoing processes for gathering and implementing user feedback.Partner with the content team to shape content strategy based on consumption insights.Upload, manage, and maintain all in-app content.Lead cross-functional lifecycle alignment across retention, marketing, and analytics to improve new-user activation.Collaborate across teams to develop promotional strategies that expand the user base.Own the AI product roadmap as a core retention lever, optimizing responsiveness and personalization to increase engagement.Drive app store SEO and optimize listings for discoverability and conversion.Act as the internal expert and ambassador for the app.Ensure strong coordination with website and customer service teams for promotion, support, and troubleshooting. Required Experience &amp;amp; Skills3–5 years of product management experience focused on consumer mobile apps (iOS and Android preferred).Experience working with subscription-based products is advantageous.Strong ability to interpret customer behavior and performance data to inform decisions.Experience in content-rich environments such as media, wellness, health tech, or entertainment is a plus.Culture &amp;amp; Team StandardsWe value individuals who are:Self-motivated, proactive, and results-driven.Flexible and comfortable wearing multiple hats to support team success.Coachable, adaptable, and open to feedback.Transparent and collaborative across all functions.Strong team players with excellent interpersonal skills and trust-building ability.Highly responsive communicators.Effective at working independently with excellent time management.Willing to take full ownership of projects and outcomes. 
-
-To apply: https://weworkremotely.com/remote-jobs/activate-talent-mobile-app-product-manager</description><pubDate>Sat, 16 May 2026 20:31:41 +0000</pubDate></item><item><title>Mind Friend Pro: Website Admin / Design INTERNSHIP</title><link>https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship</link><description>Headquarters: United Kingdom
+To apply: https://weworkremotely.com/remote-jobs/vanta-senior-product-designer-ai-platform</description><pubDate>Sat, 16 May 2026 20:31:49 +0000</pubDate></item><item><title>Mind Friend Pro: Website Admin / Design INTERNSHIP</title><link>https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship</link><description>Headquarters: United Kingdom
 
 
 This is an internship for someone who is looking to work closely and learn from web developers. This is a two month training programme. Mind Friend PRO is looking for a creative and detail-oriented Website Administrator/Designer to join our team. This role entails managing and enhancing our website's functionality and aesthetics to improve user experience and engagement. As a remote position, you'll have the flexibility to work from anywhere while collaborating with our dedicated team to implement design changes, troubleshoot issues, and ensure our website reflects our mission in mental health support. Key Responsibilities:Manage and update website content, ensuring it is current, accurate, and aligned with our brand.Design and implement visual elements that enhance the user experience.Collaborate with marketing and psychology interns.Monitor website performance and troubleshoot any technical issues.Conduct regular audits to identify and implement improvements.Bring new ideas in terms of website content and layouts.Qualifications:Proven experience in website administration and design (experience with WordPress or similar platforms preferred).Strong knowledge of web design principles, HTML, CSS, and UX/UI best practices.Experience with graphic design tools (Adobe Creative Suite, Canva, etc.) preferred.Ability to analyze website performance metrics and implement strategies for improvement.Excellent communication skills and ability to collaborate effectively with team members.Detail-oriented with strong problem-solving abilities. Benefits&amp;nbsp; Opportunity for Full-Time Employment: Successful interns may be considered for full-time roles.  Mentorship &amp;amp; Training: Receive continuous guidance, supervision, and mentorship from experienced professionals, with the opportunity to work closely with a professional team. Skill Development: Build research, writing, communication, and digital content creation skills. Hybrid Experience: Combine flexible remote work with hands-on team collaboration. Certificate of Completion: Receive a certificate to enhance your career prospects.
