@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Stellar AI: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</link><description>Headquarters: London
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>ShiftForce LLC: Full-Stack Developer — .NET + React + Azure — Remote (US)</title><link>https://weworkremotely.com/remote-jobs/shiftforce-llc-full-stack-developer-net-react-azure-remote-us</link><description>Headquarters: Kansas City
+    URL: https://www.shiftforce.com
+
+
+**About us**
+ShiftForce is scheduling and operations software for restaurants. We've been around a while, we're profitable, and we ship real features to real users every week. Small team — there are no layers of management between you and the work, which means real ownership and real impact, but also means everyone pitches in on whatever needs doing.
+**The role**
+We need a full-stack developer who works like an owner. You'll pick up problems from the backlog, ask the questions you need answered, then build and ship the solution. We're not looking for someone who needs every decision made for them — but we're also not looking for someone who treats every ticket as an excuse to rewrite a subsystem.
+A typical week might be shipping a couple of features, fixing a few bugs, debugging a weird Azure Function timeout, reviewing a teammate's PR, and pushing back on a product idea that doesn't make sense. Some weeks lean more toward infra and ops — a broken pipeline, a slow query. Because we're small, you'll wear many hats. You should be comfortable solving technical problems that aren't strictly "writing code," and you shouldn't expect a dedicated DevOps or DBA team to hand you a clean environment.
+**Stack**
+- Backend: C# / .NET Core 10, some legacy .NET Framework (being migrated)- Frontend: React, Next.js, TypeScript, CSS- Mobile: React Native / Expo- Data: SQL Server, PostgreSQL — real queries, real indexes, real execution plans- Infra: Azure Functions, App Service, DevOps pipelines, Key Vault
+**You're a fit if you**
+- Have 3+ years shipping production code on a similar stack- Solve problems instead of escalating them — you read the logs, write a repro, check the docs- Build what was asked for, not what you wish was asked for- Are comfortable wearing many hats: code, infra, debugging, customer issues, whatever the week needs- Use AI coding tools (Cursor, Claude, Copilot) as part of your daily workflow — not as a novelty- Communicate clearly in writing (most of our communication is async)
+**Logistics**
+- 100% remote, US-based- Full-time- Slight preference for candidates in Las Vegas or Kansas City — not a requirement
+**How to apply**
+Email justinb@shiftforce.com with a short note describing a hard bug you debugged recently — what was broken, how you found it, how you fixed it. That's the application. Resume optional.
+
+To apply: https://weworkremotely.com/remote-jobs/shiftforce-llc-full-stack-developer-net-react-azure-remote-us</description><pubDate>Wed, 20 May 2026 14:08:40 +0000</pubDate></item><item><title>Stellar AI: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</link><description>Headquarters: London
     URL: https://joinstellar.ai/
 
 
@@ -643,167 +661,4 @@ Fully remote
 
 
 
-To apply: https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3</description><pubDate>Thu, 14 May 2026 09:14:28 +0000</pubDate></item><item><title>bunny.net: Staff Software Engineer (Magic Containers)</title><link>https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers</link><description>Headquarters: Slovenia
-    URL: http://bunny.net
-
-
-Staff&amp;nbsp;Software Engineer (Magic Containers)
-Magic Containers is bunny.net’s edge-native platform for running containerized applications. It’s fast, flexible, and free from traditional cloud complexity. No Kubernetes. No YAML jungles. Just a simple, powerful way to deploy and scale apps globally with minimal setup.
-It’s already running in production, powering real workloads, and we’re ready to take it further.
-As a&amp;nbsp;Staff Software Engineer, you’ll help evolve a platform that’s built for developers, with great DX, simple operations, and rock-solid reliability. You’ll work fast, ship often, and have a real voice in shaping the future of how containers run at the edge.
-You’re a technical leader who shapes how we build at scale. You solve problems that cross teams, connect technical and business strategy, and make others better through influence, clarity, and mentorship. You set direction, not just follow it. And you leave every system and team stronger than you found them.
-You won’t do it alone. You’ll work with people who challenge what’s possible and take pride in doing things well.
-If this sounds like the kind of infrastructure you’d want to help others build with, we’d love to hear from you.
-What will you do?
-
-
-Build and evolve the core of our edge-native container platform -&amp;nbsp;Magic Containers&amp;nbsp;and shape how developers build at the edge
-
-
-Multiply your impact by setting standards, mentoring engineers, and improving both code quality and team-wide knowledge
-
-
-Proactively spot opportunities to improve the platform, processes, or developer experience and drive those improvements end-to-end
-
-
-Lead cross-team efforts, whether it’s scaling orchestration systems, improving global observability, or driving company-wide migrations and technology shifts
-
-
-Align technical direction across teams by collaborating on specs, guiding architecture, and connecting engineering decisions to business goals
-
-
-Debug and resolve complex production issues, including those reported by customers
-
-
-Own outcomes end to end: not just shipping features, but delivering systems that solve real customer problems at scale
-
-
-Set a high bar for what great looks like in code quality, system design, and how we support what we build in production
-
-
-What will you bring?
-
-
-5+ years of experience with C# or a strong willingness to switch to it
-
-
-Deep understanding of containers (cgroups, namespaces, runtimes) and how they work under the hood
-
-
-Proven experience building and operating distributed systems across global infrastructure, especially those designed for global scale, low latency, or edge environments
-
-
-Strong Linux systems knowledge and comfort working close to the OS
-
-
-Solid grasp of networking fundamentals, including routing protocols, load balancing strategies, and distributed traffic patterns
-
-
-Familiarity with time-series or analytical databases like ClickHouse or InfluxDB
-
-
-Sharp debugging skills and the ability to diagnose complex production issues
-
-
-Experience leading cross-team or company-wide technical initiatives, guiding architecture, and mentoring engineers
-
-
-Understanding of observability best practices: including logging, metrics, and health monitoring for distributed systems
-
-
-Clear, thoughtful communication: you write great docs, explain trade-offs, and build alignment
-
-
-A customer-first mindset focused on outcomes, long-term reliability, and continuous improvement
-
-
-A desire to help others grow and a habit of leading by example in how you write and review code
-
-
-What will make us extra happy?
-
-
-High-level understanding of Anycast: how it works, and how it impacts global routing, performance, and failover
-
-
-You’ve worked on sandboxing or container security (e.g. gVisor, Kata Containers)
-
-
-You’ve improved developer experience or infrastructure usability at scale
-
-
-Familiarity with message brokers like RabbitMQ or Kafka
-
-
-Hands-on with Redis, etcd, or other distributed key-value stores
-
-
-You've used bunny.net products or have experience with edge compute/CDN platforms
-
-
-You contribute to open source or share knowledge publicly (talks, posts, docs)
-
-
-You care deeply about developer experience and are thoughtful about the systems you design
-
-
-You bring curiosity, care, and energy to your work, and to the people around you
-
-
-Not sure if you check every box?
-That’s okay. We care more about how you think and what you’ve built than perfect credentials. If this work sounds exciting and you're ready to grow, we want to hear from you.
-Where should you be located?
-
-This job is fully remote from Europe (ideally CET or close time zone) with a flexible schedule, to make our collaboration easier. You’re still free to hop around the world and switch up your scenery whenever you want.
-
-What's in it for you?
-Life at bunny.net comes with benefits that make work (and life) better.
-
-
-100% flexible hours -&amp;nbsp;Your work, your rhythm. Whether you thrive at 3 am or on a beach at noon, we've got you.
-
-
-Remote-first by design&amp;nbsp;- No offices, no commute, just the freedom to work anywhere. Miss the office? We’ll give you a 3-night voucher for visiting our&amp;nbsp;headquarters.
-
-
-Performance-based bonuses&amp;nbsp;- Great work pays off, and we reward impact annually.
-
-
-Medical, dental, and vision insurance -&amp;nbsp;Coverage worldwide.
-
-
-Paid time off -&amp;nbsp;Love the slopes or the sea? Enjoy them with 25 vacation days, plus an extra loyalty day each year, capped at 5 years (30 days total), on top of your local public holidays.
-
-
-Meeting-free Thursdays&amp;nbsp;- We keep Thursdays meeting free internally so you can focus on deep work without interruptions.
-
-
-Home office budget -&amp;nbsp;We believe everyone is more efficient working in a comfortable office, and we're happy to help you set it up with an annual budget of €500.
-
-
-Paid sick leave -&amp;nbsp;Feeling ill? Take time off to fully recover without having to worry about your finances.
-
-
-Parental leave -&amp;nbsp;Paid 16 weeks for birthing parents, 8 weeks for non-birthing parents. If your country gives more, that’s your baseline. If it gives less, we top it up. Take your leave all at once or split it across the first year for maximum flexibility. After paid leave, your local statutory rules apply.
-
-
-Annual fluffle-building&amp;nbsp;- We're remote, but not distant! Once a year, we meet in a sunny location where virtual high-fives turn into real ones.
-
-
-Employee Stock Option Plan (ESOP)&amp;nbsp;- Everyone at bunny.net gets a piece of the pie, starting with 0.01% equity.
-
-
-Mental health support -&amp;nbsp;Feeling down? We've got your back. bunny.net provides mental health resources and help via&amp;nbsp;BetterHelp.com.
-
-
-Wellness budget -&amp;nbsp;An annual well-being budget of €480 is here to help you stay fresh and focused.
-
-
-Educational budget -&amp;nbsp;€500 yearly for books, seminars, or online courses to keep your learning on track, work-related or not.
-
-
-Music on us&amp;nbsp;- Work is better with music. Enjoy a yearly Apple, Spotify, or YouTube Premium subscription on us.
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers</description><pubDate>Tue, 12 May 2026 12:34:46 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3</description><pubDate>Thu, 14 May 2026 09:14:28 +0000</pubDate></item></channel></rss>
