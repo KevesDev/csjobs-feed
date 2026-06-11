@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Nomad: Senior Software Engineer II</title><link>https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii</link><description>Headquarters: Denver CO
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Stellar AI: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</link><description>Headquarters: London
+    URL: https://joinstellar.ai/
+
+
+
+We are seeking experienced Software Engineers to contribute to projects across a wide range of technologies and programming languages, including JavaScript, Python, Go, C++, Ruby, and more.This is an open-ended contract opportunity, structured around project-based work with no set schedules or minimum time or task commitments. Contributors who work with us decide which available projects they'd like to work on, when they work, and how much they contribute, which makes it an excellent option for those seeking flexible and high-impact work.In this role, you will help advance AI research by understanding complex systems, exploring large codebases, and developing approaches to verify the correctness of software behavior.
+Compensation
+
+$70 per hour after passing the qualification
+Fully remote
+Project based work, no minimum time or task commitments
+
+Responsibilities
+
+Rapidly build context in large, multi-module codebases
+Analyze feature implementations for correctness and edge cases
+Produce clear, structured documentation of findings and rationale
+
+Requirements
+
+Bachelor's degree in Computer Science or a related field
+At least 2 years of experience as a Software Engineer
+Excellent written communication skills
+Ability to clearly explain complex technical concepts
+
+Location
+Remote in the US, UK, Canada, Europe, Australia, or New Zealand
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</description><pubDate>Tue, 21 Oct 2025 19:36:26 +0000</pubDate></item><item><title>Nomad: Senior Software Engineer II</title><link>https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii</link><description>Headquarters: Denver CO
     URL: https://nomadlease.com
 
 
@@ -776,31 +806,4 @@ Music on us&amp;nbsp;- Work is better with music. Enjoy a yearly Apple, Spotify,
 
 
 
-To apply: https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers</description><pubDate>Tue, 12 May 2026 12:34:46 +0000</pubDate></item><item><title>Mobena: Frontend Engineer</title><link>https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</link><description>Headquarters: New York, NY
-    URL: https://mobena.co/
-
-
-Mobena is a three-person, remote-first startup building the “evolution” of multi-generational tax/estate planning software, targeting the advisors of America’s 2 million wealthiest families. We’re currently hiring our first dedicated UI Engineer to “own” the frontend of our flagship product, Mobena Evolution, for which we have little to no frontend code. You’ll work directly with our backend/algorithm-focused CTO, as well as our designer-founder, to turn evolving Figma concepts into fast, maintainable, and scalable user interfaces.
-What You’ll Do
-
-Choose and justify the frameworks and tools that best fit our needs.
-
-We have some holdover prototype code in Vite JS, but you can take it or leave it; all of our Figma concepts are new.
-The backend is a standard HTTP API. We are open to everything from established web stacks (React, Angular, Svelte, Vite) to cross-platform or native solutions (Qt, WASM, .NET MAUI, Tauri, Electron, Tk)—literally anything, if you can convince us it’s the right choice.
-
-Build our UI from the ground up, establishing clear, maintainable patterns for components, state management, styling, testing, performance, and accessibility.
-Collaborate to refine and sometimes re-frame existing screen designs in Figma.
-Connect the frontend to our APIs (REST, GraphQL, or similar).
-Lay groundwork for future mobile clients; however, experience in this regard is a plus rather than a requirement.
-
-About You
-
-You’ve shipped an interactive application—web, desktop, or mobile—via coursework, open source, side project or professional work.
-You care about usability and design quality. (That is, you care about the user.)
-You learn by doing: building things rather than sitting in committee.
-You are happy to say I don’t know. We try to cultivate “beginner’s mind” at Mobena—it helps us avoid conventional traps and groupthink. The first step of thinking like a beginner is acknowledging your own ignorance! 😊
-You can defend your technical choices in clear English, and can take credit for your successes as well your mistakes.
-You are comfortable in an early-stage, collaborative environment.
-
-
-To apply: https://weworkremotely.com/remote-jobs/mobena-frontend-engineer</description><pubDate>Fri, 16 May 2025 20:03:34 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers</description><pubDate>Tue, 12 May 2026 12:34:46 +0000</pubDate></item></channel></rss>
