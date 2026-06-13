@@ -1,5 +1,92 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>ShiftForce LLC: Full-Stack Developer — .NET + React + Azure — Remote (US)</title><link>https://weworkremotely.com/remote-jobs/shiftforce-llc-full-stack-developer-net-react-azure-remote-us</link><description>Headquarters: Kansas City
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Luxury Presence: Staff Software Engineer - AI Website Builder - US (Remote)</title><link>https://weworkremotely.com/remote-jobs/luxury-presence-staff-software-engineer-ai-website-builder-us-remote</link><description>Headquarters: United States
+    URL: http://luxurypresence.com
+
+
+Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company on track to hit $100M in annual recurring revenue in the next six months. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.
+The Role
+As a Staff Software Engineer, you will be a key contributor on a cross-functional team, building the foundation of our AI-first platform. You’ll take ownership of major features and services, drive meaningful improvements to our architecture, and collaborate closely with product, design, and AI teams to deliver high-impact outcomes for our customers.
+What You’ll Do
+
+
+Contribute to key architectural decisions and support a large scale re-imagining of our Site Generation and Site Builder Experience
+
+
+Design and build cloud-native APIs, services, and front-end experiences used across our platform to support building Websites
+
+
+Collaborate with cross-functional teams to deliver AI-powered workflows to Site Building experiences
+
+
+Write clean, testable, scalable code across the stack
+
+
+What We’re Looking For
+
+
+Passion for building in an AI-augmented environment
+
+
+Familiarity with modern AI tools; experience developing AI-driven solutions is a plus (Claude Code is a must)
+
+
+5+ years of professional experience in full-stack engineering (leaning backend), ideally having supported a product from MVP to scale in rapid iterations
+
+
+Strong skills in JavaScript/TypeScript, Node.js, and React
+
+
+Experience with scalable microservice architecture (AWS preferred)
+
+
+Solid command of GraphQL, event-driven systems (Kafka/SQS), and distributed databases
+
+
+Track record of delivering high-quality features in rapid prototyping environments and integrating with feedback quickly
+
+
+While you will have Product and Design partners, we value strong communicators and collaborators; able to work with limited product and design guidance, and operate independently in chasing well defined outcomes
+
+
+Customer-first mindset with the ability to empathize with internal and external stakeholder needs
+
+
+Tech Stack
+
+
+Frontend: React, Tailwind, Apollo, SingleSPA
+
+
+Backend: Node.js, TypeScript (microservices), Python ETLs
+
+
+AI: LangChain, LangFuse, OpenRouter, Mastra, Claude Code
+
+
+Data: PostgreSQL, DynamoDB, Elasticsearch
+
+
+Infrastructure: AWS, Kubernetes, Lambda
+
+
+Messaging: Kafka, SQS
+
+
+$200,000 - $250,000 a yearJoin us in shaping the future of real estate
+&amp;nbsp;
+The real estate industry is in the midst of a seismic shift, and the future belongs to those who break new ground. As one of the fastest-growing companies in the proptech and marketing sectors, Luxury Presence challenges the status quo of what technology can do for real estate agents, leaders, and brokerages.
+&amp;nbsp;
+We're a team of agile and tenacious innovators working collaboratively to drive the industry forward. Together, we build game-changing products that empower modern real estate entrepreneurs to dominate their markets. From award-winning web design to agile SEO solutions to cutting-edge AI tools, we deliver tech that anticipates market shifts and keeps our clients ahead of their competition.
+&amp;nbsp;
+Founded in 2016 by Stanford Business School alum Malte Kramer, Luxury Presence has grown to a global team ranked on the Inc. 5000 fastest-growing companies list three years in a row. We're backed by world-class investors, including Bessemer Venture Partners, NextEquity Partners, Toba Capital, and Switch Ventures, and have raised $89 million to date.
+&amp;nbsp;
+More than 18,000 real estate businesses rely on our platform, including 30% of the Wall Street Journal RealTrends top agents and teams. Additionally, many of the industry's most powerful brokerages rely on Luxury Presence as a trusted business partner.
+&amp;nbsp;
+Every year since 2020, Luxury Presence has ranked on BuiltIn's Best Place to Work lists. HousingWire named our founder and CEO a 2024 Tech Trendsetter, we've received several Tech100 Awards, and we just scored an Inman Innovation Award for Best AI-Powered Platform.
+&amp;nbsp;
+Luxury Presence is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+To apply: https://weworkremotely.com/remote-jobs/luxury-presence-staff-software-engineer-ai-website-builder-us-remote</description><pubDate>Thu, 21 May 2026 20:03:04 +0000</pubDate></item><item><title>ShiftForce LLC: Full-Stack Developer — .NET + React + Azure — Remote (US)</title><link>https://weworkremotely.com/remote-jobs/shiftforce-llc-full-stack-developer-net-react-azure-remote-us</link><description>Headquarters: Kansas City
     URL: https://www.shiftforce.com
 
 
@@ -584,81 +671,4 @@ Most Asian countries and Africa.
 We expand and shorten the list of exemptions regularly.
 We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
 
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-angular-php-developer</description><pubDate>Fri, 15 May 2026 07:36:54 +0000</pubDate></item><item><title>Sticker Mule: Software engineer</title><link>https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3</link><description>Headquarters: New York, NY
-    URL: https://www.stickermule.com
-
-
-Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors.
-&amp;nbsp;
-How we work
-
-
-Small, autonomous teams that own products end-to-end.
-
-
-Prioritize what matters right now and pivot instantly when needed.
-
-
-Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP.
-
-
-Use AI aggressively to push the limit of what we can do.
-
-
-Move fast, build for the masses, and deprioritize edge cases.
-
-
-Fully remote from 40+ countries and collaborate using Asana and Slack.
-
-
-&amp;nbsp;
-Requirements
-
-
-You are an exceptional full-stack software engineer.
-
-
-You use AI aggressively and write well in English.
-&amp;nbsp;
-
-
-What you will work on
-You'll help build and scale&amp;nbsp;Sticker Mule&amp;nbsp;Pro&amp;nbsp;— a suite of software tools for creators and businesses:
-
-
-Stores (Shopify alternative)
-
-
-AI tools (internal and customer-facing)
-
-
-Notify (Mailchimp alternative)
-
-
-Reply (Zendesk alternative)
-
-
-Hire Me (Contra alternative)
-
-
-Mobile apps
-
-
-&amp;nbsp;
-Compensation
-
-
-Salary: $150,000–$250,000 USD
-
-
-$20,000 signing bonus
-
-
-4 weeks vacation + country-specific holidays
-
-
-Fully remote
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3</description><pubDate>Thu, 14 May 2026 09:14:28 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-angular-php-developer</description><pubDate>Fri, 15 May 2026 07:36:54 +0000</pubDate></item></channel></rss>
