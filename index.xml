@@ -1,5 +1,488 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Activate Talent: Senior Shopify Web Developer</title><link>https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer</link><description>Headquarters: Colombia
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>A.Team: Senior Independent AI Engineer / Architect</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</link><description>Headquarters: NYC and TLV
+    URL: http://a.team/ai-jobs?utm_source=wwr&amp;amp;utm_medium=post&amp;amp;utm_campaign=wwrai
+
+
+Senior Independent AI Engineer / Architect
+Remote | Americas, Europe, or Israel
+Most AI engineers can find work.
+Finding work worth doing is harder.
+A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies.
+Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.
+The Work
+You'll join small teams tackling problems that matter.
+Not demos.
+Not prototypes that never ship.
+Not another chatbot wrapper.
+Real systems. Real users. Real outcomes.
+Recent work has included:
+- LLM-powered products and workflows- Agent architectures and orchestration systems- Retrieval, evaluation, and reliability infrastructure- Enterprise AI deployments- AI-native products built from zero to one- Machine learning platforms operating at scale
+You'll work directly with founders, CTOs, and product leaders, helping shape both the technical approach and the outcome.
+Why Builders Join
+Most independent engineers eventually run into the same problem:
+The best opportunities rarely make it to the open market.
+A.Team exists to solve that.
+No bidding.
+No prospecting.
+No competing with thousands of other freelancers.
+Just access to ambitious companies, difficult problems, and experienced peers.
+Who Thrives Here
+People who have already shipped.
+Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn research into business value.
+You might be an:
+- AI Architect- AI Engineer- MLOps- Deep Learning Engineer- Data Scientist- Applied AI Engineer- ML Engineer- AI Researcher- Staff+ Engineer focused on AI- Technical founder with deep AI experience
+What matters is a track record of building and shipping.
+The Details
+
+Typical rates: $120-$170/hr
+Remote (almost all roles)
+You keep 100% of your rate
+
+Not a Fit
+
+Early-career engineers
+People without production AI experience
+Small gig seekers
+Developers focused primarily on simple AI wrappers or templated implementations
+
+Apply
+Tell us what you've built.
+We'll take it from there.
+build.a.team/AI-Builders
+
+To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</description><pubDate>Sun, 16 Jun 2024 18:08:52 +0000</pubDate></item><item><title>A.Team: Senior Independent Software Developer ($90-$170/hr)</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</link><description>Headquarters: NYC and TLV
+    URL: https://build.a.team/wwrfastrackreferral
+
+
+Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under "how you heard about A·Team." No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue their craft with autonomy.Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.Not for:People seeking small gigs.Builders focused on simple WordPress/Wix/Squarespace sites.Early-career professionals and recent grads.Our Vision:A·Team is for the "unhirables" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.
+
+To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item><item><title>Memora ApS: Founding Engineer</title><link>https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer</link><description>Headquarters: Copenhagen, Denmark
+    URL: https://memora.dk/
+
+
+About Us
+
+At Memora, we're digitizing one of the oldest and most overlooked categories on earth: the cemetery. Most still run on paper maps, spreadsheets, and institutional memory. We are replacing this with an ecosystem for everyone who touches a cemetery: the leadership running it, the field teams maintaining it, the families visiting it, and the local partners serving them.&amp;nbsp;
+We’re backed by leading investors and guided by a team of experienced founders and engineers from well known tech names reimagining a category long overdue change. We’re deliberately lean, and will keep it that way.
+
+Job Description
+
+This is a remote position.
+Founding Engineer - Memora
+We're hiring a Founding Engineer to step into one of the broadest roles on the team: A hands-on IC role with real product and cultural ownership.
+The Why
+Memora is growing rapidly. We need an awesome engineer in the team who can lead from all angles of the technical stack:
+
+
+IaC end-to-end (Terraform, AWS, deploys, observability)
+
+
+Data ingestion pipelines (large exports, QGIS, PostGIS, multi tenant setups)
+
+
+Shipping core product features across NestJS, React, and React Native (Expo) mobile apps
+
+
+Being a thoughtful, methodical technical voice in a small team where every engineer has outsized influence
+
+
+The What (real examples from what we shipped in the last 30 days)
+
+
+Attribute-based filter systems across PostGIS, NestJS APIs, the React, and PMTiles-backed map tiles, so our clients can visualize by contracts, preservation status to even the flower season.
+
+
+
+
+Data import pipelines that convert raw PDF cemetery maps into geo-referenced GeoPackages in QGIS, then ingesting into PostGIS. Owning the end-to-end onboarding for new clientele.
+
+
+Terraform: multi-AZ RDS, ECS Fargate autoscaling, CI workflows, AI guardrails, WAF, SNS, and much more.
+
+
+AI: Designing, evaluating and building harnesses where prompts for summaries and activity can be elegantly delivered to communities, tuning guardrails.
+
+
+Production foundations such as RLS (multi-tenancy), idempotency keys + optimistic locking… so on
+
+
+The Stack
+
+
+Backend: NestJS, TypeScript, MikroORM, PostgreSQL + PostGIS, Inngest for durable workflows
+
+
+Web: React, TanStack Query, MapLibre + PMTiles
+
+
+Mobile: React Native + Expo, Expo Router, native iOS/Android push
+
+
+Infra: AWS (ECS Fargate, RDS, S3, CloudFront, SNS, Bedrock, WAF), Terraform, GH actions (OIDC), Logto
+
+
+Observability: Grafana Cloud, Sentry, CloudWatch
+
+
+Geospatial tooling: QGIS, GeoPackage, PMTiles
+
+
+AI: AWS Bedrock + guardrails, Promptfoo for evals
+
+
+Who you are
+Must have:
+
+
+Typically 8+ years building production software, including at least one role at a growth startup or as a founding/early engineer with sizeable revenue
+
+
+Full-stack: comfortable shipping in TypeScript across backend (Node/NestJS or similar) and React-based frontends
+
+
+Hands-on cloud infrastructure experience: you've owned a Terraform stack on AWS, not just consumed one
+
+
+Strong relational database fundamentals: you've designed schemas, optimized queries, run migrations against large live datasets
+
+
+Comfortable operating in a small team without a clear playbook: you can scope your own work, write your own docs, and triage your own bugs
+
+
+Strongly preferred:
+
+
+React Native / Expo experience shipping to App Store + Play Store
+
+
+PostGIS or any production geospatial work
+
+
+Experience with row-level security, multi-tenancy patterns, or compliance-sensitive data (we're GDPR + public-sector)
+
+
+Production AI/LLM work prompt design, evals, guardrails
+
+
+B2B/B2G SaaS experience: sales cycles, real customer relationships, public-sector quirks
+
+
+Bonus:
+
+
+Experience with cemetery, GIS, or public records systems
+
+
+A Note on AI
+Yes, we lean hard on AI coding tools: Claude, Perplexity, Cursor, etc. and we expect you to as well. Engineers who refuse them aren't a fit, but neither are vibe coders. We ship to municipalities managing data for real families, so the bar is robust, well-tested, human-reviewed code, not "the model said it worked."
+&amp;nbsp;
+We treat these tools like a sharp junior pair-programmer: fast, occasionally brilliant, frequently wrong, and never the final authority. That means reading every diff, spotting when its tests are theatre, pushing back on its first "all-inclusive plan" building workflows with planning and review gates baked in, and being able to ship the same feature with the tools turned off. "AI wrote it" is never a defence in a postmortem.
+&amp;nbsp;
+If that distinction is obvious to you, we should talk. If your instinct is to paste this post into Claude and ask for "the final application, make no mistakes", wrong place. We're hiring humans, not the sub-agents we already work with and know well.
+How we work
+We’re building Memora to be the kind of company we’d want to work for ourselves: high trust, low bureaucracy, and full of people who care deeply about doing great work.
+
+
+We’re remote by design. No, we don’t track hours or expect people to be online all day, but we do expect ownership, communication, and roughly 4 hours of overlap with Copenhagen (CET).
+
+
+We believe great work and great lives aren’t in competition with each other. Remote work means your whole life doesn’t stop when work starts and that’s a good thing by us. Families, school pickups, deep-focus afternoons: we welcome the whole human. We optimize for people doing the best work of their careers while still having a life they’re excited to live.
+
+
+We’re a small team. Currently 5 people, which means you’ll have real autonomy and real influence. Engineers talk to customers, help onboard them, visit cemeteries, and see first-hand how their work impacts real people. There are no layers of management and no “that’s someone else’s problem” mentality.
+
+
+We’re low ego and high standards. We challenge ideas, admit mistakes, ask questions, and care more about getting to the right answer than being right. Psychological safety matters here, and so does excellence.
+
+
+We’re async-first and intentionally lightweight. We write things down, keep meetings purposeful, and avoid process for process’ sake. Our default approach is simple: communicate clearly, make good decisions, and ship.
+
+
+And because we’re building a real team, not just a collection of Slack profiles, we get together for an offsite every quarter somewhere in the world. Last time, we spent the week skiing and working together, because the best ideas don’t always happen in a meeting room.&amp;nbsp;&amp;nbsp;
+
+
+Compensation &amp;amp; equity
+
+
+Senior IC salary (currency calibrated to location)
+
+
+Meaningful founding-engineer equity grant: we're early enough that this matters and we want you for the full journey
+
+
+Annual leave + Danish-equivalent benefits
+
+
+Quarterly offsites around the world
+
+
+How to apply
+Please send us:1. A relevant CV2. A short introduction3. Pick 2 questions in the&amp;nbsp;questionnaire
+https://zrec.eu/E0KZN
+
+
+To apply: https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer</description><pubDate>Sat, 06 Jun 2026 13:32:54 +0000</pubDate></item><item><title>Varicent: Support Engineer – SQL &amp; Web Applications (Remote - Mexico Only)</title><link>https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only</link><description>Headquarters: Tijuana, Mexico
+    URL: http://varicent.com
+
+
+&amp;nbsp;
+At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a market leader in the&amp;nbsp;2025 Forrester Wave Report for SPM,&amp;nbsp;2023 Ventana Research Revenue Performance Management (RPM) Value Index,&amp;nbsp;Gartner Peer Insights,&amp;nbsp;2024 Gartner SPM Market Guide, and&amp;nbsp;G2.&amp;nbsp;Our solutions are trusted by a diverse range of global industry leaders like T-Mobile, ServiceNow, Wawanesa Bank, Shaw Industries, Moody's, Stryker and hundreds more. Here’s why you’ll thrive at Varicent:
+
+Innovate with Purpose: Build impactful solutions for customers worldwide.
+Join Excellence: Work in a diverse, collaborative, and innovative team.
+Shape the Future: Lead in redefining revenue optimization.
+Grow Together: Unlock your potential in a supportive environment.
+
+Join us at Varicent—where your talent and ambition meet limitless opportunities for success!&amp;nbsp;
+THE OPPORTUNITY &amp;nbsp;
+Our Technical Support Team serves as the frontline of customer success, specializing in providing expert assistance to users navigating our SaaS solutions. They troubleshoot technical challenges, answer complex queries, and ensure that customers can maximize the value of our products. Beyond solving immediate issues, the team collaborates closely with product and development teams to report bugs, contribute to product enhancements, and share insights into user experiences. Their ultimate goal is to deliver exceptional service, foster customer satisfaction, and enable seamless adoption of our technology across diverse use cases.&amp;nbsp;
+&amp;nbsp;
+THE TEAM&amp;nbsp;
+The Technical Analyst I works with clients to resolve issues, lead conversations and coordinate activities across departments, and reproduces issues to maintain high client satisfaction.&amp;nbsp;
+&amp;nbsp;
+As a Technical Analyst you will have the opportunity to work side-by-side with some of the most experienced technology leaders for both on-premises and SaaS products to support our customers/business partners and connect with them by video conference, email and CRM and other state of the art communication methods. You will also be exposed to a variety of technologies and take responsibility for the creation of a positive customer experience.&amp;nbsp;
+&amp;nbsp;
+Technical Analysts are at the center of our after-sales value proposition to our clients, and you will lead conversations and coordinate activities with experts and leaders across departments and divisions in Varicent.&amp;nbsp;
+&amp;nbsp;
+WHAT YOU BRING&amp;nbsp;&amp;nbsp;
+&amp;nbsp;Technical Skills
+
+2+ Years of relevant technical experience.&amp;nbsp;&amp;nbsp;
+Proven experience working with SaaS platforms (mandatory)
+Familiar with relational databases concepts, both basic administration and SQL scripting. &amp;nbsp;
+Familiar with client server architecture. &amp;nbsp;
+Ability to communicate clearly (both verbally and in written form) technical instructions to people with limited experience. &amp;nbsp;
+Sharing best practices for the utilization and deployment of Varicent products. &amp;nbsp;
+Help customers maximize their product’s business value.&amp;nbsp;
+Troubleshooting experience for web-based applications.&amp;nbsp;
+
+Collaboration and Communication: &amp;nbsp;
+
+CEFR B2 level English proficiency or higher is required.
+Ability to work and collaborate effectively in cross-functional teams.&amp;nbsp;
+
+&amp;nbsp;
+WHAT YOU’LL DO &amp;nbsp;
+
+Resolve technical problems by troubleshooting incidents, including but not limited to collecting detailed problem description, traces, log files, and replication.&amp;nbsp;
+Communicate progress of investigation with clients while ensuring all related records are properly updated in the CRM system.
+Proficient in utilizing all support tools and processes to resolve cases.
+Share best practices for the utilization and deployment of Varicent products.
+Support KPI targets (SLA, QA, Resolution, etc.).
+Available for scheduled weekend coverage for on call rotation . &amp;nbsp;
+
+&amp;nbsp;
+1-3 MONTHS&amp;nbsp;
+
+Efficiently familiarize oneself with the organization's systems, processes, and team dynamics.
+Establish a working knowledge of key technologies and tools relevant to the role.
+Complete Training and start solving support cases.&amp;nbsp;
+
+&amp;nbsp;
+4-6 MONTHS&amp;nbsp;
+
+Demonstrate proficiency in using relevant analytical tools and technologies.
+Be able to solve 90% of cases without need for assistance.
+Actively contribute to team projects and initiatives.&amp;nbsp;
+
+&amp;nbsp;
+7 MONTHS &amp;amp; BEYOND&amp;nbsp;
+
+Be able to solve 99% of cases without assistance, help build knowledge for the rest of team.
+Conduct in-depth analysis of complex technical issues and provide well-reasoned solutions.
+Proactively anticipate and address potential challenges before they escalate.
+Build and maintain positive relationships with key stakeholders.&amp;nbsp;
+
+&amp;nbsp;&amp;nbsp;
+Note&amp;nbsp;&amp;nbsp;
+
+Candidates selected for this position will be hired by Varicent’s designated professional employer organization. Your employment may be transferred to a local Varicent entity in the future. In such event, Varicent may recognize your seniority and provide you with comparable role, responsibilities and benefits.&amp;nbsp; We are excited to welcome you and support you throughout this journey!
+This role requires employees to work within Eastern Standard Time (EST) business hours. While we are open to candidates from outside the EST time zone, please be prepared to adjust your working hours to align with this time zone. Flexibility will be essential to ensure seamless collaboration with the team and stakeholders.
+This position is fully remote. We embrace a results-driven work culture, focusing on performance and collaboration over location. As part of our team, you’ll have the opportunity to build a work-life balance that suits you, while staying connected with a diverse, global team through virtual tools and regular online communication. Whether you're working from home or a co-working space we’re committed to supporting you with the resources and autonomy needed to succeed in a remote environment.&amp;nbsp;
+
+&amp;nbsp;
+Benefits&amp;nbsp;&amp;nbsp;
+
+Market Leading Compensation Package.&amp;nbsp;
+Wellness Programs&amp;nbsp;to Support Health and Wellbeing. &amp;nbsp;
+Working with the latest tools and technologies in a fast-paced environment. &amp;nbsp;&amp;nbsp;
+Remote Work Flexibility.&amp;nbsp;
+Comprehensive Employee Insurance Coverage: Medical, Dental, Vision, Life Insurance. &amp;nbsp;
+Annual Time Off: Time off is provided in accordance with applicable legislative requirements. &amp;nbsp;
+Global Connected Culture: Hubs in Romania, UK, US, Canada.&amp;nbsp;
+Dynamic Work Culture: Thrive in our innovative and multicultural environment.&amp;nbsp;
+Grow with Us: Continuous development opportunities.&amp;nbsp;
+
+&amp;nbsp;&amp;nbsp;
+Want to Learn More About Us? Check out these Resources Below:&amp;nbsp;&amp;nbsp;
+
+Varicent Blog&amp;nbsp;
+Varicent Careers Blog &amp;nbsp;
+Varicent LinkedIn Page
+Varicent X Page&amp;nbsp;
+Varicent Instagram Page&amp;nbsp;
+Varicent Facebook Page&amp;nbsp;&amp;nbsp;
+
+&amp;nbsp;
+Varicent is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. If you require accommodation at any time during the recruitment process please email accomodations@varicent.com
+&amp;nbsp;
+Varicent is also committed to compliance with all fair employment practices regarding citizenship and immigration status. By applying for a position at Varicent and/or by using this portal, you declare and confirm that you have read and agree to our&amp;nbsp;Job Applicant Privacy Notice&amp;nbsp;and that the information provided by you as part of your application is true and complete and includes no misrepresentation or material omission of fact
+
+
+To apply: https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only</description><pubDate>Fri, 05 Jun 2026 20:37:07 +0000</pubDate></item><item><title>Akamai: Senior Software Development Engineer in Test II - Automation</title><link>https://weworkremotely.com/remote-jobs/akamai-senior-software-development-engineer-in-test-ii-automation</link><description>Headquarters: United States
+    URL: http://akamai.com
+
+
+DescriptionAre you excited to work on innovative enterprise security products?
+Do you enjoy collaborating with developers and impacting products touching life online for millions of users billions times a day?
+Join Our Team
+Our team operates within the Zero Trust Security Group, developing advanced security solutions for government and defense customers. We build and operate secure, mission-critical platforms in highly regulated environments. As part of a global team, we design/deploy cloud-native/edge solutions that integrate with tactical networks, enterprise systems, and partner technologies.
+Partner with the best
+As a Senior Software Engineer in Test II, you will develop, execute, and maintain test suites for our cloud services/web applications, focusing on FedRAMP standards. Working on top-notch network security projects with highly skilled colleagues, you will enjoy challenges in an exciting, dynamic learning environment.
+As a Senior II Software Development Engineer in Test, you will be responsible for:
+
+Providing high-quality test strategies using industry-standard tools and frameworks
+Designing, maintaining, and executing automated test suites for our Zero Trust solution
+Managing test executions, including application functionality, performance and security
+Working closely with the development and product teams to understand project requirements and identify test scenarios for automation
+Contributing to the enhancement of the automated testing infrastructure and integrate it into our CI/CD pipelines
+
+Do what you love
+To be successful in this role you will:
+
+Have 8+ years as Automation Engineer experience and a degree in CS or related field
+Have experience writing/maintaining tests using Python and spinning up environments using tools like K8s, Podman, VMware or other cloud platforms
+Have hands-on experience with test automation frameworks and tools
+Be proficient in writing and executing SQL queries for database validation
+Have experience with version control systems (e.g., Git), continuous integration tools (e.g., Jenkins), and project management and tracking tools (e.g., JIRA)
+Have experience developing/maintaining component and integration tests ensuring the seamless interaction and functionality of individual services within the larger system
+Demonstrate understanding of containerization and orchestration technologies such as Docker and Kubernetes
+Be eligible to obtain a Secret Security Clearance
+
+Work in a way that works for you
+FlexBase, Akamai's Global Flexible Working Program, is based on the principles that are helping us create the best workplace in the world. When our colleagues said that flexible working was important to them, we listened. We also know flexible working is important to many of the incredible people considering joining Akamai. FlexBase, gives 95% of employees the choice to work from their home, their office, or both (in the country advertised). This permanent workplace flexibility program is consistent and fair globally, to help us find incredible talent, virtually anywhere. We are happy to discuss working options for this role and encourage you to speak with your recruiter in more detail when you apply.&amp;nbsp;Learn&amp;nbsp;what makes Akamai a great place to work
+
+
+
+Connect with us on social and see what life at Akamai is like!
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+
+
+
+We power and protect life online, by solving the toughest challenges, together.
+At Akamai, we're curious, innovative, collaborative and tenacious. We celebrate diversity of thought and we hold an unwavering belief that we can make a meaningful difference. Our teams use their global perspectives to put customers at the forefront of everything they do, so if you are people-centric, you'll thrive here.
+Working for you
+At Akamai, we will provide you with opportunities to grow, flourish, and achieve great things. Our benefit options are designed to meet your individual needs for today and in the future. We provide benefits surrounding all aspects of your life:
+
+Your health
+Your finances
+Your family
+Your time at work
+Your time pursuing other endeavors
+
+Our benefit plan options are designed to meet your individual needs and budget, both today and in the future.
+About us
+Akamai powers and protects life online. Leading companies worldwide choose Akamai to build, deliver, and secure their digital experiences helping billions of people live, work, and play every day. With the world's most distributed compute platform from cloud to edge we make it easy for customers to develop and run applications, while we keep experiences closer to users and threats farther away.
+Join us
+Are you seeking an opportunity to make a real difference in a company with a global reach and exciting services and clients? Come join us and grow with a team of people who will energize and inspire you!
+  Akamai Technologies is an Affirmative Action, Equal Opportunity Employer that values the strength that diversity brings to the workplace. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of gender, gender identity, sexual orientation, race/ethnicity, protected veteran status, disability, or other protected group status.
+  If no date is displayed, applications are being accepted on an ongoing basis until the job is filled.
+Compensation
+Akamai is committed to fair and equitable compensation practices. For US based candidates only - the base salary for this position ranges from $146,400 - $263,600/year; a candidate’s salary is determined by various factors including, but not limited to, relevant work experience, skills, certifications and location. Compensation for candidates outside the US will vary. The compensation package may also include incentive compensation opportunities in the form of annual bonus or incentives, equity awards and an Employee Stock Purchase Plan (ESPP). Akamai provides industry-leading benefits including healthcare, 401K savings plan, company holidays, vacation (in the form of PTO), sick time, family friendly benefits including parental leave and an employee assistance program including a focus on mental and financial wellness; Eligibility requirements apply.
+
+To apply: https://weworkremotely.com/remote-jobs/akamai-senior-software-development-engineer-in-test-ii-automation</description><pubDate>Fri, 05 Jun 2026 20:37:07 +0000</pubDate></item><item><title>AHU Technologies: Web Applications Developer - Sacramento, CA</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-web-applications-developer-sacramento-ca</link><description>Headquarters: Fully Remote - US
+    URL: http://ahutech.com
+
+
+
+
+
+
+Replies within 24 hours
+
+
+
+Job Description&amp;nbsp;The Department of Health Services embedded IT team is looking for a Contractor to web applications for the Department of Homeless Services and Housing (DHSH). This will be a six-month term with the option of an extension.&amp;nbsp;The candidate should have the following skills:&amp;nbsp;·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Experience with ASP.Net Core, C#, MVC, Angular&amp;nbsp;·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Experience with Power BI and SSRS&amp;nbsp;·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Excellent research, analysis, and problem-solving skills.&amp;nbsp;·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Experience with relational databases, SQL&amp;nbsp;·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Strong analytical skills&amp;nbsp;·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Excellent verbal and written communication skills&amp;nbsp;·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Able to work independently and follow through on assignments.&amp;nbsp;Preferred Qualifications:&amp;nbsp;·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Strong experience with coding languages, databases, and data analytic tools.&amp;nbsp;·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Interest in new and developing technologies.&amp;nbsp;·&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Experience in Electronic Health Records (E.H.R.) systems is a plus.&amp;nbsp;
+Education: Bachelor’s degree in Computer Science, Software Engineering, Information Technology, or equivalent experience. Relevant certifications is a plus.
+
+This is a remote position.
+
+          Compensation: $50.00 per hour
+        
+ 
+About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&amp;nbsp; AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-web-applications-developer-sacramento-ca</description><pubDate>Fri, 05 Jun 2026 20:37:07 +0000</pubDate></item><item><title>Fonio: Founding Product Engineer (m/w/d)</title><link>https://weworkremotely.com/remote-jobs/fonio-founding-product-engineer-m-w-d</link><description>Headquarters: Remote
+
+
+Über fonioIn den letzten 12 Monaten haben wir Fonio zum führenden KI-Telefonanbieter im DACH-Raum aufgebaut. Jetzt skalieren wir nach ganz Europa und revolutionieren, wie KMUs miteinander kommunizieren.Als Founding Product Engineer übernimmst du End-to-End Ownership: von der Idee über den Prototyp bis hin zum fertigen Feature, das von tausenden Unternehmen europaweit genutzt wird.Dein Profil: Product Engineer durch und durchProduct Engineers bei fonio haben volle Onwership über den value, den sie für unsere Kunden stiften. Es gibt bei uns niemanden, der dir sagt was Du bauen sollst - das definierst Du selbst. Bei fonio bist Du “Product Engineer”, nicht nur “Software Developer”.Product Mindset: Du übernimmst Verantwortung, die über das bloße Schreiben von Code hinausgeht. Du denkst mit und misst Deinen Erfolg an dem Mehrwert, den Deine Software für unsere Kunden stiftet.Customer Focus: Du suchst den engen Austausch mit Kunden und bist in der Lage, daraus aussagekräftige Eindrücke zu gewinnen.Tech Stack: Du bist Full Stack Software Developer mit relevanter Erfahrung in der Arbeit mit Node.js, Typescript, NestJS und React. Die Arbeit mit der Integration von LLMs ist von großem Vorteil.Experimentierfreudigkeit: Du suchst zu allererst immer nach handfester Validierung bei geringstem Aufwand bevor Du skalierbare Software baust und wirst dabei sehr kreativ.Pragmatismus: Du siehst Software als ein Tool, nicht als Selbstzweck. Deine Erfahrung erlaubt es Dir, fundiert Entscheidungen dazu zu treffen, wie viel Aufwand dein Code an welcher Stelle verdient.Deutsch auf Muttersprache Niveau: Wir bauen einen KI Telefonassistenten und haben aktuell einen starken Fokus auf den deutsch-sprachigen Markt - ein gutes Verständnis für die Nuancen der Deutschen Sprache ist dabei unerlässlich.Deine AufgabenKonstanter Research: Du stehst im engen Austausch mit Kunden, Partnern und unserem Sales Team um ein tiefes Verständnis davon zu haben, welche Pain Points unsere Kunden haben und wie wir Mehrwert für sie schaffen können.Product Discovery: Du entwickelst Hypothesen und testest diese schnell und effizient durch Experimente um fundierte Produktentscheidungen treffen zu können.Tracking &amp;amp; Daten: Du findest oder erhebst alle Zahlen, die für Deinen Verantwortungsbereich relevant sind, selbst um stets in der Lage zu sein, datengetrieben zu argumentieren und fundierte Entscheidungen zu treffen.Software Development: Du baust Software end-to-end von ersten Architekturentscheidungen bis zum Release und zwar so, dass die den Zweck erfüllt, für den sie gebaut ist mit der richtigen Balance von Pragmatismus und Skalierbarkeit.Was wir dir bietenWir haben bei fonio eine klare Philosophie, mit der wir die Firma und vor allem das Product Team aufbauen. Hier die wichtigsten Elemente:Focus on Shipping: Bei uns verbringst Du keine Zeit in unnötigen “Alignment Meetings”, “Update Check Ins” oder sonstwas - wir schaffen ein Umfeld, in dem Du dich voll und ganz darauf konzentrieren kannst, durch Software Mehrwert für unsere Kunden zu stiften. Meetings reduzieren wir auf ein Minimum und priorisieren in der Regel asychrone Kommunikation per Slack, Voice Messages oder Loom.Radical Ownership: Wenn Du glaubst, dass uns ein Feature oder eine Initiative vorwärts bringt, musst Du nicht auf Freigaben warten oder um Erlaubnis bitten - wenn wir Dich an Bord holen dann tun wir das weil wir glauben, dass Du gute Entscheidungen treffen wirst und Dein Handwerk verstehstRemote First: Arbeite von wo immer Du willst solange Du einen relevanten Overlap mit dem Team in CET hast. Gleichzeitig haben wir aber auch ein schönes Office in Wien, das Dir immer offen steht.High Growth Environment: Wir haben Product Market Fit und wachsen extrem schnell - das bedeutet auch, dass Stagnation bei uns nicht existiert. Wenn Du schnell an Deinen Herausforderungen wachsen willst um das meiste aus Dir herauszuholen bist Du genau richtig bei uns!Kompetitive Vergütung: Wir bauen ganz bewusst ein kleines Team mit viel Verantwortung und Erwartungen an jeden einzelnen. im Gegenzug zahlen wir ein durchaus wettbewerbsfähiges Gehalt und großzügige Equity Packages.Unser BewerbungsprozessScreening Call – 20 Minuten KennenlernenHiring Manager Interview - 30 Minuten Kennenlernen mit unseren Co-Founder und CTO MatthiasTechnical Interview – 60–90 Minuten inkl. Coding ChallengeCulture Fit Interview – 60 Minuten zu Arbeitsweise &amp;amp; Erwartungen
+
+To apply: https://weworkremotely.com/remote-jobs/fonio-founding-product-engineer-m-w-d</description><pubDate>Fri, 05 Jun 2026 20:31:18 +0000</pubDate></item><item><title>AHU Technologies: Manager – Business Development (Remote - FullTime)</title><link>https://weworkremotely.com/remote-jobs/ahu-technologies-manager-business-development-remote-fulltime</link><description>Headquarters: Fully Remote - US
+    URL: http://ahutech.com
+
+
+
+
+
+
+Replies within 24 hours
+
+
+
+About the Role:
+We are looking for a results-driven Manager – Business Development to accelerate
+Software Finder’s SaaS revenue growth in the US market. This role is ideal for a high-
+performing individual contributor who thrives on closing deals, building strong client
+relationships, and consistently exceeding targets.
+You will own the full sales cycle—from prospecting to closing—while collaborating closely
+with marketing, product, and customer success teams to deliver long-term customer
+value. This role requires strong SaaS sales expertise, consultative selling skills, and the
+ability to operate in a fast-scaling, performance-focused environment.
+Key Responsibilities
+Revenue &amp;amp; Pipeline Growth
+* Drive new business acquisition across the US SaaS market.
+* Manage the full sales cycle: prospecting, discovery, demos, negotiation, and
+closing.
+* Consistently achieve and exceed monthly, quarterly, and annual revenue targets.
+* Maintain a strong, predictable pipeline of qualified opportunities.
+Client Engagement
+* Build trusted relationships with decision-makers and senior stakeholders.
+* Understand client pain points and position solutions through consultative selling.
+* Lead product demonstrations and tailored proposals.
+Strategy &amp;amp; Market Execution
+* Execute go-to-market strategies within assigned segments or territories.
+* Identify emerging opportunities and contribute insights on market trends.
+* Collaborate with marketing on outbound campaigns and lead generation initiatives.
+Cross-Functional Collaboration
+* Partner with Customer Success to ensure smooth onboarding and retention.
+* Provide customer feedback to Product teams to improve offerings.
+* Work closely with Sales leadership on forecasting and performance planning.
+Sales Operations
+* Maintain accurate CRM records and pipeline hygiene.
+* Deliver reliable forecasts and sales reports.
+* Use data and metrics to optimize conversion and deal velocity.
+Qualifications
+* 5+ years of SaaS sales experience in the US market.
+* Proven track record of exceeding B2B sales quotas.
+* Strong experience managing full-cycle SaaS sales.
+* Excellent communication, negotiation, and presentation skills.
+* Ability to thrive in a fast-paced, target-driven environment.
+* Proficiency in CRM platforms (Salesforce, HubSpot, or similar).
+* Bachelor’s degree in Business, Marketing, or related field preferred.
+&amp;nbsp;
+
+This is a remote position.
+
+          Compensation: $100,000.00 per year
+        
+ 
+About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues.&amp;nbsp; AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-manager-business-development-remote-fulltime</description><pubDate>Fri, 05 Jun 2026 18:44:00 +0000</pubDate></item><item><title>Activate Talent: Senior Shopify Web Developer</title><link>https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer</link><description>Headquarters: Colombia
     URL: http://activatetalent.com
 
 
@@ -596,265 +1079,4 @@ Then&amp;nbsp;don't&amp;nbsp;hesitate&amp;nbsp;and apply&amp;nbsp;for our positi
 &amp;nbsp;
 
 
-To apply: https://weworkremotely.com/remote-jobs/comparis-ch-full-stack-software-developer-80-100-f-m-x</description><pubDate>Thu, 30 Apr 2026 13:55:58 +0000</pubDate></item><item><title>Linkage Web Development: [Active Pooling] Lead Generation Specialist - Virtual Assistant</title><link>https://weworkremotely.com/remote-jobs/linkage-web-development-active-pooling-lead-generation-specialist-virtual-assistant</link><description>Headquarters: [REMOTE]
-    URL: http://linkage.ph
-
-
-
-At Linkage Web Solutions, we’re growing our network of high-performing Virtual Assistants—and right now, we’re building a priority pool of Lead Generation Specialists for upcoming client opportunities.
-If you’re skilled at finding, qualifying, and reaching out to leads—this is your chance to get matched with international clients.
-Why Join Our Talent Pool?
-
-Priority access to client openings
-Fast-tracked hiring once matched
-Optional Free GoHighLevel (GHL) Training to upgrade your skills
-$4–$5/hour competitive rate
-
-What You’ll Do (Depending on Client Needs)
-
-Research and identify potential leads (B2B or B2C)
-Build and manage lead lists using tools or CRMs
-Conduct outreach via email, LinkedIn, or other platforms
-Qualify leads based on client criteria
-Maintain accurate records and pipeline tracking
-
-What We’re Looking For
-
-Experience in lead generation, prospecting, or outreach
-Familiarity with tools like LinkedIn, Apollo, CRM systems, or similar
-Strong written English (especially for outreach messages)
-Detail-oriented and results-driven
-Able to work independently in a remote setup
-
-Nice to Have
-
-Experience in cold email or LinkedIn outreach campaigns
-Knowledge of GoHighLevel (GHL) or similar platforms
-Basic understanding of sales funnels or appointment setting
-
-Important Note
-This is part of our active candidate pooling. There is no fixed start date, but qualified candidates are prioritized and contacted first once a matching opportunity becomes available.
-Send your resume to [email&amp;nbsp;protected]
-Subject: Lead Generation Specialist – Active Pooling
-&amp;nbsp;
--
-&amp;nbsp;
-Data Privacy Notice:
-By submitting your application, you consent to the collection, processing, and storage of your personal information for recruitment purposes. Applicant information may be retained in our recruitment database for consideration in current and future opportunities for up to 6&amp;nbsp;months, unless deletion is requested.
-Your information will only be accessed by authorized recruitment personnel and may be shared with clients for endorsement purposes related to job applications.
-
-
-To apply: https://weworkremotely.com/remote-jobs/linkage-web-development-active-pooling-lead-generation-specialist-virtual-assistant</description><pubDate>Thu, 28 May 2026 21:38:25 +0000</pubDate></item><item><title>Community Sports Partners: Web Developer</title><link>https://weworkremotely.com/remote-jobs/community-sports-partners-web-developer</link><description>Headquarters: Buenos Aires, Argentina
-    URL: http://communitysportspartners.ca
-
-
-DescriptionCommunity Sports Partners is one of the largest and fastest-growing private youth sports operators in the GTA. We are dedicated to providing fun, engaging experiences that create lasting memories for the youth and families in our communities!We are seeking a talented Web Developer with strong front-end and back-end development skills. The ideal candidate will be proficient in PHP, SQL, AJAX, HTML, and CSS, and have hands-on experience with UI/UX design, including A/B testing. Additionally, you should have experience integrating and working with APIs such as Stripe, Square POS, Twilio, and Brevo. You will play a crucial role in enhancing our digital platforms, ensuring a seamless user experience, and implementing effective web solutions.Requirements- Develop, maintain, and enhance web applications using PHP (Laravel), SQL, AJAX, HTML, JavaScript and CSS.- Collaborate with the design team to create and implement UI/UX improvements.- Conduct A/B testing to optimize user interfaces and improve user experience.- Integrate and maintain third-party APIs, including Stripe, Square POS, Twilio, and Brevo.- Debug and troubleshoot issues to ensure the stability and performance of web applications.- Stay up-to-date with emerging trends and technologies in web development and UI/UX design. Qualifications:Required:- Experience and fluidity learning and working on legacy systems.- Good level of spoken and written English.- Proven experience as a full-stack PHP Web Developer.- Strong, up-to-date knowledge of front-end technologies: HTML, CSS, JavaScript, AJAX.- Proficient in back-end development using PHP and SQL.- Experience with UI/UX design and A/B testing.- Experience implementing and interacting with the Twilio, SendGrid, RingCentral and Stripe APIs.- Ability to work independently and collaboratively in a remote environment.- Strong problem-solving skills and attention to detail. Nice to have:- Experience with Docker and Kubernetes.- Experience with Linux server management.- Experience building or working with CI/CD pipelines.- Experience with Laravel or other MVC frameworks.- Experience with Vue or other JavaScript frameworks.- Experience with TailwindCSS, SASS and/or PostCSS.- Awareness of the concepts of RestAPIs, OOP and mobile-first design.BenefitsCompensation: Competitive based on experience
-
-To apply: https://weworkremotely.com/remote-jobs/community-sports-partners-web-developer</description><pubDate>Thu, 28 May 2026 21:38:25 +0000</pubDate></item><item><title>Swanson Health: Shopify Developer</title><link>https://weworkremotely.com/remote-jobs/swanson-health-shopify-developer</link><description>Headquarters: Fargo, North Dakota, United States
-    URL: http://swansonvitamins.com
-
-
-Competitive Benefits • Fitness Center Reimbursement • Product Discounts
-Who We Are:
-Swanson Health Products has been committed to bringing wellness to the world for over 50 years. As a leader in the vitamins, supplements, and natural wellness industry, we focus on delivering science-backed, high-quality products that support healthier lives. We are a digitally driven organization investing in innovation, customer experience, and data-informed growth.&amp;nbsp;
-&amp;nbsp;
-About the Role:
-We are seeking a Shopify Developer to build, optimize, and scale our Shopify Plus storefront. This role is critical in delivering high-performance eCommerce experiences, supporting subscription models, and enabling rapid experimentation across marketing, merchandising, and IT.
-
-You’ll work across front-end development, back-end integrations, and performance optimization within a complex, enterprise-level Shopify ecosystem.
-
-As an organization, we are new to Shopify and recently launched the platform for Swanson Health Products, making this an exciting opportunity to help shape and evolve our eCommerce foundation from the ground up.
-
-What You'll Do:
-Shopify Development &amp;amp; Customization
-
-Develop and maintain custom Shopify themes using Liquid, HTML, CSS, and JavaScript
-Build reusable components to support high-SKU catalog navigation and merchandising
-Customize Shopify Plus features, including checkout extensibility, scripts, and functions
-
-Integrations &amp;amp; Systems Architecture
-
-Integrate Shopify with key business systems, including:
-
-ERP (Mozart), CMS, and subscription platforms (e.g., Ordergroove)
-Search and personalization tools (e.g., Constructor)
-Marketing platforms (e.g., Cordial, reviews, loyalty programs)
-
-
-Work with APIs to ensure seamless data flow across systems
-
-Performance &amp;amp; Optimization
-
-Optimize site speed, Core Web Vitals, and overall conversion performance
-Implement A/B testing and personalization strategies
-Improve checkout performance and mobile user experience
-
-Subscription &amp;amp; Customer Experience
-
-Enhance subscription journeys and customer account management experiences
-Support personalized product recommendations and promotional strategies
-Build scalable features that drive retention and conversion growth
-
-Maintenance &amp;amp; Troubleshooting
-
-Debug and resolve production issues in a timely manner
-Ensure site uptime, reliability, and scalability
-Continuously improve site architecture, performance, and code quality
-
-
-Required Qualifications:
-
-3+ years of experience working with Shopify or Shopify Plus
-Strong proficiency in:
-
-Liquid, JavaScript (ES6+), HTML5, and CSS3
-
-
-Hands-on experience with:
-
-Shopify APIs, webhooks, and app integrations
-Version control systems (e.g., GitHub)
-
-
-Solid understanding of eCommerce fundamentals, including:
-
-Checkout flows, subscriptions, merchandising, and SEO
-
-
-Experience integrating third-party services and APIs
-
-
-Preferred Qualifications:
-
-Experience with subscription-based commerce platforms (e.g., Ordergroove or similar)
-Familiarity with headless commerce architectures, including Shopify Hydrogen
-Experience with personalization and search platforms (e.g., Constructor)
-Knowledge of analytics and experimentation tools, including GA4, Amplitude, and A/B testing platforms
-Exposure to enterprise-level eCommerce environments, including large product catalogs and global scale operations
-
-
-To apply: https://weworkremotely.com/remote-jobs/swanson-health-shopify-developer</description><pubDate>Thu, 28 May 2026 21:38:25 +0000</pubDate></item><item><title>thehivecareers.co: Web Developer (Remote)</title><link>https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote</link><description>Headquarters: Port of Spain, Trinidad and Tobago
-    URL: http://thehivecareers.co
-
-
-
-
-
-Job Title:&amp;nbsp;Web Developer
-Job Level: Full-Time
-Location: Trinidad and Tobago (Remote)
-Position Overview: We are seeking an experienced and motivated C# Web Developer with 5+ years of professional experience to join our dynamic development team. The ideal candidate will be responsible for designing, developing, and maintaining robust web applications while collaborating closely with cross-functional teams. A strong proficiency in C#, ASP.NET, and related technologies is essential, along with a proven track record of delivering scalable and high-performing web solutions.
-Key Skills:
-Strong problem-solving and analytical skills.Excellent written and verbal communication abilities.Excellent UX design.Ability to work both independently and as part of a collaborative team.Attention to detail and commitment to delivering high-quality code.
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote</description><pubDate>Thu, 28 May 2026 21:38:25 +0000</pubDate></item><item><title>Akamai: Senior DevOps Engineer II</title><link>https://weworkremotely.com/remote-jobs/akamai-senior-devops-engineer-ii</link><description>Headquarters: United States
-    URL: http://akamai.com
-
-
-DescriptionAre you excited to work on innovative enterprise security products?Are you passionate about developing top of the line applications using cutting-edge technologies?Join our teamOur team operates within the Zero Trust Security Group, which develops and maintains leading-edge security solutions for Akamai enterprise customers. Through collaboration across the organization, our primary objective is to enable our business to produce top-tier secured products, enhance our security features, and ensure robust protection for our customers.Shape internet securityAs a Senior II DevOps Engineer, you will develop and maintain cloud infrastructures and web applications, focusing on FedRAMP standards. Working on top-notch network security projects with highly skilled colleagues, you will enjoy challenges in an exciting, dynamic learning environment.As a Senior II DevOps Engineer, you will be responsible for:Developing, configuring, and maintaining CI/CD pipelines to automate build, test, and deployment processes, ensuring seamless and reliable software deliveryMonitoring CI/CD pipeline performance, identify and resolve issues, and optimize pipelines for speed and reliabilityWorking closely with engineering teams to design and shape the product deploymentDocumenting CI/CD processes, pipeline configurations, and best practices to facilitate knowledge sharing and maintain clear operational guidelines.Staying up-to-date with the latest trends and technologies in CI/CD and DevOps, and implementing improvements to enhance pipeline efficiency and effectivenessDo what you loveTo be successful in this role you will:Have 8+ years of experience and a Bachelor's degree in Computer Science, Engineering, Management Information Systems, or other related fieldHave experience working on Linux based infrastructure, Bash/Python or any other programming languages used in DevOps scripting etc.Have hands-on experience in Kubernetes, Docker, Helm and an understanding of APIs and microservices architecturesHave an understanding of CI/CD and experience in GitOps with Argo CD, Jenkins, or similar toolsHave experience with VMware, data stacks, compliance (FIPS/FedRAMP), and AI/MLOps or AIOps exposureHave experience with CSP like AWS, GCP, or Azure and Terraform and IaC practicesBe eligible to obtain Secret Security Clearance&amp;nbsp;Work in a way that works for youFlexBase, Akamai's Global Flexible Working Program, is based on the principles that are helping us create the best workplace in the world. When our colleagues said that flexible working was important to them, we listened. We also know flexible working is important to many of the incredible people considering joining Akamai. FlexBase, gives 95% of employees the choice to work from their home, their office, or both (in the country advertised). This permanent workplace flexibility program is consistent and fair globally, to help us find incredible talent, virtually anywhere. We are happy to discuss working options for this role and encourage you to speak with your recruiter in more detail when you apply.&amp;nbsp;Learn what makes Akamai a great place to workConnect with us on social and see what life at Akamai is like!     We power and protect life online, by solving the toughest challenges, together.At Akamai, we're curious, innovative, collaborative and tenacious. We celebrate diversity of thought and we hold an unwavering belief that we can make a meaningful difference. Our teams use their global perspectives to put customers at the forefront of everything they do, so if you are people-centric, you'll thrive here.Working for youAt Akamai, we will provide you with opportunities to grow, flourish, and achieve great things. Our benefit options are designed to meet your individual needs for today and in the future. We provide benefits surrounding all aspects of your life:Your healthYour financesYour familyYour time at workYour time pursuing other endeavorsOur benefit plan options are designed to meet your individual needs and budget, both today and in the future.About usAkamai powers and protects life online. Leading companies worldwide choose Akamai to build, deliver, and secure their digital experiences helping billions of people live, work, and play every day. With the world's most distributed compute platform from cloud to edge we make it easy for customers to develop and run applications, while we keep experiences closer to users and threats farther away.Join usAre you seeking an opportunity to make a real difference in a company with a global reach and exciting services and clients? Come join us and grow with a team of people who will energize and inspire you!Akamai Technologies is an Affirmative Action, Equal Opportunity Employer that values the strength that diversity brings to the workplace. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of gender, gender identity, sexual orientation, race/ethnicity, protected veteran status, disability, or other protected group status.If no date is displayed, applications are being accepted on an ongoing basis until the job is filled.CompensationAkamai is committed to fair and equitable compensation practices. For US based candidates only - the base salary for this position ranges from $112,500 - $202,500/year; a candidate’s salary is determined by various factors including, but not limited to, relevant work experience, skills, certifications and location. Compensation for candidates outside the US will vary. The compensation package may also include incentive compensation opportunities in the form of annual bonus or incentives, equity awards and an Employee Stock Purchase Plan (ESPP). Akamai provides industry-leading benefits including healthcare, 401K savings plan, company holidays, vacation (in the form of PTO), sick time, family friendly benefits including parental leave and an employee assistance program including a focus on mental and financial wellness; Eligibility requirements apply.
-
-To apply: https://weworkremotely.com/remote-jobs/akamai-senior-devops-engineer-ii</description><pubDate>Thu, 28 May 2026 21:38:04 +0000</pubDate></item><item><title>Horizon3 AI: Webapp Offensive Security Software Engineer</title><link>https://weworkremotely.com/remote-jobs/horizon3-ai-webapp-offensive-security-software-engineer</link><description>Headquarters: US, Remote
-    URL: http://horizon3.ai
-
-
-Get to Know UsHorizon3.ai is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/SecOps teams, consulting pentesters, and MSSPs and MSPs.&amp;nbsp;We are a fusion of former U.S. Special Operations cyber operators, startup engineers, and formerly frustrated cybersecurity practitioners. We're committed to helping solve our common security problems: ineffective security tools, false positives resulting in alert fatigue, blind spots, "checkbox” security culture, cybersecurity skills shortage, and the long lead time and expense of hiring outside consultants. Collectively, we are a team of learn it alls, committed to a culture of respect, collaboration, ownership, and results.SummaryWe're looking for an Offensive Security Software Engineer with extensive web application penetration testing experience and a growing interest in AI-enhanced security techniques. You will have a significant impact on how we deliver value to our customers by designing, developing, and integrating web application penetration testing content into the NodeZero platform. This position requires practical expertise in full-scope web application testing, proven software development skills, and enthusiasm for leveraging emerging AI technologies to advance offensive security capabilities.&amp;nbsp;Essential FunctionsDesign, develop, and integrate web application offensive security content into the NodeZero platformDesign, develop, and integrate novel attack capabilities into the NodeZero platform, including offensive security tooling and AI-enhanced techniques.Research and implement AI-driven methods for vulnerability detection, exploitation, and workflow automation.Extend and maintain platform architecture, data models, and system design to support new product features.Monitor production for issues or missed opportunities and create or resolve Jira tickets as needed.Integrate open-source and in-house tools, ensuring quality through testing, code reviews, and production monitoring.Investigate, own, and resolve bugs in developed content.Collaborate cross-functionally to address customer and prospect concerns related to attack content.Author technical blog posts showcasing new research, exploits, or attack methodologies.Mentor junior engineers and contribute to continuous improvement of team processes and standardsCompetencies/RequirementsExperience conducting full scope web application pentestsExperience with proxy tools like Burp and with browser developer toolsProficient in object-oriented programming and test-driven development, with strong analytical and problem-solving skills.Experience applying AI-assisted development tools to security research and automation tasksCuriosity about emerging AI technologies.Skilled in designing, evaluating, and communicating technical solutions across systems, APIs, algorithms, and data structures.Familiarity with relational and graph databases, particularly Postgres and Neo4j.Strong written and verbal communication, including technical documentation.Ability to manage multiple priorities, work independently, and mentor teammates of varying experience levels.Quick to learn and adopt new technologies as needed.History of recognized security research, including documented CVE discoveries and responsible disclosureTrack record of successful bug bounty contributionsDesired/Nice to HaveExperience developing software and automation to aid in web application pentestingBackground in large-scale software development projects.Experience fine-tuning language models or implementing retrieval-augmented generation (RAG) for security-focused applications.Experience with AI/LLM tools for building agentic workflows (e.g., LangChain, LangFlow) and integrating contextual data using protocols like Model Context Protocol (MCP).Expectations:Outstanding problem-solving aptitude.Be self-motivated and highly energetic to have the ability to operate effectively with limited supervision and guidance.Work with our security researchers to understand the technical aspects of reverse engineered exploits and weaponizing these exploits into the product.Strong technical documentation and communication&amp;nbsp;skills.Document findings, methodologies, and recommendations for both technical and non-technical stakeholders.Proficient in designing, presenting, and evaluating technical solutions.What makes you stand out:Demonstrated examples of using AI to enhance or automate exploit developmentOSCP (Offensive Security Certified Professional) CertificationTravel Required&amp;nbsp;We are a fully remote company, and this job may require up to 15% of travel to be successful. Job-related travel expenses are reviewed and must be approved by your manager.&amp;nbsp;Perks of Horizon3.aiInclusive Team: We value diversity and promote an inclusive culture where everyone can thrive.Growth Opportunities: Be part of a dynamic and growing team with numerous career development opportunities.Innovative Culture: Work in a collaborative environment that encourages creativity and out-of-the-box thinking.Remote Work: We are a 100% remote company. Enjoy the convenience and work-life balance that comes with remote work.&amp;nbsp;Competitive Compensation: We offer competitive salary, equity and benefits. Our benefits include health, vision &amp;amp; dental insurance for you and your family, a flexible vacation policy, and generous parental leave.Compensation and ValuesAt Horizon3, we believe that our people are our greatest asset, and our compensation philosophy reflects this core value. We are committed to fostering an environment where all employees feel valued, respected, and rewarded for their contributions. Our compensation structure is designed to be fair, competitive, and transparent, ensuring that every team member is recognized and compensated equitably across roles, levels, and locations.In accordance with various State’s transparency regulations, we provide the following salary range information for this position:Base salary range: $185,000 - $240,000 annually. The exact salary will be determined based on the selected candidate’s location, qualifications, experience, and relevant skills.Additional compensation: All full-time roles are eligible for an equity package in the form of stock options.You Belong HereHorizon3 is not just an equal opportunity employer - we are a community that values diversity, equity, and inclusion as fundamental principles of our culture and success. We are dedicated to fostering a workplace where everyone feels welcome and respected, regardless of race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, or any other legally protected status by law.Our commitment to diversity and inclusion means we strive to attract, develop, and retain a workforce that reflects the varied communities we serve. We believe that diverse perspectives drive innovation and strengthen our ability to create cutting-edge cybersecurity solutions. At Horizon3, every team member is valued and supported in an environment that encourages personal and professional growth.We welcome candidates from all backgrounds and experiences, and we encourage all qualified individuals to apply. Come be a part of Horizon3, where your unique contributions are recognized, and your potential is limitless.Other DutiesPlease note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee. Duties, responsibilities, and activities may change at any time with or without notice.&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/horizon3-ai-webapp-offensive-security-software-engineer</description><pubDate>Thu, 28 May 2026 21:38:04 +0000</pubDate></item><item><title>Developex: Project and Presale Manager</title><link>https://weworkremotely.com/remote-jobs/developex-project-and-presale-manager</link><description>Headquarters: Ukraine
-    URL: http://developex.com
-
-
-Developex is looking for an experienced Project Manager to help provide excellent service to our clients and participate in presale activities.
-Requirements:
-
-4+ years of experience as an IT Project Manager.
-Ability to organize work of the team (5+ employees) and customer cooperation.
-Understanding of the development process: release management, engineering infrastructure, Agile/SCRUM.
-Experience in preparing project documentation (PRD, Roadmap, effort estimation, WBS, team workload plan etc.).
-Experience in presale is a must!
-Familiar with system design, ability to do research on possible technical solutions for a business goal, or on a new technology - will be a great plus!
-Excellent written and spoken English, perfect communication skills.
-Good understanding of the technical side of projects.
-Experience and understanding of at least some of the technical domains and OS platforms: embedded, desktop, web (frontend), cloud, host-device communication, AI/ML.
-
-Soft skills:
-
-Perfect communication skills.
-Independent thinking.
-Motivation for quality and results.
-Flexible, inventive, creative mind.
-Good multi-tasking skills and ability to switch.
-Good problem-solving skills.
-
-Good to have:
-
-BA background is a great plus.A Product Owner/Marketing mindset and ability to research potential technical solutions or new technologies.
-Experience in presale activities is a plus:
-
-Prepare effort estimation for a future project with engineering team.
-Ability to research a client or possible technical solutions for a business goal, or new technologies.
-
-
-Profound knowledge in one or more of the listed business domains is a plus: gaming, healthcare, consumer electronics or audio.
-
-We offer:
-
-Competitive compensation commensurate with your experience and contribution to the company.
-Attractive benefits package including paid vacations, sick leave, medical insurance, and other perks.
-Convenient and flexible work schedule allowing for an ideal work-life balance.
-Opportunities for professional growth and realization of potential within promising projects.
-Paid training and seminars for continuous learning and development.
-Friendly atmosphere and healthy relationships within a team of professionals.
-Stability and reliability of the company.
-
-Join Developex and become part of our innovative team!
-
-To apply: https://weworkremotely.com/remote-jobs/developex-project-and-presale-manager</description><pubDate>Thu, 28 May 2026 21:38:04 +0000</pubDate></item><item><title>EngagedMD: Senior Software Engineer </title><link>https://weworkremotely.com/remote-jobs/engagedmd-senior-software-engineer</link><description>Headquarters: Washington, DC
-    URL: https://engaged-md.com
-
-
-You're an engineer with strong full-stack experience, capable of contributing across our entire product ecosystem. We’re EngagedMD and we have a patient journey application used by more than 3 million users nationwide and internationally since its launch. We continue to see enormous growth and adoption from medical clinics across multiple markets. This is an exciting opportunity to join us in our mission to help carers carry on caring.
-You will have the opportunity to architect backend infrastructure and develop new features for our customers while also closely collaborating with our Platform, Product and Customer Success teams. At EngagedMD, Software Engineers play a key role not only in building software, but also in shaping how technical solutions are defined and executed. Our Product team defines priorities, customer needs, and desired outcomes and engineers partner closely in shaping the implementation approach and execution strategy needed to deliver those outcomes effectively.
-This fully remote role reports to our Development Lead and candidates are required to reside in the United States. This role requires legal authorization to work in the United States. EngagedMD is able to sponsor current H1B visa holders for this role.
-&amp;nbsp;
-What You’ll Do
-
-Design and develop robust, scalable, and secure full-stack solutions for our patient journey web application, ensuring high performance and availability across both client and server.
-Collaborate with various teams to understand and translate business requirements into technical solutions that meet our customers' needs.&amp;nbsp;
-Build and maintain APIs to integrate with third-party services and tools, ensuring seamless data exchange and interoperability
-Optimize and tune the application for performance, scalability, and reliability, working closely with the DevOps team
-Participate in code reviews, testing, and quality assurance activities to ensure code quality and adherence to best practices and standards
-
-&amp;nbsp;
-What You’ll Bring
-
-A minimum of 5 years of software development experience
-Experience with Node.js, Typescript, React, and SQL
-Experience with AWS
-A mission-driven orientation to all you do&amp;nbsp;
-Superior written and verbal communication skills
-Ability to thrive in a small, fast-paced organization&amp;nbsp;
-Bachelor’s degree or equivalent career experience&amp;nbsp;
-
-&amp;nbsp;
-It’s Also Nice If You…
-
-Have at least a passing familiarity with the fertility and/or healthcare industries
-Have successfully worked remotely with distributed teams in the past
-
-&amp;nbsp;
-What We Offer
-
-Competitive compensation and equity
-Medical, dental, and vision coverage heavily subsidized by the company
-Open Paid Time Off
-Paid family and medical leave
-Generous paid holidays
-401(k) retirement savings plan&amp;nbsp;
-
-&amp;nbsp;
-EngagedMD is an equal opportunity employer. We’re committed to diversity, equity, and inclusion. We believe our company and products are made better by the varied perspectives of our employees, each of whom we seek to empower and support in their individuality. We hire our team members on the basis of merit, qualifications, and the needs of our business in order to best achieve our mission to make life easier for the clinics and patients we serve.
-
-To apply: https://weworkremotely.com/remote-jobs/engagedmd-senior-software-engineer</description><pubDate>Thu, 28 May 2026 14:14:16 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/comparis-ch-full-stack-software-developer-80-100-f-m-x</description><pubDate>Thu, 30 Apr 2026 13:55:58 +0000</pubDate></item></channel></rss>
