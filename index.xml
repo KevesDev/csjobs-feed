@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>A.Team: Senior Independent AI Engineer / Architect</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</link><description>Headquarters: NYC and TLV
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Patrianna: DevOps Engineer</title><link>https://weworkremotely.com/remote-jobs/patrianna-devops-engineer</link><description>Headquarters: Ukraine
+
+
+ About PatriannaPatrianna is a fast-scaling product development company headquartered in Gibraltar, with a dynamic, global team powering our growth. We operate at the intersection of technology and entertainment, building innovative solutions that shape the future of social gaming and deliver outstanding experiences to millions of players worldwide.We're driven by speed, ambition, and bold ideas. At our core, we're product creators and problem-solvers who thrive in a high-performance environment. We're looking for exceptional talent—smart, adaptable, and motivated individuals eager to make an impact, scale business functions at pace, and continuously improve.Whether you're a domain expert or an agile thinker who thrives in change, at Patrianna you'll have the freedom to innovate, take ownership, and help us lead the next wave of gaming innovation.Join us—and be part of something extraordinary.The RoleYou'll architect and operate the infrastructure backbone that powers millions of gaming experiences, driving platform reliability and scalability at pace.What you will be doing• Design, operate, and evolve production-grade Kubernetes clusters with focus on high availability, scaling, networking, and security• Lead incident response and troubleshooting across distributed systems, conducting thorough postmortems to drive continuous improvement• Build and maintain robust CI/CD and release pipelines using GitHub Actions, Jenkins, and Azure DevOps• Manage Infrastructure as Code and environments using Terraform, Terragrunt, and Helm• Implement GitOps-based deployments with Argo CD for seamless, automated releases• Drive observability and alerting strategies using Prometheus, Grafana, and Loki/ELK to ensure system healthWhat we are looking for• Strong production experience with Google Cloud Platform including Compute Engine, GKE, networking, IAM, DNS, and cost optimization• Deep hands-on expertise with Kubernetes architecture, networking, ingress, storage, autoscaling, and upgrades• Proven experience with Terraform, Terragrunt, and Helm in production environments• Solid CI/CD and GitOps expertise, particularly with Argo CD• Strong Linux, networking, and troubleshooting skills including TCP/IP, DNS, and TLS• Experience with on-call rotations and incident management using tools like PagerDutyWhy you will love itYou'll work at the cutting edge of gaming infrastructure, solving complex technical challenges that directly impact millions of players worldwide. With our high-growth environment, you'll have continuous opportunities to learn new technologies, drive meaningful improvements, and shape the platform that powers our next wave of innovation. Plus, you'll be part of an ego-free, collaborative team where your expertise is valued and your impact is immediately visible.Other BenefitsFull Remote Work: Enjoy the flexibility of working remotely from wherever you feel most productive.Generous Leave Policy: Take advantage of 30 days of paid time off, encompassing both vacation and sick leave, to ensure you can recharge and recover when needed. Take your time on bank holidays as well.Company Events: Engage in our vibrant company culture through a variety of informal events designed to foster camaraderie and teamwork.Continuously Development: Get an opportunity to join a fast-growing business where the sky’s the limit.
+
+To apply: https://weworkremotely.com/remote-jobs/patrianna-devops-engineer</description><pubDate>Sat, 06 Jun 2026 20:30:53 +0000</pubDate></item><item><title>A.Team: Senior Independent AI Engineer / Architect</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</link><description>Headquarters: NYC and TLV
     URL: http://a.team/ai-jobs?utm_source=wwr&amp;amp;utm_medium=post&amp;amp;utm_campaign=wwrai
 
 
@@ -1024,59 +1029,4 @@ We will never request payment or financial details. If someone asks for personal
 
 
 
-To apply: https://weworkremotely.com/remote-jobs/tether-ai-research-engineer</description><pubDate>Thu, 02 Apr 2026 20:28:59 +0000</pubDate></item><item><title>comparis.ch: Full Stack Software Developer 80-100% (f/m/x)</title><link>https://weworkremotely.com/remote-jobs/comparis-ch-full-stack-software-developer-80-100-f-m-x</link><description>Headquarters: Zuerich
-    URL: https://en.comparis.ch/
-
-
-
-What you will doWe are looking for a talented Full Stack Developer to join our Marketplaces department. You will be part of the cross-functional “homefinder” development team that maintains one of Switzerland’s largest real estate platforms. In this role, you will design, develop, and test new features used daily by thousands of users. Our responsive web applications are based on Next.js, while the backend is written in .NET, running both on-premise and in the Azure cloud as App Services and on Kubernetes with data stored mainly in SQL server and Azure cosmos DB, indexed in Elasticsearch. Besides delivering new features, you will also help migrate our applications from our legacy tech stack to our modern Kubernetes environment.&amp;nbsp;
-What we expect from you&amp;nbsp;&amp;nbsp;
-
-Design, develop, and deploy cloud-native frontend and backend applications using .NET Core/ASP.NET and Next.js.
-Collaborate with product managers, designers, and other developers to understand requirements and translate them into technical solutions.
-Build and maintain RESTful APIs and microservices.
-Enhance the search experience of our users by leveraging your Elasticsearch experience
-Be hands-on with Docker and Kubernetes.
-Implement responsive and user-friendly UI components with React&amp;nbsp;using&amp;nbsp;Typescript.
-Optimize&amp;nbsp;application performance, security, and scalability.
-Monitor, troubleshoot, and resolve production issues.
-You are familiar with agile development methodologies like&amp;nbsp;Scrum&amp;nbsp;and&amp;nbsp;you have worked in cross-functional teams.
-Fluency in English&amp;nbsp;
-
-Required Skills and Qualifications
-
-
-Bachelor’s degree in Computer Science, Engineering, or related field (or equivalent practical experience).
-3+ years of professional experience in development.
-Strongproficiencyin C#, .NET Core.
-Solid experience with React.js, JavaScript/TypeScript, HTML5, CSS3.
-Hands-on experience withcloud services (preferablyAzure).
-Experience with REST APIs, microservices, and distributed architectures.
-Knowledge of relational and non-relational databases (SQL Server, Cosmos DB)
-
-&amp;nbsp;Nice to have
-
-Experience with vector databases
-Knowledge of sorting and ranking algorithmsin Elasticsearch
-Understanding ofevent-driven architecture
-Familiarity building high-performance data ingestion pipelines
-
-In return, here is what you can expect from usAt Comparis, we believe that empowered employees deliver the best results. We cultivate a culture of transparency, mutual respect and trust. Firm believers in lifelong learning, we are always trying out new things and continuously developing – both as individuals and as a team. We also offer flat hierarchies, considerable autonomy and creative freedom, as well as a skilled and motivated team that will advise and support you in your work and make it easy for you to push your own boundaries. Finally, we offer flexible working hours to work from wherever you are and live.
-Have we triggered your interest?
-Then&amp;nbsp;don't&amp;nbsp;hesitate&amp;nbsp;and apply&amp;nbsp;for our position today. If you have any questions, Daphne, our People Management Lead, will be happy to help. We look forward to receiving your application!&amp;nbsp;&amp;nbsp;&amp;nbsp;Note: If you are currently residing abroad and are interested in a fully remote setup, please note that the employment would be arranged through our Employer of Record partner, remote.com, and therefore follow the labor laws and employment conditions of your country of residence.&amp;nbsp;We also only consider direct applicants with a maximum time-zone difference of +/- 2 hours from Switzerland (GMT+2).
-
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-&amp;nbsp;
-
-
-To apply: https://weworkremotely.com/remote-jobs/comparis-ch-full-stack-software-developer-80-100-f-m-x</description><pubDate>Thu, 30 Apr 2026 13:55:58 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/tether-ai-research-engineer</description><pubDate>Thu, 02 Apr 2026 20:28:59 +0000</pubDate></item></channel></rss>
