@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Olsson: Licensed Civil Engineer - Site Design</title><link>https://weworkremotely.com/remote-jobs/olsson-licensed-civil-engineer-site-design</link><description>Headquarters: Dallas, TX; Fort Worth, TX; Oklahoma City, OK; Texas - Remote; Tulsa, OK
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Willow Health: Senior Web Designer</title><link>https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer</link><description>Headquarters: Brazil (Remote)
+    URL: http://startwillow.com
+
+
+About Willow:Willow is a telehealth company focused on personalized, responsible cosmetic weight loss care. We combine medical expertise with a supportive, patient-centered approach to help people feel more confident and comfortable in their bodies. Our goal is to make high-quality care accessible, thoughtful, and designed to fit real lives.About the role:We’re looking for a Senior Web Designer to join our team and create high-impact, performance-driven digital experiences. In this role, you’ll lead the design of fully responsive, conversion-focused web experiences from concept through launch, with a strong emphasis on marketing landing pages, paid ad creatives, and brand-led executions. You’ll also play a key role in the redesign and evolution of the Willow website, helping shape how the brand shows up across core web experiences. You’ll collaborate closely with cross-functional teams to ensure every design decision supports business goals, elevates user experience, and maintains strong, consistent brand expression across all digital touchpoints.&amp;nbsp;Responsibilities:Marketing &amp;amp; Visual Design — Designing high-converting landing pages tied to campaign goals, maintaining brand consistency across digital channels, and producing creative assets (banners, promo visuals, launch materials) that translate marketing strategy into visual narratives.UX, Research &amp;amp; Strategy — Conducting user research, analyzing competitors and performance data, and partnering with marketing/product teams to hypothesize and design A/B tests aligned with growth goals.UI Design &amp;amp; Prototyping — Creating wireframes and interactive prototypes in Figma, designing polished interfaces that follow brand guidelines, and iterating based on data and feedback.Usability, Accessibility &amp;amp; Inclusivity — Planning and running usability tests, ensuring designs meet accessibility standards, and staying current on inclusive design practices.Design Systems &amp;amp; Documentation — Building and maintaining scalable design systems, producing style guides and UI specs, and delivering clean design handoffs to engineering.Collaboration &amp;amp; Ownership — Working closely with developers, PMs, marketers, and stakeholders, leading design discussions, and owning decisions end-to-end. They're also expected to stay current on design and web trends to keep output quality high.&amp;nbsp;Requirements:5+ years of professional web/digital design experience, ideally in DTC, ecommerce, or high-growth startup environmentsDemonstrated experience designing for marketing and growth (landing pages, paid ad creative, campaign launches) with measurable conversion outcomesHands-on experience designing ecommerce flows — product pages, checkout, purchase funnels, and post-purchase experiencesExperience running or designing for A/B tests and experimentation programsA strong portfolio showcasing shipped marketing websites, landing pages, and digital campaignsExpert-level Figma (components, auto-layout, variables, prototyping, design system management)Advanced proficiency in Adobe Creative Suite (Photoshop, Illustrator, and ideally After Effects for motion)Strong graphic design fundamentals — typography, color theory, layout, visual hierarchy, and compositionDeep understanding of responsive/adaptive design and mobile-first principlesWorking knowledge of HTML/CSS fundamentals Familiarity with WCAG accessibility standards and inclusive design practicesExperience building and maintaining scalable design systemsStrong written and verbal communication, with the ability to articulate design rationale to non-designers (marketers, execs, engineers)Comfortable receiving and incorporating feedback from multiple stakeholders without losing the thread of the original intentSelf-directed and proactive — able to take an ambiguous brief and drive it to a shipped outcomeCommercially minded — understands that design in this role serves business outcomes, not just aestheticsDetail-oriented, with high standards for craft and polishComfortable working in a fast-paced environment where priorities shift and timelines compressCollaborative, low-ego, and able to disagree constructivelyNice to HaveExperience in health, wellness, telehealth, or regulated industries (familiarity with compliance-aware design)Hands-on Webflow experience Motion design skills (Lottie, After Effects, or Figma's prototyping for micro-interactions)Experience designing for paid social ad formats (Meta, TikTok, YouTube) at scaleFamiliarity with analytics tools (GA4, Amplitude, Hotjar, Fullstory) and how to read funnel dataUnderstanding of SEO principles as they relate to page design and structureExperience partnering with copywriters on messaging-driven landing pagesPrevious agency background combined with in-house experience&amp;nbsp;What’s in it for you?As full-time member of our team, you’ll enjoy:Flexible hoursWork wherever you chooseFun and casual work environmentEmployee engagement activities and virtual gatheringsWe are a diverse, global team!   🌍  &amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer</description><pubDate>Wed, 10 Jun 2026 15:59:08 +0000</pubDate></item><item><title>Olsson: Licensed Civil Engineer - Site Design</title><link>https://weworkremotely.com/remote-jobs/olsson-licensed-civil-engineer-site-design</link><description>Headquarters: Dallas, TX; Fort Worth, TX; Oklahoma City, OK; Texas - Remote; Tulsa, OK
     URL: http://olsson.com
 
 
@@ -1038,68 +1044,4 @@ To apply: https://weworkremotely.com/remote-jobs/akamai-senior-lead-software-eng
 Summary
 Senior Full-Stack JavaScript Engineer (Remote - LATAM or Europe)Company: POS+ (posplus.org)Location: Fully Remote (Targeting LATAM or Europe time zones for team overlap)Type: Full-Time Independent ContractorTech Stack: Node.js, React, TypeScript, PostgreSQL / MongoDB, AWSAbout POS+At POS+ (posplus.org), we build the foundational payment interface software that powers modern retail, B2B, and service-industry transactions. Payments architecture is unique: it requires flawless data consistency, zero-downtime availability, low latency, and bulletproof offline-first capabilities.We don't just build web apps; we build mission-critical infrastructure that businesses rely on to process their livelihoods. Because our platform manages complex real-time event loops, financial calculations, and deep peripheral integrations, the quality of our codebase is our highest priority.The Reality of This Role (Read This Before Applying)We are looking for a true Senior Engineer—someone who architectures scalable systems, actively maps out edge cases, and writes highly maintainable code.A note on AI Slop: We know the current state of remote hiring. If you rely on ChatGPT, Claude, or Copilot to blindly vomit boilerplate logic, write your functions, or solve architectural hurdles you don't actually understand, do not apply. We have zero tolerance for AI slop, unreviewed copy-pasted code, or hidden technical debt. We expect our senior engineers to have deep foundational knowledge, a critical eye for code quality, and the ability to explain the why behind every line of code they push.Our Screening ProcessWe respect your time, so we will not make you do an asynchronous, 48-hour take-home coding assignment (where people just use AI anyway). Instead, our interview process is direct and highly collaborative:Initial Intro &amp;amp; System Design (45 mins): A conversation about your past experience, technical scars, and a live virtual-whiteboard system architecture exercise focused on high-throughput data processing.The Live Code Review &amp;amp; Debugging Session (60 mins): You will share your screen with our team. We will give you a functioning but poorly written, messy JavaScript/TypeScript codebase. Your job will be to audit it live—identifying security vulnerabilities, architectural flaws, concurrency issues, and refactoring it for long-term maintainability.What You Will DoArchitect, build, and maintain highly scalable full-stack features using Node.js, React, and TypeScript.Optimize complex database queries and schema designs (SQL/NoSQL) to handle massive transaction volumes.Secure and scale our RESTful and WebSocket APIs to ensure instantaneous synchronization between physical POS softwares - both cloud and server-based - and our cloud infrastructure.Proactively identify and eliminate technical debt, enforcing strict linting, type safety, and comprehensive testing frameworks.Work as a direct independent contractor, collaborating synchronously with our core product and engineering leadership.What We Look For5+ years of verified professional experience running production-grade full-stack JavaScript/TypeScript applications.Production experience dealing with asynchronous programming challenges, race conditions, memory management, and event-driven architectures in Node.js.Deep knowledge of React state management, rendering optimization, and building accessible, modular UI components.Strong communication skills in English—you must be comfortable thinking out loud, defending your architectural choices, and collaborating live via video calls.Experience with cloud infrastructure (AWS/GCP), CI/CD pipelines, and Dockerized environments is a major plus.What We OfferTop-Market USD Compensation: Competitively calibrated based on your geographic location and senior expertise.Direct Contractor Engagement: Clean, streamlined contracting and monthly invoicing.True Autonomy: No micromanagement. You own your modules, write clean code, and execute.Impact: You will be working directly on core systems that impact thousands of real-world merchant locations daily.How to ApplyPlease submit your resume/LinkedIn profile along with a link to your GitHub/GitLab.
 
-To apply: https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe</description><pubDate>Wed, 03 Jun 2026 17:06:51 +0000</pubDate></item><item><title>Lemon.io: Senior React Full-stack Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4</link><description>Headquarters: New York, NY
-    URL: https://lemon.io
-
-
-Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
-What we offer:
-
-The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
-No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
-We'll manually find the best project for you according to your skills and preferences.
-Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
-We respect your seniority so you can expect no micromanagement or screen trackers.
-Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
-We will support you from the time you submit the application throughout all cooperation stages.
-Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
-Through our community, we will connect you with the best developers from more than 75 countries.
-
-Requirements for the Senior React &amp;amp; Python Position:
-
-4+ years of software development experience.
-
-Commercial experience:
-
-
-React.js 3+ years &amp;amp; Python 3+ years
-OR React.js 2+ years &amp;amp; Python 5+ years OR React.js 5+ years &amp;amp; Python 2+ years
-
-
-Experience with AWS, GCP, or Azure is required.
-
-
-&amp;nbsp;
-Requirements for the Senior Node &amp;amp; React Position:
-
-5+ years of software development experience
-
-Commercial experience:
-
-React.js: 3+ years, Node.js: 5+ years, and Next.js: 2+ years OR React.js: 5+ years, Node.js: 3+ years, and Next.js: 2+ years
-Expertise in TypeScript, Supabase and AI-assisted coding is a must.
-
-Requirements for the Senior Ruby &amp;amp; React Position:
-
-5+ years of software development experience
-
-Commercial experience:
-
-React.js: 2+ years, Ruby: 5+ years OR React.js: 5+ years, Ruby: 2+ years
-Experience with AWS, GCP, or Azure is required.
-
-Other requirements:
-
-Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
-Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
-Strong self-organizational skills — ability to work full-time remotely with no supervision.
-Reliability — we want to trust you and expect that you won’t let us and the client down.
-Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
-
-Sounds good for you? Apply now and join the Lemon.io community!
-NOT YOUR TECH STACK?
-We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, ****Site Reliability Engineering, React &amp;amp; Golang, React &amp;amp; Java, PHP &amp;amp; Vue, Vue &amp;amp; Node.js, React &amp;amp; .NET, Android &amp;amp; iOS, Blockchain (Web3/Solana), Angular &amp;amp; Node.js, Vue &amp;amp; .NET, Python &amp;amp; Vue, DevOps with Azure DevOps, MLOps, Data Science, Angular &amp;amp; PHP, Angular &amp;amp; .NET, Symfony &amp;amp; React, Symfony &amp;amp; Vue, Symfony &amp;amp; Angular, Symfony &amp;amp; JavaScript &amp;amp; Next.js &amp;amp; TypeScript, Data Analysis, React &amp;amp; PHP, Data Engineering, Project Management, React Native &amp;amp; Node, Data Annotation, Svelte &amp;amp; Python, Svelte &amp;amp; Node.js, Svelte &amp;amp; TypeScript, Rust, Shopify &amp;amp; JavaScript, Vue &amp;amp; Nuxt, PHP &amp;amp; Laravel, UI/UX Design, Animation, Graphic Design, React &amp;amp; Node &amp;amp; React Native, .NET &amp;amp; C#, Unreal Engine &amp;amp; C++, Python &amp;amp; LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience.
-We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
-We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
-
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4</description><pubDate>Wed, 03 Jun 2026 08:53:05 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe</description><pubDate>Wed, 03 Jun 2026 17:06:51 +0000</pubDate></item></channel></rss>
