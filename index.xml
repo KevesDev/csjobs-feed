@@ -1,5 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Accuweather Careers: Product Manager, Mapping and Weather Visualization</title><link>https://weworkremotely.com/remote-jobs/accuweather-careers-product-manager-mapping-and-weather-visualization</link><description>Headquarters: State College, PA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)</title><link>https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor</link><description>Headquarters: Amman, Amman Governorate, Jordan
+
+
+Our client is looking for an experienced, detail-oriented Lead Full-Stack Developer to join us as a full-time remote contractor and become an integral part of our small, fast-moving team. You’ll take ownership of an existing mobile app codebase and lead hands-on architecture and development across the product backlog, shipping new features, maintaining the production system, and improving the platform’s robustness as we scale to a significantly larger user base.
+The product is built with React Native / Expo and Firebase, including Firestore, and integrates significantly with Google Calendar. You’ll collaborate directly with the Founder, CTO, and Product Manager to help drive the feature set, translate requirements into clean technical solutions, and ensure releases are stable, well-tested, and well-documented. You’ll report to the CTO and play a key role in shaping how we grows.
+This role is ideal for someone who loves building consumer products end-to-end, thrives in fast-paced startup environments, and takes pride in technical excellence, clear communication, and reliable delivery.
+What You’ll Do 
+Architecture &amp;amp; Technical Leadership
+- Take ownership of the existing React Native / Expo and Firebase codebase, ensuring it remains stable, maintainable, and well-structured
+- Lead hands-on architecture decisions to improve scalability, performance, reliability, and development velocity, with the alignment and support of the CTO
+- Identify and address technical debt; evolve the architecture to support rapid feature development and a large increase in the user base
+- Establish and refine engineering best practices (e.g. coding standards, review process, release hygiene)
+Full-Stack Development (Mobile, Backend, Web)
+- Implement new features and enhancements from the product backlog across mobile and backend systems
+- Build and maintain Firebase/Firestore data models, security rules, and backend logic as needed
+- Work deeply with Google Calendar syncing and related integrations to ensure data accuracy and a smooth user experience
+- Contribute to future web implementation needs, requiring proficiency in React and ability to shape a consistent cross-platform architecture
+- Troubleshoot production issues, implement fixes, and continuously improve app performance and stability
+Delivery, Quality, and Collaboration
+- Collaborate closely with the Founder, CTO, and Product Manager to clarify requirements, explore tradeoffs, and drive practical solutions that align with product goals
+- Break down initiatives into clear technical tasks and provide accurate estimates and delivery plans
+- Maintain a high bar for quality, including unit testing, edge cases, regression safety, and release readiness
+- Communicate progress clearly and proactively, surfacing risks early and proposing solutions
+DevOps, CI/CD, and Documentation
+- Configure and maintain CI/CD pipelines for mobile and related services to support consistent, repeatable releases
+- Improve deployment workflows, build reliability, and release automation
+- Write and maintain technical documentation: architecture notes, setup guides, runbooks, and key system decisions
+- Ensure the team can operate and scale the system confidently through clear documentation and clean engineering practices
+What We’re Looking For 
+- 8+ years of professional software development experience, including significant hands-on full-stack work
+- Proven experience owning and evolving a production codebase in a fast-paced environment
+- Strong React Native/Expo experience and modern JavaScript/TypeScript proficiency
+- Strong Firebase experience, including Firestore data modeling and best practices for performance and security
+- Experience integrating with third-party APIs and sync workflows. Google Calendar experience is a major plus.
+- Strong React experience for future web implementation, and comfort designing shared patterns across platforms
+- Experience designing scalable, robust architectures for consumer-facing applications
+- Experience configuring and maintaining CI/CD pipelines and release workflows
+- Ability to write clear technical documentation and communicate complex concepts simply
+- Strong ownership mindset, proactive, accountable, and comfortable making decisions with imperfect information
+- Excellent written and verbal communication skills, especially in a remote-first environment
+- Comfortable working directly with product leadership and helping drive the feature set with practical input
+&amp;nbsp;
+Preferred, But Not Required
+- Experience working in a startup environment with rapid iteration and shifting priorities
+- Experience with consumer-facing apps, especially family or lifestyle products
+- An understanding of the realities of parenting and managing a busy family schedule, and a genuine interest in reducing that mental load
+Why Join Us
+- Help build a product that tackles a real, everyday pain for busy families
+- Join a small, collaborative team where your input has real impact
+- Enjoy remote work with flexibility and autonomy
+- Be part of the early journey and help shape how we grow
+
+To apply: https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor</description><pubDate>Tue, 30 Jun 2026 20:32:52 +0000</pubDate></item><item><title>Accuweather Careers: Product Manager, Mapping and Weather Visualization</title><link>https://weworkremotely.com/remote-jobs/accuweather-careers-product-manager-mapping-and-weather-visualization</link><description>Headquarters: State College, PA
 
 
 The Product Manager, Mapping and Weather Visualization leads efforts related to how we visually represent information on AccuWeather’s web, app, and B2B properties. This role is at the forefront of the company’s innovation and an influential leader charged with shaping key features within our consumer and business products. Reporting to the SVP, Digital Strategy, this position is an exciting opportunity to translate your vision into an impactful strategy while also defining features, designing experiences and driving execution from start to finish.To succeed in this role, you should be a perceptive and creative leader with sound communication skills, exceptional solution-crafting capabilities and have a healthy addiction to the displaying geospatial information. This role is perfectly suited for a junior to mid-level product manager with a passion for science, technology, and leveraging data to improve people’s lives.&amp;nbsp;KEY RESPONSIBILITIESDevelop solutions for existing and future visualizations that drive user engagement and audience growth.Facilitate communication across the organization, collecting and analyzing feedback from customers, stakeholders, and other teams to shape requirements; communicate to stakeholders regularly.Create exceptional user experiences through collaboration with product experience team – UX/UI/Interaction – while also maximizing revenue by supporting monetization efforts.Work with third parties, strategic partners, and cross functional internal teams to further AccuWeather’s reach and feature set.Understand the ins &amp;amp; outs of your audience – who they are, the features they use and enhancements they want.Monitor your products, ensuring optimal performance, and being on top of any challenges that may arise.Manage the development sprints; prioritize product enhancements, while simultaneously crushing technical debt.Lead a scrum team comprising of engineers and product designers to execute against your plans quickly.Manage data integrity to ensure accuracy and relevancy; from data source through to display.Produce and review product requirement documents to the highest of standards.Own the end-to-end success of projects from requirements definition through design, development, launch, and post-launch analysis.Work with subject matter experts for your products, capabilities and services.Develop a strategy and make creative recommendations to expand our product vision across the portfolio.Performs other duties as assigned.&amp;nbsp;QUALIFICATIONS&amp;nbsp;Bachelor’s degree with 4-6 years' experience in product managementExperience working with web and app platforms and frameworksDemonstrated superior knowledge of digitally distributed products and technologyExperience writing detailed requirements for products, such as wire frames, criteria, and business casesAbility to interact and communicate with product, design, and development teams of all levels, backgrounds and distributed staffing modelsDemonstrated ability to be meticulous detailed with high-quality attention to detail and focus on a broad, strategic orientationComfortable prioritizing pipelines of work based on a strategic evaluation of goals and implicationsProven leadership experience, including showing that you can effectively communicate to your team and to upper managementExceptional communication skillsDriving collective decisions, while being comfortable making independent decisions and thinking through all product ramificationsHighly creative and curious with ability to work within practical boundariesFlexibility and adaptability to rapidly changing environment&amp;nbsp;ABOUT ACCUWEATHERAccuWeather, recognized and documented as the most accurate and most used source of weather forecasts and warnings in the world, has saved over 12,000 lives, prevented injury to over 100,000 people, and saved companies tens of billions of dollars through better planning and decision-making.Billions of people around the world rely on AccuWeather’s proven Superior Accuracy™ across our consumer digital platforms.&amp;nbsp;AccuWeather.com&amp;nbsp;is the #1 weather destination and one of the top 100 most-visited websites in the world, and our award-winning AccuWeather app delivers detailed real-time forecasts to millions of smartphones.AccuWeather forecasts also appear on digital signage, in 700 newspapers, are heard on over 400 radio stations, and viewed on 100 television stations. The AccuWeather Network and AccuWeather NOW® reach an audience of over 125 million on cable and streaming platforms including DirecTV, Charter Communications - Spectrum, Verizon, Philo, Frndly TV, Comcast’s Xfinity X1 and Xfinity Stream, Roku, Xumo, Rockbot, LG, and Amazon Freevee.AccuWeather For Business serves more than half of the Fortune 500 companies and thousands of other businesses and government agencies globally.Dr. Joel Myers, Founder and Executive Chairman, established AccuWeather in 1962 and is considered the “father of modern commercial meteorology.” Myers, a leading creative thinker and visionary, has been called “the most accurate man in weather” by The New York Times and has been recognized as one of the top entrepreneurs in American history by Entrepreneur’s Encyclopedia of Entrepreneurs.&amp;nbsp;&amp;nbsp;COMMITMENT TO DIVERSITY &amp;amp; INCLUSIONAccuWeather is proud to be an Equal Opportunity/Affirmative Action Employer. We are committed to equal employment opportunity to all applicants and existing employees and we evaluate qualified applicants without regard to race, creed, color, national origin, sex (including pregnancy and gender identity/expression), sexual orientation, age, ancestry, physical or mental disability, marital status, political affiliation, religion, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law. &amp;nbsp;AccuWeather is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to human.resources@accuweather.com and let us know the nature of your request and your contact information.
@@ -377,34 +429,4 @@ The opportunity to make an impact in a transformative industry
 A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
 
 
-To apply: https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1</description><pubDate>Sat, 23 May 2026 13:43:59 +0000</pubDate></item><item><title>Stellar AI: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</link><description>Headquarters: London
-    URL: https://joinstellar.ai/
-
-
-
-We are seeking experienced Software Engineers to contribute to projects across a wide range of technologies and programming languages, including JavaScript, Python, Go, C++, Ruby, and more.This is an open-ended contract opportunity, structured around project-based work with no set schedules or minimum time or task commitments. Contributors who work with us decide which available projects they'd like to work on, when they work, and how much they contribute, which makes it an excellent option for those seeking flexible and high-impact work.In this role, you will help advance AI research by understanding complex systems, exploring large codebases, and developing approaches to verify the correctness of software behavior.
-Compensation
-
-$70 per hour after passing the qualification
-Fully remote
-Project based work, no minimum time or task commitments
-
-Responsibilities
-
-Rapidly build context in large, multi-module codebases
-Analyze feature implementations for correctness and edge cases
-Produce clear, structured documentation of findings and rationale
-
-Requirements
-
-Bachelor's degree in Computer Science or a related field
-At least 2 years of experience as a Software Engineer
-Excellent written communication skills
-Ability to clearly explain complex technical concepts
-
-Location
-Remote in the US, UK, Canada, Europe, Australia, or New Zealand
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer</description><pubDate>Tue, 21 Oct 2025 19:36:26 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1</description><pubDate>Sat, 23 May 2026 13:43:59 +0000</pubDate></item></channel></rss>
