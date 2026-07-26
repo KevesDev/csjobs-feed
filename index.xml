@@ -1,5 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Supportyourapp: (fluent German &amp; English) L1 Customer Support Consultant (EU Remote)</title><link>https://weworkremotely.com/remote-jobs/supportyourapp-fluent-german-english-l1-customer-support-consultant-eu-remote-1</link><description>Headquarters: Cluj-Napoca, Cluj County, Romania
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Tether: AI Research Engineer</title><link>https://weworkremotely.com/remote-jobs/tether-ai-research-engineer</link><description>Headquarters: El Salvador
+    URL: https://careers.tether.io/
+
+
+
+
+Why Join Us?
+Our team is a global talent powerhouse, working remotely from every corner of the world. If you’re passionate about making a mark in the fintech space, this is your opportunity to collaborate with some of the brightest minds, pushing boundaries and setting new standards. We’ve grown fast, stayed lean, and secured our place as a leader in the industry.
+If you have excellent English communication skills and are ready to contribute to the most innovative platform on the planet, Tether is the place for you.
+Are you ready to be part of the future?
+&amp;nbsp;
+About the job
+As a member of the AI model team, you will drive innovation in reinforcement learning approaches for advanced models. Your work will optimize decision-making and adaptive behavior to deliver enhanced intelligence, improved performance, and domain-specific capabilities for real-world challenges. You will work across a broad spectrum of systems, including resource-efficient models designed for limited hardware environments and complex multi-modal architectures that integrate data such as text, images, and audio.
+We expect you to have deep expertise in designing reinforcement learning systems and a strong background in advanced model architectures. You will adopt a hands-on, research-driven approach to developing, testing, and implementing novel reinforcement learning algorithms and training frameworks. Your responsibilities include curating specialized simulation environments and training datasets, strengthening baseline policy performance, and identifying as well as resolving bottlenecks in the reinforcement learning process. The ultimate goal is to unlock superior, domain-adapted AI performance and push the limits of what these models can achieve in dynamic, real-world environments.
+&amp;nbsp;
+Responsibilities
+
+
+Develop and implement state-of-the-art reinforcement learning algorithms designed to optimize decision-making processes in both simulated and real-world settings. Establish clear performance targets such as reward maximization and policy stability.
+
+
+Build, run, and monitor controlled reinforcement learning experiments. Track key performance indicators while documenting iterative results and comparing outcomes against established benchmarks.
+
+
+Identify and curate high-quality simulation environments and training datasets that are tailored to specific domain challenges. Set measurable criteria to ensure that the selection and preparation of these resources significantly enhance the learning process and overall model performance.
+
+
+Systematically debug and optimize the reinforcement learning pipeline by analyzing both computational efficiency and learning performance metrics. Address issues such as reward signal noise, exploration strategy, and policy divergence to improve convergence and stability.
+
+
+Collaborate with cross-functional teams to integrate reinforcement learning agents into production systems. Define clear success metrics such as real-world performance improvements and robustness under varied conditions and ensure continuous monitoring and iterative refinements for sustained domain adaptation.
+
+
+
+
+Job requirements
+
+
+
+
+A degree in Computer Science or related field. Ideally PhD in NLP, Machine Learning, or a related field, complemented by a solid track record in AI R&amp;amp;D (with good publications in A* conferences).
+
+
+Proven experience with large-scale reinforcement learning experiments, including online RL techniques such as Group Relative Policy Optimization (GRPO), is essential. Your contributions should have led to measurable improvements in domain-specific decision-making and overall policy performance.
+
+
+Deep understanding of reinforcement learning algorithms is required, including state-of-the-art online RL methods and other gradient-based optimization approaches like policy gradients, actor-critic, and GRPO. Your expertise should emphasize enhancing policy stability, exploration, and sample efficiency in complex, dynamic environments.
+
+
+Strong expertise in PyTorch and relevant reinforcement learning frameworks is a must. Practical experience in developing RL pipelines, from simulation and online training to post-training evaluation and deploying RL-based solutions in production environments is expected.
+
+
+Demonstrated ability to apply empirical research to overcome reinforcement learning challenges such as sample inefficiency, exploration-exploitation tradeoffs, and training instability. You should be proficient in designing robust evaluation frameworks and iterating on algorithmic innovations to continuously push the boundaries of RL agent performance.
+&amp;nbsp;
+
+
+Important information for candidatesRecruitment scams have become increasingly common. To protect yourself, please keep the following in mind when applying for roles:
+
+
+Apply only through our official channels.&amp;nbsp;We do not use third-party platforms or agencies for recruitment unless clearly stated. All open roles are listed on our official careers page:&amp;nbsp;https://tether.recruitee.com/
+
+
+Verify the recruiter’s identity.&amp;nbsp;All our recruiters have verified LinkedIn profiles. If you’re unsure, you can confirm their identity by checking their profile or contacting us through our website.
+
+
+Be cautious of unusual communication methods.&amp;nbsp;We do not conduct interviews over WhatsApp, Telegram, or SMS. All communication is done through official company emails and platforms.
+
+
+Double-check email addresses.&amp;nbsp;All communication from us will come from emails ending in&amp;nbsp;@tether.to&amp;nbsp;or&amp;nbsp;@tether.io
+
+
+We will never request payment or financial details. If someone asks for personal financial information or payment at any point during the hiring process, it is a scam. Please report it immediately.
+
+
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/tether-ai-research-engineer</description><pubDate>Thu, 02 Apr 2026 20:28:59 +0000</pubDate></item><item><title>Supportyourapp: (fluent German &amp; English) L1 Customer Support Consultant (EU Remote)</title><link>https://weworkremotely.com/remote-jobs/supportyourapp-fluent-german-english-l1-customer-support-consultant-eu-remote-1</link><description>Headquarters: Cluj-Napoca, Cluj County, Romania
 
 
 Who we are?SupportYourApp is a global Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions?Join our community as a Customer Support Consultant today and thrive in a multicultural and multilingual environment while enjoying your home office. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes.What you will do:Deliver outstanding customer support via emails, calls, and chatsBuild strong and lasting customer relationshipsResolve customer issues quickly and efficiently, ensuring high-quality solutionsKeep up with evolving tools and technologyEscalate complex issues to the appropriate team for resolutionApply the latest and greatest customer happiness practicesMaintain a deep understanding of client solutions and meet KPIsCommunicate with developers and cross-functional specialistsWhat you need to succeed in this role:Fluency in&amp;nbsp;German and English (C1 or higher), both spoken and written6–12 months of experience&amp;nbsp;in customer supportStrong&amp;nbsp;analytical thinking, research, and problem-solving skillsTech-savvy, with strong system-handling skills, including routine navigation of&amp;nbsp;Google Workspace or Microsoft-based environmentsFast and accurate typing skills&amp;nbsp;with confident multi-platform usageProven customer service communication skills, including:Objection handlingStructured and benefit-oriented dialogueEmpathy and clear, professional articulationAbility to consistently apply these communication skills across&amp;nbsp;all customer interaction channelsPositive, proactive, and responsible attitudePersonal computer (minimum&amp;nbsp;8 GB RAM) with a stable internet connection (50 Mbps download / 40 Mbps upload)Benefits and Perks:Flexible schedule (24/7)Opportunity to cooperate fully remotelyInclusive international environmentCompensation in USDRewards for referring friendsBalance between project workload and personal time, but also –&amp;nbsp;internal health policyResponsive leadership interested in your development and long-lasting cooperationGreenhouse conditions for self-developmentA culture built on trust, with no time-tracking requirements*The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected.You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn.So if you're a proactive Support Specialist who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us!Over 1300+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp.Know someone perfect for the role? Refer them and get rewarded!We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law.Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice. 
@@ -415,64 +492,4 @@ To apply: https://weworkremotely.com/remote-jobs/highlevel-product-solutions-eng
 
 About the roleCoinMarketCap is building AI products to help users discover, understand, and act on crypto information more effectively. We’re hiring a Technical AI Product Manager to join our AI team. This is an individual contributor role in the Product org. You’ll spend most of your time building and iterating: identifying user pain points, prototyping in Python, prompt engineering, context engineering, and improving AI features we’ve already shipped based on real usage and feedback.Once an MVP is validated, you’ll partner with Engineering to productionize and scale it. You are not responsible for long-term platform scalability or owning the full engineering surface area. You are responsible for producing strong prototypes and handing Engineering a clear, validated direction.What you’ll doIncludes but not limited to:1. Identify the biggest user pain points where a crypto AI can materially improve outcomes.&amp;nbsp;2. Turn ambiguous ideas into a clear MVP, with crisp scope, constraints, and success metrics.3. Prototype full AI experiences in Python to validate value and quality before we ship to production. 4. Own prompts and context engineering: instruction design, context shaping, guardrails, tool/function calling patterns, and output formatting.5. Build practical evaluation loops: golden sets, scenario coverage, qualitative rubrics, regressions, and acceptance criteria.6. Design the AI user experience: make it clear, trustworthy, and resilient if things go wrong.7. Run fast experiments, learn from real outputs and usage data, and iterate quickly.8. Partner with Engineering to ship: provide handoff specs, edge cases, evaluation results, and support debugging and iteration post-launch.9. Work on whatever surface is the highest leverage.&amp;nbsp;What we’re looking for1.Strong product judgment and the ability to make good calls under ambiguity.2. Hands-on Python prototyping ability: you move fast, write clean code, and can translate ideas into working prototypes.3. Practical LLM experience + intuition: you understand prompt iteration, context design, and have a strong intuition for how to build useful products on top of LLMsA strong evaluation mindset: you can define quality, test for failure modes, and prevent regressions without heavy process.4. High-agency execution: you can go from “vague problem” → “shipped learning” with minimal supervision.5. Excellent communication skills (verbal and written): convey complex messages clearly and simply, and driving conviction across stakeholders.Nice to have1.Shipped user-facing AI features (chat, agents, copilots, summarization, search/Q&amp;amp;A, personalization).2. 0 to 1 experience in fast-moving environments and owning ambiguous problems end-to-end. 3. Experience building tool-using and agent-like workflows. 4. Experience and interest in cryptocurrency. We have a strong preference for candidates who can point to things they’ve built (prototypes, side projects, or shipped features) and explain how they navigated ambiguity to reach a useful outcome.  To stand out, include examples of these in your application.&amp;nbsp;
 
-To apply: https://weworkremotely.com/remote-jobs/coin-market-cap-technical-ai-product-manager</description><pubDate>Tue, 30 Jun 2026 20:30:55 +0000</pubDate></item><item><title>Lemon.io: Senior React Native Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer</link><description>Headquarters: New York, NY
-    URL: https://lemon.io
-
-
-Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
-What we offer:
-
-The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
-No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
-We'll manually find the best project for you according to your skills and preferences.
-Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
-We respect your seniority so you can expect no micromanagement or screen trackers.
-Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
-We will support you from the time you submit the application throughout all cooperation stages.
-Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
-Through our community, we will connect you with the best developers from more than 75 countries.
-
-Requirements for React Native &amp;amp; React Developer’s position:
-
-4+ years of software development experience
-2+ years of experience with React and 4+ years of experience with React NativeOR4+ years of experience with React and 2+ years of experience with React Native
-
-Requirements for React Native &amp;amp; Node Developer’s position:
-
-4+ years of software development experience
-2+ years of experience with Node and 4+ years of experience with React NativeOR4+ years of experience with Node and 2+ years of experience with React Native
-
-Requirements for React Native &amp;amp; Node &amp;amp; React Developer’s position:
-
-
-4+ years of software development experience
-
-
-3+ years of experience with Node
-
-
-4+ years of experience with React Native and 2+ years of experience with ReactOR2+ years of experience with React Native and 3+ years of experience with React
-
-
-Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
-
-
-Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
-
-
-Strong self-organizational skills — ability to work full-time remotely with no supervision.
-
-
-Reliability — we want to trust you and expect that you won’t let us and the client down.
-
-
-Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
-
-
-Sounds good for you? Apply now and join the Lemon.io community!
-NOT YOUR TECH STACK?
-We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React &amp;amp; Python, React &amp;amp; Golang, Golang, React &amp;amp; Java, React &amp;amp; Ruby, Ruby, PHP &amp;amp; Vue, Vue &amp;amp; Node.js, React &amp;amp; .NET, Android &amp;amp; iOS, iOS &amp;amp; Swift, Flutter, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular &amp;amp; Node.js, Vue &amp;amp; .NET, Python &amp;amp; Vue, DevOps, MLOps, Data Science, Angular &amp;amp; PHP, Angular &amp;amp; .NET, Symfony &amp;amp; React, Symfony &amp;amp; Vue, Symfony &amp;amp; Angular, Python, Symfony &amp;amp; JavaScript &amp;amp; Next.js &amp;amp; TypeScript, Data Analysis, React &amp;amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp;amp; Ruby, React Native &amp;amp; Python, WordPress, Android, Data Annotation, Angular, Python &amp;amp; Node, React &amp;amp; Node.js, Java &amp;amp; Spring, Svelte &amp;amp; Python, Svelte &amp;amp; Node.js, Svelte &amp;amp; TypeScript, Rust, Shopify &amp;amp; JavaScript, Vue &amp;amp; Nuxt, PHP &amp;amp; Laravel, UI/UX Design, Animation, Graphic Design, .NET &amp;amp; C#, Electron, Scala, C++, Unreal Engine &amp;amp; C++, Python &amp;amp; LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience.
-We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
-We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
-
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer</description><pubDate>Thu, 25 Jun 2026 14:11:50 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/coin-market-cap-technical-ai-product-manager</description><pubDate>Tue, 30 Jun 2026 20:30:55 +0000</pubDate></item></channel></rss>
