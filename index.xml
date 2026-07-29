@@ -1,5 +1,92 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Tether: AI Research Engineer</title><link>https://weworkremotely.com/remote-jobs/tether-ai-research-engineer</link><description>Headquarters: El Salvador
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Reveleer: Full Stack AI Engineer</title><link>https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer</link><description>Headquarters: United States
+    URL: https://www.reveleer.com/
+
+
+Full Stack AI EngineerRemote Opportunity
+As the industry’s pioneering value-based care (VBC) technology platform, Reveleer is purpose-built to solve the most pressing real-world challenges faced by providers and health-plan organizations today. By unifying retrieval, clinical intelligence, risk adjustment, quality improvement, and member management solutions into one intelligent, AI-powered system, Reveleer streamlines fragmented workflows to supercharge productivity, enhance care quality, and optimize performance on high-priority value-based initiatives.
+About the Team:
+You will be joining a small team within Reveleer AI division, in charge of developing the next generation agentic model for clinical prospective suspecting. As a full stack software developer in our team, you will be working in the unique environment of a small team with large scale impact to enable the expansion of our product and fast growth of our users.
+Responsibilities:
+
+Obsess over the details and applying first principle mindset to address challenges.
+
+
+Understand business needs and build end-to-end product experiences.
+
+
+Solve product problems and build delightful user experiences for our users.
+
+
+Contribute to building and scaling infrastructure.
+
+
+Develop and continually improve observability of activity and infra at scale.
+
+
+Continually challenge status quo and existing solutions to improve scalability &amp;amp; efficiency
+
+
+Partner closely with other engineers and scientists to build highly scalable, ML driven system(s), help run experiments, and surface insights across all points of customer interactions
+
+
+Resolve problems and provide daily troubleshooting, analysis, and problem definition for production issues.
+
+Required Skills:
+
+5+ years of experience building high quality code and infrastructure.
+
+
+3+ years of experience working with large-scale systems.
+
+
+2+ Experience with AWS and Google Cloud
+
+
+A passion for building delightful Customer-centric user experiences, from the backend to the frontend.
+
+
+Proven curiosity with the latest Generative AI advances.
+
+
+Hands-on experience in client-side development using ReactJS, CSS, JavaScript, Typescript.
+
+
+Hands-on experience in NodeJS and MongoDB.
+
+
+Familiarity with common best practices, design and architectural patterns.
+
+
+Great problem-solving skills, eager to learn and face new challenges.
+
+
+Highly motivated, self-learner with great attention to detail.
+
+
+Thrive in a collaborative environment involving different functions, stakeholders, and subject matter experts.
+
+
+Attention to detail, especially around performance, accessibility, reliability, and security.
+
+WHAT YOU’LL RECEIVE:
+
+Competitive salary 
+
+
+Medical, Dental and Vision benefits 
+
+
+401k match
+
+
+Generous PTO plan 
+
+ Our compensation reflects the cost of labor across several US geographic markets. Pay is based on several factors including market location and may vary depending on job-related knowledge, skills, and experience.
+Reveleer E-Verifies all new hires.
+Reveleer is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, disability status or genetic information, in compliance with applicable federal, state and local law.
+
+To apply: https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer</description><pubDate>Thu, 02 Apr 2026 20:46:00 +0000</pubDate></item><item><title>Tether: AI Research Engineer</title><link>https://weworkremotely.com/remote-jobs/tether-ai-research-engineer</link><description>Headquarters: El Salvador
     URL: https://careers.tether.io/
 
 
@@ -393,12 +480,7 @@ To apply: https://weworkremotely.com/remote-jobs/pixx-io-senior-product-manager-
 
 W Base naszą misją jest wspieranie przedsiębiorców, by mogli podbijać globalny świat e-commerce. Dajemy im technologię, która rewolucjonizuje sposób, w jaki sprzedają online.Nasz międzynarodowy zespół, pracujący od Europy po obie Ameryki, dostarcza system all-in-one dla tysięcy sprzedawców. Integrujemy ich z liderami branży, między innymi z takimi jak Amazon, eBay, Shopify, DHL czy FedEx. Ale nie jesteśmy tylko kolejną firmą technologiczną. Jesteśmy jedną z najszybciej rozwijających się platform w branży – w ciągu ostatnich 3 lat urośliśmy 15-krotnie! Stawiamy na kulturę, w której liczy się realny wpływ i współpraca, a nasz zespół jest sercem naszej innowacji.Obecnie szukamy Full-Stack Developera do pracy przy projekcie aplikacji analitycznej Base Analytics, która umożliwia naszym klientom m.in. monitorowanie sprzedaży, rentowności oraz kluczowych wskaźników biznesowych.Twoja rola będzie kluczowa w budowie aplikacji frontendowej w React, która przetwarza duże zbiory danych i wizualizuje je w formie interaktywnych wykresów, dashboardów i tabel przestawnych. Szukamy osoby, która będzie współpracować przy projekcie z Lead Frontend Developerem, zespołem Data Engineers oraz DevOps działających w środowisku AWS (ClickHouse, Lambda, Glue).Jeśli jesteś doświadczonym React Developerem z bardzo dobrą znajomością AWS stacku i chcesz mieć realny wpływ na rozwój produktu, ta rola jest właśnie dla Ciebie!Twoje zadania:Tworzenie wydajnych i skalowalnych aplikacji webowych w React, React Router v7, TypeScript i Tailwind CSS.Udział w utrzymaniu i rozwoju backendu rozwiązania w usłudze AWS (ClickHouse, Lambda, Glue, S3, API Gateway).Pisanie czystego kodu zgodnie z najlepszymi praktykami i standardami projektowymi.Implementacja responsywnych interfejsów użytkownika oraz zapewnienie kompatybilności między przeglądarkami.Optymalizacja wydajności aplikacji i identyfikacja obszarów do usprawnień.Pisanie unit, integration oraz e2e testów w celu zapewnienia wysokiej jakości i niezawodności aplikacji.Koordynacja i współpraca z Lead Frontend Developerem, Product Ownerem, UX Designerem, Data Analyst i DevOpsem.Na co dzień pracujemy z:React, React Router v7 (framework), TypeScript, Tailwind CSS, shadcn/ui, Radix UI.REST API.AWS - ClickHouse (backend), Lambda, Glue, S3, CloudWatch.Git, GitHub, CI/CD.Oczekiwania:Minimum 3 lata doświadczenia w tworzeniu aplikacji frontendowych z wykorzystaniem React.Doświadczenie w pracy z backendem w środowisku AWS.Doświadczenie w pracy z dużymi zbiorami danych oraz bibliotekami do prezentacji danych, takimi jak TanStack Table .(tabele) i Recharts (wykresy)Zdolność do strategicznego myślenia o produkcie i odpowiedzialność za techniczne aspekty działania aplikacji.Znajomość języka angielskiego na poziomie minimum B2.Proaktywność, odpowiedzialność i poczucie humoru.&amp;nbsp;Mile widziane:Doświadczenie w budowie aplikacji analitycznych lub BI.Doświadczenie z narzędziami CI/CD w AWS.Wiedza z zakresu optymalizacji wydajności aplikacji React.Oferujemy:Będziesz częścią zespołu, który aktywnie pisze scenariusz dla globalnego e-commerceWspółpraca przy innowacyjnym produkcie w szybko rosnącym środowisku, to idealne miejsce, jeśli lubisz, gdy rzeczy dzieją się dynamicznieBędziesz współpracować z czołowymi ekspertami z międzynarodowym doświadczeniem - to nasz najlepszy program rozwojowy, który oferujemyAtrakcyjny wachlarz dodatków wspierających Twoje zdrowie, pasje i rozwój 
 
-To apply: https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-react-aws</description><pubDate>Tue, 30 Jun 2026 20:32:08 +0000</pubDate></item><item><title>Sowelo Consulting: Full Stack Developer</title><link>https://weworkremotely.com/remote-jobs/sowelo-consulting-full-stack-developer</link><description>Headquarters: Krakow, Poland
-
-
-Do you have Full Stack experience where you feel comfortable working with different OOP programming languages?Are you an advocate for clean code who thrives in a collaborative, Agile environment where you have the freedom to influence the entire stack from database to DevOps?Great, then please read on as we have a role for you.Our client is currently the UK market leader in providing digital solutions to the health and social care sector. Their platform revolutionizes how vital information is recorded, analyzed, and shared, ensuring a better life for everyone involved in the care process.They are currently in an era of unprecedented growth which is enabling them to expand their technology department. Despite our market-leading status, we remain hungry for innovation and are looking for individuals with the passion and drive to contribute to a mission-driven development team.The Engineering Culture:They deliver incrementally in sprints using a SCRUM framework. Every team member has a voice in planning, stand-ups, and retrospectives.The process favors pair-programming, thorough code reviews, and automated testing. They value clean code over over-engineering.They believe in being "truly" full-stack. Beyond front-to-back development, the engineers share responsibility for AWS Infrastructure, DevOps, and CI/CD pipelines.The systems handle thousands of requests per minute and manage hundreds of millions of records. They design with a scalability-first mindset.Your tasks will include:Design, develop, and maintain features across the entire stack, ensuring seamless integration between the frontend and backend.Architect scalable solutions capable of handling high-volume traffic and massive datasets.Engage in pair-programming and contribute to a culture of continuous peer feedback through code reviews.Take an active role in managing AWS infrastructure and optimizing CI/CD workflows (dependent on experience level).Constantly review and improve the product, offering proactive suggestions to enhance user experience and system performance.Opportunities to broaden your skill set into requirements gathering, research, and project management.To be a good fit for the Full Stack Developer role, you will have:3+ years of commercial experience in full stack development.Experience with Javascript or Typescript on the frontend with experience in either Vue.js, React or AngularExperience with 2 of the following languages or ability to switch to another language : Java, C#, Python, Ruby, Golang or any OOP languageExperience in a cloud environmentA drive to learn new technologies and a "right tool for the job" approach.You take pride in your work and enjoy working in a team where ideas are shared and challenged constructively.A genuine desire to work on a product that has a tangible, positive impact on society.Reasons to join:Work in a no blame culture where the team will work together to find solutionsAvailable to work remotelyHealthy work life balance&amp;nbsp;Exposure to a wide range of technologiesTraining opportunities to expand your skillset and gain certificationsWork in a team where they value knowledge sharingSounds interesting?&amp;nbsp;&amp;nbsp;Send us your CV by applying to this pageThe provision of personal data by you is fully voluntary and the basis for their processing is your consent. We have prepared some necessary information, you can find in document: "Information regarding the processing of your personal data". There you will find how your Personal Data is being processed and what your rights are in connection to this.The personal data will be processed by Sowelo Consulting spółka z ograniczoną odpowiedzialnością with its registered seat in Cracow (LLC) registered in National Court Register (KRS) under no. 0000671136, our Employees and Subcontractors (jointly referred to as the Company)./ October 1, 2025, Sowelo Consulting spółka z ograniczoną odpowiedzialnością spółka komandytowa ( limited partnership with KRS no. 0000680493 ) merged with Sowelo Consulting spółka z ograniczoną odpowiedzialnością ( limited liability company with KRS no. 0000671136 ). As of the merger date, all existing rights and obligations of the limited partnership were transferred to the limited liability company, based on the principle of general succession. /Sowelo Consulting sp. z o.o. (LLC) is entered in the register of employment agencies under the number: 35288Our candidate selection process relies entirely on human judgment. We explicitly avoid using automated screening algorithms or AI-driven scoring systems for any part of the assessment. Every single profile is reviewed personally by our experienced recruiters, ensuring a thorough and unbiased consideration of your fit.IT Recruitment Poland | Executive Search | Recruitment Process Outsourcing  
-
-To apply: https://weworkremotely.com/remote-jobs/sowelo-consulting-full-stack-developer</description><pubDate>Tue, 30 Jun 2026 20:31:54 +0000</pubDate></item><item><title>Coupa Software: Sr. Director, Product Management - 11051</title><link>https://weworkremotely.com/remote-jobs/coupa-software-sr-director-product-management-11051</link><description>Headquarters: Foster City, CA, United States
+To apply: https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-react-aws</description><pubDate>Tue, 30 Jun 2026 20:32:08 +0000</pubDate></item><item><title>Coupa Software: Sr. Director, Product Management - 11051</title><link>https://weworkremotely.com/remote-jobs/coupa-software-sr-director-product-management-11051</link><description>Headquarters: Foster City, CA, United States
 
 
 Coupa makes margins multiply through its community-generated AI and industry-leading total spend management platform for businesses large and small. Coupa AI is informed by trillions of dollars of direct and indirect spend data across a global network of 10M+ buyers and suppliers. We empower you with the ability to predict, prescribe, and automate smarter, more profitable business decisions to improve operating margins.Why join Coupa? Pioneering Technology: At Coupa, we're at the forefront of innovation, leveraging the latest technology to empower our customers with greater efficiency and visibility in their spend. Collaborative Culture: We value collaboration and teamwork, and our culture is driven by transparency, openness, and a shared commitment to excellence. Global Impact: Join a company where your work has a global, measurable impact on our clients, the business, and each other.&amp;nbsp;Learn more on Life at Coupa blog and hear from our employees about their experiences working at Coupa.&amp;nbsp;The Impact of a Sr Director, Product Management at Coupa:This role sits at the heart of Coupa’s next phase of growth. You will directly shape how the Supplier Network scales—aligning supplier success, buyer trust, and monetization into a single, durable marketplace strategy that supports Coupa’s long-term platform vision.Coupa is scaling one of the world’s largest B2B supplier networks, connecting millions of buyers and suppliers globally. We’re hiring a Senior Director of Product Growth to lead growth strategy and execution across our Supplier Network &amp;amp; Marketplace—with direct accountability for supplier activation, engagement, monetization, and network liquidity. This is a senior, high-impact product leadership role. You will own growth at the system level: defining strategy, shaping the roadmap and partnering deeply with Engineering, Design, Data, Sales, Marketing, and Finance to drive durable revenue and marketplace outcomes. If you’ve led growth for marketplaces, networks, or enterprise platforms—and know how to scale PLG without eroding trust—this role was built for you.&amp;nbsp;What You’ll Be Responsible ForSupplier Network Growth &amp;amp; StrategyOwn the end-to-end growth strategy for Coupa’s Supplier Network, spanning supplier acquisition, activation, engagement, retention, and monetization across multiple revenue streams. Define and scale network and marketplace growth loops that increase buyer demand, supplier participation, and transaction velocity. Set clear north star metrics and success frameworks aligned to Coupa’s long-term platform and revenue goals (FY27+).Marketplace MonetizationLead product strategy for supplier monetization, including subscriptions, premium visibility, marketplace access, sourcing events, APIs, and future growth surfaces. Partner with Pricing, Finance, and GTM to evolve monetization models that are scalable, defensible, and aligned with supplier value. Ensure monetization strengthens—not compromises—buyer trust and marketplace integrityProduct-Led Growth at Enterprise ScaleDrive PLG motions across complex, enterprise procurement workflows. Establish disciplined experimentation practices focused on business impact, not vanity metrics. Balance short-term wins with long-term platform health and second-order marketplace effects.&amp;nbsp;Senior Cross-Functional LeadershipLead and grow senior PMs and managers working across growth, marketplace, and supplier experience. Serve as a trusted partner to Engineering, Data, Design, Sales, Marketing, and Customer Success. Influence executive stakeholders with clear narratives, data-backed decisions, and strong product judgment.What Success Looks LikeWithin 6–12 months, you will: Launch and scale new growth initiatives that materially improve supplier activation, engagement, and monetization. Establish Coupa’s Supplier Network growth model as a repeatable, measurable engine. Be recognized as a senior product leader who brings clarity, momentum, and results in a complex enterprise environment. Help evolve Coupa from feature-led delivery to outcome-driven, growth-oriented execution across the marketplaceWhat We’re Looking ForRequired Experience 10–15+ years of product management experience, with senior leadership ownership of growth, monetization, or marketplace products. Proven experience scaling B2B SaaS platforms, networks, or two-sided marketplaces. Track record of driving meaningful revenue and adoption outcomes, not just engagement metrics. Experience operating effectively in large, matrixed organizations. Skills &amp;amp; Leadership Profile Strategic systems thinker with strong marketplace intuition. Deep comfort using data to guide decisions while staying grounded in user needs. Excellent communicator who can align executives, product teams, and GTM partners. Builder mindset: comfortable with ambiguity, accountability, and high expectations. Nice to Have Experience with procurement, payments, fintech, or enterprise platforms. Prior ownership of PLG motions in enterprise or networked productsThe estimated pay range for this role is $208,000 - $270,000The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location within the state.#LI-Remote#LI-TC1Coupa complies with relevant laws and regulations regarding equal opportunity and offers a welcoming and inclusive work environment. Decisions related to hiring, compensation, training, or evaluating performance are made fairly, and we provide equal employment opportunities to all qualified candidates and employees.&amp;nbsp;Please be advised that inquiries or resumes from recruiters will not be accepted.By submitting your application, you acknowledge that you have read Coupa’s Privacy Policy and understand that Coupa receives/collects your application, including your personal data, for the purposes of managing Coupa's ongoing recruitment and placement activities, including for employment purposes in the event of a successful application and for notification of future job opportunities if you did not succeed the first time. You will find more details about how your application is processed, the purposes of processing, and how long we retain your application in our Privacy Policy.
