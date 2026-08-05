@@ -1,5 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)</title><link>https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore</link><description>Headquarters: Hybrid or Remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Stripe: Backend Engineer, AI Security</title><link>https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security</link><description>Headquarters: New York, San Francisco, Seattle, or Remote (US/Canada)
+
+
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.
+About the team
+AI is moving fast and Stripe is moving fast to adopt it. But we need to make sure we do all of this safely, and for most of these tools, enterprise-grade security isn't just available off the shelf. That's where the AI security team comes in—we're responsible for building and partnering to create the right security primitives to enable Stripe to move fast safely.
+This is a team that works in the low-level components of our AI stack, so both infrastructure and security experience are pluses. This space is moving fast, so being comfortable with ambiguity and changes in priority is a must.
+This is a foundational role—you'd be the first engineer on the team.
+What you'll do
+Engineers on this team do a mixture of partnering and advising with teams building AI infrastructure and products, and building security infrastructure primitives for AI.
+One of our major focuses is building a security tooling layer that sits in the inference path, providing detection and protection against AI-specific threats like prompt injection, jailbreaks, and tool misuse.
+Responsibilities
+• Build security frameworks integrated with our core AI infrastructure
+• Design and implement defenses against AI-specific threats like prompt injection and jailbreaks
+• Collaborate with other engineering teams to ensure our AI infrastructure and products are built securely
+• Support other engineering teams in integrating security primitives
+• Uphold our high engineering standards and improve our codebase and processes
+• Design and build systems that help define the state of the art for AI security
+Who you are
+We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+• 5+ years of software development experience
+• Experience independently designing and developing medium-to-large projects
+• Experience working collaboratively across multiple engineering teams
+• Experience writing high-quality code in a major programming language&amp;nbsp;
+• Ability to drive clear next steps when working in an ambiguous environment
+• Ability to think creatively and reason clearly in a complex problem domain
+Preferred qualifications
+• Experience developing, deploying, and maintaining reliable infrastructure systems
+• Experience in security engineering
+• Experience building AI agents or LLM-based systems
+
+To apply: https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security</description><pubDate>Wed, 22 Jul 2026 07:01:06 +0000</pubDate></item><item><title>Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)</title><link>https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore</link><description>Headquarters: Hybrid or Remote
 
 
 About Us
@@ -1421,9 +1455,4 @@ To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-en
 
 Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under "how you heard about A·Team." No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue their craft with autonomy.Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.Not for:People seeking small gigs.Builders focused on simple WordPress/Wix/Squarespace sites.Early-career professionals and recent grads.Our Vision:A·Team is for the "unhirables" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.
 
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item><item><title>Hyphen Connect Limited: Lead Product Designer (Crypto Exchange)</title><link>https://weworkremotely.com/remote-jobs/hyphen-connect-limited-lead-product-designer-crypto-exchange</link><description>Headquarters: Malaysia
-
-
-We are working with a decentralised exchange which looks to innovate on providing the best of CEXs and DEXs, focusing on building a safe, simple and scalable platform for trading. They differentiate themselves by offering institutional level systems and support whilst remaining on-chain and decentralised.As a Lead Product Designer, you will spearhead and implement comprehensive design initiatives for medium to large-scale projects. Your primary responsibility will be to create pixel-perfect designs that enhance the user experience across multiple platforms, including iOS, Android, web, and mobile web. You will play a vital role in maintaining the brand’s visual consistency and accessibility by developing reusable design templates and overseeing a cohesive Design Language System (DLS).Key Responsibilities:Lead and manage design projects from conception to production for medium to large scales.Craft platform-optimized, pixel-perfect designs tailored for iOS, Android, web, and mobile web.Develop, maintain, and refine reusable design templates, ensuring they align with company's DLS.Create detailed specifications and redlines that reference the DLS to guide product implementation.Review and ensure all design assets accurately render in products and adhere to brand standards.Collaborate effectively with engineering, product, QA, and research teams to ensure design consistency.Design new components and icons, contributing to the ongoing evolution of the DLS, with a focus on brand alignment and accessibility.Maintain documentation of design workflows and processes, ensuring comprehensive design records.Conduct user research to better understand needs and behaviors.Your Experience &amp;amp; Skills:Minimum of 6 years in product design, including at least 3 years in a leadership role managing complex, cross-platform projects.Strong focus on detail with a passion for achieving pixel-perfect design.Significant experience managing and working within design systems, tokens, and variable structures.Proficient in using Figma’s components, shared libraries, and branching functionalities.Proven experience in managing stakeholders and effectively collaborating with product, engineering, and QA teams.Expert in Figma, with possible proficiency in Sketch, Photoshop, and Illustrator.Highly self-driven, solution-oriented, and able to work independently in a fast-paced environment.Demonstrated ability to build a product’s UI/UX from the ground up.#LI-REMOTE
-
-To apply: https://weworkremotely.com/remote-jobs/hyphen-connect-limited-lead-product-designer-crypto-exchange</description><pubDate>Sun, 05 Jul 2026 20:30:56 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item></channel></rss>
