@@ -1,5 +1,89 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Gusto, Inc.: Enterprise Application AI Architect</title><link>https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect</link><description>Headquarters: Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Ontario, CAN - Remote;Toronto, Ontario, CAN - Remote;United States - Remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Dropbox: Director, Product Design</title><link>https://weworkremotely.com/remote-jobs/dropbox-director-product-design</link><description>Headquarters: Remote - US: Select locations
+
+
+Role Description
+Dropbox’s Design team is looking for a Director of Product Design to define the next generation of product experiences and infrastructure for Dropbox. In this role, you will lead the vision, strategy, and execution for the systems, patterns, and operating model that shape how Dropbox builds coherent, high quality, multi product experiences at scale.
+We are building a modern system that can support a broader portfolio of products, accelerate product teams to achieve product market fit, improve front end quality, and create durable patterns for the most important product experiences across Dropbox. You will lead the team responsible for turning repeated product needs into reusable experience infrastructure: interaction patterns, product frameworks, design primitives, implementation standards, and adoption models that make it easier for teams to build excellent Dropbox experiences.
+As Director, you will oversee the evolution of Dropbox’s design system into a next generation design and technology platform. This includes the foundational system of components, tokens, accessibility standards, and documentation, but also the broader lifecycle of product patterns: how they are identified, designed, validated, built, adopted, measured, improved, and eventually deprecated. You will help move the team from a reactive model, where design systems patternize work after the fact, to a more proactive model, where the team helps shape core product experiences from the beginning.
+You will also establish Design Systems and Design Technology as a center of excellence for front end product quality. This team should not only define what good looks like, but help build it. That means partnering deeply with product designers, engineers, product managers, researchers, brand, and leadership to create high leverage patterns that improve product coherence, accelerate execution, and raise the quality bar across web, mobile, desktop, and emerging AI native experiences.
+The ideal candidate is a systems minded design leader with excellent product judgment, strong craft standards, deep experience leading multidisciplinary teams, and the ability to operate across strategy, execution, governance, and organizational influence. You should be equally comfortable defining a long term vision for the future of design systems, reviewing the details of a complex interaction pattern, partnering with engineering on implementation quality, and helping senior leaders understand where the product experience needs stronger horizontal investment.
+This is a critical leadership role for Dropbox’s multi product future. You will help define how shared product experiences are built, how teams adopt them, how quality scales, and how Dropbox creates a more coherent, intelligent, and durable product experience for customers.
+Responsibilities
+
+Define and drive the vision for Dropbox’s next generation design system, expanding it from a component library into a broader product experience platform for patterns, primitives, standards, and shared product logic.
+Lead Design Systems and Design Technology as a center of excellence for front end product quality, interaction patterns, accessibility, implementation standards, and cross product experience coherence.
+Build and evolve reusable product patterns that drive core Dropbox experiences, including navigation, creation flows, sharing, permissions, collaboration, onboarding, search, content activation, notifications, settings, admin workflows, and AI assisted experiences.
+Move the team from reactive patternization to proactive product leadership, helping identify horizontal product needs early and shaping solutions that can scale across multiple Dropbox surfaces and teams.
+Own the full lifecycle of shared patterns and components, including discovery, definition, design, prototyping, engineering partnership, adoption, measurement, maintenance, governance, and deprecation.
+Partner closely with Product, Engineering, Research, Brand, Marketing, and Design leadership to align on the highest impact horizontal opportunities and ensure shared systems directly support product strategy.
+Raise the craft and quality bar across Dropbox by improving interaction design, visual quality, information architecture, accessibility, motion, content patterns, implementation fidelity, and front end consistency.
+Create an operating model that makes adoption desirable rather than mandated, ensuring product teams see the system as a way to move faster, build better, and reduce duplicated effort.
+Lead and develop a team of designers, design technologists, and systems specialists, creating clear ownership, strong critique practices, high standards, and a culture of pragmatic systems thinking.
+Partner with engineering leadership to improve the relationship between design systems, code, product infrastructure, and front end delivery, ensuring that design intent is translated into high quality implementation.
+Establish durable governance, measurement, and contribution models that help the system evolve continuously while maintaining quality, coherence, and accountability.
+Help Dropbox prepare for AI native product experiences by defining systems that can encode design knowledge, guide product decisions, and support more adaptive, contextual, and intelligent experiences over time.
+
+Requirements
+
+12+ years of product design, design systems, design technology, or front end experience, including significant experience leading complex systems or platform initiatives at scale.
+5+ years of people management experience, with a strong track record of leading senior designers, managers, design technologists, or multidisciplinary systems teams.
+Deep experience building, scaling, or transforming design systems for complex multi product organizations.
+Strong product judgment and the ability to connect systems work directly to customer value, product strategy, execution speed, and business impact.
+Exceptional systems thinking, with the ability to see patterns across teams, products, platforms, and workflows, then turn those patterns into reusable experience infrastructure.
+High craft standards across interaction design, information architecture, visual design, accessibility, prototyping, content patterns, motion, and implementation quality.
+Proven ability to influence senior cross functional partners, create alignment across ambiguous problem spaces, and drive horizontal product quality without relying on mandate alone.
+Strong technical fluency and comfort partnering with front end engineering teams on component architecture, implementation standards, platform constraints, quality control, and system adoption.
+Experience defining governance models, contribution models, quality standards, documentation practices, and lifecycle processes for shared product systems.
+A clear point of view on the future of design systems, including how AI, design technology, design infrastructure, and reusable product logic should change how teams design and build.
+A collaborative, low ego leadership style, with a track record of developing talent, raising standards, improving critique, and helping teams produce better work than they could have produced on their own.
+A portfolio or body of work that demonstrates strong design leadership, systems strategy, product impact, organizational influence, and excellent taste.
+
+
+Preferred Qualifications
+
+Experience leading design systems, design technology, front end platform, or product infrastructure teams in a large scale, multi product organization.
+Deep understanding of how to leverage content systems as part and parcel of the overall design system.
+Experience building shared patterns for complex product domains such as collaboration, content management, permissions, search, productivity, AI, administration, or multi product ecosystems.
+Strong technical fluency across coded systems, design tokens, component architecture, accessibility infrastructure, prototyping tools, and front end implementation quality.
+A strong point of view on the future of design systems, including how AI, design technology, and reusable product logic should evolve the way teams design and build.
+
+Compensation
+US Zone 1
+This role is not available in Zone 1US Zone 2$235,600—$318,800 USDUS Zone 3$209,400—$283,400 USD
+
+To apply: https://weworkremotely.com/remote-jobs/dropbox-director-product-design</description><pubDate>Wed, 22 Jul 2026 07:01:32 +0000</pubDate></item><item><title>Coinbase: Analytics Engineer, GFCO Analytics</title><link>https://weworkremotely.com/remote-jobs/coinbase-analytics-engineer-gfco-analytics</link><description>Headquarters: Remote - USA
+
+
+Ready to do the most impactful work of your career? At&amp;nbsp;Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;learn more about working at Coinbase.We're hiring an Analytics Engineer to join the GFCO Analytics Engineering team and build the data foundations that power customer experience and compliance operations at Coinbase. You'll own end-to-end data pipelines, develop trusted metrics, and enable CX stakeholders to make faster, better decisions with clean, reliable data. This is a high-impact role where you'll directly influence how we serve and protect our customers while scaling our analytics capabilities.
+What you'll do:
+
+Own the design, build, and maintenance of data models and pipelines that support CX operations, compliance reporting, and customer insights, ensuring data is accurate, timely, and well-documented.
+Partner with CX Operations, Compliance, and Product teams to translate business needs into data requirements and deliver self-serve analytics solutions that reduce manual effort.
+Build and maintain dashboards, metrics, and reporting tools that give CX leaders visibility into performance, customer trends, and compliance health.
+Drive data quality and governance within the CX data domain by implementing testing, monitoring, and documentation standards that ensure stakeholder trust in the data.
+Identify opportunities to automate recurring data workflows and reporting processes, shifting the team from reactive requests toward scalable, self-serve solutions.
+Collaborate with broader Data Engineering and Analytics teams to align on best practices, share learnings, and contribute to Coinbase's overall data infrastructure.
+
+Required Skills and Experience:
+
+3+ years of experience in analytics engineering, data engineering, or a related data role, with hands-on experience building and maintaining data pipelines and models.
+Proficiency in SQL and experience with modern data stack tools such as dbt, Airflow, and cloud data warehouses (Snowflake, Databricks, or similar).
+Experience with data modeling concepts (dimensional modeling, star/snowflake schemas) and building trusted, well-documented data products.
+Familiarity with BI/visualization tools (Looker, Tableau, or similar) and experience building dashboards and self-serve analytics solutions.
+Track record of partnering with non-technical stakeholders to translate business needs into data solutions, particularly in customer experience, operations, or compliance domains.
+Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.
+Pay Transparency Notice: Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)).&amp;nbsp;
+&amp;nbsp;Annual base salary range (excluding equity and bonus):$152,405—$179,300 USD
+Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period.
+Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.
+US Applicants: View Employee Rights, Know Your Rights, and E-Verify Notice of Participation.
+Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial.
+Data Privacy &amp;amp; Arbitration: By submitting your application, you agree to our Candidate Privacy Notice. US applicants: By submitting your application, you agree to Arbitration of Disputes.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/coinbase-analytics-engineer-gfco-analytics</description><pubDate>Wed, 22 Jul 2026 07:01:32 +0000</pubDate></item><item><title>Gusto, Inc.: Enterprise Application AI Architect</title><link>https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect</link><description>Headquarters: Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Ontario, CAN - Remote;Toronto, Ontario, CAN - Remote;United States - Remote
 
 
 &amp;nbsp;
@@ -1087,402 +1171,4 @@ We have a variety of projects, so if you have 4+ years of commercial software de
 We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
 We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
 
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5</description><pubDate>Wed, 08 Jul 2026 15:28:25 +0000</pubDate></item><item><title>Vidalytics: AI Automation Engineer, In-House MarTech Video SaaS</title><link>https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas</link><description>Headquarters: Austin, TX
-    URL: https://vidalytics.com
-
-
-If you love building AI agents, wiring systems together, and watching whole teams stop doing by hand what a machine can do better, faster, and cheaper, and you want to make a whole company AI native rather than ship a slick demo, keep reading.
-You'll be the person who makes Vidalytics AI native from top to bottom. You'll build the agents, the chains, the prompts, the reusable skills, and the cross system automations that let every team punch way above its weight. You'll report to the CEO. LFG!
-You'll start where the money is, on the revenue teams (sales, marketing and customer success), then take it across the whole org. You’ll work with the stakeholders who will use your workflow automations on a daily basis, to achieve the best solutions.&amp;nbsp;
-Most importantly work w/ each team member to help them become AI Native themselves. Which tools they should be using, how they can build upon your ideas, or even spearheading projects of their own that you ensure the success of from a technical perspective. 
-What You'll Be Doing (Job Tasks) 
-
-
-Build AI agents and chains that do real work end to end, not chatbots that just talk.
-
-
-Write, version, and test prompts like code. Build reusable skills the whole org can run.
-
-
-Stand up cross system automations (n8n, Zapier, and custom code) that wire our tools together so work flows without a human babysitting it.
-
-
-Make each team at Vidalytics AI native,.&amp;nbsp; Not just automating work, but helping each team member become AI Native - knowing which tools to use and how to use them. Where they’re self sufficient to continue automating their jobs.
-
-
-Ship internal tools and automations that make the company more efficient and effective. You stay hungry for more, always improving what we build and use.
-
-
-Build evals and observability so every AI system is measured, monitored, traced, and cost controlled. If you can't measure it, you can't ship it.
-
-
-Ground AI outputs in our own company data (retrieval / RAG) so they're accurate, not confidently wrong.
-
-
-Diagnose failures, kill hallucinations, and build the guardrails that keep systems reliable in production.
-
-
-Help with AEO / GEO where it moves the needle.
-
-
-&amp;nbsp;
-Requirements 
-(The must haves)
-
-
-You’re able to choose the right tool for the job. Which AI tool, LLM, agent is the best answer you can figure out wihtout endless tinkering. You care whether the work gets faster, cheaper, or better, not whether it uses the trendy thing.
-
-
-You've already shipped this kind of work in production. This is not a learn on the job role nor is it for the hobbiest. We expect real results, right away. We’re already doing all of this ourselves but need an expert level person to take ownership.
-
-
-AI is a young field, so we expect only a few years of hands on AI experience, but it has to sit on top of strong, relevant broader engineering experience, and you must have built and run real AI systems that other people depend on.
-
-
-You can actually code, and not just with Claude lol. You're comfortable with databases, APIs, and MCP, wiring systems together for real, not just clicking boxes.
-
-
-You build evals and observability by default. You measure, monitor, trace, and control cost as a matter of habit.
-
-
-You hold a production grade reliability bar. You ship systems that keep working for months, not demos that impress once and break the next day.
-
-
-A ready to show portfolio, or concrete examples of what you've built and the results it delivered.
-
-
-Your working hours overlap strongly with US Eastern time. We can discuss further.
-
-
-You’re not token-wise, prompt foolish.&amp;nbsp;
-
-
-You're fluent across the frontier models, (Claude is our primary, ideally it is yours), and you know which model to reach for and why (cost, latency, context, reliability, specific use cases, etc.).&amp;nbsp;
-
-
-You use tools like Claude Code and Claude Cowork daily, and not just a prompt
-
-
-You're comfortable with AI native hosting and deployment, for example Vercel.&amp;nbsp;
-
-
-You're hands on with automation tools like n8n and Zapier, and you know when to drop them and write custom orchestration instead.
-
-
-You ground AI outputs in real data with retrieval / RAG so they're accurate and don't hallucinate.
-
-
-Most of your availabe working hours overlaps (or can) w/ the Eastern US time zone.&amp;nbsp;
-
-
-&amp;nbsp;
-Nice to Have 
-(Not required, but a plus)
-
-
-Basic security and data protection know how. When you automate things, you don't want a free for all where anything can touch whatever data. Not a deal breaker.
-
-
-AEO / GEO experience.
-
-
-Deeper software engineering chops.
-
-
-Exposure to our stack: HubSpot, Fathom, Slack, Google Workspace, PostHog, Intercom, BigQuery, GCP, Vercel, v0, Lovable, Github.
-
-
-Who You Are (Personality Type) 
-
-
-You’re a passionate tinker who loves this field and playing with new tech, but you can also shut down your internal shiny ball syndrome and GSD (get shit done).&amp;nbsp;
-
-
-You translate between business problems and AI systems. You ask the right questions, fill the gaps, and turn messy business needs into working automations.
-
-
-You’re organized. You speak ROI. You’re familiar with marketing, sales and customer success workflows in particular as well as other functions of a modern tech company.&amp;nbsp;
-
-
-You're biased toward shipping fast. You deliver in small, valuable chunks that compound.
-
-
-You're loyal to outcomes, not hype. You don't care how cool the tech is. You care whether it saved time, made money, or removed a human bottleneck.
-
-
-You measure everything. Evals, cost, latency, reliability. If it isn't measured, it isn't real.
-
-
-You thrive on vague specs and can coordinate the rapid ideas of a choatic visionary. You can talk out ideas, bring structure to projects and don’t need everything spoon fed to you or spec’ed out in pretty user stories. 
-
-
-What You'll Love About Us (Benefits and Perks) 
-
-
-High performance company culture. You won't be a cog in a machine. You'll be a key member of a high performance team that gets shit done. This is a place to grow and realize your potential, no matter where you are in your career.
-
-
-No office politics. We're small and flat. No dancing around sensitive topics or diverting resources from other teams. We're direct, we're honest, and we're here to accomplish big audacious goals.
-
-
-We value your ideas. At Vidalytics, my door is always open. Need help? Let's talk. Have a vision for the future of the company? I want to hear it. Think I suck at my job? Help me grow.
-
-
-Rest and relaxation. Employees get 20 days of PTO.
-
-
-Professional development. Want to keep learning? Vidalytics pays for classes, conferences, and more.
-
-
-You're more than an employee, you're a person. Every coworker you meet is committed to treating you with respect and kindness. You won't hear stuff like “It's just business.”
-
-
-This is a resume making position, where you'll learn a lot and carry real responsibility. You don't have to wait for someone to die or retire to move up, like in a megacorp.
-
-
-Entrepreneurial to our core. Not only are we a startup, but we need intrapreneurs who will help us scale, and we plan to start sister corps over time to form a portfolio of companies you could help found.
-
-
-Vidalytics' Values (Yes, We're Actually Serious About These) 
-
-
-Play to Win. We're competitors. We do what it takes to win. That means we will fail and we will lose, but we want to do those things fast so we can win, because winning is on the other side of mistakes.
-
-
-Scrappy. We're a startup and it's chaotic. This isn't the government. You need to learn fast, move fast, and handle it. If you want an easy job, go work at the government.
-
-
-Meritocracy. The best idea wins, not the person it came from. You can be direct and transparent with anyone. Start with analysis, form hypotheses, test small, measure results, iterate, and scale big with data. We can't have perfect data, so once a decision is made, get on board.
-
-
-Own Yourself. We do what we say, and we own what we've done. Mistakes happen. The worst thing is when someone doesn't own and learn from them. You trust us. We trust you.
-
-
-Self Actualization. This is a place for hyper learning. We want to scale, and you need to scale with us. That doesn't always mean climbing a ladder. It means upleveling skill, closing gaps, growing, and being self actualized.
-
-
-Conscious Teamwork. No politics. No bullshit. Instead, integrity, emotional intelligence, transparency, and curiosity. Attack ideas, not people.
-
-
-Cheers,
-Patrick Stiles
-Founder / CEO @ Vidalytics
-&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas</description><pubDate>Tue, 07 Jul 2026 12:49:42 +0000</pubDate></item><item><title>Vidalytics: [EUROPE ONLY] GTM MarTech Engineer (Growth &amp; Attribution) at Video MarTech SaaS  </title><link>https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas</link><description>Headquarters: Austin, TX
-    URL: https://vidalytics.com
-
-
-This is not a typical product engineering role, rather you’re gonna be the key technical person, as a fullstack engineer who gets marketing, for the GTM teams @ Vidalytics. Reporting to the CEO who owns these functions. LFG!&amp;nbsp;
-You’ll own tracking, attribution, and all things technical for the marketing and revenue teams.
-You will get a crash in marketing, revenue generation, as we’re on the bleeding edge in these regards in many ways.&amp;nbsp;
-These teams move fast, are very data driven and you’d be supported by the larger engineering team, the director of engineering, the director of business intelligence, and other folks from cross-departmental teams.&amp;nbsp;
-We’re Vidalytics.com. A video marketing platform that helps entrepreneurs scale their businesses in the face of bigger, better-funded competitors. We do this with the advanced tools in our video marketing &amp;amp; hosting platform. We’re 9 years old  and growing at a sustainable pace each year. And you’re going to be a part of the team that will add a few zeros to that growth rate.&amp;nbsp;
-&amp;nbsp;
-What You’ll Be Doing (Job Tasks) 
-
-
-Own, implement and deploy tracking and attribution across our customer journeys&amp;nbsp; (Webflow, Vercel, JS snippets), backend, and marketing automations&amp;nbsp;&amp;nbsp;
-
-
-Help marketers get vibe coded projects over the finish line, such as landing pages and small apps creation through Claude Code, Codex, etc.&amp;nbsp;
-
-
-Work closely with the CEO (who doubles as our CMO and Chief Revenue Officer) and our Director of Business Intelligence to super charge GTM data insights&amp;nbsp;
-
-
-Translate vague or loosely defined ideas into concrete, scoped tracking implementations
-
-
-Build &amp;amp; deploy fullstack steaks to our web app for GTM tests and tweaks we’re testing.&amp;nbsp;
-
-
-Help the marketing team go AI Native, be more technical and self-sufficient.&amp;nbsp;
-
-
-Add backend hooks and logic to capture events and customer actions server-side.&amp;nbsp;
-
-
-Help maintain attribution integrity across touchpoints, including CRM and ad platforms
-
-
-Help deploy server side split tests.
-
-
-(Nice-to-have) Write SQL queries to explore data and build funnel or campaign dashboards
-
-
-&amp;nbsp;
-Requirements 
-
-
-Fullstack engineer who gets marketing&amp;nbsp;
-
-
-Experience with web attribution practices
-
-
-Professional experience with AI tools such as Claude Code, Codex, Loveable, Figma Weavy, etc.
-
-
-Know your way around page speed analysis tools to squeeze out every ms of latency
-
-
-Experience with n8n, Zapier or similar low-code automation tools
-
-
-Experience with marketing funnels, ideally Direct Response as well as Google Tag Manager, Meta CAPI, Google Ads, etc.&amp;nbsp;
-
-
-Solid JavaScript skills, especially in-browser tracking and event handling
-
-
-Backend fundamentals: you can hook into backend logic and write some code
-
-
-Ability to wrangle 3rd party tools like Typeform, Calendly, Webflow, etc.
-
-
-Excellent written and verbal English communication
-
-
-Strong sense of ownership and ability to work independently with vague or partial specs
-
-
-Comfortable aligning data between frontend, backend, and external systems like HubSpot and Intercom
-
-
-SQL experience for ad-hoc queries and funnel validation
-
-
-Your working hours need to have a strong overload w/ Eastern US time zone. Can discuss further.&amp;nbsp;
-
-
-&amp;nbsp;
-Nice-to-have 
-
-
-PostHoq &amp;amp; HogQL experience (this is the center of our attribution)
-
-
-Dashboarding/visualization experience with Grafana&amp;nbsp;
-
-
-Familiarity with MixPanel or similar product analytics tools
-
-
-Basic familiarity with GCP services
-
-
-Exposure to Video Marketing
-
-
-Experience with Meta's Conversion API Gateway and Signals Gateway
-
-
-Knowing your way around the odd reverse proxy setup (for maximizing accuracy through maintaining 1st party tracking infrastructure)
-
-
-GDPR, HIPPA and other regulation knowledge
-
-
-&amp;nbsp;
-Our Tech &amp;amp; Tooling Stack 
-
-
-Frontend: Webflow, React SPA App, custom / Claude Code / Lovable&amp;nbsp;
-
-
-Backend: GCP, PHP 8, Go, Node.js
-
-
-Tracking &amp;amp; Attribution: Posthog, MixPanel, GTM, Meta Pixel/CAPI, Google Ads, custom&amp;nbsp;
-
-
-CRM &amp;amp; Automation: HubSpot, Intercom, Chargify, Stripe
-
-
-Data &amp;amp; Analytics: BigQuery, MySQL, Grafana, MixPanel, PostHog (for marketing analytics only)
-
-
-Widgets: Typeform, Calendly
-
-
-AI: Claude, Loveable, Figma Weavy, Midjourney, Perplexity, ChatGPT, Vercel…
-
-
-&amp;nbsp;
-Who You Are (Personality Type) 
-
-
-You’re a translator between marketing and code: you ask the right questions, fill in gaps, and get things done.
-
-
-Biased toward shipping fast. You deliver in small, valuable chunks.
-
-
-Breaking down ambiguous requests? Easy. You enjoy untangling marketing noise into technical tasks.
-
-
-Self-organized and proactive. You don’t wait for instructions, you move.
-
-
-Clear communicator. You explain technical ideas well – written and verbal.
-
-
-You measure twice, cut once. Getting it First-Time-Right is your default.
-
-
-Direct and constructive. You give and receive honest feedback with care and clarity.
-
-
-&amp;nbsp;
-What You’ll Love About Us (Benefits and Perks) 
-
-
-High performance company culture. You won’t be a cog in a machine. Rather you’ll be a key member of a high performance team that is getting shit done. This is a place to grow and realize your potential, no matter what level you’re at in your career.&amp;nbsp;
-
-
-No office politics. We’re small and flat. There is no bullshit of trying to dance around sensitive topics. Divert resources from other division’s projects. We’re direct, we’re honest, we’re here to accomplish big audacious goals.&amp;nbsp;
-
-
-We value your ideas. At Vidalytics, my door is always open. Need help? Let’s talk! Have a vision for the future of the company? I want to hear it! Think I suck at my job? Help me grow!&amp;nbsp;
-
-
-Rest and relaxation. Employees get 20 days of PTO.&amp;nbsp;
-
-
-Professional development. Want to continue your education? Vidalytics pays for classes, conferences, and more.
-
-
-You’re more than an employee, you’re a person. Every co-worker you’ll meet is committed to treating you with respect and kindness. You won’t hear stuff like, “It’s just business.”
-
-
-This is a resume-making position, where you’ll learn a lot and have a lot of responsibility. You don’t have to wait for someone to die or retire to move up, like in a mega-corp.&amp;nbsp;
-
-
-Entrepreneurial to our core – Not only are we a startup, but we need intrapreneurs that will help us scale, and we’re looking to start other sister corps in time to form a portfolio of companies, which you could be a co-founder of.
-
-
-&amp;nbsp;
-Vidalytics’ Values&amp;nbsp;
-(Yes, We’re Actually Serious About These) 
-&amp;nbsp;
-Play to Win – We’re competitors. We do what it takes to win. This means that we will fail, we will lose, but we want to do these things fast… because winning only comes after trial and error. Default paves the way to success. Or…&amp;nbsp; winning is on the other side of mistakes.&amp;nbsp;
-&amp;nbsp;
-Scrappy&amp;nbsp; – We’re a startup, it’s chaotic. This isn’t the government. You need to be able to learn fast, move fast and handle it. You need to be able to survive in a scrappy entrepreneur environment. This means often you need to figure it out but yet also not wander in the desert. We will be there with you, but if you want an easy job, go work at the government.&amp;nbsp;
-&amp;nbsp;
-Meritocracy – The best idea wins, not who it comes from… This means you can be direct &amp;amp; transparent with anyone. Test your ideas starting with analysis, form hypotheses, test small, measure results, iterate, and scale big with data. We can’t have perfect data. So when a decision is made, get on board.&amp;nbsp;
-&amp;nbsp;
-Own Yourself – We do what we say, and own what we’ve done. Mistakes happen. But the worst thing that can happen is when someone doesn’t own and learn from them. You trust us. We trust you.&amp;nbsp;
-&amp;nbsp;
-Self Actualization – This is a place for hyper learning. We want to scale. You need to scale with us, this doesn't always mean climbing some ladder, but upleveling skill – closing gaps, growing and being self actualized.&amp;nbsp;
-&amp;nbsp;
-Conscious Teamwork – No politics. No bullshit. Rather integrity, emotional intelligence, transparency and curiosity. Attack ideas, not people.&amp;nbsp;
-&amp;nbsp;
-Cheers,
-Patrick Stiles
-CEO @ Vidalytics
-&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas</description><pubDate>Tue, 07 Jul 2026 12:39:09 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5</description><pubDate>Wed, 08 Jul 2026 15:28:25 +0000</pubDate></item></channel></rss>
