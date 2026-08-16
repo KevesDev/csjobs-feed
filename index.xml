@@ -1,5 +1,166 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Coinbase: Counsel, Commercial</title><link>https://weworkremotely.com/remote-jobs/coinbase-counsel-commercial</link><description>Headquarters: Remote - USA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Stripe: GTM Operations Process Architect</title><link>https://weworkremotely.com/remote-jobs/stripe-gtm-operations-process-architect</link><description>Headquarters: US Remote National
+
+
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.
+About the team
+The Go-to-Market (GTM) Planning Strategy and Operations team works at the intersection of corporate planning, GTM Strategy, Product, GTM and Regional Strategy and Operations with responsibility for ensuring that we land the Stripe annual rhythm in a smooth and timely manner. This entails three main pillars:
+• Building and landing foundations (tooling, process, and strategic changes) for next cycle • Ensuring budgets, territories, targets, comp plans, reporting, and enablement are delivered to GTM in a timely manner • Effectively managing in-year Account, Territory, Quota, and Adjustments
+Within this organization, the Central Policy and Operations team owns the processes, systems, and automation that power territory management, account placement, segmentation, and business adjustments at scale—processing over 10,000 account movements per month and operating critical workflows that serve the entire GTM organization at scale.
+What you’ll do
+We're seeking an experienced systems practitioner to own the end-to-end processes, Mechanization and Automation pillar for Central Operations end-to-end. In this role, you'll be the person who wakes up every day focused on ensuring our support tooling has a clear roadmap, our processes are documented and AI-enabled, and our operational systems are built to scale without adding headcount.
+You'll take ownership of how we design, build, and evolve the systems that underpin Stripe's territory, segmentation, quota, and adjustment infrastructure. This means moving beyond maintaining what exists today—you'll architect what comes next. You'll drive the transition from legacy tooling toward Stripe-native solutions, reduce contractor dependency through intelligent automation, and ensure every process is auditable, documented, and delegatable.
+This is a role for someone who understands the difference between automating a broken process and redesigning it before automation—and has the experience to know which one to do when. Additionally, being able to work cross-functionally at 500-foot collaboration and working at 20,000 feet as needed.
+Responsibilities
+
+Own the process and tooling roadmap for Central Policy and Operations independently, setting short-to-medium-term strategic direction and aligning investment to areas of greatest need 
+Drive cross-functional initiatives across GTM, Finance Systems, and Data Engineering to align territory, quota, and adjustment data for AI enablement 
+Architect the path to transition off external tools toward Stripe-native tooling—building the business case, influencing resource allocation, and measuring ROI 
+Design and implement automation for Account Team assignments, User Segmentation updates, and Manager and Approval workflows in Salesforce to reduce manual intervention and contractor dependency 
+Build audit frameworks, compliance metrics, and governance processes for scaled systems (Territory Assignments, Quota, Workflows, Adjustment Approvals)&amp;nbsp;
+Establish documentation, process architecture, and AI-ready task design that enables leadership visibility, vendor onboarding, and repeatable delegation 
+Anticipate system integration risks and resolve them before they become escalations—including cross-system data movement between Salesforce, territory engines, and reporting infrastructure
+
+Who you are
+We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+10 or more years of experience in business operations, systems development, technical program management, or a related discipline with demonstrated progression in scope and complexity
+Proven track record of owning and delivering end-to-end systems or tooling programs in a cross-functional environment—from business case through implementation and ongoing optimization
+Strong SQL proficiency and experience with data architecture, pipeline design, or systems integration work
+Experience leading process redesign and automation initiatives that delivered measurable operational efficiency or cost reduction
+Demonstrated ability to influence senior stakeholders, build investment cases, and drive decisions across functions without direct authority
+Effective communicator who can translate complex technical concepts for non-technical audiences and leadership, and translate business requirements into system specifications
+
+Preferred qualifications
+
+Experience with Anaplan, Salesforce, Approval Workflows, or Process design and administration, configuration, or development (flows, automation, data management) 
+Familiarity with territory management, sales operations planning cycles, or GTM systems at scale 
+Background in designing processes for AI enablement—structured documentation, task decomposition, and governance frameworks 
+Experience managing vendor relationships or coordinating with external implementation partners
+
+
+To apply: https://weworkremotely.com/remote-jobs/stripe-gtm-operations-process-architect</description><pubDate>Wed, 22 Jul 2026 07:02:54 +0000</pubDate></item><item><title>Stripe: Fullstack Engineer, Privy</title><link>https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy</link><description>Headquarters: NYC-Privy, US-Remote 
+
+
+Who we are
+About Privy
+Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexible APIs and tools for developers that make it easy to build new products on crypto rails.
+Privy owns the abstractions and infrastructure layer above wallets, integrating across chains, third-party providers, and Stripe products like Treasury and Link. We get to solve hard technical problems while leveraging Stripe's distribution to reach customers like Ramp, Klarna, Deel, Kraken, Hyperliquid, and Fomo — powering experiences for both mainstream users and crypto natives.
+Learn more about Privy:&amp;nbsp;Privy and Stripe: Bringing crypto to everyone
+About the team
+Engineering at Privy is distinguished by
+
+High urgency—Shipping very small iterations, very fast, to learn very quickly
+Product taste—Our customers are developers, and to build effective products for them requires technical knowledge—you will often be "the PM."
+Security mindset—A great portion of our product is trust. While we have a dedicated security team, every engineer brings security to their designs from the start.
+
+In practice, we use&amp;nbsp;boring technology like Node, React, and AWS so we can focus our engineering energy entirely on pushing the boundaries of Privy's core product, e.g. through hardware enclaves, multi-region low latency APIs, and blockchain abstractions that are accessible to mainstream developers.
+What you’ll do
+As a Fullstack Engineer at Privy, you will take on large areas of ownership in Privy’s product, architecture, and infrastructure. Because we build a developer tool, engineering and product are inextricably connected. We value intuitive interfaces, simplicity, and rapid iteration. Above all, we are building a company together to ship products that users love.
+
+Design intuitive interfaces to break down complex systems and turn them into delightful developer tooling
+Build and integrate systems end-to-end across client-side and server-side APIs to enable a seamless developer experience
+Design and implement end-to-end product features driven by user needs
+Advocate for usability and interface coherence across our teams and products
+Enforce web development best practices across our entire product, collaborating with other core stakeholders
+
+Minimum requirements
+
+8+ years of experience
+Deep knowledge of React, TypeScript, Next.js
+Experience building and maintaining a production system at scale
+Prior experience working closely with a designer to iterate on a product
+An understanding of modern web development best practices
+Experience writing delightful developer documentation
+
+Preferred qualifications
+
+Strong preference for experience in an API-based business and in payments, fintech, or crypto
+Written open-source developer tooling
+Published about your work (code, presentations, papers, blog posts, etc.)
+Past experience working closely with Design teams in authentication, security, or web3
+
+
+To apply: https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy</description><pubDate>Wed, 22 Jul 2026 07:02:37 +0000</pubDate></item><item><title>Coinbase: GFCO Program Manager</title><link>https://weworkremotely.com/remote-jobs/coinbase-gfco-program-manager</link><description>Headquarters: Remote - USA
+
+
+Ready to do the most impactful work of your career? At&amp;nbsp;Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;learn more about working at Coinbase.Team/Role Overview
+The GFCO Programs team is the end-to-end DRI for the financial crimes compliance operations experience and automation across Coinbase's global product and entity footprint. We design, govern, and continuously improve compliance operations through AI-first principles, ensuring regulatory soundness, protecting Coinbase, and delivering a better experience for our customers.
+We partner deeply with Central Compliance, Compliance Technology, Engineering &amp;amp; Architecture (EAA), GFCO Operations, Analytics, Workforce Management (WFM), Financial Crimes Data Intelligence (FCDI), and Legal to translate regulatory obligations and operational opportunities into scalable, durable programs across all compliance workstreams, products, and jurisdictions — including Suspicious Activity Monitoring (SAM), Enhanced Due Diligence (EDD), Screening, and Complaints.
+As a GFCO Program Manager (L6), you will serve as a senior, independent program owner within GFCO Programs — owning one or more complex compliance program verticals end-to-end. You will operate with a high degree of autonomy, drive alignment with Director+ stakeholders, and lead programs that span 5+ cross-functional teams, including external parties. You will act as a thought partner to GFCO leadership and be the connective tissue between Compliance Technology, EAA, Operations, WFM, and Central Compliance.
+&amp;nbsp;
+What You'll Be Doing
+
+Own end-to-end program strategy, planning, and execution for one or more complex GFCO compliance program areas (e.g., SAM/CAR automation, EDD volume reduction, Complaints, Operations, New Jurisdictions &amp;amp; Launches)
+Develop and drive program charters, roadmaps, and governance frameworks for long-tail, multi-constraint programs, including those with external regulatory commitments
+Lead cross-functional delivery across 5+ XFN teams (Compliance Tech, EAA, Ops, WFM, Legal, Analytics) and drive alignment at the Director+ level
+Translate regulatory obligations, operational gaps, and model performance signals into actionable, prioritized program strategies using an Eliminate → Optimize → Automate framework
+Own launch readiness for new products, jurisdictions, and entity expansions, ensuring AML obligation mapping, tooling updates, procedural guidance, volume sizing, and training content are completed before go-live
+Proactively identify and resolve program risks, manage competing priorities with transparent trade-off recommendations to GFCO leadership, and ensure no surprises at regulatory examinations
+Drive WFM-vetted cost savings projections across automation and operational efficiency initiatives, and maintain accountability for reporting only confirmed actuals
+Own intake discipline for your program area — ensuring all automation requests, tooling changes, and resource asks enter through formal intake channels with documented requirements and testing plans
+Author and maintain high-quality strategy and decision documents (P/PSs, RAPIDs, charters) that inform Director/VP-level decision-making
+Manage the feedback loop between automation outputs, QC findings, alert productivity data, and investigator feedback, driving continuous improvement in both the automation model and upstream alerting systems
+Lead Code Yellow-equivalent responses within GFCO (e.g., major lookback events, regulatory deadline responses, Sev2 volume surges)
+
+&amp;nbsp;
+What We Look For
+
+8+ years of program or project management experience, with 3+ years in financial crimes compliance, AML, BSA/AML operations, or a related regulatory domain
+Demonstrated ability to independently drive large-scale, multi-stakeholder programs in a regulated environment with minimal guidance
+Deep understanding of AML/CFT program operations, including SAM/TMS, EDD, Screening, and SAR filing workflows, and the technology landscape that supports them (e.g., TMS, CMS)
+Experience navigating Known Problem / Unknown Solution environments with many constraints (critical resource gaps, external regulatory commitments)
+Strong strategy and storytelling skills, ability to create clarity through well-crafted charters, roadmaps, and decision documents for Director+ audiences
+Track record of driving operational efficiency and cost savings through automation programs, with rigorous measurement and WFM-validated outcomes
+Proficiency in program management tools (Asana, Jira, Smartsheet) and data tools (Looker, Snowflake, Google Sheets)
+Excellent communication and stakeholder management skills; comfortable influencing at the Director and VP level
+Bachelor's degree required; fields of study in Business, Technology, Operations, Finance, Law, or a related discipline preferred
+References required (mandatory for L6+ roles)
+Pay Transparency Notice: Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)).&amp;nbsp;
+&amp;nbsp;Annual base salary range (excluding equity and bonus):$193,970—$228,200 USD
+Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period.
+Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.
+US Applicants: View Employee Rights, Know Your Rights, and E-Verify Notice of Participation.
+Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial.
+Data Privacy &amp;amp; Arbitration: By submitting your application, you agree to our Candidate Privacy Notice. US applicants: By submitting your application, you agree to Arbitration of Disputes.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/coinbase-gfco-program-manager</description><pubDate>Wed, 22 Jul 2026 07:02:28 +0000</pubDate></item><item><title>Coinbase: Creative Director</title><link>https://weworkremotely.com/remote-jobs/coinbase-creative-director</link><description>Headquarters: Remote - Canada
+
+
+Ready to do the most impactful work of your career? At&amp;nbsp;Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;learn more about working at Coinbase.As Creative Director in Base's Creative Office, you'll lead breakthrough creative at the intersection of onchain art, culture, community, and technology. The Creative Office builds and fosters the Base brand with its core community of creatives and developers. You'll be hands-on with the work, prototyping ideas, concepting reactive creative in real time, and partnering with product leadership to deliver creative at the speed of onchain.
+What you'll do:
+
+Own the creative vision for the Base brand, developing timely, conceptually excellent work that drives community growth and differentiates Base in the onchain space.
+Partner with product leadership to design a creative workflow that is nimble, proactive, and fully integrated across brand and product.
+Lead proactive briefs and reactive creative concepting in real time with the onchain community, turning cultural moments into brand opportunities.
+Mentor developing talent across the in-house Creative Studio, setting a high bar for creative excellence and helping creatives from diverse brand backgrounds build onchain skills.
+Collaborate with internal strategists, creative producers, marketers, and operations leads to deliver industry-leading creative that connects deeply with creative and developer audiences.
+
+Required Skills and Experience:
+
+8+ years as a creative practitioner, with a portfolio demonstrating leadership of end-to-end creative campaigns in a design-driven team environment.
+2+ years of hands-on experience building creative specifically for onchain environments, with demonstrated ability to authentically engage developer and creative communities.
+Published body of onchain brand work (e.g., community activations, onchain art, social-first campaigns) with measurable audience engagement or community growth outcomes.
+Demonstrated ability to translate brand strategy into original creative concepts and execute them hands-on across digital, social, and onchain formats.
+Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.
+
+P77588
+#LI-remote
+&amp;nbsp;Pay Transparency Notice: The target annual base salary for this position can range as detailed below. Total compensation may also include equity and bonus eligibility and benefits (including medical, dental, and vision).Annual base salary range (excluding equity and bonus):$216,300—$216,300 CAD
+Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period.
+Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.
+US Applicants: View Employee Rights, Know Your Rights, and E-Verify Notice of Participation.
+Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial.
+Data Privacy &amp;amp; Arbitration: By submitting your application, you agree to our Candidate Privacy Notice. US applicants: By submitting your application, you agree to Arbitration of Disputes.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/coinbase-creative-director</description><pubDate>Wed, 22 Jul 2026 07:02:20 +0000</pubDate></item><item><title>Coinbase: Counsel, Commercial</title><link>https://weworkremotely.com/remote-jobs/coinbase-counsel-commercial</link><description>Headquarters: Remote - USA
 
 
 Ready to do the most impactful work of your career? At&amp;nbsp;Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;learn more about working at Coinbase.We're hiring a Commercial Counsel to join our Business Legal team and lead the legal strategy behind Coinbase's most important payments partnerships. This team powers the deals that connect Coinbase to banks, payment networks, fintechs, and strategic partners across the financial ecosystem. You'll own end-to-end legal execution on complex, first-of-their-kind transactions that set precedent for the crypto industry and directly accelerate Coinbase's growth.
@@ -841,38 +1002,4 @@ A one-time contracting process for endless opportunities, with no extra assessme
 Compensation
 Enjoy the same pay, every month with positions landed through Proxify.
 
-To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3</description><pubDate>Wed, 17 Jun 2026 17:33:39 +0000</pubDate></item><item><title>Steady Vision: Web Designer</title><link>https://weworkremotely.com/remote-jobs/steady-vision-web-designer</link><description>Headquarters: Boston, Massachusetts, United States
-    URL: http://steadyvision.com
-
-
-DescriptionWe are digital marketing agency seeking a UI/UX designer who exhibits strong attention to detail and thrives in a dynamic environment. We’re looking for someone who is passionate about what they do and enjoys working with a small team to create meaningful digital experiences.You’re A Fit If… You embrace change and are eager to learn and grow. You are organized and a good manager of time. You think and act creatively to solve problems. You are a good communicator and collaborator. You are willing to go the extra mile.  What You’ll Be Doing…Activities primarily focus on designing visual frameworks and responsive user interfaces. This covers all areas of digital and interactive design ranging from low fidelity wireframes to full scale visual systems and everything in between.RequirementsYou Must... Be a designer of everything digital (websites, email marketing, social media, etc.) Believe content and users inform design and interaction. Understand the interplay of design and development and have an appreciation for user experience. Have a working knowledge of responsive design principles. Work with Adobe Creative suite. It Would Be Nice If You Have... Experience with, or exposure to, HTML and CSS. Been directly involved in designing mobile and/or responsive websites. Exposure to open source based CMS (e.g. Drupal, ExpressionEngine, Joomla, WordPress). Experience with any of the following systems: HubSpot, Magento, Shopify, SquareSpace. Familiarity with customizing social media channels. Professional certifications and/or educational degrees. Benefits Small team in an entrepreneurial environment (be heard and have an impact). Scheduling flexibility and remote working opportunities. Company sponsored learning opportunities (e.g. resources, conferences, etc.). Casual attire, team lunches, group outings, free coffee (always!) and beer (occasionally!). Employee benefits (health/dental/life/disability insurance, 529 college fund &amp;amp; 401K options). 
-
-To apply: https://weworkremotely.com/remote-jobs/steady-vision-web-designer</description><pubDate>Thu, 16 Jul 2026 21:08:09 +0000</pubDate></item><item><title>SilverTech: Account Director</title><link>https://weworkremotely.com/remote-jobs/silvertech-account-director</link><description>Headquarters: Bedford, NH
-    URL: http://silvertech.com
-
-
-
-
-
-
-Full-time
-
-Description
-We’re looking for a strategic, relationship-driven Account Director to lead and grow some of SilverTech’s most important client partnerships. In this role, you’ll own the full client lifecycle for a portfolio of high-value accounts, acting as a trusted advisor while helping clients envision, plan, and execute long-term digital growth.You’ll work closely with client stakeholders and internal delivery teams to uncover opportunities, solve business challenges, and align SilverTech’s services to client goals. This is a highly visible role that blends strategy, client advocacy, and collaboration across sales, delivery, and leadership.&amp;nbsp;Location FlexibilityThis role offers flexibility based on candidate location and business needs, with the option to work hybrid from our Bedford, NH office or fully remote within the U.S.&amp;nbsp;Occasional travel may be required.&amp;nbsp;What You'll DoManage a portfolio of 10 - 12 high-value client accountsBuild strong, trusted relationships with client stakeholders at all levelsLead Quarterly Business Reviews (QBRs) to discuss goals, performance, risks, and future opportunitiesDevelop and present strategic and tactical account plans that align client needs with SilverTech’s service offeringsPartner with clients to define long-term, multi-year visions for platform growth and evolutionIdentify client pain points and opportunities, translating them into actionable solutionsCollaborate with delivery teams to define project scope, goals, assumptions, and deliverablesCoordinate estimates and proposals with internal teams and client stakeholdersPartner with Sales and the VP of Client Services to position proposals, value, and execution prioritiesServe as the client advocate internally to ensure work meets expectations for scope, timeline, and budgetManage and communicate scope documentation and statements of workStay informed on industry trends, emerging technologies, and best practices relevant to client needsMaintain accurate reporting and account documentation using Salesforce and other internal toolsRepresent SilverTech with professionalism, responsiveness, and a strong client-first mindsetBenefitsStrong compensation packageCompetitive health packages401k + company matchFlexible schedulesHybrid workweekUnlimited PTO after 5 yearsYour birthday offRegular learning &amp;amp; development opportunitiesMonthly company-provided lunchesA fun, collaborative, and innovative team that actually likes working togetherCutting-edge technology and creative freedomRegular crew events, outings, and more!We believe in career growth and will help you get where you want to go.What You Need to SucceedBachelor’s degree preferred (marketing, information technology, or related field)5–8 years of experience in digital marketing, technology, account management, consulting, or software-based environmentsProven success managing a $3–5M book of businessExperience working on large-scale, web-based or digital solutionsStrong business analysis skills with the ability to define client requirements and success criteriaExceptional client service orientation with strong verbal and written communication skillsAbility to collaborate effectively across cross-functional teamsExperience communicating strategy and recommendations to senior stakeholdersPrior consulting or business analysis experience is a plusWho We AreWe are an award-winning digital experience agency, with offices in New Hampshire and Ohio that thrives on combining big ideas and creative tech to solve today’s most challenging business problems. Our advanced skillsets and extensive experience have been proven to be successful in helping businesses achieve aggressive growth. Learn more about our team, values and the individuals who have led the agency since its inception in 1996 at silvertech.comOur VisionTo set the standard for digital excellence by building proactive, enduring partnerships that move clients forward with clarity and confidence.Our ValuesProfessional – “Deliver Excellence”: We act with integrity, honesty, and accountability, supporting one another and taking pride in delivering consistent, high-quality results for our clients.Passionate – “Explore Possibilities”: We stay curious and always look for ways to learn, grow, and innovate – solving complex problems with smart, practical solutions.Authentic – “Be True”: We show up as ourselves – genuine, approachable, and respectful – creating a space where everyone feels comfortable contributing.Connected – “Stronger Together”: We collaborate openly, value each other’s strengths, and believe our shared knowledge and teamwork make us better than we are alone.Autonomous – “Own the Outcome”: We trust each other to make thoughtful decisions that support our team’s success, creating space for people to use their strengths and personality while removing barriers and providing the tools needed to grow and thrive.SilverTech, Inc. is an equal opportunity employer.We participate in E-Verify for all employees -This Employer will provide the Social Security Administration and, if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization. Employers may not use e-Verify to pre-screen job applicants and may not limit or influence the choice of documents presented for use on the Form I-9
-
-
-To apply: https://weworkremotely.com/remote-jobs/silvertech-account-director</description><pubDate>Thu, 16 Jul 2026 21:08:09 +0000</pubDate></item><item><title>Work and Study Travel: Website Builder / WordPress Specialist</title><link>https://weworkremotely.com/remote-jobs/work-and-study-travel-website-builder-wordpress-specialist</link><description>Headquarters: Teletrabajo
-    URL: http://workandstudy.travel
-
-
-
-¡Únete a nuestro equipo y ayuda a cambiar vidas a través de la educación y los viajes! ✈️🌍En Work and Study Travel (https://workandstudy.travel/), buscamos una persona encargada de construir, mantener y optimizar sitios web principalmente en WordPress, enfocada en páginas, landings, formularios, traducciones, rendimiento y seguridad básica.Responsabilidades: - Crear y mantener páginas web, landings y secciones nuevas. - Configurar formularios, mensajes, validaciones e integraciones. - Hacer ajustes visuales y funcionales en WordPress. - Mantener traducciones y estructura multilingüe. - Apoyar en optimización SEO técnica básica. - Revisar incidencias de plugins, caché, formularios y visualización. - Aplicar buenas prácticas de seguridad básica en WordPress.Conocimientos principales: - WordPress avanzado. - Elementor Pro, Avada, Gutenberg u otros website builders. - Plugins de formularios como Contact Form 7, Elementor Forms, Fluent Forms o similares. - Integraciones básicas con webhooks. - WPML para sitios multilingües. - Wordfence u otros plugins de seguridad. - Cloudflare: DNS, caché, reglas básicas, SSL y seguridad. - Rank Math, Yoast SEO o plugins similares. - HTML, CSS y JavaScript básico. - Optimización de velocidad, responsive design y Core Web Vitals. - Conocimiento básico de Linux/SSH y Google Cloud VM para revisar logs, acceder al servidor o reiniciar servicios simples. ¿Qué ofrecemos? 16,000 MX mensuales
-
-
-To apply: https://weworkremotely.com/remote-jobs/work-and-study-travel-website-builder-wordpress-specialist</description><pubDate>Thu, 16 Jul 2026 21:08:09 +0000</pubDate></item><item><title>Snapscale: WP dev (remote)</title><link>https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote</link><description>Headquarters: India, United States
-    URL: http://snapscale.com
-
-
-Key&amp;nbsp;Responsibilities&amp;nbsp;&amp;nbsp;1.Troubleshoot&amp;nbsp;and&amp;nbsp;resolve&amp;nbsp;WordPress&amp;nbsp;website&amp;nbsp;issues&amp;nbsp;via&amp;nbsp;Zoho&amp;nbsp;ticketing&amp;nbsp;system&amp;nbsp;&amp;nbsp;2.Diagnose&amp;nbsp;and&amp;nbsp;resolve&amp;nbsp;WordPress&amp;nbsp;plugin&amp;nbsp;conflicts&amp;nbsp;and&amp;nbsp;theme&amp;nbsp;issues&amp;nbsp;&amp;nbsp;3.Troubleshoot&amp;nbsp;third-party&amp;nbsp;API&amp;nbsp;integrations&amp;nbsp;(e.g.,&amp;nbsp;Cycle,&amp;nbsp;Blueprint&amp;nbsp;via&amp;nbsp;Apient)&amp;nbsp;&amp;nbsp;4.Communicate&amp;nbsp;ticket&amp;nbsp;status&amp;nbsp;updates&amp;nbsp;and&amp;nbsp;completion&amp;nbsp;to&amp;nbsp;internal&amp;nbsp;team&amp;nbsp;&amp;nbsp;Skills&amp;nbsp;Requirements&amp;nbsp;1.Proficiency&amp;nbsp;in&amp;nbsp;WordPress&amp;nbsp;and&amp;nbsp;PHP&amp;nbsp;development.&amp;nbsp;2.Working&amp;nbsp;knowledge&amp;nbsp;of&amp;nbsp;CSS&amp;nbsp;and&amp;nbsp;HTML&amp;nbsp;for&amp;nbsp;website&amp;nbsp;customization&amp;nbsp;and&amp;nbsp;maintenance.&amp;nbsp;3.Experience&amp;nbsp;with&amp;nbsp;WooCommerce&amp;nbsp;and&amp;nbsp;eCommerce&amp;nbsp;website&amp;nbsp;setup&amp;nbsp;and&amp;nbsp;management.&amp;nbsp;4.Familiarity&amp;nbsp;with&amp;nbsp;Cornerstone&amp;nbsp;Page&amp;nbsp;Builder&amp;nbsp;(preferred;&amp;nbsp;training&amp;nbsp;can&amp;nbsp;be&amp;nbsp;provided).&amp;nbsp;5.Strong&amp;nbsp;communication&amp;nbsp;skills&amp;nbsp;and&amp;nbsp;the&amp;nbsp;ability&amp;nbsp;to&amp;nbsp;work&amp;nbsp;collaboratively&amp;nbsp;in&amp;nbsp;a&amp;nbsp;team&amp;nbsp;environment.&amp;nbsp;&amp;nbsp;HAVE&amp;nbsp;&amp;nbsp;•Ticket&amp;nbsp;completion&amp;nbsp;rate,&amp;nbsp;average&amp;nbsp;ticket&amp;nbsp;resolution&amp;nbsp;time,&amp;nbsp;team&amp;nbsp;communication&amp;nbsp;responsiveness&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote</description><pubDate>Thu, 16 Jul 2026 21:08:09 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3</description><pubDate>Wed, 17 Jun 2026 17:33:39 +0000</pubDate></item></channel></rss>
