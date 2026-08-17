@@ -1,5 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Stripe: GTM Operations Process Architect</title><link>https://weworkremotely.com/remote-jobs/stripe-gtm-operations-process-architect</link><description>Headquarters: US Remote National
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Stripe: Head of Self-Serve Paid Media</title><link>https://weworkremotely.com/remote-jobs/stripe-head-of-self-serve-paid-media</link><description>Headquarters: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US, Toronto, Remote in Canada
+
+
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.
+About the team
+Stripe's growth marketing team is responsible for driving efficient acquisition and activation of millions of businesses globally from solo founders to scaling startups. Paid media is a critical pillar of our self-serve acquisition strategy. The paid media team manages significant investment across search, social, video and other channels to acquire developers, founders, and operators who will build on Stripe. We partner deeply with growth, data science, analytics, data engineering, creative, finance and other marketers to deliver profitable growth via paid media.&amp;nbsp;
+What you’ll do
+As Head of Self-Serve Paid Media, you will own and evolve Stripe's self-serve paid acquisition strategy, managing a team of 5-10 paid media experts and working cross-functionally with leaders across analytics, creative, product marketing, growth engineering, and finance. You'll be responsible for a substantial media budget and accountable for delivering efficient, scalable growth in signups, activations, and revenue. In this role, you'll own the long term strategy for how paid media delivers growth in Stripe’s self-serve business. You'll identify new channels and formats, build measurement frameworks that connect spend to business outcomes, and develop your team into world-class practitioners. You'll partner closely with data science to advance our attribution and incrementality capabilities, and with internal and external creative partners to produce high-performing assets at scale.
+Responsibilities
+
+Own the self-serve paid media strategy end-to-end, including budget allocation, channel mix, and performance targets across search, social, display, video, and other channels
+Lead, develop, and retain a high-performing team of 5-10 paid media specialists, fostering a culture of experimentation, craft, and growth
+Drive measurable improvements in acquisition efficiency (ROAS, incremental activations) while scaling total investment
+Partner cross-functionally with analytics, creative strategy, growth engineering, product marketing, lifecycle, and finance to maximize the potential impact of paid media
+Improve the measurement capabilities: partner with data science to improve attribution modeling, incrementality testing (geo-holdouts, media mix models), and forecasting
+Develop and manage the self-serve paid media budget, including pacing, forecasting, and executive reporting
+Identify and scale emerging channels and formats
+Represent paid media performance and strategy in leadership forums and to diverse stakeholders.
+
+Who you are
+We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+10+ years of experience in performance marketing or paid media, with at least 3 years leading a team&amp;nbsp;
+Demonstrated experience managing large-scale paid media budgets with accountability for business outcomes through to revenue (i.e. not just top of funnel)
+Strong analytical foundation: understand attribution, incrementality testing, LTV and data-driven optimization
+Experience in B2B SaaS, developer tools, fintech, or high-growth technology companies
+Track record of building, developing, and retaining high-performing marketing teams
+Creative sensibility: you have a strong POV on what creative works best for each platform and the level of creative velocity and quality that is required
+Experience working cross-functionally with data science, engineering, creative, and finance partners to deliver growth
+
+Preferred qualifications
+
+Experience with self-serve or product-led growth models where paid media must drive not just leads but product activations
+Background in international paid media strategy, including managing campaigns across multiple markets and languages
+Experience building or advancing measurement capabilities such as media mix models, geo-based incrementality testing, or multi-touch attribution systems
+Comfort operating in a fast-paced, metrics-driven culture
+
+
+To apply: https://weworkremotely.com/remote-jobs/stripe-head-of-self-serve-paid-media</description><pubDate>Wed, 22 Jul 2026 07:03:14 +0000</pubDate></item><item><title>Stripe: GTM Operations Process Architect</title><link>https://weworkremotely.com/remote-jobs/stripe-gtm-operations-process-architect</link><description>Headquarters: US Remote National
 
 
 Who we are 
@@ -933,73 +974,4 @@ About MapTiler
 We make maps easy so that everyone can understand the world better. Our platform powers everything from global weather forecasting and humanitarian crisis management to flight trackers and the Swiss railways. Our maps are viewed by hundreds of millions of people worldwide every month.
 We are deeply rooted in the developer and open-source communities. Since our users and customers are primarily developers, engineers, and geo-experts, we don't do traditional corporate account management. Instead, we build technical partnerships.
 
-To apply: https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe</description><pubDate>Tue, 21 Jul 2026 14:57:31 +0000</pubDate></item><item><title>Proxify AB: Senior Fullstack Developer (Python)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3</link><description>Headquarters: Sweden
-    URL: http://career.proxify.io
-
-
-The Role:
-&amp;nbsp;
-We are looking for a Senior Fullstack Python Developer to join our fast-growing Network.
-In this role, you’ll lead the design and implementation of scalable backend services and APIs using Python (FastAPI, Django, or Flask), while delivering polished, performant user interfaces using modern frontend frameworks such as React.js or Vue.js.
-&amp;nbsp;
-What we are looking for:
-
-5+ years of professional software development experience with strong fullstack exposure.
-3+ years of production experience with Python (FastAPI, Django, Flask).
-Solid knowledge of JavaScript/TypeScript, HTML5, CSS3.
-Strong experience with React.js or Vue.js (or similar modern frameworks such as Next.js/Nuxt.js).
-Experience with relational databases (PostgreSQL, MySQL) and ORMs such as SQLAlchemy or Django ORM.
-Strong understanding of RESTful API design and integration patterns.
-Experience writing automated tests (unit, integration) for both backend and frontend.
-Practical experience with Docker and familiarity with CI/CD pipelines (GitHub Actions, GitLab CI, CircleCI, etc.).
-Experience deploying and operating services in the cloud (AWS, Azure, GCP).
-Strong problem-solving skills and excellent English communication (written and spoken).
-Ability to work independently and deliver high-quality results in a remote setup.
-Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.
-
-&amp;nbsp;
-Nice-to-have:
-
-Deep experience with TypeScript and modern frontend tooling (Vite, Webpack, Turbopack).
-Familiarity with microservices, DDD, CQRS, or event-driven architectures.
-Experience with GraphQL and schema design.
-Knowledge of message brokers (RabbitMQ, Kafka, Redis Streams).
-Experience with Kubernetes or other orchestration platforms.
-Exposure to performance tuning, caching strategies, and observability (logs, tracing, metrics).
-Security best practices (OWASP, auth flows, OAuth2/OpenID Connect).
-Background in startups or fast-paced product environments.
-Contributions to open-source projects or published technical content.
-
-&amp;nbsp;
-Responsibilities:
-
-Design, implement, and operate scalable backend services using Python (FastAPI, Django, Flask).
-Build and maintain responsive, accessible web UIs using React.js, Vue.js, or similar modern frameworks.
-Design, document, and consume RESTful APIs (and optionally GraphQL).
-Integrate backend systems with relational and NoSQL databases.
-Ensure high code quality through unit/integration tests, code reviews, and automated pipelines.
-Make architectural decisions across backend, frontend, and system integration (monolith vs microservices).
-Collaborate with designers and product teams to translate requirements into technical solutions and excellent user experiences.
-Troubleshoot production issues, optimize performance, and ensure reliability and security.
-Mentor and guide other engineers, helping elevate team best practices.
-Work in an agile environment and contribute to continuous process and delivery improvements.
-Document architectural decisions, API contracts, workflows, and deployment procedures.
-
-What we offer:
-&amp;nbsp;
-Get paid, not played
-No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
-Predictable project hours
-Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
-Flex days, so you can recharge
-Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
-Career-accelerating positions at cutting-edge companies
-Discover exclusive long-term remote positions at the world's most exciting companies.
-Hand-picked opportunities just for you
-Skip the typical recruitment roadblocks and biases with personally matched positions.
-One seamless process, multiple opportunities
-A one-time contracting process for endless opportunities, with no extra assessments.
-Compensation
-Enjoy the same pay, every month with positions landed through Proxify.
-
-To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3</description><pubDate>Wed, 17 Jun 2026 17:33:39 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe</description><pubDate>Tue, 21 Jul 2026 14:57:31 +0000</pubDate></item></channel></rss>
