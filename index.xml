@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Coinbase: Senior Software Engineer, Backend - Platform (Core AI Automation)</title><link>https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-platform-core-ai-automation</link><description>Headquarters: Remote - USA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Coinbase: Senior Software Engineer, Backend (Consumer - Risk)</title><link>https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-consumer-risk</link><description>Headquarters: Remote - Canada
+
+
+Ready to do the most impactful work of your career? At&amp;nbsp;Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;learn more about working at Coinbase.As a Senior Software Engineer on the Risk Engineering team within the Consumer &amp;amp; Business group, you'll build and optimize the systems that detect and prevent fraud, manage credit and market risk, and protect millions of users from financial threats in real time at crypto-market scale. You'll provide technical leadership for end-to-end projects, drive architectural decisions that shape our risk detection and mitigation systems, and deliver complex features from inception through production. Your work directly reduces financial loss and keeps Coinbase users safe.
+What you'll do:
+
+Lead the design and delivery of complex risk platform features end-to-end, from architecture through implementation, deployment, and monitoring, with stringent requirements for correctness, performance, and reliability
+Drive architectural decisions that shape Coinbase's risk detection and mitigation systems, translating ambiguous business requirements into scalable working architectures that balance fraud prevention with user experience
+Partner cross-functionally with Data Science, ML, Risk Analysts, Product, and Compliance teams to build proactive systems (real-time decisioning engines, model-driven fraud detection) and reactive solutions (incident response tooling, compliance-driven risk controls)
+Build AI-native risk systems that leverage fleets of agents to automate complex detection and response workflows, significantly reducing the need for manual intervention
+Strengthen the team by mentoring engineers, conducting rigorous code reviews, writing technical design documents for complex systems, and championing engineering best practices across the codebase
+Own system quality and operational excellence by proactively addressing technical debt, driving bug triaging, and leading incident response and post-mortems to ensure platform reliability
+
+Required Skills and Experience:
+
+5+ years of backend software engineering experience with a track record of delivering complex, high-impact systems in production environments
+Deep proficiency in backend languages (Go, Ruby, Python, or Java) with demonstrated experience designing distributed systems including microservices, event-driven architectures, and REST/GraphQL APIs
+Proven ability to translate ambiguous requirements into clear technical plans and working architectures, driving technical clarity across engineering, product, and data science teams
+Track record leading end-to-end projects with long-term impact, including scoping, design, implementation, monitoring, and mentoring other engineers through the process
+Experience leading incident response, conducting post-mortems, and driving measurable operational improvements in high-availability systems
+Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.
+
+P76938
+#LI-RemotePay Transparency Notice: The target annual base salary for this position can range as detailed below. Total compensation may also include equity and bonus eligibility and benefits (including medical, dental, and vision).Annual base salary range (excluding equity and bonus):$191,100—$191,100 CAD
+Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period.
+Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.
+US Applicants: View Employee Rights, Know Your Rights, and E-Verify Notice of Participation.
+Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial.
+Data Privacy &amp;amp; Arbitration: By submitting your application, you agree to our Candidate Privacy Notice. US applicants: By submitting your application, you agree to Arbitration of Disputes.
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-consumer-risk</description><pubDate>Thu, 23 Jul 2026 07:03:54 +0000</pubDate></item><item><title>Coinbase: Senior Software Engineer, Backend - Platform (Core AI Automation)</title><link>https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-platform-core-ai-automation</link><description>Headquarters: Remote - USA
 
 
 Ready to do the most impactful work of your career? At&amp;nbsp;Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;learn more about working at Coinbase.As a Senior Software Engineer on the Platform Core Automation team, you'll build the AI infrastructure and agentic systems that automate customer support and compliance operations at Coinbase. This team is reimagining what these processes look like when AI handles them end-to-end, replacing manual workflows with intelligent agents that resolve customer issues and execute compliance tasks autonomously. You'll own the design and delivery of LLM-powered systems, grounding techniques, and integration pipelines that directly reduce resolution times, cut costs, and improve accuracy across millions of customer interactions.
@@ -992,37 +1024,4 @@ Experience with third-party risk management, RFP and DDQ response processes, or 
 Privacy certification such as CIPP/E, CIPP/US, or CIPM is a plus
 
 
-To apply: https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager</description><pubDate>Thu, 23 Jul 2026 07:00:55 +0000</pubDate></item><item><title>Speechify Inc: Senior Software Engineer, Web</title><link>https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1</link><description>Headquarters: Florida
-    URL: http://www.speechify.com
-
-
-Overview
-With that growth comes the need for a Javascript Engineer to join the existing Web team and continue supporting the growing user base as well as building new and exciting features.
-&amp;nbsp;
-This is a key role and ideal for someone who thinks strategically, enjoys high-pace environments, passionate about owning product decisions and has experience building and scaling complex engineering systems.
-What You’ll Do
-
-Actively ship production code to the web products
-Work closely with your dedicated product team
-Participate in product discussions to shape the product roadmap
-Have the opportunity to work on new and exciting features that will impact millions of lives
-
-An Ideal Candidate Should Have
-
-Experience. You've built and ship products that have scaled to thousands or millions of users
-Customer obsession. You are passionate about the field and have the desire to build high quality product that serves customer needs
-Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time
-Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down
-Collaboration. You know how to inspire, play, and negotiate with opinionated designers, marketers, and PMs
-Tech Stack: Vanilla JS, ReactJS, Redux, Firebase, Typescript
-
-What We Offer
-
-A fast-growing environment where you can help shape the culture
-An entrepreneurial crew that supports risk, intuition, and hustle
-A hands-off approach so you can focus and do your best work
-The opportunity to make an impact in a transformative industry
-A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
-
-
-To apply: https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1</description><pubDate>Sat, 23 May 2026 13:43:59 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager</description><pubDate>Thu, 23 Jul 2026 07:00:55 +0000</pubDate></item></channel></rss>
