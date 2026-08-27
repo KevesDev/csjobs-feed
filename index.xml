@@ -1,5 +1,71 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Gusto, Inc.: Staff Software Engineer, Time and Scheduling</title><link>https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-time-and-scheduling</link><description>Headquarters: New York, NY;Toronto, Ontario, CAN - Remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Toptal: Data Scientist for Top Cosmetic firm</title><link>https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm</link><description>Headquarters: 
+
+
+SummaryWe are seeking a Data Scientist to analyze anonymized consumer interaction data and uncover patterns in unstructured language across call center and cross-channel conversations. The primary goal is to identify intent, surface trends, and turn language into structured insights that can inform content strategy and web experiences.General informationThis engagement focuses on a large historical dataset collected over 10 years across consumer information and interaction touchpoints. The data includes call center and cross-channel interactions, with existing KPI reporting around areas such as conflict types and call duration, but limited analysis of the underlying unstructured language.The data sits in a homegrown database and Azure environment, with an anonymized semantic layer. The initial phase will be exploratory and somewhat open-ended, starting with manual exports of conversation data before more connected pipelines are established. This role will work closely with a Program Manager supporting the broader effort.Tasks and Deliverables- Analyze anonymized consumer interaction and call center conversation data.- Review exported conversation data across channels, brands, and interaction types.- Identify intent patterns within unstructured language and conversation content.- Spot trends in customer language not captured by existing KPI reporting.- Convert unstructured language into structured insights and usable analysis frameworks.- Develop recommendations on how findings can inform content strategy.- Explore how LLM-era language analysis can support web content decisions.- Collaborate closely with the paired Program Manager on analysis priorities and outputs.Required experience- Proven experience as a Data Scientist working with large-scale datasets.- Strong experience analyzing unstructured text or language-based data.- Experience identifying trends, patterns, and intent signals from customer interactions.- Ability to translate exploratory analysis into structured, actionable insights.- Experience working with anonymized or sensitive consumer data.- Familiarity with Azure-based data environments.Engagement highlights- Opportunity to shape the first meaningful language analysis of a rich 10-year dataset.- High-ownership engagement with room to define the analytical approach.- Direct impact on how customer language insights inform content and web strategy.
+
+To apply: https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm</description><pubDate>Tue, 11 Aug 2026 12:40:35 +0000</pubDate></item><item><title>Lithic: Senior Dispute Analyst</title><link>https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst</link><description>Headquarters: Remote 
+
+
+Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments.
+Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years.
+We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&amp;nbsp;
+We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&amp;nbsp;Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments.
+Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years.
+We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.
+We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.
+Our Risk &amp;amp; Compliance team is hiring a Senior Dispute Analyst to own and continuously improve the full disputes lifecycle at Lithic: intake, investigation, chargeback processing, and resolution. You will own the SOPs that govern each stage, the metrics that measure them, and the process improvements that keep the program defensible to our partner banks, the card networks, and regulators.
+This is an AI-forward role. Lithic is deploying agentic investigation tooling across the disputes lifecycle, and this role owns the build: testing, deployment, and ongoing tuning of those agentic solutions so that routine, documented volume is absorbed by automation while you own the complex, judgment-heavy exceptions the tooling escalates. You will be the person who converts tooling into realized capacity through context documentation, skill orchestration, and training. This role operates with limited guidance and owns its programs end to end. It is sized for ownership, orchestration, and exception handling rather than steady-state queue processing.
+What You’ll Do:
+
+Own the end-to-end disputes lifecycle: intake, investigation, chargeback processing, and dispute resolution.
+Author, maintain, and continuously improve the dispute SOPs across every stage, ensuring content reflects current consumer protection regulations, network dispute rules, and operational realities.
+Test, deploy, and tune agentic investigation solutions across the disputes workflow, including skill orchestration, arbitration automation, and automation tuning, to compress per-case handling time without sacrificing quality.
+Document investigative context and develop the skills and prompts that allow agentic tooling to handle routine filing, statement generation, and representment volume.
+Handle complex dispute scenarios, edge cases, and pre-arbitration and arbitration exceptions where outcomes depend on judgment and argumentation.
+Develop and optimize representment strategies; analyze dispute trends to identify root causes and drive process improvements.
+Define and report the KPIs and KRIs for the disputes program, and produce actionable insights by synthesizing operational trends and program performance data.
+Serve as the interface to any business process outsourcing relationship
+Partner with Product and Engineering to frame dispute requirements as enablers and to inform the roadmap for investigation tooling.
+Mentor junior analysts and contribute to training on dispute handling, chargeback processing, and the investigation tooling.
+
+What You'll Need:
+
+Deep, hands-on experience managing card disputes and chargebacks, with strong knowledge of consumer protection regulations and card network dispute rules across the chargeback and representment lifecycle.
+A track record of owning discrete risk or operations programs end to end with limited guidance, including authoring the SOPs and defining the metrics that govern them.
+Demonstrated judgment on complex disputes, edge cases, and pre-arbitration and arbitration scenarios.
+Comfort building, testing, and tuning automation or AI-assisted workflows, or strong enthusiasm to own agentic tooling and translate it into operational capacity.
+Strong analytical skills: able to synthesize operational and program performance data into trends, root cause analysis, and actionable insight.
+Excellent communication with internal stakeholders, partner banks, and, where relevant, regulators, with the ability to frame requirements as enablers rather than blockers.
+A bias toward ownership and iterative improvement, and the judgment to know which cases automation should close and which require a human
+
+Nice to Have
+
+Experience at a fintech, card issuer, processor, or sponsor bank.
+Familiarity with dispute and case management tooling and with SQL for dispute trend analysis.
+Experience standing up or tuning agentic or LLM-based investigation workflows.
+Experience managing a BPO or outsourced operations relationship.
+
+Base Salary: $65,000 - $110,000
+This is a remote position. However, candidates must be located in the United States. We do not offer visa sponsorship or assistance.Benefits for Full-Time US Employees:
+
+Unlimited PTO
+12-weeks fully paid parental leave
+4-Week Fully Paid Sabbatical (earned at your 5-year anniversary)
+Work From Anywhere: work from anywhere in the world 4-weeks each year
+3% cashback on card purchases with your complimentary Privacy.com employee account
+Health, vision, and dental insurance; HSA Contribution Match
+401(k) match
+Voluntary Life Insurance and STD/LTD
+
+NYC-based employees work from our SoHo office three days a week. Tuesdays and Thursdays are our core days, and you'll choose a third day that works for your schedule and team needs.
+In-office employees receive:&amp;nbsp;
+
+Commuter benefit
+Catered lunch every Tuesday and Thursday
+
+
+To apply: https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst</description><pubDate>Mon, 10 Aug 2026 07:30:55 +0000</pubDate></item><item><title>Gusto, Inc.: Staff Software Engineer, Time and Scheduling</title><link>https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-time-and-scheduling</link><description>Headquarters: New York, NY;Toronto, Ontario, CAN - Remote
 
 
 &amp;nbsp;
@@ -562,94 +628,7 @@ To apply: https://weworkremotely.com/remote-jobs/doximity-data-analyst-reporting
 
 Shopify developers love to freelance with Storetasker.Endless, quality clients: from well known DTC brands to top agencies.&amp;nbsp;Fully remote, flexible: work as much or as little as you want, wherever you want.&amp;nbsp;A talented and helpful community: it's freelance (with a team).Earn $100-$200 per hour: pick your clients, and send your own quotes or retainers.&amp;nbsp;We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: Alpha Industries, Boll &amp;amp; Branch, Superfluid, Jack Henry, Plenaire, and Fulton among many more. Why Storetasker?Endless clients &amp;amp; project opportunities: you’ll see between 5 - 50 new opportunities per day and can pick any lead you want.&amp;nbsp;You’ll earn more: some experts are making $250k+ per year.&amp;nbsp;A high quality community: we carefully select about 5% of those who apply.&amp;nbsp;Remote: work from anywhere, anytime.&amp;nbsp;Flexible: take on as many clients as you want.No external ratings: you’re already a professional. No need to prove it.&amp;nbsp;Great Software: that makes it easy to manage more clients and increase billable hours.Support when you need it: we offer project support 7 days per week.&amp;nbsp;Community (not competition): you pick your clients, projects, and never compete against other Experts in the community.&amp;nbsp;Learn more and join! It’s confidential, and takes less than 5 minutes. Here's who we're looking for:Ambitious part time and full-time freelancers and boutique agencies.Who have 3+ years of Shopify experience, and 5+ years of web development experience.&amp;nbsp;And who have managed projects, deadlines, and communication successfully.&amp;nbsp;Especially people with some of these skills:Front-end or full-stack Shopify developmentHeadless e-commerce developmentConversion rate optimizationE-commerce expertise and strategySEO&amp;nbsp;Site SpeedBuilder and/or ShogunIt takes just a few minutes to join.Here's what a few current members have to say:"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017Our Mission: We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.&amp;nbsp; Questions? Reach out at experts@storetasker.com.
 
-To apply: https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</description><pubDate>Mon, 13 May 2024 03:14:30 +0000</pubDate></item><item><title>Reveleer: Full Stack AI Engineer</title><link>https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer</link><description>Headquarters: United States
-    URL: https://www.reveleer.com/
-
-
-Full Stack AI EngineerRemote Opportunity
-As the industry’s pioneering value-based care (VBC) technology platform, Reveleer is purpose-built to solve the most pressing real-world challenges faced by providers and health-plan organizations today. By unifying retrieval, clinical intelligence, risk adjustment, quality improvement, and member management solutions into one intelligent, AI-powered system, Reveleer streamlines fragmented workflows to supercharge productivity, enhance care quality, and optimize performance on high-priority value-based initiatives.
-About the Team:
-You will be joining a small team within Reveleer AI division, in charge of developing the next generation agentic model for clinical prospective suspecting. As a full stack software developer in our team, you will be working in the unique environment of a small team with large scale impact to enable the expansion of our product and fast growth of our users.
-Responsibilities:
-
-Obsess over the details and applying first principle mindset to address challenges.
-
-
-Understand business needs and build end-to-end product experiences.
-
-
-Solve product problems and build delightful user experiences for our users.
-
-
-Contribute to building and scaling infrastructure.
-
-
-Develop and continually improve observability of activity and infra at scale.
-
-
-Continually challenge status quo and existing solutions to improve scalability &amp;amp; efficiency
-
-
-Partner closely with other engineers and scientists to build highly scalable, ML driven system(s), help run experiments, and surface insights across all points of customer interactions
-
-
-Resolve problems and provide daily troubleshooting, analysis, and problem definition for production issues.
-
-Required Skills:
-
-5+ years of experience building high quality code and infrastructure.
-
-
-3+ years of experience working with large-scale systems.
-
-
-2+ Experience with AWS and Google Cloud
-
-
-A passion for building delightful Customer-centric user experiences, from the backend to the frontend.
-
-
-Proven curiosity with the latest Generative AI advances.
-
-
-Hands-on experience in client-side development using ReactJS, CSS, JavaScript, Typescript.
-
-
-Hands-on experience in NodeJS and MongoDB.
-
-
-Familiarity with common best practices, design and architectural patterns.
-
-
-Great problem-solving skills, eager to learn and face new challenges.
-
-
-Highly motivated, self-learner with great attention to detail.
-
-
-Thrive in a collaborative environment involving different functions, stakeholders, and subject matter experts.
-
-
-Attention to detail, especially around performance, accessibility, reliability, and security.
-
-WHAT YOU’LL RECEIVE:
-
-Competitive salary 
-
-
-Medical, Dental and Vision benefits 
-
-
-401k match
-
-
-Generous PTO plan 
-
- Our compensation reflects the cost of labor across several US geographic markets. Pay is based on several factors including market location and may vary depending on job-related knowledge, skills, and experience.
-Reveleer E-Verifies all new hires.
-Reveleer is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, disability status or genetic information, in compliance with applicable federal, state and local law.
-
-To apply: https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer</description><pubDate>Thu, 02 Apr 2026 20:46:00 +0000</pubDate></item><item><title>SuperPlane: Product Engineer</title><link>https://weworkremotely.com/remote-jobs/superplane-product-engineer-1</link><description>Headquarters: USA
+To apply: https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</description><pubDate>Mon, 13 May 2024 03:14:30 +0000</pubDate></item><item><title>SuperPlane: Product Engineer</title><link>https://weworkremotely.com/remote-jobs/superplane-product-engineer-1</link><description>Headquarters: USA
     URL: https://superplane.com
 
 
@@ -907,30 +886,4 @@ Annual professional development stipend and access to a personal career coach th
 These benefits are applicable to Maven Clinic Co., US-based, full-time employees only. 1099/Contract Providers are ineligible for these benefits.&amp;nbsp;
 Maven is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Maven is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Maven Clinic interview requests and job offers only originate from an @mavenclinic.com email address (e.g jsmith@mavenclinic.com). Maven Clinic will never ask for sensitive information to be delivered over email or phone. If you receive a scam issue or a security issue involving Maven Clinic please notify us at: security@mavenclinic.com. For general and additional inquiries, please contact us at&amp;nbsp;careers@mavenclinic.com.&amp;nbsp;
 
-To apply: https://weworkremotely.com/remote-jobs/maven-clinic-content-creative-strategist</description><pubDate>Thu, 30 Jul 2026 07:31:03 +0000</pubDate></item><item><title>OnTheGoSystems: AI-Native Software Developer</title><link>https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer</link><description>Headquarters: Remote
-    URL: http://onthegosystems.com
-
-
-About OTGS
-At OnTheGoSystems, we build products used by hundreds of thousands of websites worldwide. We're a fully remote, international team that values ownership, curiosity, and high engineering standards. We use AI every day to solve real problems and build software that makes a difference.
-About the role
-We're looking for a developer who can do impressive work end-to-end – from idea to shipped, working software – using AI as a system, not as a chat window.
-You take full ownership of the software you build. You design AI workflows and validation checks, ensure quality, monitor how your software performs in production, and continuously improve both the product and the way AI helps you build it.
-It would be great if you have
-
-
-Experience with Ruby on Rails or other back-end languages and frameworks.
-
-
-Profound SQL experience – comfortable designing schemas and writing complex queries.
-
-
-A habit of testing your own work and genuine care about the quality of what you ship.
-
-
-Real, hands-on experience using AI as a system to do end-to-end work, with something impressive to show for it.
-
-
-If you're ready to make great contributions and do work you're proud of, we'd love to hear from you. Apply today!
-
-To apply: https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer</description><pubDate>Mon, 27 Jul 2026 14:16:33 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/maven-clinic-content-creative-strategist</description><pubDate>Thu, 30 Jul 2026 07:31:03 +0000</pubDate></item></channel></rss>
