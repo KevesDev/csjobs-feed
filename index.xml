@@ -1,71 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Toptal: Data Scientist for Top Cosmetic firm</title><link>https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm</link><description>Headquarters: 
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Toptal: Tech Lead - Manufacturing Data &amp; AI Platforms - Global Pharmaceutical Company</title><link>https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company</link><description>Headquarters: 
+
+
+SummaryWe are looking for a Tech Lead to take ownership of a delivery portfolio within a Manufacturing Engineering group that builds the data products the plant depends on. This is a hands-on leadership role focused on shipping and operating manufacturing data products in a validated production environment, while applying AI with sound judgment in a regulated context.General informationThis group builds manufacturing data products including real-time batch progression monitoring, process anomaly detection, and analytics that drive yield and throughput improvement. The team owns the data pipelines, cloud platform, environments, and delivery, and works closely with data science colleagues to define problems, provide data, and run the infrastructure required for production use.The role leads a small, senior, multi-disciplinary team and carries accountability for what is shipped, when it is shipped, and how it performs in operation. The environment requires disciplined promotion from DEV to QA to PROD, with validation, change control, traceability, and documentation handled rigorously.Tasks and Deliverables- Own delivery of a portfolio of manufacturing data products from concept through validated production use.- Lead a small, senior, multi-disciplinary team of data engineers, warehouse engineers, and full-stack developers.- Solve technical issues that stall the team, including pipeline failures, warehouse performance and cost, data quality, integration with plant systems, and production incidents.- Supervise progression from DEV to QA to PROD, ensuring validation, change control, traceability, and documentation are properly met.- Partner with data science to frame solvable problems, provide well-understood data and environments, and assess whether models are fit for intended production use.- Evaluate and introduce AI-assisted approaches to development, testing, documentation, and monitoring, with clear judgment on regulated-context limitations.- Work closely with Product Owners and Product Architects to shape scope and sequencing, and communicate progress, risk, and trade-offs clearly.- Produce architecture documentation, decision records, and operational runbooks that support long-term delivery and operations.Required experience- Degree in engineering, computer science, or a related technical discipline, or equivalent demonstrated capability.- Three or more years leading technical delivery for a software or data team.- Advanced SQL with strong data modeling judgment and performance and cost awareness.- Strong Python for production data engineering and services.- Hands-on AWS experience across compute, storage, orchestration, identity, and observability.- Deep experience with a cloud data warehouse; Snowflake preferred.- Fluency with Git-based workflows, CI/CD, infrastructure as code, and structured environment promotion and release management.- Working understanding of the machine learning lifecycle, including model evaluation, deployment, and monitoring.- Strong stakeholder communication skills and the judgment to challenge requests with better technical paths.- Good understanding of agentic AI.Nice to have- Experience in pharmaceutical, biotech, medical device, or another regulated manufacturing environment.- Familiarity with GxP computerized system validation, GAMP 5, 21 CFR Part 11, EU Annex 11, or ALCOA+ data integrity principles.- Exposure to MES, process historians such as OSIsoft PI or AVEVA, ISA-88 batch structures, electronic batch records, or LIMS.- Postgraduate qualification in artificial intelligence, machine learning, or data science.- Practical experience with AI-assisted development tooling in an enterprise setting.- Background in cloud security, platform engineering, or technology evaluation and validation.
+
+To apply: https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company</description><pubDate>Tue, 11 Aug 2026 12:58:39 +0000</pubDate></item><item><title>Toptal: Data Scientist for Top Cosmetic firm</title><link>https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm</link><description>Headquarters: 
 
 
 SummaryWe are seeking a Data Scientist to analyze anonymized consumer interaction data and uncover patterns in unstructured language across call center and cross-channel conversations. The primary goal is to identify intent, surface trends, and turn language into structured insights that can inform content strategy and web experiences.General informationThis engagement focuses on a large historical dataset collected over 10 years across consumer information and interaction touchpoints. The data includes call center and cross-channel interactions, with existing KPI reporting around areas such as conflict types and call duration, but limited analysis of the underlying unstructured language.The data sits in a homegrown database and Azure environment, with an anonymized semantic layer. The initial phase will be exploratory and somewhat open-ended, starting with manual exports of conversation data before more connected pipelines are established. This role will work closely with a Program Manager supporting the broader effort.Tasks and Deliverables- Analyze anonymized consumer interaction and call center conversation data.- Review exported conversation data across channels, brands, and interaction types.- Identify intent patterns within unstructured language and conversation content.- Spot trends in customer language not captured by existing KPI reporting.- Convert unstructured language into structured insights and usable analysis frameworks.- Develop recommendations on how findings can inform content strategy.- Explore how LLM-era language analysis can support web content decisions.- Collaborate closely with the paired Program Manager on analysis priorities and outputs.Required experience- Proven experience as a Data Scientist working with large-scale datasets.- Strong experience analyzing unstructured text or language-based data.- Experience identifying trends, patterns, and intent signals from customer interactions.- Ability to translate exploratory analysis into structured, actionable insights.- Experience working with anonymized or sensitive consumer data.- Familiarity with Azure-based data environments.Engagement highlights- Opportunity to shape the first meaningful language analysis of a rich 10-year dataset.- High-ownership engagement with room to define the analytical approach.- Direct impact on how customer language insights inform content and web strategy.
 
-To apply: https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm</description><pubDate>Tue, 11 Aug 2026 12:40:35 +0000</pubDate></item><item><title>Lithic: Senior Dispute Analyst</title><link>https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst</link><description>Headquarters: Remote 
-
-
-Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments.
-Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years.
-We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&amp;nbsp;
-We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&amp;nbsp;Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments.
-Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years.
-We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.
-We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.
-Our Risk &amp;amp; Compliance team is hiring a Senior Dispute Analyst to own and continuously improve the full disputes lifecycle at Lithic: intake, investigation, chargeback processing, and resolution. You will own the SOPs that govern each stage, the metrics that measure them, and the process improvements that keep the program defensible to our partner banks, the card networks, and regulators.
-This is an AI-forward role. Lithic is deploying agentic investigation tooling across the disputes lifecycle, and this role owns the build: testing, deployment, and ongoing tuning of those agentic solutions so that routine, documented volume is absorbed by automation while you own the complex, judgment-heavy exceptions the tooling escalates. You will be the person who converts tooling into realized capacity through context documentation, skill orchestration, and training. This role operates with limited guidance and owns its programs end to end. It is sized for ownership, orchestration, and exception handling rather than steady-state queue processing.
-What You’ll Do:
-
-Own the end-to-end disputes lifecycle: intake, investigation, chargeback processing, and dispute resolution.
-Author, maintain, and continuously improve the dispute SOPs across every stage, ensuring content reflects current consumer protection regulations, network dispute rules, and operational realities.
-Test, deploy, and tune agentic investigation solutions across the disputes workflow, including skill orchestration, arbitration automation, and automation tuning, to compress per-case handling time without sacrificing quality.
-Document investigative context and develop the skills and prompts that allow agentic tooling to handle routine filing, statement generation, and representment volume.
-Handle complex dispute scenarios, edge cases, and pre-arbitration and arbitration exceptions where outcomes depend on judgment and argumentation.
-Develop and optimize representment strategies; analyze dispute trends to identify root causes and drive process improvements.
-Define and report the KPIs and KRIs for the disputes program, and produce actionable insights by synthesizing operational trends and program performance data.
-Serve as the interface to any business process outsourcing relationship
-Partner with Product and Engineering to frame dispute requirements as enablers and to inform the roadmap for investigation tooling.
-Mentor junior analysts and contribute to training on dispute handling, chargeback processing, and the investigation tooling.
-
-What You'll Need:
-
-Deep, hands-on experience managing card disputes and chargebacks, with strong knowledge of consumer protection regulations and card network dispute rules across the chargeback and representment lifecycle.
-A track record of owning discrete risk or operations programs end to end with limited guidance, including authoring the SOPs and defining the metrics that govern them.
-Demonstrated judgment on complex disputes, edge cases, and pre-arbitration and arbitration scenarios.
-Comfort building, testing, and tuning automation or AI-assisted workflows, or strong enthusiasm to own agentic tooling and translate it into operational capacity.
-Strong analytical skills: able to synthesize operational and program performance data into trends, root cause analysis, and actionable insight.
-Excellent communication with internal stakeholders, partner banks, and, where relevant, regulators, with the ability to frame requirements as enablers rather than blockers.
-A bias toward ownership and iterative improvement, and the judgment to know which cases automation should close and which require a human
-
-Nice to Have
-
-Experience at a fintech, card issuer, processor, or sponsor bank.
-Familiarity with dispute and case management tooling and with SQL for dispute trend analysis.
-Experience standing up or tuning agentic or LLM-based investigation workflows.
-Experience managing a BPO or outsourced operations relationship.
-
-Base Salary: $65,000 - $110,000
-This is a remote position. However, candidates must be located in the United States. We do not offer visa sponsorship or assistance.Benefits for Full-Time US Employees:
-
-Unlimited PTO
-12-weeks fully paid parental leave
-4-Week Fully Paid Sabbatical (earned at your 5-year anniversary)
-Work From Anywhere: work from anywhere in the world 4-weeks each year
-3% cashback on card purchases with your complimentary Privacy.com employee account
-Health, vision, and dental insurance; HSA Contribution Match
-401(k) match
-Voluntary Life Insurance and STD/LTD
-
-NYC-based employees work from our SoHo office three days a week. Tuesdays and Thursdays are our core days, and you'll choose a third day that works for your schedule and team needs.
-In-office employees receive:&amp;nbsp;
-
-Commuter benefit
-Catered lunch every Tuesday and Thursday
-
-
-To apply: https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst</description><pubDate>Mon, 10 Aug 2026 07:30:55 +0000</pubDate></item><item><title>Gusto, Inc.: Staff Software Engineer, Time and Scheduling</title><link>https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-time-and-scheduling</link><description>Headquarters: New York, NY;Toronto, Ontario, CAN - Remote
+To apply: https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm</description><pubDate>Tue, 11 Aug 2026 12:40:35 +0000</pubDate></item><item><title>Gusto, Inc.: Staff Software Engineer, Time and Scheduling</title><link>https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-time-and-scheduling</link><description>Headquarters: New York, NY;Toronto, Ontario, CAN - Remote
 
 
 &amp;nbsp;
