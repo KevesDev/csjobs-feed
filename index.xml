@@ -1,5 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Samsara: Staff Software Engineer</title><link>https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer</link><description>Headquarters: Remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Edfinity: Senior Software Engineer, remote</title><link>https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote</link><description>Headquarters: Austin, TX
+    URL: https://edfinity.com
+
+
+About Edfinity
+Edfinity is the category leader in courseware and assessment technology for higher-ed STEM. We're NSF-supported, bootstrapped, and built by a close-knit remote team of senior engineers. We're growing fast and leading the field in AI-powered courseware that moves the needle on educator productivity and student outcomes. Your work will reach hundreds of institutions, and you will help decide how it gets built.
+How we work
+
+We're fully remote, with team members distributed across the US, and with that comes personal flexibility and accountability.
+AI agents produce most of our code. We move fast, but we temper velocity with quality and stability above all else.
+Engineers frame the problems, direct the work, and are accountable for everything that ships. If you already work this way and have opinions about it, you'll feel at home.
+Everyone has opportunities to work across different areas of the platform, and team members are expected to develop deep technical expertise over time. This is particularly important as we step away from hands-on coding.
+We're a small team of collaborative senior engineers. Your opinion matters.
+The pace of change is real. More than ever, we're continually evolving our tooling and workflows as LLMs become more capable.
+
+What you’ll be doing
+Our stack is Ruby on Rails, MongoDB, Elasticearch, ClickHouse, Redis/Sidekiq, and React.
+
+Full-stack product development in areas like assessment authoring, delivery, and grading; educator and student-facing features; LMS integrations
+LLM-powered features, from prompt architecture to auto-grading to eval infrastructure
+Performance optimization and reliability refactoring to handle both day-to-day load and high-stakes spikes
+Stewardship of a mature codebase: upgrades, migrations, and paying down technical debt methodically
+Part-time technical support rotation. Customer happiness is extremely important to us.
+
+What you'll need
+
+8-15 years building and running scalable production web applications and services
+Deep experience with Rails
+Experience with web front-ends such as React
+Recent experience in an SDLC revolving around the use of AI agents
+Strong CS fundamentals in systems, data modeling, and complexity
+Excellent communication hygiene, collaborative skills, and strong sense of self-direction.
+Interest in a long-term seat on a close-knit team.
+Authorization to work in the United States. We are not able to sponsor or transfer work visas at this time.
+
+Compensation
+$135,000-$195,000, plus eligibility for an annual discretionary bonus, retirement plan, and PTO
+
+To apply: https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote</description><pubDate>Mon, 17 Aug 2026 19:21:19 +0000</pubDate></item><item><title>Toptal: AI/ML Engineer for an AI-Driven E-Commerce Platform</title><link>https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform</link><description>Headquarters: 
+
+
+We are seeking an AI Engineer to develop AI-first applications and integrate custom models and infrastructure into an existing e-commerce platform. The role focuses on building agent-led product experiences, including internal automation, dynamic site customization, and customer-facing conversational commerce workflows.General informationThis engagement supports an e-commerce startup building a platform around conversational design and intelligent automation. The current objective is to extend the existing product with AI-native capabilities while building on top of the current backend and application stack.The work includes three core initiative areas: an internal AI employee for operational tasks, a fluid site customizer, and a customer-facing commerce agent designed to support one-prompt checkout experiences. The role will involve model integration, infrastructure setup, and product-facing implementation across both backend and UI surfaces.Tasks and Deliverables- Develop AI-first applications for an existing e-commerce platform.- Architect and implement autonomous e-commerce AI agents using open-source and proprietary foundation models.- Establish GPU infrastructure and data pipelines for model fine-tuning and deployment.- Integrate AI workflows with the existing stack, including MongoDB, Node.js, Express, React, and third-party APIs.- Build conversational UI components and backend logic for one-prompt checkouts and dynamic site customization.Required Experience- Strong expertise in AI/ML engineering and LLM integration.- Hands-on experience fine-tuning open-source models such as Llama or Mistral.- Experience building autonomous agents and conversational AI workflows.- Solid background in GPU infrastructure setup and optimization for training or inference.- Full-stack proficiency with MongoDB, Express, React, and Node.js.- Experience integrating REST APIs into production applications.Nice to have:- Familiarity with Stripe, Twilio, or OpenAI API integrations.
+
+To apply: https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform</description><pubDate>Mon, 17 Aug 2026 14:10:09 +0000</pubDate></item><item><title>Samsara: Staff Software Engineer</title><link>https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer</link><description>Headquarters: Remote
     URL: https://www.samsara.com/
 
 
@@ -1229,61 +1272,4 @@ To apply: https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai<
 
 Within the client's Global Information Services (GIS) organization is a team of dedicated resources to build a digital center of excellence. This team is made up of diverse skillsets, roles and unique perspectives that allow us to research, design, build and experiment with tools that we hope customers and our internal employees will find useful, usable, and delightful. These digital offerings connect our customers and partners to our products, services, solutions, and talent, making it simple and easy for the customer to choose OC – driving an increase in engagement, loyalty, retention, and sales.The Stibo Platform Architect will work closely with our digital center of excellence, integration architects, enterprise architects, IT product owners, business digital product managers and partners to develop a deep understanding of our business strategies and our user journeysLeveraging this understanding, the Platform Owner – Stibo is responsible for establishing a common framework to build and run the product data, asset management, syndication of data, and product visualization tools supporting the company’s initiatives across our market facing, digital worker and manufacturing digital portfolios. This role will set the vision and strategy needed to ensure rapid, iterative development and global deployment of industry best features for each of these critical areas. Specifically ensuring we have a comprehensive, nimble, modern, secure, modular, and scalable platform that we can leverage across businesses and global regions. This role will also promote education and drive consensus in setting our platform standards and direction across the GIS organization and with our key partners.Reports to : GIS Product Leader – MDM Product, Program, and PracticeSpan of Control : Individual ContributorJob ResponsibilitiesKnowing Our Businesses and their StrategiesBuild relationships within the organization, cross-functionally, and with key business stakeholders; continuously enhance connection to remain aligned with core objectives.Understand the strategic direction of the company’s businesses and execute technical strategies to enhance business results; lead conversations while setting direction for the team, processes and managed relationships.Know what best-in-class IT service organizations do and obtain outside-in market insights to understand and then apply to impact the client positively.Executing StrategyPlatform Leadership for Product Management, Data Syndication, and Integration Design with Platform Owners of Publication, Content Management Systems, ERPs, MES, and CRMs.Lead the design and implementation of the data management application framework and architecture for large-scale, scalable product data management and syndications systems designed to support users and customers internationally, 24x7, determining specifications and working parameters for hardware/software interoperability, accounting for scalability, maintainability, and security within design.Establishes reusable and extensible code bases and platforms that serve business, marketing, and customer strategiesExecute, consult, and advise on product implementation strategies, upgrades, and integration processes, with existing products and platforms.Establishing and maintaining alliances with key partners and champions IT product concepts and strategies.Ensuring the development and execution of business plans for OC’s chosen platform.Participating in defining product strategies and pricing standards.Participates in the creation of technical approaches/roadmaps for critical use cases that have potential to differentiate the client in customer engagement and influenceEvaluates, participates in the selection of and maintenance of partnerships with key internal and external development teams contributing to delivery of digital portfoliosCrafts initial solution options to include work categorization and estimates across major disciplines: User Experience, Analytics, Front End Development, Back End Development, Data Integration, DevOps, Quality Assurance, Security and ArchitectureCollaborate with DevOps, IT project managers product owners, digital team, and technology architects to plan platform application and infrastructure upgrades. product releases, develop release project plan, direct, and manage release execution resources, coordination of workflow between cross function teams, end user training, release roll out and production supportArchitecture and Solution DeliveryLeads digital architecture, design, and standards of the platform.Identifies needs, research and prototypes options, communicates impacts or potential challenges for other teams; builds work plans for new solutions or retrofitsVia participation in the GIS Architecture Review Board, leads architectural review for platform owned and contributes to other architectural reviews, impact assessments and estimation processesShares thought processes and evaluation techniques with other architects and technical resources, promotes education in the processes of solutioningInnovate and Think StrategicallyPartner with Global Information Services (GIS), business, and commercial leadership to formulate and maintain a technical product platform roadmap of current and future features and functionalities.Conduct market research and analysis to identify trends, and use this information to influence platform developmentProactively engage with platform technology vendors to understand their product roadmap and future upgrade and release plans.Influencing in the FunctionIdentify areas of waste and ideate and execute on aligned action plans to create productivity.Participate in special programs or projects that support the long-term strategic goals of the organization.Identify and lead opportunities to improve the effectiveness, value, and perception of the organization .Developing TalentInvest in personal growth and development, clearly focused on self-learning.Foster a high-performing, well-connected global team culture that emphasizes collaboration, accountability, curiosity, and innovationJob RequirementsMINIMUM QUALIFICATIONS:Bachelor's degree in computer science, Information Technology or related field; or equivalent experience5+ years of experience with MDM, PIM, DAM, Syndication, Stibo,Preferred knowledge in Salsify &amp;amp; InDesign5+ years’ experience in information technology focused projects including websites, portals, apps, mobile, data integration, analytics5+ years working directly with business teams (commercial, business) in a role understanding and translating business needs into technical implementationExperienceDemonstrated expertise in understanding workflows and business processes, identifying issues and providing solutions that leverage PIM/MDM/DAM/Syndication relevant technologiesData management with highly integrated systems, experience designing hierarchy and data precedence rulesData categorization, classification, and hierarchy (inheritance modeling)Working experience in Data Stewardship, Data governance, Product LifecycleHave functional experience of using STEP for scheduling and monitoring batch processesUnderstanding of Salsify and syndication softwareUnderstanding of agile and waterfall project mgmt. methodologiesProficient in estimating work and project scheduling/sprint planningKnowledge, Skills, &amp;amp; AbilitiesDemonstrated experience collaborating across regionsDemonstrated experience leading resolution of service issues in conjunction with and on behalf of internal teams and external providersExperience in supplier relationships, confidence and presence to deal with suppliers both internal and external and, on-shore or off-shoreExperience analyzing and presenting data driven performance results to different levels of audiences and providing insight on root causes and improvement options.Experience using and working with an ITSM platform; Service Now strongly preferredDemonstrated prior experience with applying strong analytical and problem-solving skillsThe ability to convey relevant information clearly with confidence; understanding others through active listeningDemonstrates the ability to build trust, connections, and influence stakeholdersOrganizational skills to handle multiple priorities and proven ability to execute and deliver resultsExcellent interpersonal, communication and team-facilitation skills along with strong visualization skills –being able to educate and explain how product data flows downstream to integrated systemsGlobal mindset, foundational not spot solutionAbility to travel ~10%, domestic and international
 
-To apply: https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500</description><pubDate>Fri, 07 Aug 2026 15:54:26 +0000</pubDate></item><item><title>A.Team: Senior Independent AI Engineer / Architect</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</link><description>Headquarters: NYC and TLV
-    URL: http://a.team/ai-jobs?utm_source=wwr&amp;amp;utm_medium=post&amp;amp;utm_campaign=wwrai
-
-
-Senior Independent AI Engineer / Architect
-Remote | Americas, Europe, or Israel
-Most AI engineers can find work.
-Finding work worth doing is harder.
-A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies.
-Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.
-The Work
-You'll join small teams tackling problems that matter.
-Not demos.
-Not prototypes that never ship.
-Not another chatbot wrapper.
-Real systems. Real users. Real outcomes.
-Recent work has included:
-- LLM-powered products and workflows- Agent architectures and orchestration systems- Retrieval, evaluation, and reliability infrastructure- Enterprise AI deployments- AI-native products built from zero to one- Machine learning platforms operating at scale
-You'll work directly with founders, CTOs, and product leaders, helping shape both the technical approach and the outcome.
-Why Builders Join
-Most independent engineers eventually run into the same problem:
-The best opportunities rarely make it to the open market.
-A.Team exists to solve that.
-No bidding.
-No prospecting.
-No competing with thousands of other freelancers.
-Just access to ambitious companies, difficult problems, and experienced peers.
-Who Thrives Here
-People who have already shipped.
-Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn research into business value.
-You might be an:
-- AI Architect- AI Engineer- MLOps- Deep Learning Engineer- Data Scientist- Applied AI Engineer- ML Engineer- AI Researcher- Staff+ Engineer focused on AI- Technical founder with deep AI experience
-What matters is a track record of building and shipping.
-The Details
-
-Typical rates: $120-$170/hr
-Remote (almost all roles)
-You keep 100% of your rate
-
-Not a Fit
-
-Early-career engineers
-People without production AI experience
-Small gig seekers
-Developers focused primarily on simple AI wrappers or templated implementations
-
-Apply
-Tell us what you've built.
-We'll take it from there.
-build.a.team/AI-Builders
-
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</description><pubDate>Sun, 16 Jun 2024 18:08:52 +0000</pubDate></item><item><title>A.Team: Senior Independent Software Developer ($90-$170/hr)</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</link><description>Headquarters: NYC and TLV
-    URL: https://build.a.team/wwrfastrackreferral
-
-
-Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under "how you heard about A·Team." No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue their craft with autonomy.Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.Not for:People seeking small gigs.Builders focused on simple WordPress/Wix/Squarespace sites.Early-career professionals and recent grads.Our Vision:A·Team is for the "unhirables" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.
-
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500</description><pubDate>Fri, 07 Aug 2026 15:54:26 +0000</pubDate></item></channel></rss>
