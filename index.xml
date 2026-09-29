@@ -1,5 +1,227 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Reddit: Backend Engineer, IAM</title><link>https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam</link><description>Headquarters: Remote - United States
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Proxify AB: Senior Backend Developer (Node.js / Nest.js)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3</link><description>Headquarters: Sweden
+    URL: http://career.proxify.io
+
+
+The Role:
+&amp;nbsp;
+We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences.
+This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference.
+&amp;nbsp;
+What we’re looking for:
+
+5+ years with Node.js and 3+ past years with Nest.js
+Strong expertise in Node.js and Nest.js frameworks.
+Proven experience building REST and/or GraphQL APIs.
+Strong knowledge of JavaScript (ES6+) and TypeScript.
+Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB).
+Familiarity with authentication/authorization mechanisms (JWT, OAuth2).
+Experience with unit/integration testing (e.g., Jest, Mocha).
+Proficiency with Git and version control workflows.
+Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.
+
+&amp;nbsp;
+Nice to Have:
+
+Experience with cloud platforms (AWS, Azure, GCP).
+Familiarity with CI/CD pipelines and DevOps practices.
+Understanding of event-driven architecture and message brokers (e.g., RabbitMQ, Kafka).
+Experience with Docker and containerized applications.
+Knowledge of microservices and serverless architectures.
+
+&amp;nbsp;
+Responsibilities:
+
+Design and develop robust, scalable, and secure backend applications using Node.js and Nest.js.
+Implement RESTful APIs, GraphQL endpoints, and microservices architectures.
+Optimize application performance, scalability, and maintainability.
+Integrate with databases (SQL/NoSQL) and external services via APIs.
+Ensure code quality, security, and compliance with industry standards.
+
+&amp;nbsp;
+What we offer:
+Get paid, not played
+No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
+Predictable project hours
+Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
+Flex days, so you can recharge
+Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
+Career-accelerating positions at cutting-edge companies
+Discover exclusive long-term remote positions at the world's most exciting companies.
+Hand-picked opportunities just for you
+Skip the typical recruitment roadblocks and biases with personally matched positions.
+One seamless process, multiple opportunities
+A one-time contracting process for endless opportunities, with no extra assessments.
+Compensation
+Enjoy the same pay, every month with positions landed through Proxify.
+
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3</description><pubDate>Tue, 15 Sep 2026 09:06:31 +0000</pubDate></item><item><title>Proxify AB: Senior Backend Developer (Python)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10</link><description>Headquarters: Sweden
+    URL: http://career.proxify.io
+
+
+The Role:
+&amp;nbsp;
+We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.
+&amp;nbsp;
+What we are looking for:
+
+
+5+ years of experience building products with Python and Django.
+
+
+High proficiency in SQL with experience using databases like PostgreSQL.
+
+
+Experience scaling cloud infrastructures with Docker or Kubernetes is a plus.
+
+
+Experience managing cloud infrastructures, specifically AWS or GCP.
+
+
+You follow the best practices and conventions.
+
+
+Relevant experience in CI/CD and related tools.
+
+
+Ability to work with minimal supervision.
+
+
+Intermediate-advanced English level.
+
+
+You can communicate well with both technical and non-technical clients.
+
+
+Time zone: CET (+/- 3 hours). We are unable to consider applications from candidates in other time zones.
+
+
+&amp;nbsp;
+Responsibilities:
+
+
+Ability to build libraries and frameworks of reusable efficient code.
+
+
+Competence in designing and implementing low-latency, stable and performing applications.
+
+
+Capacity to effectively collaborate with other team members and stakeholders remotely.
+
+
+Ability to implement data protection systems.
+
+
+Competence in data storage solutions.
+
+
+&amp;nbsp;
+&amp;nbsp;
+What we offer:
+&amp;nbsp;
+Get paid, not played
+No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
+Predictable project hours
+Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
+Flex days, so you can recharge
+Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
+Career-accelerating positions at cutting-edge companies
+Discover exclusive long-term remote positions at the world's most exciting companies.
+Hand-picked opportunities just for you
+Skip the typical recruitment roadblocks and biases with personally matched positions.
+One seamless process, multiple opportunities
+A one-time contracting process for endless opportunities, with no extra assessments.
+Compensation
+Enjoy the same pay, every month with positions landed through Proxify.
+
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10</description><pubDate>Tue, 15 Sep 2026 09:01:36 +0000</pubDate></item><item><title>Proxify AB: Senior Fullstack Developer (React.js / Node.js)</title><link>https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4</link><description>Headquarters: Sweden
+    URL: http://career.proxify.io
+
+
+The Role:
+&amp;nbsp;
+We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.
+&amp;nbsp;
+What we are looking for:
+&amp;nbsp;
+
+
+5+ years experience as a Fullstack Developer.
+
+
+Backend experience with:
+
+
+
+Node.js
+
+
+Microservices architecture
+
+
+
+Database experience with:
+
+
+
+SQL
+
+
+MongoDB
+
+
+
+Intermediate-advanced English
+
+
+&amp;nbsp;
+Nice-to-have:&amp;nbsp;
+
+
+Located in CET timezone (+/- 3 hours).
+
+
+Database Architecture knowledge.
+
+
+&amp;nbsp;
+Responsibilities:
+
+
+Ability to build libraries and frameworks of reusable efficient code.
+
+
+Competence in designing and implementing low-latency, stable and performing applications.
+
+
+Capacity to effectively collaborate with other team members and stakeholders remotely.
+
+
+Ability to implement data protection systems.
+
+
+Competence in data storage solutions.
+
+
+&amp;nbsp;
+What we offer:
+&amp;nbsp;
+Get paid, not played
+No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.
+Predictable project hours
+Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.
+Flex days, so you can recharge
+Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.
+Career-accelerating positions at cutting-edge companies
+Discover exclusive long-term remote positions at the world's most exciting companies.
+Hand-picked opportunities just for you
+Skip the typical recruitment roadblocks and biases with personally matched positions.
+One seamless process, multiple opportunities
+A one-time contracting process for endless opportunities, with no extra assessments.
+Compensation
+Enjoy the same pay, every month with positions landed through Proxify.
+
+To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4</description><pubDate>Tue, 15 Sep 2026 08:51:45 +0000</pubDate></item><item><title>Reddit: Backend Engineer, IAM</title><link>https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam</link><description>Headquarters: Remote - United States
 
 
 
@@ -54,56 +276,7 @@ To provide greater transparency to candidates, we share base salary ranges for a
 During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.
 
-To apply: https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam</description><pubDate>Mon, 14 Sep 2026 07:31:07 +0000</pubDate></item><item><title>Pinterest: Data Scientist II, ML Infrastructure</title><link>https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure</link><description>Headquarters: Palo Alto, CA, US; Remote, US
-
-
-About Pinterest:
-Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
-Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the&amp;nbsp;flexibility to do your best work. Creating a career you love? It’s Possible.
-At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.
-Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.This role focuses on advancing the science and systems behind ML measurement, feature understanding, and causal inference at scale. The work spans areas such as production feature importance platforms, observational causal estimation in Pytorch, large-scale proxy metric development, and data-driven approaches to ML infrastructure efficiency. We're looking for an enthusiastic individual contributor to perform high-impact technical work across this space. This person will drive foundational innovations, own the end-to-end design of production ML systems, establish rigorous methodological standards, and partner cross-functionally to turn successful research into durable platform capabilities that raise the ceiling for the entire ML organization.
-&amp;nbsp;
-What you’ll do:
-We are looking for an experienced and highly capable Data &amp;amp; Applied Scientist to help us drive step function improvements in our ML capabilities at Pinterest.&amp;nbsp;
-In this role, you will:
-
-Translate research-grade DS workflows (e.g., proxy metrics, staleness models) into production ML pipelines using Airflow, WandB &amp;amp; Ray while establishing reusable patterns for other teams.
-Apply and productionize causal inference methods using the production ML stack (propensity scoring, IPW, TMLE) to address high-stakes measurement questions beyond experimental capabilities. Build self-serve tooling to empower non-experts to derive rigorous causal insights at scale.
-Partner with ML engineers and product teams to identify opportunities for improved tooling, metrics, and measurement methods, unlocking step-change improvements in model quality and business outcomes.
-Leverage Pinterest's rich metadata and engagement signals to build data-driven frameworks, from feature importance to content deindexing, that improve platform efficiency and speed.
-Design and build centralized ML platform tooling to improve feature and model creation, evaluation, and trust, including production systems that operate daily at scale across all models.
-
-&amp;nbsp;
-What we’re looking for:
-
-2+ years of hands-on experience as an applied scientist, ML engineer, research scientist or software engineer, with significant ML production experience.
-Strong Python skills; experience with PyTorch or equivalent deep learning frameworks; familiarity with distributed compute (Spark, Ray). Ray specifically is a strong plus.
-Enthusiasm for building tools and platforms that multiply the impact of an entire ML organization; not just solving one-off problems.
-Deep ML theory knowledge with extremely strong fundamentals that can help us reason about ML models from first principles.
-Proficiency in software development best practices including version control, code review, and reproducible ML pipelines.
-Experience with workflow management tools (Airflow, Prefect, Jenkins, or similar) for reliable ML pipeline orchestration.
-Bachelor’s/Master’s degree in a relevant field such as Computer Science, or equivalent experience.
-
-&amp;nbsp;
-Relocation Statement:
-
-This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
-
-&amp;nbsp;
-In-Office Requirement Statement:
-
-We recognize that the ideal environment for work is situational and may differ across departments. What this looks like day-to-day can vary based on the needs of each organization or role.
-This role will need to be in the office for in-person collaboration 3-5 times/quarter and therefore can be situated anywhere in the country.
-
-&amp;nbsp;
-#LI-NM4
-#LI-REMOTEAt Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
-Information regarding the culture at Pinterest and benefits available for this position can be found here.US based applicants only$114,297—$235,319 USDOur Commitment to Inclusion:
-Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete&amp;nbsp;this form for support.
-&amp;nbsp;
-By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.
-
-To apply: https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure</description><pubDate>Sun, 13 Sep 2026 07:31:12 +0000</pubDate></item><item><title>Pinterest: Data Scientist II, Infrastructure</title><link>https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure</link><description>Headquarters: San Francisco, CA, US; Remote, US
+To apply: https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam</description><pubDate>Mon, 14 Sep 2026 07:31:07 +0000</pubDate></item><item><title>Pinterest: Data Scientist II, Infrastructure</title><link>https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure</link><description>Headquarters: San Francisco, CA, US; Remote, US
 
 
 About Pinterest:
@@ -286,84 +459,7 @@ To apply: https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish
 
 We are looking for a Power Platform Solutions Architect for a global company. Their goal is to assess and modernize an existing Power Platform solution, define the target architecture, and lead the technical design of a scalable and secure implementation.Required Skills:Deep hands-on experience with Microsoft Power Platform, including Power Apps (canvas and model-driven), Power Automate, Dataverse, Power Pages, and Power BIStrong experience designing Dataverse schemas and security rolesAzure architecture experience with API Management, Azure Functions, Key Vault, Entra ID/SSO, and Azure Monitor/Application InsightsExperience designing enterprise integration architectures, including integrations where counterpart APIs or contracts are uncertain, changing, or being migratedExperience integrating enterprise applications with ERP systemsExperience designing identity and access models for licensed and unlicensed user audiencesStrong understanding of Microsoft Power Platform licensing models, including per-user Dataverse licensing and capacity/session-based Power Pages licensingExperience evaluating existing solutions and defining modernization, remediation, or rebuild strategiesOptional Skills (not mandatory):SAP integration experienceDeliverablesLead the technical assessment of the existing Power Apps application, Power Automate flows, data layer, Power BI reporting, and four integration touchpointsSupport the Regulatory data-profiling spike and incorporate findings into the target solution architectureDefine and evaluate costed patch and rebuild options and support the final technical recommendationProduce a detailed and staffed Phase 2 implementation planDesign the consolidated Dataverse entity model and define workflow and business-logic architectureDefine the target integration architecture across the four integration touchpointsConfigure the Entra ID access model for licensed and unlicensed audiencesConfigure the shared Azure API Management, Key Vault, and monitoring architecture supporting the integrationsProduce the technical handover documentation for the implemented solutionEngagement HighlightsJoin a team of Toptalers already working for the client.Lead the technical direction of a Power Platform modernization initiative from assessment through solution designOwn architecture decisions across Power Platform, Azure, identity, data, and enterprise integrationsGeneral InformationLocation: USA or Canada only.Overlap: 6hs with the East Coast time zone, USATTCommitment: Approximately 30 hours per week during Phase 1 and 10 hours per week during Phase 2.
 
-To apply: https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect</description><pubDate>Thu, 10 Sep 2026 21:30:33 +0000</pubDate></item><item><title>Flexport: Senior Systems Engineer (Identity and Access)</title><link>https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access</link><description>Headquarters: U.S. Remote
-
-
-About Flexport:&amp;nbsp;
-At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes—from emerging brands to Fortune 500s—use Flexport technology to move more than $19B of merchandise across 112 countries a year.&amp;nbsp;
-The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, society, and the environment? Come join us.The Opportunity:&amp;nbsp;
-Flexport IT is looking for a Senior Systems Engineer (Identity &amp;amp; Access). In this role, you will design, implement, and administer our Identity and Access Management (IAM) solutions to ensure secure, efficient user lifecycle management.
-While you are our resident Okta expert, you are also a high-level IT generalist. You will oversee our broader SaaS ecosystem (Google Workspace, Slack, Jira) and endpoint management infrastructure (Jamf, Intune). Your expertise will drive automation, protect sensitive data, mitigate security risks, and maintain compliance in a heavily regulated industry.
-You will continually strive towards automation of toil. If you are still manually doing the same operational tasks 18 months from now, something has gone wrong. Flexport’s book of business is growing fast, but the promise of technology is that we can grow our business faster than our headcount. The automation you build will be a key factor in that effort.
-You Will
-
-IAM Architecture: Design, implement, and maintain the end-to-end lifecycle of Identity and Access Management platforms.
-Okta &amp;amp; Directory Trust: Administer Okta, directory services, Multi-Factor Authentication (MFA), and advanced password management.
-SaaS Operations: Manage core collaboration tools including Google Workspace, Microsoft O365, Slack, and Jira/Confluence.
-Unified Endpoint Management: Oversee our global fleet of Mac and Windows devices using Jamf and MS Intune.
-Lifecycle Automation: Build automated workflows for provisioning, deprovisioning, and application access.
-Identity Governance: Establish role-based access control (RBAC), entitlement reviews, and access certification processes.
-SSO Integration: Lead the technical onboarding of new SaaS applications for Single Sign-On (SSO).
-Security Partnership: Collaborate closely with the Security team to embed security best practices into our IT infrastructure.
-Documentation &amp;amp; Roadmaps: Author technical operating procedures, engineering roadmaps, and compliance policies.
-Operations Support: Provide high-tier technical leadership and escalation support for complex IT operations.
-
-You Should Have
-
-Experience: 5+ years of experience in IAM systems engineering paired with broad IT infrastructure management.
-Okta Expertise: Deep, hands-on mastery of Okta configuration, policy creation, and application integration.
-Core Protocols: Strong knowledge of IAM standards including SAML, SCIM, OAuth, OIDC, IGA, RBAC, and LDAP.
-Automation Skills: Experience with scripting (e.g., Python, Bash, or PowerShell) and Okta Workflows to automate IT tasks.
-SaaS &amp;amp; Endpoint Ecosystem: Proven track record managing Google Workspace, Slack, Jira, Jamf (macOS), and Intune (Windows).
-Education: Bachelor’s degree in Computer Science, a related field, or equivalent practical engineering experience.
-Compliance Mindset: A "compliance-first" attitude to navigate the rigorous requirements of a heavily regulated industry.
-Soft Skills: Excellent problem-solving abilities paired with strong collaborative and interpersonal communication.
-
-&amp;nbsp;
-#LI-remote
-
-
-
-
-
-
-
-The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Our salary ranges are determined by role, level, and location. Within the range displayed, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education and / or training. Base salary is just one part of our total rewards package at Flexport, which also includes bonus, equity, and comprehensive benefit offerings such as medical, dental, and flexible time off.&amp;nbsp;
-
-
-
-
-
-
-
-California Pay Range$130,000—$172,000 USDWashington Pay Range$115,200—$144,000 USDColorado Pay Range$105,600—$132,000 USDNew York City Pay Range$115,200—$144,000 USDIllinois Pay Range$105,600—$132,000 USD
-
-
-
-
-
-
-
-
-
-
-Commitment to Equal Opportunity
-At Flexport, our ability to fulfill our mission of making global commerce easy and accessible relies on having a diverse, dedicated and engaged workforce. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, physical and mental disability, health status, marital and family status, sexual orientation, gender identity and expression, military and veteran status, and any other characteristic protected by applicable law.
-Global Data Privacy Notice for Job Candidates and Applicants
-Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants.&amp;nbsp;By submitting your application, you are agreeing to our use and processing of your data as required. Please see our Privacy Notice available at&amp;nbsp;www.flexport.com/privacy&amp;nbsp;for additional information.
-
-
-
-
-
-
-
-
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access</description><pubDate>Thu, 10 Sep 2026 07:30:45 +0000</pubDate></item><item><title>Salesloft: Commercial Account Manager</title><link>https://weworkremotely.com/remote-jobs/salesloft-commercial-account-manager</link><description>Headquarters: United States, Remote
+To apply: https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect</description><pubDate>Thu, 10 Sep 2026 21:30:33 +0000</pubDate></item><item><title>Salesloft: Commercial Account Manager</title><link>https://weworkremotely.com/remote-jobs/salesloft-commercial-account-manager</link><description>Headquarters: United States, Remote
 
 
 Job Title: Commercial Account Manager
@@ -1220,44 +1316,4 @@ To apply: https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions
 
 Shopify developers love to freelance with Storetasker.Endless, quality clients: from well known DTC brands to top agencies.&amp;nbsp;Fully remote, flexible: work as much or as little as you want, wherever you want.&amp;nbsp;A talented and helpful community: it's freelance (with a team).Earn $100-$200 per hour: pick your clients, and send your own quotes or retainers.&amp;nbsp;We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: Alpha Industries, Boll &amp;amp; Branch, Superfluid, Jack Henry, Plenaire, and Fulton among many more. Why Storetasker?Endless clients &amp;amp; project opportunities: you’ll see between 5 - 50 new opportunities per day and can pick any lead you want.&amp;nbsp;You’ll earn more: some experts are making $250k+ per year.&amp;nbsp;A high quality community: we carefully select about 5% of those who apply.&amp;nbsp;Remote: work from anywhere, anytime.&amp;nbsp;Flexible: take on as many clients as you want.No external ratings: you’re already a professional. No need to prove it.&amp;nbsp;Great Software: that makes it easy to manage more clients and increase billable hours.Support when you need it: we offer project support 7 days per week.&amp;nbsp;Community (not competition): you pick your clients, projects, and never compete against other Experts in the community.&amp;nbsp;Learn more and join! It’s confidential, and takes less than 5 minutes. Here's who we're looking for:Ambitious part time and full-time freelancers and boutique agencies.Who have 3+ years of Shopify experience, and 5+ years of web development experience.&amp;nbsp;And who have managed projects, deadlines, and communication successfully.&amp;nbsp;Especially people with some of these skills:Front-end or full-stack Shopify developmentHeadless e-commerce developmentConversion rate optimizationE-commerce expertise and strategySEO&amp;nbsp;Site SpeedBuilder and/or ShogunIt takes just a few minutes to join.Here's what a few current members have to say:"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017Our Mission: We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.&amp;nbsp; Questions? Reach out at experts@storetasker.com.
 
-To apply: https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</description><pubDate>Mon, 13 May 2024 03:14:30 +0000</pubDate></item><item><title>Cribl: Customer Support Manager</title><link>https://weworkremotely.com/remote-jobs/cribl-customer-support-manager</link><description>Headquarters: Remote - United States
-
-
-Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next.
-We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd.Why You’ll Love This Role
-Cribl is seeking a Technical Support Manager to be a part of a specialized support team.&amp;nbsp; This role is centered on customer success by providing in-depth knowledge of data management systems and solutions, Cribl’s interactions with those solutions and using our knowledge to lift up everyone we may come in contact with.
-In this role, you will be joining a highly technical and collaborative team that is committed to shipping high quality software, enjoying all the goat gifs the internet has to offer, and truly enjoys all our interactions with our customers. The ideal candidate for this role has a mixture of strong technical chops, an innate desire to help customers, and a natural affinity for collaboration.
-As An Active Member Of Our Team, You Will…
-
-Manage an industry leading team.
-Manage Customer Support Escalations and be the calm voice of reason amongst the chaos.
-Review Cases, Metrics, Statistics to ensure departmental success.
-Mentoring and coaching to drive Engineers to their best success.
-Participate and be an advocate of Customers and Engineers.
-Create, maintain, enhance Processes and Procedures.
-Build your technical knowledge in Cribl products and how to position them.&amp;nbsp;
-Ensure team success to SLA’s, CSAT and other guiding metrics.
-This position will require stand-by, on-call, or off-hours duties.
-
-If You’ve Got It - We Want It
-
-Proven ability to be a powerful leader; Mentoring and Guiding Technical Engineers.&amp;nbsp;
-Strong technical skills to help mentor engineers and help guide customers to a successful solution.
-Strong written and verbal communication skills.
-Proven success with encouraging knowledge sharing internally and externally at every opportunity.
-A deep understanding of goals and helping your team achieve them.&amp;nbsp;
-A passion to elevate those around you and watch them succeed.
-A minimum of 3 years’ experience as a leader of a highly technical team.
-10 years’ experience in customer facing roles.
-Understanding of Big data and why data is important to companies.
-BONUS POINTS
-
-Experience with Cribl, Splunk, Elastic, Kafka, Kinesis, or related technologies
-Experience with AWS, Azure, GCP, and other cloud platforms
-
-
-
-#LI-KJ1#LI-RemoteThe salary for this role is dependent on geographic location and will be based on the individual candidate's job-related knowledge, skills, and experience.In addition to base salary, for sales and some sales-adjacent roles, employees are eligible to earn incentive compensation (commission). For all other roles, employees are eligible to participate in the Cribl Corporate Bonus Program.In addition to a competitive salary, Cribl also offers a generous benefits package which includes health, dental, vision, short-term disability, and life insurance, paid holidays and paid time off, a fertility treatment benefit, 401(k), and equity.Base Salary Range$116,000—$181,000 USDBring Your Whole SelfDiversity drives innovation, enables better decisions to support our customers, and inspires change for the better. We’re building a culture where differences are valued and welcomed, and we work together to bring out the best in each other. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.
-Interested in joining the Cribl herd? Learn more about the smartest, funniest, most passionate goats you’ll ever meet at cribl.io/about-us.&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/cribl-customer-support-manager</description><pubDate>Sun, 30 Aug 2026 07:30:43 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</description><pubDate>Mon, 13 May 2024 03:14:30 +0000</pubDate></item></channel></rss>
