@@ -1,5 +1,198 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Toptal: Senior Data Engineer – AWS Data Lake &amp; Pipeline Architecture </title><link>https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture</link><description>Headquarters: 
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Samsara: Staff Software Engineer</title><link>https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer</link><description>Headquarters: Remote
+    URL: https://www.samsara.com/
+
+
+About the role:
+Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, cameras, and connected devices across thousands of organizations, and that dataset is compounding: it grew from 4 trillion to 25+ trillion in four years. We're still early in turning that data into the products that will define how physical operations run, and we're hiring the engineers who will build what comes next.
+We're approaching ~$2B ARR growing 30%+ year over year, with 96% of our largest customers on two or more products. The fastest-growing divisions at Samsara are tackling the hardest, most ambiguous problems at the company: building new products from scratch, applying AI and ML to massive real-world datasets, and shipping capabilities that change how organizations maintain equipment, manage fleets, and run day-to-day operations. Most of this work is zero-to-one, at billion-dollar scale.
+We're looking for software engineers who want to define what ships next. Leveling is broad and flexible: we're hiring from Senior through Staff+, across platform and product, and we're open to shaping scope around the right person's strengths and interests. That window won't stay open long.
+This role is remote and open to candidates residing in the US. Relocation assistance will not be provided for this role.
+You should apply if:
+
+You want to impact the industries that run our world.&amp;nbsp;The software you build will have real-world stakes: helping keep the lights on, getting food into grocery stores, keeping workers safe. What ships here isn't metrics on a dashboard. It shows up on the loading dock, the job site, and the dispatch floor.
+You want to build, not maintain.&amp;nbsp;Samsara is in full growth mode. We're building new systems from scratch, not babysitting old ones. You'd own entire problem spaces end to end, with the autonomy to set direction from day one.
+You want to work where AI meets the physical world.&amp;nbsp;Samsara has spent a decade building the largest proprietary dataset for physical operations. More connected assets generate more data, more data trains better models, better models drive more value, and more value wins more assets. The market and the opportunity here are what set us apart, not just the models.
+You believe customers are more than a number.&amp;nbsp;Samsara engineers have a rare closeness to end users. You'll participate in customer interviews, collaborate with product managers and customer success, and use that context to build products that solve real problems operators face every day.
+You have the curiosity and drive to figure it out.&amp;nbsp;We're looking for people who take pride in their work and get things done at all costs. The engineers who thrive here don't wait to be told what to build. They define it, ship it, and own the outcome. The rate-limiting step on our teams isn't tooling or process. It's ambition.
+
+In this role, you will:&amp;nbsp;
+
+Take ownership of technically complex, mission-critical areas and run with them. We want to point you in a direction and show up to the demo meeting impressed, not spend our weeks managing the details.
+Define and drive technical strategy for new products and platform capabilities, from backend services and APIs to the customer-facing UI.
+Design and ship full-stack features end to end. You'll work across backend, frontend, and potentially mobile to deliver AI-powered products that solve real operational problems.
+Partner with product, design, and customer-facing teams to translate ambiguous, real-world problems into clear technical plans and measurable outcomes.
+Build and scale the systems behind AI-driven products, including data ingestion, APIs, and the workflows that put intelligence into the hands of operators.
+Raise the bar for the engineers around you through code reviews, design reviews, technical mentorship, and by setting a standard for quality, velocity, and craft.
+Champion, role model, and embed Samsara’s cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+
+Minimum requirements for the role:
+
+Bachelor's degree in Computer Science, Engineering, or equivalent practical experience.
+8+ years of experience in software design and development, including building and operating production systems at scale.
+Strong full-stack fundamentals. You're comfortable working across backend services, APIs, and frontend (web or mobile) to ship complete products.
+Proficiency in modern languages and frameworks (Go, Python, TypeScript/JavaScript, React, or similar).
+Demonstrated experience leading cross-team or cross-org projects from inception through rollout, including managing ambiguity, driving alignment, and delivering measurable impact.
+Experience building AI-powered or data-driven products. You don't need to train models, but you know how to take AI capabilities and turn them into products customers love.
+Strong communication skills and the ability to translate between technical and non-technical stakeholders.
+A track record of building: zero-to-one products, systems you left in a meaningfully better place, or hard problems you refused to let stay unsolved.
+
+An ideal candidate also has:
+
+Experience shipping AI-powered features in production, whether that's LLM-based products, agentic workflows, recommendation systems, or other customer-facing AI.
+Comfort with modern AI-augmented development workflows (Cursor, LLMs, etc.) to multiply your output and accelerate delivery.
+Background working with real-world operational data (telematics, sensor data, work orders, inspections) or a strong interest in learning the domain.
+A proven track record of mentoring senior engineers and influencing engineering culture, standards, and best practices beyond a single team.
+Side projects, open-source contributions, or other signals of curiosity and drive outside the scope of your day job.
+
+
+
+
+The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience. This role is also eligible for an initial RSU grant with no vesting cliff, and ongoing refresh opportunities tied to performance, subject to plan terms and conditions. Learn more about our total rewards and benefits below.
+
+Annual Base Salary
+$162,400—$290,000 USD
+
+
+
+Total Rewards
+At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why&amp;nbsp;our rewards&amp;nbsp;are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time.
+Beyond compensation, we provide the foundations that enable long-term success: a flexible, employee-led remote model, a professional development stipend, comprehensive health and parental leave plans, and more. If you’re ready to build for the long term and own the outcome, your journey starts here.
+Flexible Working&amp;nbsp;
+At Samsara, we embrace a flexible working model that caters to the diverse needs of our teams. Our offices are open for those who prefer to work in-person and we also support remote work where it aligns with our operational requirements. For certain positions, being close to one of our offices or within a specific geographic area is important to facilitate collaboration, access to resources, or alignment with our service regions. In these cases, the job description will clearly indicate any working location requirements. Our goal is to ensure that all members of our team can contribute effectively, whether they are working on-site, in a hybrid model, or fully remotely. All offers of employment are contingent upon an individual’s ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.
+Belonging at Samsara
+At Samsara, we welcome everyone regardless of their background. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender, gender identity, sexual orientation, protected veteran status, disability, age, and other characteristics protected by law. We depend on the unique approaches of our team members to help us solve complex problems and want to ensure that Samsara is a place where people from all backgrounds can make an impact.
+
+
+To apply: https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer</description><pubDate>Mon, 17 Aug 2026 13:57:14 +0000</pubDate></item><item><title>Sticker Mule: AI agent engineer</title><link>https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer</link><description>Headquarters: New York, NY
+    URL: https://www.stickermule.com
+
+
+
+Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.
+&amp;nbsp;
+We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.
+&amp;nbsp;
+Work performed
+
+
+Identify where agents can help and build them accordingly.
+
+
+Work with department leads to assess AI needs.
+
+
+Help connect agents to appropriate third-party and internal tools.
+
+
+Measure results and remove agents that don't deliver.
+
+
+Test new tools and models as they ship and adopt what works.
+
+
+Advise others on AI capabilities to help them perform.
+
+
+&amp;nbsp;
+Requirements
+
+
+Experience building agents that run on their own and do meaningful work
+
+
+Strong with Grok, Claude, OpenAI, and open source
+
+
+Comfortable in Go, TypeScript, GraphQL, Postgres, GCP
+
+
+Writes clearly in English
+
+
+&amp;nbsp;
+Compensation
+
+
+Salary: $150,000–$250,000 USD
+
+
+$20,000 signing bonus
+
+
+4 weeks vacation + country-specific holidays
+
+
+Fully remote
+
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer</description><pubDate>Wed, 16 Sep 2026 12:24:17 +0000</pubDate></item><item><title>AccuLynx: Senior Software Engineer </title><link>https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer</link><description>Headquarters: Beloit, WI 
+    URL: http://acculynx.com
+
+
+Senior Software Engineer
+AccuLynx is a fast-growing SaaS provider of business management software for roofing contractors. With more than 10 years in the business and impressive year-over-year revenue growth, we have quickly established ourselves as the leading software product in this multi-billion dollar industry.
+AccuLynx is actively looking for smart and passionate Senior Software Engineers to join our growing Engineering team! We are headquartered out of Beloit, WI and would love to have you join us for major planning sessions and meetings, but this role has the option to be remote. We do not hire based on buzzwords or popular acronyms. We expect you to have mastered at least one language and be eager to master any technology or language in the future. If you want to be part of a collaborative team committed to providing a best-in-class software user experience, please read on!
+What You Will Do:
+
+Support Engineering team in delivering well-written, well-tested code to complete new features or address issues in the product
+Collaborate on the design, implementation, testing and review of new features and fixes
+Review code and contribute feedback to improve the quality, readability, and testability of the code base across Engineering
+Architect, design, develop, deploy and operate services that serve AccuLynx’s thousands of users
+Use Agile process to experiment and improve on software development practices at AccuLynx
+
+What might you work on?
+
+Implement real time communication tools to connect our customers.
+Create a fast and responsive work-scheduling application for use in the field.
+Build an automation platform so our customers can customize their workflow to reduce wasted movement.
+Solve advanced mapping and geolocation problems.
+Build out our public RESTful API.
+Review junior Engineering team members’ work for accuracy and provide coaching and feedback
+Perform other related duties as assigned
+
+Your Qualifications:
+
+Top notch coding skills
+7-10 years of software development experience
+7+ years of full-stack web development: frontend, backend and database
+Smart and gets things done
+Excellent written, verbal and interpersonal communication skills
+Belief that performance is a feature
+Experience with our stack: Vue.js, C#, Sql Server, Redis, ElasticSearch, Git
+Confidence you will make a difference in our product
+Leverages AI-powered development tools (e.g., GitHub Copilot, Claude Code) to accelerate coding, testing, and debugging workflows while maintaining high code quality standards
+Actively evaluates and integrates emerging AI coding assistants into the team's development process, sharing best practices to improve overall engineering velocity
+
+Bonus Points If You Have:
+
+Familiarity with Agile methodologies.
+Understanding of HTML5 and mobile responsive development.
+Contributions to OSS projects or Stackoverflow.
+Availability for after hours support. We work at a sustainable 40h/week pace but sometimes things go bump in the night.
+
+Why We Love AccuLynx:
+AccuLynx’s success as the #1 business management software for roofing contractors over the past 11 years is thanks to us investing in our employees, maintaining company values and focusing on a strong company culture. Our positive work environment has allowed us to retain employees that have been with us since our company’s inception and has provided the solid groundwork for us to develop an industry-leading product while exceeding our customer’s expectations. Because of our commitment to our company values and culture, we were recently officially recognized as a Great Place to Work Certified™ organization, with 90% of our employees naming AccuLynx as a great place to work.
+We’re proud to regularly be recognized for software, product and company culture achievements. Our team’s shared belief in AccuLynx's mission promotes a culture of collaboration, innovation and fun. We have built a benefits program to match the strength of our team. This program includes:
+
+Attractive compensation packages
+Flexible paid time off - 3 weeks off in your first year!
+Competitive health coverage (medical, dental, vision)
+401K matching and safe harbor contributions
+
+Our Interview Process:
+We do not hire based on buzzwords or popular acronyms. We expect you to be a master of your domain and be eager to learn any technology or language in the future. We aim to reply to your application within a week of receiving it. Our interview process consists of several stages, each one allowing us get to know you better, professionally and technically. It is also an opportunity for you to gain a better understanding of our culture and the work we do at AccuLynx. The stages include:
+
+CV, open source code, or public portfolio review
+Phone interview with HR team
+Face to Face conversation with a few members of your team.
+
+Applicants must be able to work legally within the United States. Please, no 3rd party inquiries.
+AccuLynx is an Equal Opportunity Employer committed to inclusion and employing a diverse workforce. All applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, disability, or other legally protected characteristics.
+
+To apply: https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer</description><pubDate>Tue, 15 Sep 2026 14:12:47 +0000</pubDate></item><item><title>Toptal: Senior Data Engineer – AWS Data Lake &amp; Pipeline Architecture </title><link>https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture</link><description>Headquarters: 
 
 
 SummaryWe are seeking a Data Engineer to support the development of a Data Intelligence Platform. This role focuses on data modeling, data services, data pipelines, and cloud-based data infrastructure for reporting, analytics, and data science.General informationThis Data Engineer will support data-related operations across a broader Data Intelligence Platform team. The work includes building and consuming web services, integrating search technologies, supporting personalization and recommendation engines, and applying data engineering best practices across the platform.The role spans cloud-based data architecture, database performance, pipeline automation, and support for data scientists, researchers, and internal business units. The environment includes AWS-based infrastructure and a mix of structured and unstructured data sources.Tasks and Deliverables- Participate in the architecture design and implementation of high-performance, scalable, and optimized data solutions.- Create data models from scratch using strong SQL fundamentals.- Write and optimize in-application SQL statements.- Ensure the performance, security, and availability of databases.- Prepare documentation and technical specifications.- Handle database procedures such as upgrades, backups, recovery, and migration.- Profile server resource usage and optimize configurations as necessary.- Design, build, and automate the deployment of data pipelines and applications.- Integrate data from on-premise databases and external data sources using REST APIs and harvesting tools.- Collaborate with business units and data science teams on data access, transformation, processing, and reporting needs.- Support implementation, technical issues, and training related to the data lake ecosystem.- Work with the team to manage AWS resources, including EMR and ECS clusters.- Support provisioning, monitoring, configuration, and maintenance of AWS tools.- Evaluate and promote new cloud technologies that improve capabilities and lower operating costs.- Support automation efforts using Infrastructure as Code with Terraform and CI/CD tools such as Jenkins.- Work with the team to implement data governance, access control, and security risk reduction.Required experience- 7-9 years of experience designing and developing cloud-based data models, ETL pipelines, and infrastructure.- Experience working with both structured and unstructured data.- Strong proficiency with SQL across popular databases.- Experience optimizing large, complex SQL statements.- Knowledge of best practices for relational databases.- Experience configuring database engines and orchestrating clusters.- Ability to plan resource requirements from high-level specifications.- Ability to troubleshoot common database issues.- Experience with Spark, Glue, EMR, and Apache Kafka or AWS Kinesis.- Experience with version control tools such as Git or Subversion.- Experience using automated build systems and CI/CD workflows.- Experience programming in Java, Python, and Scala.- Knowledge of data structures and algorithms.- Knowledge of relational, NoSQL, graph, document, key-value, and time-series databases.- Knowledge of scalable data model design and management.- Knowledge of ML model deployment.- Knowledge of AWS cloud platforms.- Knowledge of TDD and BDD.- Strong interest in improving software development skills, frameworks, and technologies.Engagement highlights- Opportunity to work across data modeling, data services, and data science within a broader Data Intelligence Platform.- Exposure to a varied technical environment spanning AWS, ETL pipelines, databases, search technologies, and recommendation systems.- Direct collaboration with data science teams and internal stakeholders on reporting, transformation, and platform capabilities.
@@ -1250,69 +1443,4 @@ The University also offers a comprehensive benefit program to eligible employees
 Standard Weekly Hours36.25Eligible for OvertimeNoBenefits EligibleYesProbationary Period180 daysEssential Services Personnel (see policy for detail)NoPhysical Capacity Exam RequiredNoValid Drivers License RequiredNoExperience LevelMid-Senior Level#Ll-DP1Salary Range$121,000 to $137,000Apply Here
 PI286870861
 
-To apply: https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii</description><pubDate>Thu, 03 Sep 2026 13:24:14 +0000</pubDate></item><item><title>Expel: Managed SIEM Detection Engineer</title><link>https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer</link><description>Headquarters: Remote
-
-
-Are you a detection engineer who wants to bring real depth of expertise into a new and growing function and use it to deliver security excellence to customers? Expel's professional services practice is just getting started, and we're looking for the technical expert who'll deliver the work that gets customers ready to thrive under our co-managed SIEM model. You'll bring hands-on skill to a team that's finding its stride, help it grow, and have a real runway to grow into a lead yourself.
-Here's the work. Customers come to us with SIEMs that should be surfacing threats but are instead consuming their teams: ingestion costs climbing year over year, engineers buried in alert noise and broken pipelines, and detection blind spots leaving real gaps. You're the engineer who turns that around: authoring and tuning detection content that satisfies real security use cases, closing coverage gaps, migrating detection logic off legacy platforms, and helping optimize what customers ingest and pay for, so their SIEM becomes a force multiplier again, not a management burden.
-And because this function evolves right alongside our customers and the market, the work won't stand still. Expect it to grow into deeper integrations, automated and AI-assisted tooling, and security strategies our customers need next.
-What Expel can do for you
-
-Give you a ground-floor seat in a new professional services function, where your expertise directly shapes the quality of what we deliver to customers
-Provide real runway for professional development as the function grows
-Put you on complex, high-stakes detection and SIEM problems across a wide range of customer environments
-Let you work across leading SIEM platforms, including Splunk, Microsoft Sentinel, and CrowdStrike NG SIEM, plus emerging AI-assisted tooling
-Give you visibility and partnership across the organization, including Sales, Detection Engineering, our SOC, and Customer Success
-Accelerate your career by letting you own meaningful outcomes end to end
-
-What you can do for Expel
-
-Deliver end-to-end professional services engagements, including detection strategy, MITRE ATT&amp;amp;CK assessment, SIEM optimization and integrations, SOAR playbook development, and custom log parsing
-Develop and validate detection content that satisfies defined security use cases, at onboarding and as environments evolve, with strong coverage and clean fidelity
-Optimize SIEM performance and cost by tuning detections for fidelity, reducing alert noise, and improving ingestion efficiency
-Contribute to Expel's professional services proprietary detection library, continuously improving our detection strategy and capability
-Translate detection logic between SIEM platforms and write custom parsers for standard and non-standard log sources, using AI-assisted tools where they help and validating the outputs
-Partner with Detection Engineering and the SOC to hand off environments ready for ongoing co-managed operations, and work with SOC analysts to sharpen the fidelity and actionability of rules and alerts
-Track the evolving threat landscape and turn it into new detection development
-Help the function grow by contributing repeatable processes, templates, and tooling that raise the quality and consistency of what we deliver
-
-What you should bring to Expel
-
-Hands-on SIEM expertise across Splunk, Microsoft Sentinel, and/or CrowdStrike NG SIEM, including architecture, data ingestion, and detection rule development
-3+ years with detection and response tooling, particularly SIEM, SOAR, and EDR
-3+ years writing, deploying, and tuning custom detections from research or investigative work against common datasets (Windows Event Logs, auditd, CloudTrail, and similar)
-SIEM migration experience translating detection logic between platforms and re-pointing log sources
-Working knowledge of attacker tactics and techniques and the MITRE ATT&amp;amp;CK framework
-Solid fundamentals across Windows, macOS, and Linux, networking basics (TCP/IP, OSI), and working knowledge of cloud IAM models and platforms
-Basic proficiency with Python, Go, or similar, and comfort using Git/GitHub for version control of detection content, scripts, and templates
-Curiosity, strong ownership, and the appetite for growth
-A willingness to travel up to 20%
-
-Bonus points for
-
-One or more SIEM or vendor certifications (e.g., Splunk Core Certified Power User or Enterprise Security Certified Admin, Microsoft SC-200, CrowdStrike CCFA/CCFR)
-Experience authoring platform-agnostic detections with Sigma and converting rules across SIEM backends
-Familiarity with detection-as-code practices, including version-controlled rules, testing, and CI/CD for detection content
-Industry security certifications such as GIAC (e.g., GCDA, GCIA), Security+, or similar
-A bachelor's degree in Computer Science or Information Security
-
-Additional notes
-This role is remote within the United States.
-The base salary range for this role is between $111,900 USD and $162,300 USD + bonus eligibility and equity. While the full salary band reflects our long-term compensation framework, we're primarily targeting candidates between $120,000 and $140,000 based on experience, skills, and market data.
-We believe in paying transparently and equitably. Your salary will ultimately be based on factors such as your experience, skills, team equity, and market data. You'll also be eligible for unlimited PTO (which we model and encourage), work location flexibility, up to 24 weeks of parental leave, and really excellent health benefits.
-We're only hiring those authorized to work in the United States. We do not currently sponsor immigration visas.
-We're an Equal Opportunity Employer: You'll receive consideration for employment without regard to race, sex, color, religion, sexual orientation, gender identity, national origin, protected veteran status, or on the basis of disability.
-We'll ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please let us know if you need accommodation of any kind.
-#LI-RemoteSalary Range$111,900—$162,300 USD
-
-To apply: https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer</description><pubDate>Tue, 01 Sep 2026 07:30:49 +0000</pubDate></item><item><title>Toptal: Smartsheet Expert for Integrated Project Planning</title><link>https://weworkremotely.com/remote-jobs/toptal-smartsheet-expert-for-integrated-project-planning</link><description>Headquarters: 
-
-
-SummaryWe are seeking a Smartsheet Expert to support integrated project planning activities related to the integration of a regional utility's service territory and assets. This role will focus on building complex Smartsheet solutions, coaching the client on similar sheet and formula creation, and producing training materials.General informationThis engagement supports integrated project planning work tied to a regional utility integration effort. The scope centers on improving planning visibility and structure within Smartsheet, including program views, dependencies, and a more robust RAID log with formulas and connectors.The ideal freelancer will be comfortable serving in both a hands-on build capacity and a coaching capacity, helping the client strengthen its internal use of Smartsheet while delivering practical project artifacts.Tasks and Deliverables- Build Smartsheet solutions to support integrated project planning activities.- Create program views, dependencies, and a more robust RAID log.- Develop formulas and connectors to support sheet functionality.- Perform complex data entry within Smartsheet as needed.- Coach the client on how to create similar sheets and formulas.- Produce training materials for ongoing client use.Required experience- Proven expertise in Smartsheet.- Experience building complex sheets, views, and dependencies in Smartsheet.- Experience creating formulas and connectors in Smartsheet.- Ability to support project planning workflows and related documentation.- Experience coaching stakeholders on Smartsheet usage and best practices.- Strong written communication skills for training material creation.- Must be US-based.Engagement highlights- Clear, defined scope combining hands-on Smartsheet build work with client coaching.- Opportunity to support a large-scale utility integration planning initiative.- Deliverables include both implementation and reusable training materials.
-
-To apply: https://weworkremotely.com/remote-jobs/toptal-smartsheet-expert-for-integrated-project-planning</description><pubDate>Mon, 31 Aug 2026 16:30:27 +0000</pubDate></item><item><title>Toptal: Power Platform Solutions Architect for Global Pharmaceutical Company</title><link>https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect-for-global-pharmaceutical-company</link><description>Headquarters: 
-
-
-We are looking for a Power Platform Solutions Architect for a global company. Their goal is to assess and modernize an existing Power Platform solution, define the target architecture, and lead the technical design of a scalable and secure implementation.Required Skills:Deep hands-on experience with Microsoft Power Platform, including Power Apps (canvas and model-driven), Power Automate, Dataverse, Power Pages, and Power BIStrong experience designing Dataverse schemas and security rolesAzure architecture experience with API Management, Azure Functions, Key Vault, Entra ID/SSO, and Azure Monitor/Application InsightsExperience designing enterprise integration architectures, including integrations where counterpart APIs or contracts are uncertain, changing, or being migratedExperience integrating enterprise applications with ERP systemsExperience designing identity and access models for licensed and unlicensed user audiencesStrong understanding of Microsoft Power Platform licensing models, including per-user Dataverse licensing and capacity/session-based Power Pages licensingExperience evaluating existing solutions and defining modernization, remediation, or rebuild strategiesOptional Skills (not mandatory):SAP integration experienceDeliverablesLead the technical assessment of the existing Power Apps application, Power Automate flows, data layer, Power BI reporting, and four integration touchpointsSupport the Regulatory data-profiling spike and incorporate findings into the target solution architectureDefine and evaluate costed patch and rebuild options and support the final technical recommendationProduce a detailed and staffed Phase 2 implementation planDesign the consolidated Dataverse entity model and define workflow and business-logic architectureDefine the target integration architecture across the four integration touchpointsConfigure the Entra ID access model for licensed and unlicensed audiencesConfigure the shared Azure API Management, Key Vault, and monitoring architecture supporting the integrationsProduce the technical handover documentation for the implemented solutionGeneral InformationLocation: USA or Canada only.Overlap: 6hs with the East Coast time zone, USATTCommitment: Approximately 30 hours per week during Phase 1 and 10 hours per week during Phase 2.
-
-To apply: https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect-for-global-pharmaceutical-company</description><pubDate>Mon, 31 Aug 2026 15:47:17 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii</description><pubDate>Thu, 03 Sep 2026 13:24:14 +0000</pubDate></item></channel></rss>
