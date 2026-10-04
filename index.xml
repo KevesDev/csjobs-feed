@@ -1,5 +1,200 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Edfinity: Senior Software Engineer, remote</title><link>https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote</link><description>Headquarters: Austin, TX
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Hex Technologies: Cloud Security Engineer</title><link>https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer</link><description>Headquarters: SF, NYC, or Remote (US)
+
+
+About the role
+We are looking for an experienced Cloud Security Engineer to join Hex’s security team. You will be responsible for ensuring the security and resilience of our cloud infrastructure, providing leadership in cloud security practices, and collaborating closely with our infrastructure and engineering teams to secure our cloud-native applications.
+
+About the role:
+
+Design, implement, and manage security solutions and controls for AWS environments and Kubernetes clusters, including appropriate isolation/sandboxing methods for Hex’s RCE-as-a-Service platform
+Build, deploy, and maintain infrastructure-as-code using Terraform, ensuring robust security standards are enforced.
+Conduct security assessments, threat modeling, and audits on AWS cloud infrastructure and Kubernetes deployments.
+Collaborate with development and operations teams to embed security best practices into CI/CD pipelines.
+Monitor and respond to cloud security incidents, identifying root causes and recommending remediation actions.
+Provide expertise in compliance requirements related to cloud security (e.g., SOC 2, ISO 27001, GDPR, HIPAA, PCI DSS).
+Mentor engineers and advocate for cloud security across the organization.
+
+About you:&amp;nbsp;
+
+5+ years of experience in cloud security engineering, with extensive expertise in AWS.
+Demonstrated proficiency with Kubernetes security including cluster hardening, role-based access control (RBAC), network policies, and container vulnerability management.
+Expert-level knowledge and hands-on experience with Terraform.
+Familiarity with AWS security services (e.g., IAM, GuardDuty, Security Hub, CloudTrail, WAF).
+Familiarity with CNAPP solutions such as Wiz
+Familiarity with SIEM solutions such as Panther
+Solid understanding of secure software development lifecycle practices, CI/CD security, and DevSecOps methodologies.
+Relevant certifications such as AWS Certified Security – Specialty, Certified Kubernetes Security Specialist (CKS), and Terraform Associate certification are highly desirable.
+Bonus points for security certifications from SANS or OffSec.
+Excellent problem-solving, communication, and leadership skills.
+
+
+Our Engineering team
+We’re a group of engineers who are forging new ground together and love partnering with Security on our journey to pull ahead of our competition. You can read about how we think through problems as well as how we learn from mistakes on our blog here:
+
+How we took down production…
+Beyond Linear Notebooks
+A pragmatic approach to live collaboration
+
+
+Our stack
+Our product is a web-based notebook and app authoring platform. Our frontend is built with Typescript and React, using a combination of Apollo GraphQL and Redux for managing application state and data. On the backend, we also use Typescript to power an Express/Apollo GraphQL server that interacts with Postgres, Redis, and Kubernetes to manage our database and Python kernels. Our backend is tightly integrated with our infrastructure and CI/CD, where we use a combination of Terraform, Helm, and AWS to deploy and maintain our stack.
+
+In addition to our unique culture, Hex proudly offers a competitive total rewards package, including but not limited to, market-benched salary &amp;amp; equity, comprehensive health benefits, and flexible paid time off.
+The salary range for this role is: $198,750 - $295,000
+The salary range shown may be a reflection of additional factors such as geographical location and skill ranges/levels we’re open to. Placement in the salary range will be decided upon completion of the interview process, taking into account factors like leaving room for growth, internal fairness &amp;amp; parity, your demonstrated skills, and the depth of your experience. Our Recruiting team will be able to provide more details during the interview process.
+By submitting an application the candidate consents to the use of their personal information in accordance with the Hex Privacy policy:&amp;nbsp;https://learn.hex.tech/docs/trust/privacy-policy.Hex Technologies uses AI-assisted tools as part of our application review process, including for resume screening and fraud detection. These tools help our team evaluate applications and verify applicant information. All AI-generated recommendations are reviewed by a member of our recruiting team before any hiring decision is made. No application is automatically rejected based solely on an AI tool's output.
+
+To apply: https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer</description><pubDate>Sat, 19 Sep 2026 07:31:10 +0000</pubDate></item><item><title>Toptal: Senior Integration Engineer for Enterprise API &amp; Integration Products</title><link>https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products</link><description>Headquarters: 
+
+
+SummaryWe are looking for a Senior Integration Engineer to build and operate integration products connecting Salesforce, SAP, and a carrier data lake. This role combines hands-on integration development with end-to-end production ownership, including API design, data mapping, testing, monitoring, troubleshooting, and recovery.General informationThis role focuses on building reliable, maintainable integrations rather than creating new point-to-point integration debt. You will work across Salesforce, SAP, and carrier data lake environments, taking ownership of integrations throughout their lifecycle—from implementation and testing through production support and continuous improvement.Strong experience with MuleSoft or a comparable enterprise integration/API platform is expected, along with practical experience integrating with SAP and working with data lake ingestion patterns.AI-assisted engineering is an explicit expectation for this engagement. You will use AI copilots and agents as part of your daily workflow to accelerate discovery, development, testing, documentation, and operational troubleshooting. You will remain responsible for validating and hardening AI-generated output and for all production decisions.Tasks and DeliverablesDesign and implement MuleSoft/API integrations across Salesforce, SAP, and the carrier data lake.Define and maintain API contracts, field mappings, transformations, and automated tests.Use Data Modeler to develop and maintain accurate data mappings between systems.Debug and resolve production integration failures independently, including root-cause analysis and preventative improvements.Instrument integration pipelines with appropriate monitoring, logging, and alerting.Support Marketing Portfolio transition integrations while avoiding unnecessary point-to-point dependencies and new integration debt.Use AI tools to accelerate mapping drafts, API stubs, test generation, documentation, and error-handling boilerplate.Review and harden AI-generated output to ensure it meets production standards for reliability, maintainability, and quality.Automate replay, retry, alerting, and recovery runbooks to reduce mean time to recovery (MTTR).Continuously improve the reliability, observability, and operational efficiency of the integrations you own.Required experience5+ years of integration engineering experience.Hands-on experience with MuleSoft or an equivalent enterprise ESB/API integration platform.Experience integrating with SAP, including IDoc, API, and/or BAPI patterns.Experience with Salesforce integrations and enterprise API patterns.Experience with data lake ingestion and integration patterns.Strong understanding of API contracts, data mapping, transformations, testing, and integration architecture.Demonstrated experience supporting integrations in production, including monitoring, troubleshooting, alerting, retry/replay, and incident resolution.Ability to take ownership of production issues and drive them through diagnosis, recovery, and prevention, rather than simply handing them off to another team.Experience using AI copilots or agents to accelerate software engineering workflows.Strong engineering judgment and the ability to validate, test, and improve AI-generated code and artifacts before they reach production.
+
+To apply: https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products</description><pubDate>Fri, 18 Sep 2026 17:01:08 +0000</pubDate></item><item><title>Collibra: CPS Account Program Manager</title><link>https://weworkremotely.com/remote-jobs/collibra-cps-account-program-manager</link><description>Headquarters: Remote, USA
+
+
+Joining Collibra’s CPS Account Program Manager team
+The Account Program Manager (APM) serves as the strategic partner and relationship manager for Collibra Public Sector’s Federal customers. This role is integral to ensuring customer satisfaction, driving adoption, and delivering value from Collibra’s solutions while collaborating closely with our Services and other GTM teams to create a seamless and resilient customer journey. This role directly influences retention, advocacy, and long-term account success.
+In this role, you will bridge the gap between customer mission needs and our software solutions, coordinating the technical team towards delivering successful implementation, adoption, and value. The APMs primary responsibility is to partner closely with sales, services, support, customer engineering, and product teams to proactively safeguard account health, revenue, and customer satisfaction, by proactively identifying and mitigating risk, preventing and managing escalations, and assessing customer health.&amp;nbsp;
+Account Program Managers at Collibra Public Sector are responsible for
+Relationship building and management
+
+Serve as the primary point of contact for assigned federal accounts, building trusted relationships with key stakeholders, system integrators and partners.
+Establish long-term relationships within assigned government customers while developing an understanding of the client’s strategic goals and overall impact on business results.
+Understand customers' business objectives, technical needs, and success criteria, aligning Collibra’s services to meet their goals.
+Support renewals and expansion by demonstrating technical value and best practices.
+Understand customer mission objectives and map them to product capabilities.
+
+Advocacy and operational readiness
+
+Provide guidance during onboarding, deployment, upgrades, and ongoing operations.
+Coordinate technical discussions, architecture reviews, and solution design sessions.
+Assist with documentation, technical presentations, and briefings for government stakeholders.
+Coordinate product functionality and roadmap meetings between product customers and the customer.
+
+Planning and project management
+
+Coordinate Support, Services and Customer Engineering on customer projects and initiatives by providing project leadership and guidance based on customer overall objectives.
+Align services delivery with customer’s business needs by ensuring successful project execution and implementations are delivered on time, within scope, and aligned to customer goals.
+Drive customer alignment on goals, success criteria, and acceptance milestones.
+Track project progress and provide regular status updates to customers and internal leadership.
+Understand the customer’s high-level business challenges while functioning as an advisory resource for “Best Practices” in driving adoption of Collibra’s solutions.
+Manage scope, risks, issues, and dependencies across multiple concurrent projects.
+Deliver reports for customers as required based on business objectives.&amp;nbsp;
+
+Health assessment and risk prevention
+
+Identify and track key customer risk indicators (usage, sentiment, support volume, executive engagement, compliance).
+Lead the effort with Sales and the technical teams to identify customer risk, performance issues, and opportunities for optimization.
+Help customers avoid and/or mitigate issues with proactive guidance based on extensive customer experience.
+Advocate for customer needs internally, influencing product roadmap and prioritization.
+
+Escalation prevention and management
+
+Act as point of contact for managing escalations, coordinating cross-functional resolution with Support, Product, and Engineering.
+Provide clear and constructive product feedback to Collibra’s Product Management teams based on customer use-cases and requirements.
+Be a customer advocate to ensure that escalations are resolved in a timely fashion.
+
+You have
+
+5+ years of experience in a technical customer-facing role (TAM, Solutions Engineer, Systems Engineer, or similar)
+Experience supporting U.S. federal government customers (civilian, DoD, or IC)
+Strong understanding of enterprise software, SaaS, or cloud-based solutions
+Ability to explain complex technical concepts to both technical and non-technical audiences
+Experience working in regulated or high-security environments
+Excellent communication, organization, and stakeholder management skills
+Experience deploying enterprise solutions
+Knowledge of government hierarchy and operations
+Strong business insight and problem-solving skills with the ability to influence internal and external stakeholders at all levels
+Familiarity with compliance frameworks such as FedRAMP, NIST 800-53
+Experience with cloud platforms (AWS, Azure, or GCP), especially GovCloud or equivalent
+Experience working with system integrators
+Knowledge of government hierarchy and operations
+A solid technical background in data management
+Active or eligible U.S. Government security clearance
+Because this role supports the U.S. government business, it is required that this candidate be a U.S. citizen who resides on U.S. soil
+
+You are
+
+Exceptional in communication, presentation and interpersonal skills including the ability to communicate effectively and build relationships within government entities
+Fast learner with the ability to explain complex technical concepts to a variety of audiences
+Excellent in communication, organization, and stakeholder management skills
+
+Measures of success
+
+Within the first 30 days
+
+Understand your customers objectives and ongoing efforts
+Identify account risks and project blockers
+Attend account team meetings for assigned accounts
+
+Within the first 60 days
+
+Develop a Success Plan for each assigned customer based on their objectives and ongoing efforts
+Develop a remediation plan for customers at risk collaborating with the sales and technical teams
+Participate in account team meetings for assigned accounts
+Identify key customer contacts at all levels
+
+Within the first 90 days
+
+Begin to execute the Success Plan for each assigned customer
+Begin to execute the remediation plan for customers at risk collaborating with the sales and technical teams
+Lead account team meetings for assigned accounts
+Begin to develop a relationship with key customer contacts at all levels
+
+
+Compensation for this role
+The standard base salary range for this position is $104,000 - $130,000 per year. This position is not eligible for additional commission-based compensation. Salary offers are based on a combination of factors, including, but not limited to, experience, skills, and location.
+In addition to base salary, we offer a competitive total rewards package, including bonus potential, equity for eligible roles, a Flex Fund monthly stipend, pension/401k plans, and more.
+&amp;nbsp;Benefits at Collibra
+Collibra recognizes and values that everyone has different needs, interests, and life goals. We built our benefits program with flexibility in mind to support you and your loved ones through a diverse range of circumstances and life events. These flexible offerings sit on a foundation of competitive compensation, health coverage, and time off. Learn more about Collibra’s benefits.
+We create inclusion and belonging through how we onboard, meet, connect, engage, and communicate. Learn more about&amp;nbsp;diversity, equity, and inclusion at Collibra.
+At Collibra, we’re proud to be an equal opportunity employer. We realize the key to creating a company with a world-class culture and employee experience comes from who we hire and creating a workplace that celebrates everyone.
+With this, we proudly consider qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sexual orientation, pregnancy, sex, gender identity, gender expression, genetic information, physical or mental disability, HIV status, registered domestic partner status, caregiver status, marital status, veteran or military status, citizenship status or any other legally protected category. If you have a need that requires accommodation, let us know by completing our&amp;nbsp;Accommodations for Applicants form.
+
+To apply: https://weworkremotely.com/remote-jobs/collibra-cps-account-program-manager</description><pubDate>Fri, 18 Sep 2026 07:30:46 +0000</pubDate></item><item><title>Twikey: Senior Java Developer</title><link>https://weworkremotely.com/remote-jobs/twikey-senior-java-developer</link><description>Headquarters: Ghent - Belgium
+    URL: https://www.twikey.com/jobs
+
+
+Are you a driven back-end developer who doesn't wait for instructions, but is already thinking two steps ahead? Who experiments with new technologies and smart solutions alongside the job? Then we want to talk to you.
+Straight forward but clear: Twikey isn't looking for someone to just execute. We're looking for someone who thinks, does and keeps going when the going gets tough.
+Because fintech is evolving at breakneck speed. That calls for real ownership and for someone who can dive deep on the technical side to keep innovating and improving our platform. You get plenty in return, such as the freedom and responsibility to deliver your own projects. Thanks in part to our organisational structure, you can shape your ideas in the short term and see the results of your hard work quickly.
+Driven by your passion for building scalable, performant and secure back-end systems, you continuously raise the bar for your own skills and for our product.
+As a member of our development team you work closely with our CTO, 3 fellow developers and 2 testers on the core of our software application. A small, strong team in which you take on a role with real impact on the future of our product.
+
+You focus on&amp;nbsp;developing and improving the back-end&amp;nbsp;of our platform, optimising the architecture and data processing while keeping the security and stability of our system in mind. This lets you put your technical skills to full use and come up with innovative solutions.
+With your expertise you'll&amp;nbsp;make valuable suggestions and streamline processes&amp;nbsp;for all our stakeholders, so we can work more efficiently and achieve better results.
+You provide&amp;nbsp;technical support on integration projects&amp;nbsp;with software houses, banks and large companies, solving complex technical problems. That gives you the chance to work on challenging projects and to get in touch with a wide range of technologies and industries.
+
+Once you know our product inside out, there are plenty of challenging projects for you to help build.
+What are we looking for in you?
+
+You are&amp;nbsp;driven, curious and enterprising.&amp;nbsp;Not only in your job, but outside of it too. You have a&amp;nbsp;pro-active attitude&amp;nbsp;and are always a few steps ahead: you spot opportunities, grab them and get to work.
+Technical challenges? You take them on, not because you have to, but because you want to&amp;nbsp;learn. You're a&amp;nbsp;self-starter&amp;nbsp;and quickly get to grips with new technologies, languages or frameworks.
+You understand that a good product is never "finished". You draw energy from that&amp;nbsp;mix of creating and fine-tuning. You think along, question things and keep building new solutions.
+You have experience using AI tools to build integrations. You're&amp;nbsp;actively exploring how AI can contribute&amp;nbsp;to smarter user experiences and more efficient software development. Experience with data analytics is an asset.
+You therefore attach&amp;nbsp;a lot of importance to the security, stability and reliability&amp;nbsp;of a system and know what it takes to get there. You work in a structured, meticulous way and write code that is clean, reusable and easy to test.
+You have demonstrable experience with&amp;nbsp;Java, Go and the Spring framework. Experience with API integrations, web services, Linux or other relevant areas is a plus.
+You have&amp;nbsp;a deep understanding of databases.&amp;nbsp;You don't just know how to use them, you know how they work. You have an opinion on structured, high-quality code, architecture and back-end technologies.
+You have a very good command of&amp;nbsp;English, for smooth collaboration with all colleagues and stakeholders. Dutch is an asset.
+You are based in a time zone within&amp;nbsp;one hour of CET, so your working day overlaps with the team's for the daily stand-ups and close day-to-day collaboration.
+You can work independently and enjoy a small team where switching gears quickly, collaboration and knowledge sharing are central.
+
+Twikey offers you:
+
+An environment where challenge, innovation and autonomy come first.
+The room to&amp;nbsp;experiment, to challenge and to improve.&amp;nbsp;And we expect you to really take that room.
+An ideal setting if you want to grow fast and healthily, both technically and personally. Training, ownership, taking on new or additional roles based on your talents and interests, ... a lot is possible here, and you're at the wheel!
+A&amp;nbsp;complementary team of more than 35 colleagues&amp;nbsp;who move forward together in a respectful and open atmosphere.
+A motivating workplace with&amp;nbsp;plenty of knowledge and expertise, shared both formally during the daily stand-ups and the weekly Friday call, and informally at the coffee machine.
+Appreciation, openness and critical dialogue.&amp;nbsp;Our Friction Hunter Trophy is an example: every month we celebrate the colleague who made the biggest difference for customers, teammates or internally. Your impact gets noticed!
+A modern workplace with different zones (conference, connect, co-work, concentrate) in a recently built, industrial-style office building. Easy to reach by car, by bike and by public transport on the edge of Ghent, right next to the KBC tower.
+A&amp;nbsp;salary package tailored&amp;nbsp;to your experience and skills, with plenty of extra-legal benefits, a collective bonus system and a cafeteria plan to convert your 13th month as you choose.
+The chance to work in an&amp;nbsp;innovative Belgian fintech scale-up&amp;nbsp;that is active in several countries, in a sector that is growing fast!
+
+A job ad doesn't tell you everything. Our colleagues tell you&amp;nbsp;here what it's really like to work at Twikey.
+
+To apply: https://weworkremotely.com/remote-jobs/twikey-senior-java-developer</description><pubDate>Thu, 17 Sep 2026 10:51:23 +0000</pubDate></item><item><title>Edfinity: Senior Software Engineer, remote</title><link>https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote</link><description>Headquarters: Austin, TX
     URL: https://edfinity.com
 
 
@@ -1190,225 +1385,4 @@ To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-en
 
 Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under "how you heard about A·Team." No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue their craft with autonomy.Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.Not for:People seeking small gigs.Builders focused on simple WordPress/Wix/Squarespace sites.Early-career professionals and recent grads.Our Vision:A·Team is for the "unhirables" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.
 
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item><item><title>Lemon.io: Senior React Native Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1</link><description>Headquarters: New York, NY
-    URL: https://lemon.io
-
-
-Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
-What we offer:
-
-The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
-No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
-We'll manually find the best project for you according to your skills and preferences.
-Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
-We respect your seniority so you can expect no micromanagement or screen trackers.
-Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
-We will support you from the time you submit the application throughout all cooperation stages.
-Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
-Through our community, we will connect you with the best developers from more than 75 countries.
-
-Requirements for React Native &amp;amp; React Developer’s position:
-
-4+ years of software development experience
-2+ years of experience with React and 4+ years of experience with React NativeOR4+ years of experience with React and 2+ years of experience with React Native
-
-Requirements for React Native &amp;amp; Node Developer’s position:
-
-4+ years of software development experience
-2+ years of experience with Node and 4+ years of experience with React NativeOR4+ years of experience with Node and 2+ years of experience with React Native
-
-Requirements for React Native &amp;amp; Node &amp;amp; React Developer’s position:
-
-4+ years of software development experience
-3+ years of experience with Node
-4+ years of experience with React Native and 2+ years of experience with ReactOR2+ years of experience with React Native and 3+ years of experience with React
-
-Requirements for React Native &amp;amp; Ruby Developer’s position:
-
-4+ years of software development experience
-2+ years of experience with React and 4+ years of experience with RubyOR4+ years of experience with React and 2+ years of experience with Ruby
-
-Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
-
-
-Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
-
-
-Strong self-organizational skills — ability to work full-time remotely with no supervision.
-
-
-Reliability — we want to trust you and expect that you won’t let us and the client down.
-
-
-Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
-
-
-Sounds good for you? Apply now and join the Lemon.io community!
-NOT YOUR TECH STACK?
-We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React &amp;amp; Python, React &amp;amp; Golang, Golang, React &amp;amp; Java, React &amp;amp; Ruby, Ruby, PHP &amp;amp; Vue, Vue &amp;amp; Node.js, React &amp;amp; .NET, Android &amp;amp; iOS, iOS &amp;amp; Swift, Flutter &amp;amp; Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular &amp;amp; Node.js, Vue &amp;amp; .NET, Python &amp;amp; Vue, DevOps, MLOps, Data Science, Angular &amp;amp; PHP, Angular &amp;amp; .NET, Symfony &amp;amp; React, Symfony &amp;amp; Vue, Symfony &amp;amp; Angular, Python, Symfony &amp;amp; JavaScript &amp;amp; Next.js &amp;amp; TypeScript, Data Analysis, React &amp;amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp;amp; Ruby, React Native &amp;amp; Python, WordPress, Android, Data Annotation, Angular, Python &amp;amp; Node, React &amp;amp; Node.js, Java &amp;amp; Spring, Svelte &amp;amp; Python, Svelte &amp;amp; Node.js, Svelte &amp;amp; TypeScript, Rust, Shopify &amp;amp; JavaScript, Vue &amp;amp; Nuxt, PHP &amp;amp; Laravel, UI/UX Design, Animation, Graphic Design, .NET &amp;amp; C#, Electron, Scala, C++, Unreal Engine &amp;amp; C++, Python &amp;amp; LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.
-We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
-We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
-
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1</description><pubDate>Fri, 04 Sep 2026 15:56:51 +0000</pubDate></item><item><title>Fin: Senior Solutions Engineer- LATAM</title><link>https://weworkremotely.com/remote-jobs/fin-senior-solutions-engineer-latam</link><description>Headquarters: NYC, Remote; San Francisco, California
-
-
-Fin is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.
-Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.
-Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.What's the opportunity?&amp;nbsp;
-Fin is looking for an exceptional Portuguese and Spanish Speaking Senior Solutions Engineer to join our vibrant Customer Solutions Team. In this role, you’ll engage directly with our customers as their trusted advisor, playing a pivotal part in defining and demonstrating value across the entire sales cycle. With a natural curiosity, independent thinking, and strong problem-solving skills, you’ll partner closely with Product, R&amp;amp;D, and Engineering to ensure our customers’ needs and insights are at the core of our AI powered solutions.
-What will I be doing?&amp;nbsp;
-
-Lead technical discovery to identify and address our customers’ needs
-Deliver an exceptional pre-sales experience by articulating Fin's value and technical expertise
-Conduct impactful, value-based solution reviews and in-depth technical sessions
-Design and lead tailored Proof of Concepts (POCs) that showcase Fin's capabilities
-Serve as the primary resource for RFPs and customer security questions, utilizing standardized materials and escalating complex issues
-Collaborate cross-functionally with Product and Engineering to represent the customer voice, gathering feedback and insights for product planning
-Build trust with customers by approaching challenges with empathy and curiosity
-Continuously improve processes and contribute to building a best-in-class Solutions Engineering playbook at Fin
-Commit to customer success, ensuring lasting value and proactively addressing challenges
-
-What skills do I need?&amp;nbsp;
-
-Portuguese and Spanish Fluency are required
-Minimum of 4 years of experience in a technical sales role, managing C-Level technical and business relationships
-Strong technical acumen with experience in conducting technical discovery and delivering high-impact value presentations.
-Ability to solve problems independently while thriving in collaborative team environments
-Proven time management skills in a dynamic team environment&amp;nbsp;
-Demonstrated ability to quickly identify and communicate the value proposition throughout the sales cycle.
-Leverage your skills in translating complex business challenges into tailored Fin solutions, effectively communicating with both technical and non-technical audiences to drive understanding and impact.
-Experience working closely with product and engineering teams to communicate customer feedback and influence product direction.
-Familiarity with managing POCs, RFPs, and addressing complex security questions.
-Excellent communication and interpersonal skills, with a passion for leading with empathy and curiosity
-Ability to challenge the status quo and continuously improve Solutions Engineering processes and playbooks
-Bring an open mind, be a collaborative colleague with a commitment to go above and beyond to drive the success of your team and the company
-Willing and able to travel occasionally
-
-*Proof of eligibility to work in the United States is required.
-The OTE salary range for candidates within the San Francisco Bay Area or New York City is $231,100-$276,275 Actual base pay will depend on a variety of factors such as education, skills, experience, location, etc. The base pay range is subject to change and may be modified in the future. All regular employees may also be eligible for the corporate bonus program or a sales incentive (target included in OTE) as well as stock in the form of Restricted Stock Units (RSUs).&amp;nbsp;&amp;nbsp;
-#LI-HybridAt Fin, we want to give people what they need to do the best work of their careers. Our benefits and programs are designed to support your health and wellbeing, your family, your time away from work, and your financial future. Offerings vary by location in line with local practices and requirements.Learn more about working at Fin and the benefits we offer at fin.ai/careers.
-Policies&amp;nbsp;
-Fin has a hybrid working policy. We believe that working in person helps us stay connected, collaborate easier and create a great culture while still providing flexibility to work from home. We expect employees to be in the office at least three days per week.
-We have a radically open and accepting culture at Fin. We avoid spending time on divisive subjects to foster a safe and cohesive work environment for everyone. As an organization, our policy is to not advocate on behalf of the company or our employees on any social or political topics out of our internal or external communications. We respect personal opinion and expression on these topics on personal social platforms on personal time, and do not challenge or confront anyone for their views on non-work related topics. Our goal is to focus on doing incredible work to achieve our goals and unite the company through our&amp;nbsp;core values.&amp;nbsp;&amp;nbsp;
-Fin values diversity and is committed to a policy of Equal Employment Opportunity. Fin will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally recognized protected basis under federal, state, or local law.
-
-To apply: https://weworkremotely.com/remote-jobs/fin-senior-solutions-engineer-latam</description><pubDate>Fri, 04 Sep 2026 07:30:56 +0000</pubDate></item><item><title>Prove: Director, Channel &amp; Partnerships</title><link>https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships</link><description>Headquarters: New York, NY; United States (Remote)
-
-
-
-About Prove&amp;nbsp;
-
-As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expenses and fraud losses. Over 1,000 enterprise customers use Prove’s platform to process 20 billion customer requests annually across industries, including banking, lending, healthcare, gaming, crypto, e-commerce, marketplaces, and payments. For the latest updates from Prove, follow us on LinkedIn.
-Prove is driving the future of digital identity. We are looking for Provers who know how to make an impact. We’re talking self-starting professionals who thrive in a fast-paced environment, process information quickly, and make intelligent decisions. The work is challenging and requires not only smart but natural curiosity and tenacity. Teamwork is also important to us – we work together and play together.&amp;nbsp;&amp;nbsp;&amp;nbsp;
-Prove has big plans, and we’re excited about the future. If this sounds like the place for you – come join our team!&amp;nbsp;
-Title: Director, Channel &amp;amp; Partnerships
-Department: Partnerships
-Reports To: VP, Channels &amp;amp; Partnerships
-FLSA Status: Exempt
-Location: New York, NY or remote
-&amp;nbsp;
-The partner ecosystem is a significant and fast-growing part of Prove’s success and growth strategy. We are looking for an exceptional, revenue-driven partner operator to join as a Director of Channel &amp;amp; Partnerships. This role is 100% focused on sourcing, structuring, and launching high-impact Reseller and OEM partnerships within the core banking, fintech and identity ecosystem.
-The ideal candidate has a proven track record of navigating, negotiating, and closing complex Reseller and OEM agreements with major financial technology ecosystems—specifically targeting banking infrastructure giants like Fiserv and Jack Henry.&amp;nbsp;
-You will be responsible for turning these platforms into successful commercial channels that scale Prove's reach and directly drive ARR. As an early team hire, this individual will help lay the commercial and operational foundation for our global reseller program.
-Key Responsibilities
-
-New Partner Sourcing: Own the end-to-end sourcing, structuring, and closing of complex partnership agreements with top-tier core banking platforms as well as strategic fraud, identity, and lending infrastructure providers.
-GTM Mobilization: Partner closely with Partner Success and Partner Marketing build comprehensive enablement playbooks, ensuring partner sales forces are fully equipped to position and distribute Prove's embedded solutions.
-Revenue Ownership: Drive the post-signature partner commercialization lifecycle to accelerate pipeline generation, manage partner-sourced ARR quotas, and maximize Prove's footprint within the partner's client base.
-Cross-Functional Alignment: Align closely with Prove's direct Sales + GTM leadership to map strategic accounts, manage channel conflict, and create a unified approach to market penetration.
-Program Architecture: Develop and refine Prove’s partner programs, pricing frameworks, and operational processes to establish scalable best practices for Reseller and OEM models.
-
-Qualifications and Experience
-
-7+ years of professional work experience, with 3+ years specifically focused on sourcing, negotiating, and closing Reseller and OEM partnerships in the technology or financial services sector.
-Proven track record of hitting and exceeding partner sales quotas.
-Demonstrated experience managing deep commercial relationships or closing deals with major core banking platforms (e.g., Fiserv, Jack Henry, FIS) is preferred.
-Expertise in structuring complex technical and commercial agreements
-Experience in high-growth, venture-backed, or pre-IPO technology companies is strongly preferred.
-Willingness to travel up to 25% of the time for partner meetings and industry events.
-
-Skills and Attributes
-
-Discovery-first mindset: you ask before you pitch, and you can translate a prospect's business problem into a product &amp;amp; GTM structure recommendation.
-Technical fluency: comfortable in conversations that involve API integration, compliance considerations and technical architecture, even when you're not the technical expert in the room.
-Data-driven: you own your pipeline numbers, understand what they mean, and use them to prioritize your time.
-Commercial grit: reseller and OEM partnerships with massive institutions are complex and lengthy; you stay persistent, creative, and strategically aligned without losing momentum.
-High Collaboration: you naturally bridge gaps across engineering, legal, product, and sales teams to bring highly multi-faceted deals across the finish line.
-
-&amp;nbsp;
-&amp;nbsp;
-The anticipated salary pay range for Metro 2 areas for this role is $165,000 - 180,000 plus sales incentive plan.The anticipated salary pay range for Metro 3 areas for this role is&amp;nbsp; $160,000 - $175,000 plus sales incentive plan.
-Offered salary will be determined by the applicant's experience, knowledge, skills, geo-location and abilities as well as internal equity and alignment with market data.
-&amp;nbsp;Prove follows a market driven compensation philosophy based on geographic location and respective market rates. Job offers will be aligned to location. Please speak with your recruiter if you have questions. Prove defines:
-
-Metro 2 - NYC metro area, Seattle metro area, Los Angeles metro area, and the Miami metro area.
-Metro 3 - all other cities across the domestic United States, with the exception of the San Francisco Bay Area.
-
-Benefits &amp;amp; Perks for FTE Provers:
-
-Competitive salaries &amp;amp; Bonus Plan (for eligible roles) and Equity Plan
-Modern Health for financial, mental, and physical wellness
-401(k) Retirement Plan &amp;amp; Match (US Offices) and Local Country Pension (International Offices)
-Unlimited Vacation and Flexible hours
-Comprehensive medical benefits for you and your family ️
-Emotional &amp;amp; Physical Wellness – Access to wellness services (EAP &amp;amp; Prove Well-Being Reimbursement)
-Bottomless snacks &amp;amp; beverages for certain office locations
-Daily GrubHub stipend for lunch if coming into the office (US Offices)
-A great place to work and connect with other talented Provers like yourself!
-
-
-Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Prove we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
-Equal Opportunity Employment:Prove is an equal opportunity employer committed to providing equal employment opportunity for all people regardless of race, color, religion, gender or sexual orientation, age, marital status, national origin, citizenship status, disability, veteran status or other personal characteristics&amp;nbsp;
-Privacy &amp;amp; Data Protection:When you are applying for a job at Prove, we collect and use your personal information in the job application process. To understand more about how Prove uses your personal information, please see our Recruitment Privacy Policy on our website.
-
-
-To apply: https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships</description><pubDate>Fri, 04 Sep 2026 07:30:53 +0000</pubDate></item><item><title>Yooli: FULL TIME: Software Engineer Position - React and Rest</title><link>https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1</link><description>Headquarters: Australia
-    URL: http://yooli.co
-
-
-Job description
-
-We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&amp;nbsp;
-This critical role involves developing, integrating, and optimising our backend and database systems.&amp;nbsp;
-You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation.
-
-&amp;nbsp;
-Your Role:
-
-Develop and maintain robust backend services using NestJS and Node.js, ensuring top-tier performance and security.
-Design and manage efficient REST API endpoints to optimise interactions with our SQL database.
-Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backend logic and database performance.
-Ensure the scalability, security, and responsiveness of backend services.
-Uphold rigorous data protection standards and implement industry-leading security measures.
-Participate in code reviews to uphold high coding standards and foster continuous improvement within the development team.
-
-&amp;nbsp;
-What Youll Bring:
-Essential Skills &amp;amp; Experience:
-
-At least 7 years of experience with:
-React
-React Vite
-REST API development
-Strong knowledge and hands-on experience with SQL.
-Proficiency in Prisma for database management.
-A minimum of 5 years of experience in REST API development using the NestJS framework.
-Expertise in backend development, specifically with NestJS, Node.js, REST APIs, and PostgreSQL.
-Experience in developing single-page applications using ReactJS.
-Strong understanding of TypeScript and Object-Oriented Programming (OOP) principles.
-Solid grasp of commonly used data structures.
-Proven experience with cloud hosting services (preferably AWS) and integrating them into development workflows.
-Exceptional problem-solving skills and meticulous attention to detail.
-A proven ability to thrive in collaborative, remote work environments, showcasing excellent communication skills and a commitment to team success.
-A portfolio demonstrating relevant projects.
-
-&amp;nbsp;
-Nice-to-Haves:
-
-Experience with CI/CD pipelines and version control systems like Git.
-Familiarity with agile development methodologies and project management tools.
-Knowledge of Redux for state management.
-A degree in Computer Science or a related field.
-
-
-To apply: https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1</description><pubDate>Wed, 05 Aug 2026 05:52:46 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item></channel></rss>
