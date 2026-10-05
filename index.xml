@@ -1,5 +1,161 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Hex Technologies: Cloud Security Engineer</title><link>https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer</link><description>Headquarters: SF, NYC, or Remote (US)
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>STEUART NUTRITION: Software Developer AI Coding</title><link>https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding</link><description>Headquarters: Minnesota
+    URL: https://www.steuartnutrition.com/
+
+
+About us
+Steuart Nutrition is a GMP-certified contract manufacturer making powders, liquids, capsules and stick packs for growing wellness brands. We run on Extreme Ownership, clear communication and fast turnaround, and we want a developer who works the same way.
+The role
+We're hiring a remote developer to own the customization of our training app. You'll learn the platform quickly, then build what our teams need to train and onboard people. Over time you'll also take on other internal tools and automations. AI-assisted development is central to how we work, so we want someone who uses AI tools to write and ship better code faster.
+What you'll do
+
+Learn our training app inside and out, then customize and extend it
+Build features, integrations and automations with AI coding tools like Claude, Cursor, Copilot and Grok
+Turn rough requests from the plant and office teams into working solutions
+Document your work so others can use it and maintain it
+Give regular, clear progress updates
+
+What we're looking for
+
+3+ years of professional software development
+Strong, proven skill with AI-assisted coding: you know how to prompt, check and fix AI-generated code
+A track record of quickly learning unfamiliar platforms and codebases
+Experience with APIs, web apps and integrations (JavaScript/TypeScript or Python preferred)
+Excellent written English and consistent communication
+Able to overlap at least 4 hours a day with US Eastern Time
+Bonus: experience with LMS or training platforms, or with manufacturing or regulated industries
+
+
+To apply: https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding</description><pubDate>Wed, 23 Sep 2026 15:03:18 +0000</pubDate></item><item><title>Glean: Application Security Engineer</title><link>https://weworkremotely.com/remote-jobs/glean-application-security-engineer</link><description>Headquarters: United States, Remote
+
+
+About Glean:
+&amp;nbsp;
+Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organizations the infrastructure to govern, scale, and customize AI across their entire business - without vendor lock-in or costly implementation cycles.
+&amp;nbsp;
+At its core, Glean is redefining how enterprises find, use, and act on knowledge. Its Enterprise Graph and Personal Knowledge Graph map the relationships between people, content, and activity, delivering deeply personalized, context-aware responses for every employee. This foundation powers Glean’s agentic capabilities - AI agents that automate real work across teams by accessing the industry’s broadest range of data: enterprise and world, structured and unstructured, historical and real-time. The result: measurable business impact through faster onboarding, hours of productivity gained each week, and smarter, safer decisions at every level.
+&amp;nbsp;
+Recognized by Fast Company as one of the World’s Most Innovative Companies (Top 10, 2025), by CNBC’s Disruptor 50, Bloomberg’s AI Startups to Watch (2026), Forbes AI 50, and Gartner’s Tech Innovators in Agentic AI, Glean continues to accelerate its global impact. With customers across 50+ industries and 1,000+ employees in more than 25 countries, we’re helping the world’s largest organizations make every employee AI-fluent, and turning the superintelligent enterprise from concept into reality.
+&amp;nbsp;
+If you’re excited to shape how the world works, you’ll help build systems used daily across Microsoft Teams, Zoom, ServiceNow, Zendesk, GitHub, and many more - deeply embedded where people get things done. You’ll ship agentic capabilities on an open, extensible stack, with the craft and care required for enterprise trust, as we bring Work AI to every employee, in every company.&amp;nbsp;
+About the Role:
+Glean is looking for an experienced Application Security Engineer with a primary focus on ensuring that our entire technology stack is free of software vulnerabilities (CVEs). This role is responsible for securing our base OS images, ensuring all open-source software (OSS) dependencies are scanned and patched, and integrating cutting-edge security tools into our CI/CD pipeline. The ideal candidate will drive the adoption of solutions like Google’s Assured Open Source Software (OSS) and explore alternative approaches to enhance software security. This role will lead the vulnerability management charter at Glean, identifying, evaluating, and implementing new security technologies and processes to proactively protect our infrastructure.
+You will:
+
+Own the vulnerability management lifecycle across Glean’s technology stack, from discovery and prioritization through remediation, reporting, and measurement.
+
+Harden base OS images and secure open-source dependencies, package managers, and the broader software supply chain.
+
+
+Integrate SAST, DAST, dependency scanning, and automated security validation into CI/CD pipelines.
+
+
+Evaluate, adopt, and develop security solutions and tooling, including Google’s Assured OSS and comparable approaches.
+
+
+Define secure-coding practices and drive engineering adoption through guidance, training, and mentorship.
+
+
+About you:
+
+BA/BS in Computer Science, Cybersecurity, or a related field (or equivalent industry experience).
+8+ years of experience in application security and vulnerability management.
+Deep understanding of software security vulnerabilities, including CVEs, OWASP Top 10, and supply chain risks.
+Experience with SAST, DAST, dependency scanning, and vulnerability management tools (e.g., Snyk, GitHub Dependabot, Trivy, Clair, Burp Suite, OWASP ZAP).&amp;nbsp;
+Hands-on experience with cloud-native security across AWS, GCP, including containers, Kubernetes, and microservices.
+Ability to lead cross-functional initiatives and drive security adoption across engineering teams.
+Proactive, pragmatic, and collaborative, with strong problem-solving skills and the ability to balance security with performance and usability.
+
+Location:&amp;nbsp;
+
+This role is remote
+
+Compensation &amp;amp; Benefits:
+The standard base salary range for this position is $185,000 - $260,000 annually. Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.
+We offer a comprehensive benefits package including competitive compensation, Medical, Vision, and Dental coverage, generous time-off policy, and the opportunity to contribute to your 401k plan to support your long-term goals. When you join, you'll receive a home office improvement stipend, as well as an annual education and wellness stipends to support your growth and wellbeing. We foster a vibrant company culture through regular events, and provide healthy lunches daily to keep you fueled and focused.
+&amp;nbsp;
+We’re committed to building and sustaining a diverse, inclusive workplace. We strive to attract and retain people with a wide range of backgrounds, experiences, and perspectives, and we do not discriminate on the basis of gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.&amp;nbsp;
+&amp;nbsp;
+#LI-REMOTE&amp;nbsp;
+AI-First Mindset at Glean:
+&amp;nbsp;
+At Glean, AI fluency is core to how we work and we're committed to ensuring every new hire feels confident integrating AI into their everyday work. As part of the interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about, design, and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today — prior Glean experience isn't required.
+&amp;nbsp;
+Global Data Privacy Notice for Job Candidates and Applicants:
+&amp;nbsp;
+Depending on your location, the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), or other privacy laws may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available in our Privacy Policy. By submitting your application, you are agreeing to our use and processing of your data as required. US applicants and their applications are subject to arbitration of disputes as outlined in our Applicant Arbitration Agreement.
+By clicking “Submit Application,” I confirm that I have read the Global Data Privacy Notice and the Applicant Arbitration Agreement, and I agree to the terms.&amp;nbsp;&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/glean-application-security-engineer</description><pubDate>Wed, 23 Sep 2026 07:31:13 +0000</pubDate></item><item><title>Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web &amp; Mobile Platform</title><link>https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform</link><description>Headquarters: Phoenix, Arizona
+    URL: https://adventuretravel365.com/
+
+
+Senior Full-Stack Developer - Marketplace Web &amp;amp; Mobile Platform
+We have a big idea, and we’re looking for a top-notch Senior Full-Stack Developer to help us bring it to life.
+We’re building a new contractor referral and services marketplace, think Thumbtack or Angi, where clients can easily find and connect with contractors and service providers. The vision includes both an interactive web platform and mobile app, with everything from user accounts and referrals to job tracking, payments, advertising, and more.
+This is a fully remote, full-time, ongoing position, and we’re open to applicants worldwide.
+There are a lot of moving pieces, which is exactly why we’re looking for someone who has built something like this before and gets excited about taking a platform from an idea to a working product, then continuing to grow it with us.
+What You’ll Help Us Build
+The platform will have two main sides: clients looking for services and contractors/vendors looking for business.
+Some of the functionality we’re planning includes:
+
+Client and contractor/vendor accounts and profiles
+Contractor listings, categories, search, and filtering
+Service requests, inquiries, referrals, and lead management
+Job and project tracking
+Client and vendor dashboards
+Online payments and transaction tracking
+Reviews and ratings
+Notifications and communications
+Banner advertising and paid promotional opportunities
+Admin tools for managing the platform
+Reporting and analytics
+Secure management of user, job, and transaction data
+
+And probably more! We have a strong vision for where we want this to go, but we also want the right developer to help us determine the smartest way to build it.
+This will be an evolving platform, so we’re looking for someone who wants to grow with it, not simply complete a checklist of features.
+Who We’re Looking For
+We’d love to find someone with strong experience in full-stack web and mobile development, especially someone who has worked on a marketplace, booking platform, service-provider network, or another multi-user platform.
+You should be comfortable with:
+
+Full-stack web development
+Mobile or cross-platform app development
+Strong front-end and back-end development
+Multi-user marketplace platforms
+User authentication and account management
+Payment gateway integrations
+Databases and APIs
+Third-party integrations
+Dashboards and reporting
+Secure, scalable application architecture
+Cloud hosting and deployment
+Testing, maintenance, and optimization
+Using modern AI-powered development tools and integrating AI capabilities into web and mobile applications
+
+If you’ve worked on something similar to Thumbtack, Angi, TaskRabbit, Upwork, or another two-sided marketplace, we definitely want to hear about it.
+More Than Just Coding
+We’re not looking for someone who simply waits for a list of instructions and starts coding.
+We want someone who can look at the big picture, ask the right questions, recommend the best technical approach, flag potential challenges, and help turn our ideas into a platform that’s intuitive, scalable, and built to grow.
+You’ll also be expected to study established platforms like Thumbtack and Angi, understand how their user journeys and marketplace functionality work from both the client and service-provider sides, and use those learnings to help us determine the best approach for our own platform.
+You should be able to take the project through planning, architecture, development, testing, launch, and beyond, while communicating clearly with a non-technical team along the way.
+Strong spoken and written English communication skills are important. You should be comfortable discussing ideas, explaining technical decisions clearly, and communicating regularly with a non-technical team.
+This is not a short-term build-and-leave project. We’re looking for someone who can stay with the platform as it grows, helping us continually improve, expand, and maintain it over time.
+Interested? Tell Us About Yourself
+Please send us:
+
+A quick introduction
+Your resume or LinkedIn profile
+Your portfolio and links to websites/apps you’ve built
+Examples of marketplaces, booking platforms, referral systems, or payment-enabled platforms you’ve worked on
+What you personally worked on for those projects
+Your experience using AI in development
+What technologies/frameworks you’d recommend for a project like this and why
+Your availability
+
+A short video introduction would be great, too! Nothing overly formal, just a quick introduction so we can get to know you, hear about your experience, and get a feel for how you communicate.
+Most importantly, show us what you’ve built. If you’ve helped create a multi-sided marketplace similar to Thumbtack or Angi, tell us about it. We’d love to see it.
+
+To apply: https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform</description><pubDate>Mon, 21 Sep 2026 10:14:35 +0000</pubDate></item><item><title>Hex Technologies: Cloud Security Engineer</title><link>https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer</link><description>Headquarters: SF, NYC, or Remote (US)
 
 
 About the role
@@ -1249,140 +1405,4 @@ Business Transaction Purposes: in connection with the sale, purchase, or merger.
 How to Contact Us About this Policy&amp;nbsp;– If you have any questions about this Policy, please contact privacy@legion.co.
 
 
-To apply: https://weworkremotely.com/remote-jobs/legion-chief-architect</description><pubDate>Mon, 07 Sep 2026 07:30:47 +0000</pubDate></item><item><title>Track it Forward: Lead Developer — Rebuild, Modernize, &amp; Scale (Social Good SaaS, Remote)</title><link>https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote</link><description>Headquarters: Oakland, CA
-    URL: https://www.trackitforward.com
-
-
-We are looking for a lead developer to do a greenfield rebuild of our legacy SaaS app, modernize our mobile apps, and lead the tech effort to scale our app.&amp;nbsp; You will help choose the language, build the technical foundation, work with our product manager to rebuild the app, and migrate all customers over.
-About Track it Forward Track it Forward is the leading volunteer time-tracking application for nonprofits and schools. For 15 years, we’ve helped thousands of organizations mobilize volunteers and track over 30 million hours. We are a profitable, bootstrapped team of 4 focused on great work-life balance, high-impact work, and a fun, puzzle-loving culture (daily crosswords, monthly virtual escape rooms, and annual retreats).&amp;nbsp; We are not a VC-funded startup. We grew organically, stayed profitable, and prioritize high-quality work and personal fulfillment without growth-at-all-costs pressure. The team is led by the original founder and developer.
-The Modernization Strategy This is a structured, phased "small bang" migration—not a high-risk cutover or a strangler-fig migration. You will build a parallel greenfield system, extract legacy components step-by-step, and migrate customers over incrementally tenant-by-tenant while keeping operations running smoothly.
-
-
-Current Tech: Drupal 6 architecture hosted on Pantheon, paired with two Ionic/Capacitor mobile apps.
-
-
-Your Scope: Complete ownership of the technical architecture. You will partner with our product manager, establish engineering processes, and lead the rebuild from scratch.
-
-
-Modern AI practices:&amp;nbsp; We want you to be on the cusp of AI workflows while also balancing human guardrails to produce quality code.
-
-
-Team Structure: You will be our sole developer in the short term, taking full technical helm as we scale.
-
-
-Target Stack &amp;amp; Responsibilities
-
-
-Core Tech Stack: Core backend/frontend rebuild focused on Python/Django, Laravel, or React. You will make the final architectural call with input from the CEO/founder.
-
-
-Database &amp;amp; Storage Extraction: Deconstruct our legacy Drupal 6 / MySQL schema into a clean, domain-driven PostgreSQL database, and offload 100GB+ of media files to AWS S3 or Cloudflare R2.
-
-
-Security &amp;amp; Isolation: Implement application-layer field-level encryption (AES-256 for PII, Bcrypt/Argon2id for passwords) and build zero-trust dev environments so contractors never handle production user data.
-
-
-CI/CD &amp;amp; Documentation: Establish automated testing pipelines, clean API contracts, and clear runbooks so the codebase remains maintainable long-term.
-
-
-Mobile App Maintenance: Maintain and update our two Ionic/Capacitor mobile apps using AI coding tools. Mobile is a small fraction of the overall role—you just need to leverage AI to keep them functional without being a native mobile expert.
-
-
-Candidate Qualifications
-
-
-Pre-AI Engineering Foundation: 5+ years of core software engineering and architectural experience established before generative AI existed. You hold strong first-principles opinions on database normalization and system patterns.
-
-
-Proven Migration Experience: You have successfully architected and led at least one legacy monolith migration. You know what inputs and scope decisions keep momentum going.
-
-
-Modernized AI Velocity: You actively use AI tools to multiply output, but retain strict architectural control, unit testing discipline, and manual code review standards.
-
-
-Location &amp;amp; Remote Flexibility
-
-
-US W-2 Tax Residency Required: You must be legally authorized to work in the US and maintain primary US tax residency (for payroll, contracts, and legal/tax compliance).
-
-
-Travel-Friendly: We are 100% remote. As long as your primary legal/tax home remains in the US, you are welcome to travel or digital nomad—provided you can consistently hit our core sync hours.
-
-
-Core Sync Hours: Mandatory availability from 9:00 AM – 12:00 PM PST for daily team syncs and real-time collaboration. Flexible hours outside this window.
-
-
-Compensation &amp;amp; Benefits
-
-
-Base Salary: $150,000 – $200,000 / year (commensurate with experience)
-
-
-Benefits: 401(k) w/ company match, Health Insurance, vacation, PTO, and holdiays
-
-
-Culture: High autonomy, direct project ownership, and zero venture-capital growth pressure
-
-
-How to Apply To filter out automated spam: include the most authentically human, non-AI reason why this specific role resonates with you.&amp;nbsp; Specifically include a short Loom video of you in the “Why should we choose you over any one else?” question.&amp;nbsp; This isn’t required but will sure stand out.&amp;nbsp; Be authentic, no need to do crazy rehearsals, just be you.
-Apply at this google form here
-&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote</description><pubDate>Fri, 04 Sep 2026 20:38:22 +0000</pubDate></item><item><title>A.Team: Senior Independent AI Engineer / Architect</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</link><description>Headquarters: NYC and TLV
-    URL: http://a.team/ai-jobs?utm_source=wwr&amp;amp;utm_medium=post&amp;amp;utm_campaign=wwrai
-
-
-Senior Independent AI Engineer / Architect
-Remote | Americas, Europe, or Israel
-Most AI engineers can find work.
-Finding work worth doing is harder.
-A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies.
-Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.
-The Work
-You'll join small teams tackling problems that matter.
-Not demos.
-Not prototypes that never ship.
-Not another chatbot wrapper.
-Real systems. Real users. Real outcomes.
-Recent work has included:
-- LLM-powered products and workflows- Agent architectures and orchestration systems- Retrieval, evaluation, and reliability infrastructure- Enterprise AI deployments- AI-native products built from zero to one- Machine learning platforms operating at scale
-You'll work directly with founders, CTOs, and product leaders, helping shape both the technical approach and the outcome.
-Why Builders Join
-Most independent engineers eventually run into the same problem:
-The best opportunities rarely make it to the open market.
-A.Team exists to solve that.
-No bidding.
-No prospecting.
-No competing with thousands of other freelancers.
-Just access to ambitious companies, difficult problems, and experienced peers.
-Who Thrives Here
-People who have already shipped.
-Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn research into business value.
-You might be an:
-- AI Architect- AI Engineer- MLOps- Deep Learning Engineer- Data Scientist- Applied AI Engineer- ML Engineer- AI Researcher- Staff+ Engineer focused on AI- Technical founder with deep AI experience
-What matters is a track record of building and shipping.
-The Details
-
-Typical rates: $120-$170/hr
-Remote (almost all roles)
-You keep 100% of your rate
-
-Not a Fit
-
-Early-career engineers
-People without production AI experience
-Small gig seekers
-Developers focused primarily on simple AI wrappers or templated implementations
-
-Apply
-Tell us what you've built.
-We'll take it from there.
-build.a.team/AI-Builders
-
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect</description><pubDate>Sun, 16 Jun 2024 18:08:52 +0000</pubDate></item><item><title>A.Team: Senior Independent Software Developer ($90-$170/hr)</title><link>https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</link><description>Headquarters: NYC and TLV
-    URL: https://build.a.team/wwrfastrackreferral
-
-
-Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies—from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA.Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration.Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed.Exclusive gatherings: Participate in off-the-record events and connect with top builders.Transparent earnings: Keep 100% of your rate.How to Join:Visit A·Team Application and mention WWR under "how you heard about A·Team." No cover letter needed – we value your portfolio.What to Expect:As an A·Teamer, you’ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction.Who We're Looking For:Senior developers who left large companies to pursue their craft with autonomy.Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders.Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing.Not for:People seeking small gigs.Builders focused on simple WordPress/Wix/Squarespace sites.Early-career professionals and recent grads.Our Vision:A·Team is for the "unhirables" – exceptional builders whom traditional companies can’t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams.A.Team is forging a new vision for the future of work that’s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z’s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX.Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A·Team.
-
-To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr</description><pubDate>Sun, 16 Jun 2024 17:30:51 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/legion-chief-architect</description><pubDate>Mon, 07 Sep 2026 07:30:47 +0000</pubDate></item></channel></rss>
