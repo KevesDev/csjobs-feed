@@ -1,5 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Doximity: Commercial Data Scientist</title><link>https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist</link><description>Headquarters: San Francisco, CA or Remote (U.S.)
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Humane World for Animals: Web Designer, eCRM</title><link>https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1</link><description>Headquarters: Humane World for Animals
+    URL: https://humaneworld.org
+
+
+The general salary range for this full-time position is $80,000 – 115,000. Salary offers will be commensurate with experience, qualifications, skills, training and education.
+&amp;nbsp;
+Humane World for Animals, a global leader in animal advocacy and protection, is seeking a Web Developer, eCRM to support Digital Marketing and other departments by providing front-end, global web development solutions for fundraising, advocacy engagement, and other strategic priorities — incorporating AI-assisted and agentic development tools to accelerate delivery while maintaining rigorous human oversight, quality, and security standards.
+&amp;nbsp;
+Responsibilities:
+
+Collaborates regularly with Digital Marketing, Brand and Visuals, and IS teams to discuss project requirements and makes technical recommendations. Writes efficient code and maintains custom donation forms, advocacy forms, other webpages, and email templates. Incorporates best practices for user experience, accessibility, page speed optimization, and GDPR compliance implementation. Adheres to global regulations and standards, regional data compliance, and security compliance;
+Uses AI-assisted development tools and agentic coding assistants to accelerate coding, refactoring, debugging, testing, and documentation. Proactively identifies opportunities for AI-assisted and agent-built solutions and owns the ongoing maintenance, monitors their performance over time and updates or retires them as needed. Follows established guardrails and usage standards for AI tools and applies human-in-the-loop review to all AI-generated code and configurations, validating output for accuracy, security, accessibility, and brand/technical standards before deployment;
+Follows quality assurance procedures and troubleshoots technical issues affecting donation forms, advocacy forms, webpages, and email templates in Engaging Networks. Works closely with vendor partners;
+Works with the Information Security team to ensure that digital properties meet security standards, including managing script inventory, attestation, and other requirements for PCI compliance;
+Collaborates with the testing team to gather testing requirements and implement new features to run A/B and multivariate tests on forms;
+Creates and maintains clear and concise documentation of custom web development, support guides, and incident reports;
+Performs other duties as assigned.&amp;nbsp;
+
+&amp;nbsp;
+Qualifications and Requirements:
+
+Bachelor's degree in computer programming, web development, or related field, or equivalent work experience required;&amp;nbsp;
+A minimum of four (4) years of experience in front-end web development and developing custom websites required;
+Demonstrated experience with Engaging Networks or other eCRMs;
+Proficient in HTML5, Sass and CSS, JavaScript, PHP, MySQL, GitHub, Engaging Networks modules, Webpack, Node, npm, core AWS services, and Mailgun. Familiar with Segment or other CDPs;
+Direct experience with AI coding assistants and agentic development tools such as Microsoft Copilot Studio, Claude Code, and GitHub Copilot;
+Knowledge of best practices for responsive, mobile-first web design, UX, accessibility, page speed optimization, browser support, and GDPR compliance;
+Familiar with cookie consent tools, preferably Iubenda, for configuring compliance settings;
+Experience building interactive data visualizations that translate campaigns into compelling stories for supporters to increase engagement;
+Excellent attention to detail when coding projects based on Adobe XD files or Figma;
+Understanding of digital marketing strategies for US and international audiences;
+Stays on top of AI trends in web development, including personalization and workflow automation, and their responsible application to fundraising and advocacy technology;
+Strong written and verbal communication skills;
+Must be able to multi-task in a fast-paced, collaborative environment to deliver high quality work on deadline. Familiarity with Jira and Confluence a plus;
+Data informed problem solver having experience with A/B testing platforms and Google Analytics;
+Proactive and ability to work both independently and as an effective team member in a team environment;
+Interest in animal protection issues preferred.
+
+&amp;nbsp;
+This is a full-time remote position based in the United States.&amp;nbsp;Candidates must be able to accomodate Eastern Time hours, as needed.&amp;nbsp;
+&amp;nbsp;
+Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, sexual orientation, gender identity, and disability, marital or parental status or protected veteran status.&amp;nbsp; EOE&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1</description><pubDate>Fri, 02 Oct 2026 17:39:45 +0000</pubDate></item><item><title>Doximity: Commercial Data Scientist</title><link>https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist</link><description>Headquarters: San Francisco, CA or Remote (U.S.)
 
 
 Commercial Data Scientist
@@ -1090,46 +1133,4 @@ To apply: https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security
 
 SummaryWe are looking for a Senior Integration Engineer to build and operate integration products connecting Salesforce, SAP, and a carrier data lake. This role combines hands-on integration development with end-to-end production ownership, including API design, data mapping, testing, monitoring, troubleshooting, and recovery.General informationThis role focuses on building reliable, maintainable integrations rather than creating new point-to-point integration debt. You will work across Salesforce, SAP, and carrier data lake environments, taking ownership of integrations throughout their lifecycle—from implementation and testing through production support and continuous improvement.Strong experience with MuleSoft or a comparable enterprise integration/API platform is expected, along with practical experience integrating with SAP and working with data lake ingestion patterns.AI-assisted engineering is an explicit expectation for this engagement. You will use AI copilots and agents as part of your daily workflow to accelerate discovery, development, testing, documentation, and operational troubleshooting. You will remain responsible for validating and hardening AI-generated output and for all production decisions.Tasks and DeliverablesDesign and implement MuleSoft/API integrations across Salesforce, SAP, and the carrier data lake.Define and maintain API contracts, field mappings, transformations, and automated tests.Use Data Modeler to develop and maintain accurate data mappings between systems.Debug and resolve production integration failures independently, including root-cause analysis and preventative improvements.Instrument integration pipelines with appropriate monitoring, logging, and alerting.Support Marketing Portfolio transition integrations while avoiding unnecessary point-to-point dependencies and new integration debt.Use AI tools to accelerate mapping drafts, API stubs, test generation, documentation, and error-handling boilerplate.Review and harden AI-generated output to ensure it meets production standards for reliability, maintainability, and quality.Automate replay, retry, alerting, and recovery runbooks to reduce mean time to recovery (MTTR).Continuously improve the reliability, observability, and operational efficiency of the integrations you own.Required experience5+ years of integration engineering experience.Hands-on experience with MuleSoft or an equivalent enterprise ESB/API integration platform.Experience integrating with SAP, including IDoc, API, and/or BAPI patterns.Experience with Salesforce integrations and enterprise API patterns.Experience with data lake ingestion and integration patterns.Strong understanding of API contracts, data mapping, transformations, testing, and integration architecture.Demonstrated experience supporting integrations in production, including monitoring, troubleshooting, alerting, retry/replay, and incident resolution.Ability to take ownership of production issues and drive them through diagnosis, recovery, and prevention, rather than simply handing them off to another team.Experience using AI copilots or agents to accelerate software engineering workflows.Strong engineering judgment and the ability to validate, test, and improve AI-generated code and artifacts before they reach production.
 
-To apply: https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products</description><pubDate>Fri, 18 Sep 2026 17:01:08 +0000</pubDate></item><item><title>Twikey: Senior Java Developer</title><link>https://weworkremotely.com/remote-jobs/twikey-senior-java-developer</link><description>Headquarters: Ghent - Belgium
-    URL: https://www.twikey.com/jobs
-
-
-Are you a driven back-end developer who doesn't wait for instructions, but is already thinking two steps ahead? Who experiments with new technologies and smart solutions alongside the job? Then we want to talk to you.
-Straight forward but clear: Twikey isn't looking for someone to just execute. We're looking for someone who thinks, does and keeps going when the going gets tough.
-Because fintech is evolving at breakneck speed. That calls for real ownership and for someone who can dive deep on the technical side to keep innovating and improving our platform. You get plenty in return, such as the freedom and responsibility to deliver your own projects. Thanks in part to our organisational structure, you can shape your ideas in the short term and see the results of your hard work quickly.
-Driven by your passion for building scalable, performant and secure back-end systems, you continuously raise the bar for your own skills and for our product.
-As a member of our development team you work closely with our CTO, 3 fellow developers and 2 testers on the core of our software application. A small, strong team in which you take on a role with real impact on the future of our product.
-
-You focus on&amp;nbsp;developing and improving the back-end&amp;nbsp;of our platform, optimising the architecture and data processing while keeping the security and stability of our system in mind. This lets you put your technical skills to full use and come up with innovative solutions.
-With your expertise you'll&amp;nbsp;make valuable suggestions and streamline processes&amp;nbsp;for all our stakeholders, so we can work more efficiently and achieve better results.
-You provide&amp;nbsp;technical support on integration projects&amp;nbsp;with software houses, banks and large companies, solving complex technical problems. That gives you the chance to work on challenging projects and to get in touch with a wide range of technologies and industries.
-
-Once you know our product inside out, there are plenty of challenging projects for you to help build.
-What are we looking for in you?
-
-You are&amp;nbsp;driven, curious and enterprising.&amp;nbsp;Not only in your job, but outside of it too. You have a&amp;nbsp;pro-active attitude&amp;nbsp;and are always a few steps ahead: you spot opportunities, grab them and get to work.
-Technical challenges? You take them on, not because you have to, but because you want to&amp;nbsp;learn. You're a&amp;nbsp;self-starter&amp;nbsp;and quickly get to grips with new technologies, languages or frameworks.
-You understand that a good product is never "finished". You draw energy from that&amp;nbsp;mix of creating and fine-tuning. You think along, question things and keep building new solutions.
-You have experience using AI tools to build integrations. You're&amp;nbsp;actively exploring how AI can contribute&amp;nbsp;to smarter user experiences and more efficient software development. Experience with data analytics is an asset.
-You therefore attach&amp;nbsp;a lot of importance to the security, stability and reliability&amp;nbsp;of a system and know what it takes to get there. You work in a structured, meticulous way and write code that is clean, reusable and easy to test.
-You have demonstrable experience with&amp;nbsp;Java, Go and the Spring framework. Experience with API integrations, web services, Linux or other relevant areas is a plus.
-You have&amp;nbsp;a deep understanding of databases.&amp;nbsp;You don't just know how to use them, you know how they work. You have an opinion on structured, high-quality code, architecture and back-end technologies.
-You have a very good command of&amp;nbsp;English, for smooth collaboration with all colleagues and stakeholders. Dutch is an asset.
-You are based in a time zone within&amp;nbsp;one hour of CET, so your working day overlaps with the team's for the daily stand-ups and close day-to-day collaboration.
-You can work independently and enjoy a small team where switching gears quickly, collaboration and knowledge sharing are central.
-
-Twikey offers you:
-
-An environment where challenge, innovation and autonomy come first.
-The room to&amp;nbsp;experiment, to challenge and to improve.&amp;nbsp;And we expect you to really take that room.
-An ideal setting if you want to grow fast and healthily, both technically and personally. Training, ownership, taking on new or additional roles based on your talents and interests, ... a lot is possible here, and you're at the wheel!
-A&amp;nbsp;complementary team of more than 35 colleagues&amp;nbsp;who move forward together in a respectful and open atmosphere.
-A motivating workplace with&amp;nbsp;plenty of knowledge and expertise, shared both formally during the daily stand-ups and the weekly Friday call, and informally at the coffee machine.
-Appreciation, openness and critical dialogue.&amp;nbsp;Our Friction Hunter Trophy is an example: every month we celebrate the colleague who made the biggest difference for customers, teammates or internally. Your impact gets noticed!
-A modern workplace with different zones (conference, connect, co-work, concentrate) in a recently built, industrial-style office building. Easy to reach by car, by bike and by public transport on the edge of Ghent, right next to the KBC tower.
-A&amp;nbsp;salary package tailored&amp;nbsp;to your experience and skills, with plenty of extra-legal benefits, a collective bonus system and a cafeteria plan to convert your 13th month as you choose.
-The chance to work in an&amp;nbsp;innovative Belgian fintech scale-up&amp;nbsp;that is active in several countries, in a sector that is growing fast!
-
-A job ad doesn't tell you everything. Our colleagues tell you&amp;nbsp;here what it's really like to work at Twikey.
-
-To apply: https://weworkremotely.com/remote-jobs/twikey-senior-java-developer</description><pubDate>Thu, 17 Sep 2026 10:51:23 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products</description><pubDate>Fri, 18 Sep 2026 17:01:08 +0000</pubDate></item></channel></rss>
