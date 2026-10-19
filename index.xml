@@ -1,5 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Humane World for Animals: Web Designer, eCRM</title><link>https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1</link><description>Headquarters: Humane World for Animals
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Yooli: FULL TIME: Software Engineer Position - React and Rest</title><link>https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1</link><description>Headquarters: Australia
+    URL: http://yooli.co
+
+
+Job description
+
+We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&amp;nbsp;
+This critical role involves developing, integrating, and optimising our backend and database systems.&amp;nbsp;
+You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation.
+
+&amp;nbsp;
+Your Role:
+
+Develop and maintain robust backend services using NestJS and Node.js, ensuring top-tier performance and security.
+Design and manage efficient REST API endpoints to optimise interactions with our SQL database.
+Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backend logic and database performance.
+Ensure the scalability, security, and responsiveness of backend services.
+Uphold rigorous data protection standards and implement industry-leading security measures.
+Participate in code reviews to uphold high coding standards and foster continuous improvement within the development team.
+
+&amp;nbsp;
+What Youll Bring:
+Essential Skills &amp;amp; Experience:
+
+At least 7 years of experience with:
+React
+React Vite
+REST API development
+Strong knowledge and hands-on experience with SQL.
+Proficiency in Prisma for database management.
+A minimum of 5 years of experience in REST API development using the NestJS framework.
+Expertise in backend development, specifically with NestJS, Node.js, REST APIs, and PostgreSQL.
+Experience in developing single-page applications using ReactJS.
+Strong understanding of TypeScript and Object-Oriented Programming (OOP) principles.
+Solid grasp of commonly used data structures.
+Proven experience with cloud hosting services (preferably AWS) and integrating them into development workflows.
+Exceptional problem-solving skills and meticulous attention to detail.
+A proven ability to thrive in collaborative, remote work environments, showcasing excellent communication skills and a commitment to team success.
+A portfolio demonstrating relevant projects.
+
+&amp;nbsp;
+Nice-to-Haves:
+
+Experience with CI/CD pipelines and version control systems like Git.
+Familiarity with agile development methodologies and project management tools.
+Knowledge of Redux for state management.
+A degree in Computer Science or a related field.
+
+
+To apply: https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1</description><pubDate>Wed, 05 Aug 2026 05:52:46 +0000</pubDate></item><item><title>Humane World for Animals: Web Designer, eCRM</title><link>https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1</link><description>Headquarters: Humane World for Animals
     URL: https://humaneworld.org
 
 
@@ -1128,9 +1177,4 @@ The salary range for this role is: $198,750 - $295,000
 The salary range shown may be a reflection of additional factors such as geographical location and skill ranges/levels we’re open to. Placement in the salary range will be decided upon completion of the interview process, taking into account factors like leaving room for growth, internal fairness &amp;amp; parity, your demonstrated skills, and the depth of your experience. Our Recruiting team will be able to provide more details during the interview process.
 By submitting an application the candidate consents to the use of their personal information in accordance with the Hex Privacy policy:&amp;nbsp;https://learn.hex.tech/docs/trust/privacy-policy.Hex Technologies uses AI-assisted tools as part of our application review process, including for resume screening and fraud detection. These tools help our team evaluate applications and verify applicant information. All AI-generated recommendations are reviewed by a member of our recruiting team before any hiring decision is made. No application is automatically rejected based solely on an AI tool's output.
 
-To apply: https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer</description><pubDate>Sat, 19 Sep 2026 07:31:10 +0000</pubDate></item><item><title>Toptal: Senior Integration Engineer for Enterprise API &amp; Integration Products</title><link>https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products</link><description>Headquarters: 
-
-
-SummaryWe are looking for a Senior Integration Engineer to build and operate integration products connecting Salesforce, SAP, and a carrier data lake. This role combines hands-on integration development with end-to-end production ownership, including API design, data mapping, testing, monitoring, troubleshooting, and recovery.General informationThis role focuses on building reliable, maintainable integrations rather than creating new point-to-point integration debt. You will work across Salesforce, SAP, and carrier data lake environments, taking ownership of integrations throughout their lifecycle—from implementation and testing through production support and continuous improvement.Strong experience with MuleSoft or a comparable enterprise integration/API platform is expected, along with practical experience integrating with SAP and working with data lake ingestion patterns.AI-assisted engineering is an explicit expectation for this engagement. You will use AI copilots and agents as part of your daily workflow to accelerate discovery, development, testing, documentation, and operational troubleshooting. You will remain responsible for validating and hardening AI-generated output and for all production decisions.Tasks and DeliverablesDesign and implement MuleSoft/API integrations across Salesforce, SAP, and the carrier data lake.Define and maintain API contracts, field mappings, transformations, and automated tests.Use Data Modeler to develop and maintain accurate data mappings between systems.Debug and resolve production integration failures independently, including root-cause analysis and preventative improvements.Instrument integration pipelines with appropriate monitoring, logging, and alerting.Support Marketing Portfolio transition integrations while avoiding unnecessary point-to-point dependencies and new integration debt.Use AI tools to accelerate mapping drafts, API stubs, test generation, documentation, and error-handling boilerplate.Review and harden AI-generated output to ensure it meets production standards for reliability, maintainability, and quality.Automate replay, retry, alerting, and recovery runbooks to reduce mean time to recovery (MTTR).Continuously improve the reliability, observability, and operational efficiency of the integrations you own.Required experience5+ years of integration engineering experience.Hands-on experience with MuleSoft or an equivalent enterprise ESB/API integration platform.Experience integrating with SAP, including IDoc, API, and/or BAPI patterns.Experience with Salesforce integrations and enterprise API patterns.Experience with data lake ingestion and integration patterns.Strong understanding of API contracts, data mapping, transformations, testing, and integration architecture.Demonstrated experience supporting integrations in production, including monitoring, troubleshooting, alerting, retry/replay, and incident resolution.Ability to take ownership of production issues and drive them through diagnosis, recovery, and prevention, rather than simply handing them off to another team.Experience using AI copilots or agents to accelerate software engineering workflows.Strong engineering judgment and the ability to validate, test, and improve AI-generated code and artifacts before they reach production.
-
-To apply: https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products</description><pubDate>Fri, 18 Sep 2026 17:01:08 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer</description><pubDate>Sat, 19 Sep 2026 07:31:10 +0000</pubDate></item></channel></rss>
