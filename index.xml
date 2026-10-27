@@ -1,5 +1,192 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Webflow: Senior Infrastructure Engineer</title><link>https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer</link><description>Headquarters: Argentina Remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Dremio: Software Engineer - Query Execution</title><link>https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution</link><description>Headquarters: Portugal - Remote
+
+
+Be Part of Building the Future
+Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&amp;nbsp; Learn more at&amp;nbsp;www.dremio.com.About the roleDremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, building the systems that turn query plans into efficient, reliable execution.
+As a Software Engineer, you’ll work with experienced engineers to build, test, and support well-scoped improvements to the execution engine. You’ll learn how Dremio’s query runtime works while contributing to areas such as query operators, expression evaluation, memory management, scheduling, and performance.What you’ll be doing
+
+Build and support execution-engine components: Implement, test, debug, and maintain well-defined changes to query operators, expression evaluation, execution scheduling, and resource management.
+Develop reliable software: Write clear, maintainable Java code; add unit and integration tests; and follow established engineering practices for code review, testing, and documentation.
+Investigate issues: Help diagnose query correctness, reliability, and performance issues using query profiles, logs, telemetry, benchmarks, and production data.
+Learn runtime and performance fundamentals: Build familiarity with vectorized processing, concurrency, memory usage, parallelism, data exchange, and disk spilling.
+Collaborate with the team: Work closely with senior engineers and partner teams to understand requirements, break work into manageable tasks, and deliver incremental improvements.
+Use AI-assisted development tools: Apply AI tools to code comprehension, debugging, test generation, and documentation, while validating results through testing, review, and sound engineering judgment.
+Grow your engineering skills: Participate actively in design discussions and code reviews, seek feedback, and steadily take on broader technical responsibility.
+
+What we’re looking for
+
+Software engineering foundation: Up to two years of professional software development experience, or equivalent experience through internships, coursework, or substantial personal projects.
+Programming skills: Proficiency in Java or another object-oriented programming language; willingness to learn and work in a large Java codebase.
+Computer science fundamentals: Understanding of data structures, algorithms, and basic concurrency concepts.
+Problem-solving ability: Able to work through well-defined technical problems, ask good questions, and apply feedback to reach a solution.
+Quality mindset: Commitment to writing tested, maintainable code and learning established development, testing, and review practices.
+Communication and collaboration: Able to communicate progress, surface blockers early, and work effectively with teammates.
+Education: Bachelor’s degree in Computer Science, a related technical field, or equivalent practical experience.
+
+Bonus points if you have
+
+
+
+Exposure to database internals, query processing, distributed systems, or large-scale data processing.
+Familiarity with performance-oriented software concepts such as profiling, memory management, concurrency, or vectorized processing.
+Experience with C++, Apache Arrow, Parquet, Apache Iceberg, Spark, Hadoop, or cloud object stores.
+Contributions to open-source projects.
+
+
+What we value&amp;nbsp;
+At Dremio, we hold ourselves to high standards when it comes to People, Thinking, and Action. Our Gnarlies (that's what we call our employees) communicate with clarity, drive accountability, and are respectful towards each other. We confront brutal facts and focus on results while operating with a sense of urgency and building a "flywheel". People who like to jump in and drive momentum will thrive in our #GnarlyLife.
+Dremio is an equal opportunity employer supporting workforce diversity. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability status, or any other unlawful factor.
+Dremio is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request accommodation due to a disability, please inform your recruiter.
+Dremio has policies in place to protect the personal information that employees and applicants disclose to us. Please click here to review the privacy notice.&amp;nbsp;
+Important Security Notice for Candidates
+At Dremio, we uphold trust and transparency as paramount values in all our interactions with customers, partners, employees, and the general public. We have been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will be from an @dremio.com domain. If you suspect you've been targeted by a scam, it's imperative to report the incident to your local law enforcement agencies. For more information about this type of scam, please refer to Dremio's official statement&amp;nbsp;here.
+Dremio is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.
+
+To apply: https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution</description><pubDate>Wed, 07 Oct 2026 07:30:53 +0000</pubDate></item><item><title>Lemon.io: Senior Angular Full-stack Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer</link><description>Headquarters: New York, NY
+    URL: https://lemon.io
+
+
+Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
+What we offer:
+
+The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
+No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
+We'll manually find the best project for you according to your skills and preferences.
+Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
+We respect your seniority so you can expect no micromanagement or screen trackers.
+Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
+We will support you from the time you submit the application throughout all cooperation stages.
+Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
+Through our community, we will connect you with the best developers from more than 75 countries.
+
+We have several senior positions available. We are looking for Senior Software Engineers with strong knowledge of the following stacks: Angular &amp;amp; PHP, Angular &amp;amp; .NET &amp;amp; TypeScript, Angular &amp;amp; Node, Angular &amp;amp; TypeScript, React &amp;amp; PHP, Vue &amp;amp; PHP, Symfony &amp;amp; any front-end, and PHP &amp;amp; Laravel.
+Requirements for Senior Angular &amp;amp; PHP Developer experience:
+
+4+ years of software development experience
+3+ years of experience with Angular
+3+ years of commercial experience with PHP
+3+ years of commercial experience with Laravel
+
+Requirements for Senior Angular &amp;amp; .NET Developer experience:
+
+5+ years of software development experience
+3+ years of experience with Angular and 5+ years of commercial experience with .NETOR5+ years of experience with Angular and 3+ years of commercial experience with .NET
+Practical experience with Typescript is required
+
+Requirements for Senior Angular &amp;amp; Node.js Developer experience:
+
+5+ years of software development experience
+3+ years of experience with Angular and 3+ years of commercial experience with Node.js
+Practical experience with Typescript is required
+Experience with AWS/GCP/Azure
+
+Other requirements:
+
+Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
+Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
+Strong self-organizational skills — ability to work full-time remotely with no supervision.
+Reliability — we want to trust you and expect that you won’t let us and the client down.
+Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
+
+Sounds good for you? Apply now and join the Lemon.io community!
+NOT YOUR TECH STACK?
+We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React &amp;amp; Python, React &amp;amp; Golang, Golang, React &amp;amp; Java, React &amp;amp; Ruby, Ruby, PHP &amp;amp; Vue, Vue &amp;amp; Node.js, React &amp;amp; .NET, Android &amp;amp; iOS, iOS &amp;amp; Swift, Flutter &amp;amp; Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Vue &amp;amp; .NET, Python &amp;amp; Vue, DevOps, MLOps, Data Science, Symfony &amp;amp; React, Symfony &amp;amp; Vue, Symfony &amp;amp; Angular, Python, Symfony &amp;amp; JavaScript &amp;amp; Next.js &amp;amp; TypeScript, Data Analysis, React &amp;amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp;amp; Node, React Native &amp;amp; React, React Native &amp;amp; Ruby, React Native &amp;amp; Python, WordPress, Android, Data Annotation, Angular, Python &amp;amp; Node, React &amp;amp; Node.js, Java &amp;amp; Spring, Svelte &amp;amp; Python, Svelte &amp;amp; Node.js, Svelte &amp;amp; TypeScript, Rust, Shopify &amp;amp; JavaScript, Vue &amp;amp; Nuxt, PHP &amp;amp; Laravel, UI/UX Design, Animation, Graphic Design, React &amp;amp; Node &amp;amp; React Native, .NET &amp;amp; C#, Electron, Scala, C++, Unreal Engine &amp;amp; C++, Python &amp;amp; LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.
+We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
+We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
+
+To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer</description><pubDate>Tue, 06 Oct 2026 13:25:57 +0000</pubDate></item><item><title>PagerDuty: Senior Director, Field Enablement</title><link>https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement</link><description>Headquarters: Remote (USA - San Francisco, CA)
+
+
+PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform.
+&amp;nbsp;ABOUT THE ROLE
+PagerDuty is seeking a Sr. Director, Field Enablement to join our diverse, customer-focused team! As Sr. Director of&amp;nbsp; Field Enablement, you will lead a team of enablement professionals supporting our sales, customer success, and partnership organizations.&amp;nbsp;
+You will build and scale our global enablement function to ensure our customer-facing teams are equipped to sell and support our diversifying product portfolio as we enter our next phase of growth. This is an exciting opportunity to shape the enablement strategy for a high-growth SaaS company and directly improve teams' capabilities and productivity worldwide. The ideal candidate is a strategic, seasoned enablement leader passionate about gathering customer feedback and competitive intelligence to develop programs that drive sales excellence and business results.
+ABOUT PAGERDUTY
+&amp;nbsp;
+KEY RESPONSIBILITIES
+
+Develop, execute, optimize, and assess enablement programs in partnership with sales and customer success leadership, determining priorities and success metrics with key stakeholders
+Gather and share insights from customers, competitors, and the market to enable the positioning of PagerDuty’s value proposition to the market
+Drive the creation of learning programs and events that align with overall sales and company strategy, enhancing team capabilities, productivity, and high-level selling skills
+Build and maintain an enablement delivery platform that provides scalable, measurable content and learning resources to sales, customer success, and partnership teams
+Collaborate with marketing and product marketing to develop highly effective and repeatable sales messaging, selling tools, and collateral that enable consistent execution
+Design and maintain an end-to-end sales onboarding program in collaboration with HR that certifies new hires on company strategy, product messaging, and sales processes
+Develop and lead the everboarding process for the sales team to ensure the continued development of required behaviors and skills to successfully operate a consumption driven business
+Build out and scale enablement support functions for Customer Success and Partnerships organizations
+Communicate the enablement strategy, roadmap, and KPIs to stakeholders across all global organizations
+Develop and maintain a library of sales enablement resources, including sales playbooks, battle cards, product collateral, content library, and competitive intelligence
+Drive adoption and utilization of sales enablement tools such as MindTickle and Highspot
+Partner with the sales systems team to drive adoption and utilization of sales tools such as Clari, Salesloft, Salesforce, and others
+Conduct regular assessments and audits of sales processes and identify areas for improvement and optimization.&amp;nbsp;
+Set key metrics to assess the impact of sales enablement efforts on sales performance
+Stay up-to-date with industry trends, best practices, and emerging technologies in sales enablement
+
+&amp;nbsp;
+BASIC QUALIFICATIONS
+
+Bachelor's degree in business, marketing, or a related field. MBA is a plus
+10+ years of sales enablement experience or a combination of sales / post sales, sales training, and enablement roles
+5+ years of management experience leading and developing enablement teams
+Proven track record of building and delivering innovative, strategic sales enablement programs, including training, onboarding, certifications, and sales events
+Experience implementing and maintaining content management platforms such as Highspot or Seismic
+3+ years of experience in high-velocity, high-growth startup environments, preferably in the SaaS space, or equivalent degree or experience
+
+PREFERRED QUALIFICATIONS
+
+Strong understanding of sales methodologies such as Force Management, MEDDIC and forecasting best practices
+Excellent communication and presentation skills, with the ability to effectively train and influence sales professionals at all levels
+Experience with Sales Operations and Salesforce.com
+Proficiency in using sales enablement tools, CRM systems, and content management platforms. Preferred platforms include Salesforce, Seismic, CRM Analytics, and more
+Analytical mindset with the ability to provide actionable insights
+Knowledge of Sales Manager training and sales coaching, particularly for Enterprise sales
+Strong program and project management skills with the ability to maintain calendars of ongoing training, business reviews, and field communications
+Detail and results-oriented with the ability to balance strategic planning and hands-on execution
+Collaborative and team-oriented approach with the ability to work cross-functionally
+Self-motivated and results-driven with a passion for driving sales excellence
+Excel in creating and curating sales collateral, playbooks, training modules, and other resources to support the sales team
+Have a track record of driving sales enablement initiatives across different regions and markets, understanding cultural nuances and local sales practices
+
+&amp;nbsp;
+The base salary range for this position is 180,000 - 303,600 USD. This role may also be eligible for bonus, commission, equity, and/or benefits.
+Our base salary ranges are determined by role, level, and location. The range, which is subject to change based on primary work location, reflects the minimum and maximum base salary we expect to pay newly hired employees for the position. Within the range, we determine pay for an individual based on a number of factors including market location, job-related knowledge, skills/competencies and experience.
+Your recruiter can share more about the specific offerings for this role, as well as the salary range for your primary work location during the hiring process.Hesitant to apply?
+We encourage you to submit your resume even if you don't meet every requirement. We value potential and consider each candidate's full professional story. Whether you're exploring a career change or taking your next step, we look forward to reviewing your application. If this just isn’t the right role or time - sign up for job alerts!
+Where we work
+PagerDuty operates a hybrid work model with offices in 8 major cities: Atlanta, Lisbon, London, San Francisco, Santiago, Sydney, Tokyo, and Toronto. While we offer flexibility within our established locations, we cannot employ candidates residing in:
+Location restrictions: Australia: Northern Territory, Queensland, South Australia, Tasmania, Western AustraliaCanada: Alberta, Manitoba, Newfoundland, Northwest Territories, Nunavut, PEI, Quebec, Saskatchewan, YukonUnited States: Alaska, Hawaii, Iowa, Louisiana, Mississippi, Nebraska, New Mexico, Oklahoma, Rhode Island, South Dakota, West Virginia, WyomingCandidates must reside in an eligible location, which vary by role.
+How we work
+Our values guide how we support customers, collaborate with colleagues, develop products, and foster a culture of belonging. They define not just our actions, but what it means to be Dutonian.
+People Leaders at PagerDuty are responsible for creating high performance environments that drive accountability. PagerDuty has four key dimensions that define our Leadership Impact: Lead Self, Lead the Team, Lead the Business, and Lead the Future. Each dimension has three associated competencies to give leaders a shared language for guiding their development, career, promotion, and succession planning discussions. Our Manager Expectations serve as a practical guide for managers to understand their responsibilities, prioritize their efforts, and drive engagement and performance.
+What we offer
+As a global organization, our total rewards approach is competitive with industry standards and aligned with local laws and regulations. Learn more, including country-specific offerings, on our benefits site.
+Your package may include:
+
+Competitive salary
+Comprehensive benefits package&amp;nbsp;
+Flexible work arrangements
+Company equity*
+ESPP (Employee Stock Purchase Program)*
+Retirement or pension plan*
+Generous paid vacation time
+Paid holidays and sick leave
+Dutonian Wellness Days &amp;amp; HibernationDuty - companywide paid days off in addition to PTO
+Paid parental leave: 22 weeks for pregnant parent, 12 weeks for non-pregnant parent (some countries have longer leave standards and we comply with local laws)*
+Paid volunteer time off: 20 hours per year
+Company-wide hack weeks
+Mental wellness programs
+
+*Eligibility may vary by role, region, and tenure
+About PagerDuty
+PagerDuty, Inc. (NYSE:PD) is a global leader in digital operations management. The PagerDuty Operations Cloud is an AI-powered platform that empowers business resilience and drives operational efficiency for enterprises. With a generative AI assistant at its core, PagerDuty empowers teams to detect and resolve issues in real time, orchestrate complex workflows, and drive continuous improvement across their digital operations. Trusted by nearly half of both the Fortune 500 and the Forbes AI 50, as well as approximately two-thirds of the Fortune 100, PagerDuty is essential for delivering always-on digital experiences to modern businesses
+PagerDuty is Great Place to Work-certified™, a Fortune Best Workplace for Millennials, a Fortune Best Medium Workplace, a Fortune Best Workplace in Technology, and a top rated product on TrustRadius and G2.&amp;nbsp;
+Go behind-the-scenes on our careers site and @pagerduty on Instagram.
+Additional Information
+PagerDuty is an equal opportunity employer. PagerDuty does not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, parental status, veteran status, or disability status. Your privacy is important to us. By submitting an application, you confirm that you have read and understand PagerDuty's Privacy Policy.
+PagerDuty is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. Should you require accommodation, please email accommodation@pagerduty.com and we will work with you to meet your accessibility needs.
+PagerDuty uses the E-Verify employment verification program.
+
+To apply: https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement</description><pubDate>Tue, 06 Oct 2026 07:31:16 +0000</pubDate></item><item><title>Webflow: Senior Infrastructure Engineer</title><link>https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer</link><description>Headquarters: Argentina Remote
 
 
 Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing craft or quality.
@@ -305,50 +492,7 @@ Knowledge of Redux for state management.
 A degree in Computer Science or a related field.
 
 
-To apply: https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1</description><pubDate>Wed, 05 Aug 2026 05:52:46 +0000</pubDate></item><item><title>Humane World for Animals: Web Designer, eCRM</title><link>https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1</link><description>Headquarters: Humane World for Animals
-    URL: https://humaneworld.org
-
-
-The general salary range for this full-time position is $80,000 – 115,000. Salary offers will be commensurate with experience, qualifications, skills, training and education.
-&amp;nbsp;
-Humane World for Animals, a global leader in animal advocacy and protection, is seeking a Web Developer, eCRM to support Digital Marketing and other departments by providing front-end, global web development solutions for fundraising, advocacy engagement, and other strategic priorities — incorporating AI-assisted and agentic development tools to accelerate delivery while maintaining rigorous human oversight, quality, and security standards.
-&amp;nbsp;
-Responsibilities:
-
-Collaborates regularly with Digital Marketing, Brand and Visuals, and IS teams to discuss project requirements and makes technical recommendations. Writes efficient code and maintains custom donation forms, advocacy forms, other webpages, and email templates. Incorporates best practices for user experience, accessibility, page speed optimization, and GDPR compliance implementation. Adheres to global regulations and standards, regional data compliance, and security compliance;
-Uses AI-assisted development tools and agentic coding assistants to accelerate coding, refactoring, debugging, testing, and documentation. Proactively identifies opportunities for AI-assisted and agent-built solutions and owns the ongoing maintenance, monitors their performance over time and updates or retires them as needed. Follows established guardrails and usage standards for AI tools and applies human-in-the-loop review to all AI-generated code and configurations, validating output for accuracy, security, accessibility, and brand/technical standards before deployment;
-Follows quality assurance procedures and troubleshoots technical issues affecting donation forms, advocacy forms, webpages, and email templates in Engaging Networks. Works closely with vendor partners;
-Works with the Information Security team to ensure that digital properties meet security standards, including managing script inventory, attestation, and other requirements for PCI compliance;
-Collaborates with the testing team to gather testing requirements and implement new features to run A/B and multivariate tests on forms;
-Creates and maintains clear and concise documentation of custom web development, support guides, and incident reports;
-Performs other duties as assigned.&amp;nbsp;
-
-&amp;nbsp;
-Qualifications and Requirements:
-
-Bachelor's degree in computer programming, web development, or related field, or equivalent work experience required;&amp;nbsp;
-A minimum of four (4) years of experience in front-end web development and developing custom websites required;
-Demonstrated experience with Engaging Networks or other eCRMs;
-Proficient in HTML5, Sass and CSS, JavaScript, PHP, MySQL, GitHub, Engaging Networks modules, Webpack, Node, npm, core AWS services, and Mailgun. Familiar with Segment or other CDPs;
-Direct experience with AI coding assistants and agentic development tools such as Microsoft Copilot Studio, Claude Code, and GitHub Copilot;
-Knowledge of best practices for responsive, mobile-first web design, UX, accessibility, page speed optimization, browser support, and GDPR compliance;
-Familiar with cookie consent tools, preferably Iubenda, for configuring compliance settings;
-Experience building interactive data visualizations that translate campaigns into compelling stories for supporters to increase engagement;
-Excellent attention to detail when coding projects based on Adobe XD files or Figma;
-Understanding of digital marketing strategies for US and international audiences;
-Stays on top of AI trends in web development, including personalization and workflow automation, and their responsible application to fundraising and advocacy technology;
-Strong written and verbal communication skills;
-Must be able to multi-task in a fast-paced, collaborative environment to deliver high quality work on deadline. Familiarity with Jira and Confluence a plus;
-Data informed problem solver having experience with A/B testing platforms and Google Analytics;
-Proactive and ability to work both independently and as an effective team member in a team environment;
-Interest in animal protection issues preferred.
-
-&amp;nbsp;
-This is a full-time remote position based in the United States.&amp;nbsp;Candidates must be able to accomodate Eastern Time hours, as needed.&amp;nbsp;
-&amp;nbsp;
-Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, sexual orientation, gender identity, and disability, marital or parental status or protected veteran status.&amp;nbsp; EOE&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1</description><pubDate>Fri, 02 Oct 2026 17:39:45 +0000</pubDate></item><item><title>Doximity: Commercial Data Scientist</title><link>https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist</link><description>Headquarters: San Francisco, CA or Remote (U.S.)
+To apply: https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1</description><pubDate>Wed, 05 Aug 2026 05:52:46 +0000</pubDate></item><item><title>Doximity: Commercial Data Scientist</title><link>https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist</link><description>Headquarters: San Francisco, CA or Remote (U.S.)
 
 
 Commercial Data Scientist
@@ -876,46 +1020,7 @@ ZoomInfo may use a software-based assessment as part of the recruitment process.
 ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.
 For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.
 
-To apply: https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai</description><pubDate>Tue, 29 Sep 2026 07:30:41 +0000</pubDate></item><item><title>Postscript: Client Strategist</title><link>https://weworkremotely.com/remote-jobs/postscript-client-strategist</link><description>Headquarters: Remote, USA
-
-
-Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch.&amp;nbsp;
-With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS marketing platform and launched revenue-driving AI features not available on any other platform. And we're just getting started.&amp;nbsp;
-Backed by Greylock and Y Combinator, fully remote since 2018.As a Client Strategist, you will be working with our biggest brands and be responsible for the end to end SMS strategy for a rotating group of customers. You will work closely with our Marketing, Product and Customer Success teams to learn best practices and use your marketing skills to drive consistent SMS revenue for select customers. You will write best in class copy on behalf of our customers to make brands stand out, and help brainstorm revenue-generating and best-in-class strategies directly with merchants to help them make SMS their #1-revenue-driving channel.
-This is a fully remote position.
-Primary duties
-
-Excellent content - Create compelling, innovative content for your customers in the form of SMS campaigns, automations and call to actions. Be consistent with their brand voice and vision while continually helping them improve their SMS programs.
-Excellent advisory relationships - Develop excellent advisory relationships with customers. Execute on best practices, strategize on new marketing strategies, and develop and run innovative, creative SMS marketing campaigns.&amp;nbsp;
-Customer growth - Actively track, analyze and iterate on customers’ results. Ensure they scale quickly and effectively on the Postscript platform.&amp;nbsp;
-Marketing best practices - Establish marketing best practices to ensure brands are on the leading front of SMS Marketing. Continually expand your expert-level knowledge of your customer’s marketing, technology and general business needs.
-Industry and product expertise - continually maintain expert-level knowledge in our product, services, and of the ecommerce marketing domain. Be a go-to consultant for both internal and external stakeholders.
-
-What We’ll Love About You
-
-3+ years proven experience in the direct-to-consumer space with strong knowledge of SMS, copywriting and best practices. Hands on experience with A/B testing and persuasive copywriting&amp;nbsp;
-Demonstrated experience in e-commerce and e-commerce marketing
-Passion for helping customers understand and execute ecommerce SMS strategy
-Experience in a customer-facing role managing operator relationships and liaising with decision-makers and senior stakeholders when required
-Skilled in streamlining workflows and managing complex processes
-Proven ability to multitask in a fast-paced environment, ensuring all deadlines are met
-Strong analytical skills, with a data-driven, metrics-oriented mindset
-Exceptional communicator, both verbal and written
-
-What You’ll Love About Us
-
-Salary range of USD $69,000-$83,000 base plus variable compensation &amp;amp; significant equity (we do not have geo based salaries)
-High growth startup - plenty of room for you to directly impact the company and grow your career!
-Work from home (or wherever)
-Fun - We’re passionate and enjoy what we do
-Competitive compensation and opportunity for equity
-Flexible paid time off
-Health, dental, vision insurance
-
-&amp;nbsp;For information about how we use your personal data, please see our U.S. Job Applicant&amp;nbsp;Privacy Notice
-You are welcome here. Postscript is an ever-evolving place of equal employment for talented individuals.
-
-To apply: https://weworkremotely.com/remote-jobs/postscript-client-strategist</description><pubDate>Tue, 29 Sep 2026 07:30:41 +0000</pubDate></item><item><title>Air Apps: Framer Website Designer</title><link>https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1</link><description>Headquarters: Helsinki
+To apply: https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai</description><pubDate>Tue, 29 Sep 2026 07:30:41 +0000</pubDate></item><item><title>Air Apps: Framer Website Designer</title><link>https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1</link><description>Headquarters: Helsinki
     URL: http://airapps.com
 
 
@@ -1030,201 +1135,4 @@ Important Security Notice for Candidates
 At Dremio, we uphold trust and transparency as paramount values in all our interactions with customers, partners, employees, and the general public. We have been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will be from an @dremio.com domain. If you suspect you've been targeted by a scam, it's imperative to report the incident to your local law enforcement agencies. For more information about this type of scam, please refer to Dremio's official statement&amp;nbsp;here.
 Dremio is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.
 
-To apply: https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution</description><pubDate>Mon, 28 Sep 2026 07:31:05 +0000</pubDate></item><item><title>Toggl: Senior Full Stack</title><link>https://weworkremotely.com/remote-jobs/toggl-senior-full-stack</link><description>Headquarters: Tallinn, Estonia
-    URL: https://toggl.com/jobs/
-
-
-
-We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific Toggl user role. You'll join the Tribe building for managers, the people who plan work, protect margins, and keep projects on time and on budget.
-You own significant parts of that experience end-to-end, working hands-on with product and design to ship work that matters. You'll do this as we build and launch Toggl 2.0, our consolidated planning, time tracking, and time intelligence product.
-The salary for this position is&amp;nbsp;€83,000 annually.
-You can work from anywhere in the world&amp;nbsp;as long as your main location is between UTC-4 and UTC+4.
-&amp;nbsp;
-The Role
-As a Senior Full Stack Engineer, you own meaningful parts of the product end-to-end, from the data model and the API to the interface someone actually clicks: the technical approach, the quality of what ships, and whether it actually works for the people using it. You are accountable not for tickets closed, but for clarity, craft, and outcomes.
-You'll work in the Tribe serving managers, across planning and capacity management, dashboards, and billable work. This is some of the most data-dense, interaction-heavy surface area in the product: schedules and capacity views, reports, and visualizations that have to stay fast and readable at real customer scale. The interesting problems live on both sides of the API here - the query behind a capacity view matters as much as how that view renders. You'll build with React and TypeScript on the frontend and our backend services (mostly Golang) and data layer (Postgres) behind them, alongside a product manager, a designer, and engineers who are used to owning their work and pushing back when something isn't right. In a tribe of 5 other engineers, your impact and visibility are high.
-Our team meetings are scheduled between 11:00 and 16:00 UTC. Your availability and commitment to participate in these sessions are essential for effective collaboration and team alignment.
-Your main responsibilities will be:
-Ownership and delivery
-
-
-Take projects from problem to production. Own the technical approach for major features front to back, break the work down sensibly, sequence it, and ship in slices rather than one big drop.
-
-
-Make the technical calls in your area. Choose between options, name the tradeoffs, and decide without waiting for permission or escalating routine judgment.
-
-
-Keep your work visible without being chased. Flag risks and slips early, keep the Tribe in the loop, and unblock yourself.
-
-
-Craft and quality across the stack
-
-
-Build interfaces people trust with dense, real-world data. Planning views, dashboards, and reports that stay fast, accessible, and readable when the dataset gets ugly.
-
-
-Design the data and API layer those views depend on. Model it so the feature you're building now doesn't make the next three harder.
-
-
-Own performance as a feature, end to end. Profile, measure, and fix the slow query and the slow render instead of hoping the data stays small.
-
-
-Write code others can work in. Sensible components and services, real test coverage where it earns its keep, and a codebase that's easier to change after you touch it.
-
-
-Working with product and design
-
-
-Shape solutions, don't just implement them. Push on the problem, question requirements that don't hold up, and propose simpler paths when you see one.
-
-
-Partner closely with design. Prototype early, spot the edge cases in a flow before it's built, and hold the bar on UX quality with your designer rather than after handoff.
-
-
-Stay close to users and evidence. Join user tests, read the feedback, look at the data, and let it change what you build.
-
-
-Raising the bar
-
-
-Review code with intent. Give precise, actionable feedback that makes the change and the person better.
-
-
-Mentor and interview. Help other engineers grow, and help us hire well.
-
-
-Improve things across team boundaries. Spot shared components and duplicated work between Tribes, and raise it before we build the same thing twice.
-
-
-AI as core leverage
-
-
-Use AI tools extensively in your daily work for exploration, prototyping, code generation and review, debugging, research, and writing. AI fluency is not optional. It's part of how you increase your speed, depth, and impact - and you're expected to help the rest of the Tribe get better at it too.
-
-
-&amp;nbsp;
-About You
-You will thrive in this role if you:
-
-
-Have significant experience building and shipping production web applications end to end, and can lead major projects rather than just contribute to them.
-
-
-Are genuinely comfortable on both sides of the stack. You're deep on one side and properly capable on the other, not someone who hands off at the API boundary.
-
-
-Have deep, practical knowledge of&amp;nbsp;JavaScript, TypeScript, React, and modern CSS&amp;nbsp;- including state management and side-effect handling in large applications.
-
-
-Are solid on backend fundamentals: at least one backend language you know well, API design, relational data modelling, and enough instinct for query performance to spot the problem before production does.&amp;nbsp;Prior Golang experience is not mandatory but you have to be willing to adopt it and become comfortable with it fast.
-
-
-Hold an extremely high bar for quality. You know what great looks like, you notice the details others miss, and you don't ship work you wouldn't put your name on.
-
-
-Have a knack for data-heavy product surfaces - performance, readability, and the principles behind a chart that actually communicates something.
-
-
-Care about the user's problem, not just the ticket. You start from what someone is trying to get done and work back to the implementation.
-
-
-Own outcomes, not output. You follow your work into production, watch how it behaves, and fix what needs fixing.
-
-
-Thrive in ambiguity and move fast. You make confident decisions with incomplete information, adapt when things change, and course-correct without drama.
-
-
-Are hands-on with AI tools. You actively use AI as a core part of how you build, not a side experiment, and you have opinions about where it helps and where it doesn't.
-
-
-Don't need to be managed. You set your own direction, keep people in the loop, and ask for help when it matters.
-
-
-Have excellent written and verbal English communication skills. You write clearly, explain technical tradeoffs to non-engineers without jargon, and default to async communication that others can follow.
-
-
-Are eager to contribute to the engineering team's growth - code review, mentoring, and interviewing included.
-
-
-Value transparency, ownership, and speed over perfection. You ship, learn, and improve rather than waiting for the perfect plan.
-
-
-Nice to have:
-
-
-Experience with TanStack is a bonus, and so is a real understanding of frontend caching and eventual consistency, we'd love to hire someone who's dealt with that tradeoff directly.
-
-
-Experience with capacity planning, scheduling, reporting, or other complex B2B SaaS products.
-
-
-Experience working with distributed or microservice systems, a basic understanding of infrastructure and infrastructure as code, and some experience creating, improving, or debugging CI/CD pipelines.
-
-
-
-
-This Role Is NOT
-
-
-A ticket-taker role. If you want fully specced work handed to you, this isn't the right fit.
-
-
-A pixel-pusher translating finished designs into code with no say in the problem or the solution.
-
-
-A role where you hand off at the API boundary. If "that's a backend ticket" is your instinct, this will frustrate you.
-
-
-A role where quality is someone else's job. Toggl doesn't have a dedicated QAteam or layer: there's no separate team that will catch your bugs, write yourtests, or own your performance regressions.
-
-
-A place to work in isolation from users. You'll be expected to know who you're building for and why.
-
-
-A role for people who need heavy process, frequent approvals, or top-down direction to do their best work.
-
-
-&amp;nbsp;
-The Team
-We are a global team of ~80 awesome people working from over 40 countries around the globe. We hire globally, you work locally—in the heart of London, a beach outside of Río de Janeiro, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself.&amp;nbsp;Our values&amp;nbsp;fuel our results.What's Happening at Toggl
-Toggl is at an exciting turning point. We're taking our best-in-class time tracking - trusted and loved by millions of users worldwide - and expanding it into something bigger:&amp;nbsp;Toggl 2.0. One product that brings together time tracking, planning, capacity management, reporting, and insight. The idea is simple: better time tracking creates better data, which powers everything else. We call it time intelligence. We build with AI throughout, and we think it's a real multiplier for strong engineers rather than a substitute for them. The judgment, the tradeoffs, and the accountability for what ships stay with people.
-&amp;nbsp;
-Benefits
-
-
-Freedom to choose when and how much you work—we only measure results
-
-
-24 days of paid time off a year, plus your local holidays
-
-
-Unlimited sick leave
-
-
-In-person meetups for team-building (expenses covered)
-
-
-4-6 weeks paid sabbatical (depending on tenure)
-
-
-Laptop budget up to 2,500€ and it renews every 3 years
-
-
-€2,000 budget to set up your home office and an additional €300 every year after 3 years of tenure
-
-
-€3,000 per year for co-working space membership and/or internet service at home
-
-
-€4,000 per year contribution to use for training, workshops, and conferences
-
-
-€2,400 per year contribution for any equipment or services to improve and/or maintain your physical and mental health
-
-
-Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/toggl-senior-full-stack</description><pubDate>Fri, 28 Aug 2026 14:51:27 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution</description><pubDate>Mon, 28 Sep 2026 07:31:05 +0000</pubDate></item></channel></rss>
