@@ -1,5 +1,163 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Lemon.io: Senior .NET Full-stack Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2</link><description>Headquarters: New York, NY
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Typeform: Full Stack Developer</title><link>https://weworkremotely.com/remote-jobs/typeform-full-stack-developer</link><description>Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) 
+
+
+Who we are
+Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot.Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal, Spain or The NetherlandsAbout the team
+Typeform is a leading provider of interactive forms, surveys, and data collection experiences. We help businesses create more engaging ways to collect, manage, and understand data.
+This team sits at the center of how Typeform builds product experiences, creating the shared foundations, tooling, and infrastructure that support scalable and consistent development across the platform.
+About the role
+We’re looking for a Mid level Full Stack Engineer with a stronger backend focus to help evolve the internal systems and infrastructure that support our product development ecosystem.
+This role is ideal for someone who enjoys building scalable internal platforms and developer tooling, while still being comfortable contributing across the frontend when needed. You’ll work on APIs, automation, release pipelines, and engineering infrastructure that improve how teams build and ship product experiences across Typeform.
+You’ll partner closely with engineers and designers to improve tooling, workflows, and developer experience across the company.
+Things you will do
+
+Build and maintain backend services, APIs, and internal tooling used across product development teams
+Improve infrastructure powering component distribution, asset management, documentation, and release workflows
+Support and evolve the engineering monorepo, helping improve scalability, maintainability, and developer experience
+Collaborate with frontend engineers and designers to ensure shared patterns and tooling are implemented consistently across products
+Contribute to CI/CD pipelines, automation, testing, and deployment processes using tools like GitHub Actions
+Help improve the reliability and performance of internal systems, including observability and monitoring workflows
+Support engineers across product teams with adoption and integration of shared tooling and services
+Contribute to documentation and developer tooling to improve discoverability and onboarding
+Work on ongoing platform improvements, including:
+
+Migration of legacy code and tooling
+Documentation platform enhancements
+Automation improvements
+Sandbox and developer tooling improvements
+
+
+Participate in architecture discussions and contribute practical, scalable engineering solutions
+
+What you already bring to the table
+
+Experience working with JavaScript or TypeScript in production environments
+Good understanding of backend development principles and experience building APIs or internal services
+Familiarity with Node.js and modern web frameworks such as React or Next.js
+Experience working with relational databases and understanding of database design fundamentals
+Understanding of testing practices and software quality principles
+Familiarity with CI/CD workflows and developer tooling
+Experience working with Git and collaborative engineering workflows
+Strong communication skills and the ability to work cross functionally with designers and engineers
+Interest in developer experience, platform engineering, or internal tooling
+
+Extra awesome
+
+Experience working in a product led SaaS company
+Exposure to frontend infrastructure or shared platform tooling
+Familiarity with observability and monitoring tooling
+Experience contributing to monorepos or internal platform tooling
+Degree in Computer Science or a related technical field
+*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We move as one team, empowering our collective efforts by valuing each individual’s unique perspective. This fosters strong bonds grounded in respect, transparency, and trust. We champion our diverse customer base by anticipating their needs and addressing their challenges with priority. Committed to excellence, we hold high expectations for ourselves and each other, continuously striving to deliver exceptional results.
+We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind—whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.
+
+To apply: https://weworkremotely.com/remote-jobs/typeform-full-stack-developer</description><pubDate>Sat, 10 Oct 2026 07:31:08 +0000</pubDate></item><item><title>Jumio: Machine Learning Engineer - IV (Computer Vision)</title><link>https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision</link><description>Headquarters: India (remote)
+
+
+Machine Learning Engineer IV – (Computer Vision)
+We’re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process.
+What You’ll Do
+
+Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition)
+Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions.
+Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX
+Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design automated pipelines (Airflow) for data ingestion and cleaning. You will be responsible for curating balanced training sets and generating synthetic data to address both quality and diversity gaps.
+Production Engineering: Own the path to production. Optimize models for low-latency inference (quantization, distillation, TensorRT/ONNX) and manage deployment on AWS.
+Mentor ML engineers, conduct code/design reviews, and drive technical best practices across the Computer Vision team.
+
+What We’re Looking For
+
+Strong industry experience in Machine Learning, dedicated to Biometrics or Face Analysis.
+Deep expertise in computer vision and biometrics, especially face recognition.
+Fairness &amp;amp; Ethics: You understand the sources of algorithmic bias in Computer Vision and have practical experience measuring and mitigating disparate impact.
+Strong Engineering: Expert proficiency in Python (both machine learning and vision libraries such as Pillow, OpenCV, PyTorch, etc). You write clean, modular, production-ready code.
+Systems Architecture: Experience designing end-to-end ML pipelines (Data to Train to Deploy) and working with workflow orchestrators like Airflow.
+Cloud Native: Hands-on experience scaling training jobs on multi-GPU clusters and deploying services on AWS (SageMaker, EC2, EKS).
+
+Nice to Have
+
+Research Publications: Papers in CVPR, ICCV, ECCV, or FG related to face recognition, image quality assessment, or fairness.
+Large Scale Search: Experience with vector databases (e.g., Milvus, Faiss) and approximate nearest neighbor (ANN) search algorithms.
+Familiarity with privacy, security, and compliance in biometric systems.
+Mobile/Edge Experience: Experience porting models to edge or mobile devices utilizing frameworks such as CoreML, LiteRT, and/or TFLite.
+Synthetic Data: Experience using GANs or diffusion models to generate synthetic faces for training.
+Strong communication skills.
+Jumio Values:
+IDEAL: Integrity, Diversity, Empowerment, Accountability, Leading Innovation 
+Equal Opportunities: 
+Jumio is a collaboration of people with different ideas, strengths, interests and cultures. We welcome applications and colleagues from all backgrounds and of all statuses.
+About Jumio:
+Jumio is a B2B technology company dedicated to eradicating online identity fraud, money laundering and other financial crimes to help make the internet safer. We leverage AI, biometrics, machine learning, liveness detection and automation to create solutions that are trusted by leading brands worldwide and respected by industry thought leaders.&amp;nbsp;
+Jumio is the leading provider of online identity verification, eKYC and AML solutions. With a global footprint, we’re expanding the team to meet strong client demand across a range of industries including Financial Services, Travel, Sharing Economy, Fintech, Gaming, and others.
+Applicant Data Privacy 
+We will only use your personal information in connection with Jumio’s application, recruitment, and hiring processes, as described in Jumio’s Applicant Privacy Notice. If you have any questions or comments, please send an email to privacy@jumio.com.
+
+To apply: https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision</description><pubDate>Sat, 10 Oct 2026 07:30:40 +0000</pubDate></item><item><title>Lemon.io: Senior React Full-stack Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7</link><description>Headquarters: New York, NY
+    URL: https://lemon.io
+
+
+Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe.
+What we offer:
+
+The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
+No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
+We'll manually find the best project for you according to your skills and preferences.
+Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
+We respect your seniority so you can expect no micromanagement or screen trackers.
+Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
+We will support you from the time you submit the application throughout all cooperation stages.
+Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
+Through our community, we will connect you with the best developers from more than 75 countries.
+
+Requirements for the Senior React &amp;amp; Python Position:
+
+4+ years of software development experience.
+
+Commercial experience:
+
+
+React.js 3+ years &amp;amp; Python 3+ years
+ORReact.js 2+ years &amp;amp; Python 5+ yearsORReact.js 5+ years &amp;amp; Python 2+ years
+
+
+Experience with AWS, GCP, or Azure is required.
+
+
+Requirements for the Senior Node &amp;amp; React Position:
+
+5+ years of software development experience
+
+Commercial experience:
+
+React.js: 3+ years, Node.js: 5+ years, and Next.js: 2+ yearsORReact.js: 5+ years, Node.js: 3+ years, and Next.js: 2+ years
+Expertise in TypeScript, AWS and AI-assisted coding is a must.
+
+Requirements for the Senior Ruby &amp;amp; React Position:
+
+5+ years of software development experience
+
+Commercial experience:
+
+React.js: 2+ years, Ruby: 5+ yearsORReact.js: 5+ years, Ruby: 2+ years
+Experience with AWS, GCP, or Azure is required.
+
+Other requirements:
+
+Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.
+Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
+Strong self-organizational skills — ability to work full-time remotely with no supervision.
+Reliability — we want to trust you and expect that you won’t let us and the client down.
+Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
+
+Sounds good for you? Apply now and join the Lemon.io community!
+NOT YOUR TECH STACK?
+We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, React &amp;amp; Golang, Golang, React &amp;amp; Java, Ruby, PHP &amp;amp; Vue, Vue &amp;amp; Node.js, React &amp;amp; .NET, Android &amp;amp; iOS, iOS &amp;amp; Swift, Flutter &amp;amp; Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular &amp;amp; Node.js, Vue &amp;amp; .NET, Python &amp;amp; Vue, DevOps, MLOps, Data Science, Angular &amp;amp; PHP, Angular &amp;amp; .NET, Symfony &amp;amp; React, Symfony &amp;amp; Vue, Symfony &amp;amp; Angular, Python, Symfony &amp;amp; JavaScript &amp;amp; Next.js &amp;amp; TypeScript, Data Analysis, React &amp;amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp;amp; Node, React Native &amp;amp; React, React Native &amp;amp; Ruby, React Native &amp;amp; Python, WordPress, Android, Angular, Python &amp;amp; Node, Java &amp;amp; Spring, Svelte &amp;amp; Python, Svelte &amp;amp; Node.js, Svelte &amp;amp; TypeScript, Rust, Shopify &amp;amp; JavaScript, Vue &amp;amp; Nuxt, PHP &amp;amp; Laravel, UI/UX Design, Animation, Graphic Design, React &amp;amp; Node &amp;amp; React Native, .NET &amp;amp; C#, Electron, Scala, C++, Unreal Engine &amp;amp; C++, Python &amp;amp; LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.
+We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
+We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
+&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7</description><pubDate>Fri, 09 Oct 2026 13:49:21 +0000</pubDate></item><item><title>Lemon.io: Senior .NET Full-stack Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2</link><description>Headquarters: New York, NY
     URL: https://lemon.io
 
 
@@ -998,75 +1156,7 @@ Tailscale is committed to providing an accessible and inclusive hiring process. 
 Our hiring process uses AI-assisted tools to help screen and assess candidates. All hiring decisions are made by people.
 Please be aware that legitimate emails from Tailscale's talent team will only originate from @tailscale.com, @greenhouse.io, and @interviews.modernloop.io email addresses. For more information about protecting yourself from impersonators and scams, please visit https://tailscale.com/scam-awareness.
 
-To apply: https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data</description><pubDate>Wed, 30 Sep 2026 07:31:24 +0000</pubDate></item><item><title>Lithic: Senior Software Engineer, Card Authorization</title><link>https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization</link><description>Headquarters: Remote 
-
-
-Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments.
-Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years.
-We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&amp;nbsp;
-We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&amp;nbsp;We are hiring a Senior Software Engineer for Lithic’s Card Authorization team, which owns the real-time systems that make every card authorization decision correct, reliable, and fast. The team also owns related fraud tooling, including Lithic’s Rules Engine and 3D Secure integration. You’ll own high-impact projects end-to-end, solve distributed-systems problems at scale, and help build the tools customers use to control fraud and payment risk.
-What you'll do:
-
-Write reliable, secure, scalable code for Lithic’s real-time authorization and fraud-prevention systems with minimal tech debt
-Build customer-facing features, such as rules improvements, velocity controls, 3DS flows, fraud tooling, and transaction monitoring. Own projects from planning to launch.
-Improve the reliability of systems in team’s scope and participate in the team on-call rotation
-Lead efforts to improve systems and processes within the team
-
-What you'll bring:
-
-4+ years building production backend systems. Full stack experience is a plus.
-Experience in or desire to learn Rust; ability to understand Lithic’s system written in other programming languages (Python, Java)
-Interest and experience in leveraging AI tools to enhance productivity
-Ability to navigate ambiguity, align diverse perspectives, and drive toward practical solutions
-Experience or interest in payments, fintech, fraud prevention.
-Comfort with designing systems from scratch and owning the product development process end-to-end
-Strong written communication skills and experience working in a remote, async-first team that’s spread across time zones
-
-The annual US salary range for this role is $160,000 to $200,000 plus equity. This salary range may be inclusive of several career levels at Lithic and will be narrowed during the interview process based on the candidate’s experience and qualifications.&amp;nbsp;
-This is a remote position. However, candidates must be located in the United States, Canada (Ontario or British Columbia), Netherlands, Poland, or Czech Republic. We do not offer visa sponsorship or assistance.
-Crack the code
-A hidden code is tucked into this application. Find it and enter it below to continue.
-
-
-
-
-
-
-
-
-
-
-
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJUaGUgYW5zd2VyIHRvIGxpZmUsIHRoZSB1bml2ZXJzZSwgYW5kIGV2ZXJ5dGhpbmcg4oCUIGVuY3J5cHRlZC4iIiIKCnBhc3N3b3JkID0gYiJceGVkXHhjMSIKX2tleSA9IGIiXHhkOVx4ZjNceGVkXHhmYlx4ODBceGM0flx4YTdcblx4YjhceGZiPFx4ZmJPXlx4ZmIiCgpkZWYgZGVjcnlwdF9wYXNzd29yZCgpIC0+IHN0cjoKICAgIHJldHVybiBieXRlcyhhIF4gYiBmb3IgYSwgYiBpbiB6aXAocGFzc3dvcmQsIF9rZXkpKS5kZWNvZGUoKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJlc3VsdCA9IGRlY3J5cHRfcGFzc3dvcmQoKQogICAgcHJpbnQoZiJEZWNyeXB0ZWQgcGFzc3dvcmQ6IHtyZXN1bHR9IikKICAgIGFzc2VydCByZXN1bHQgPT0gIjQyIiwgIkRvbid0IHBhbmljIOKAlCBidXQgZGVjcnlwdGlvbiBmYWlsZWQhIgo=
-
-
-
-
-
-
-
-
-
-
-Benefits for Full-Time US Employees:
-
-Unlimited PTO
-12-weeks fully paid parental leave
-4-Week Fully Paid Sabbatical (earned at your 5-year anniversary)
-Work From Anywhere: work from anywhere in the world 4-weeks each year
-3% cashback on card purchases with your complimentary Privacy.com employee account
-Health, vision, and dental insurance; HSA Contribution Match
-401(k) match
-Voluntary Life Insurance and STD/LTD
-
-NYC-based employees work from our SoHo office three days a week. Tuesdays and Thursdays are our core days, and you'll choose a third day that works for your schedule and team needs.
-In-office employees receive:&amp;nbsp;
-
-Commuter benefit
-Catered lunch every Tuesday and Thursday
-
-
-To apply: https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization</description><pubDate>Wed, 30 Sep 2026 07:31:24 +0000</pubDate></item><item><title>Storetasker: Senior Shopify Developer (Remote + Flexible)</title><link>https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</link><description>Headquarters: Brooklyn, NY
+To apply: https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data</description><pubDate>Wed, 30 Sep 2026 07:31:24 +0000</pubDate></item><item><title>Storetasker: Senior Shopify Developer (Remote + Flexible)</title><link>https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</link><description>Headquarters: Brooklyn, NY
     URL: https://resources.storetasker.com/become-an-expert?apply=true&amp;amp;source=weworkremotely_best_2021
 
 
@@ -1109,76 +1199,4 @@ We're recruiting a Web 3 Fullstack Developer (Solidity / Rust / Typescript) who 
 
 
 
-To apply: https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript</description><pubDate>Tue, 29 Sep 2026 19:13:52 +0000</pubDate></item><item><title>Discord: Engineering Manager, Machine Learning (Safety)</title><link>https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety</link><description>Headquarters: San Francisco Bay Area (or Remote U.S.)
-
-
-Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.Discord's Safety ML team builds the machine learning systems that protect 200M+ users. The team's mission is to make Discord a place where people can build genuine friendships without exposure to harm, at a scale where manual review alone can never keep up.
-We're looking for a highly technical, hands-on, and mission-driven Engineering Manager to lead our Safety ML team. As the manager responsible for Safety ML, you will own the detection systems that sit between attackers and our users; real-time and batch models for content understanding, account integrity, and platform abuse.
-What You'll Be Doing
-
-Build and lead an exceptional team of highly-engaged ML engineers by hiring, coaching, and instilling a sense of ownership and impact.
-Drive the technical vision and roadmap for Safety ML by collaborating with your team and partners across Trust &amp;amp; Safety, Product, Policy, Legal, and Data Science.
-Own the end-to-end lifecycle of production safety models: defining new capabilities, measuring performance, and monitoring the operational health of systems that make millions of enforcement decisions per day.
-Manage processes and leverage your technical expertise to continually raise the bar and ensure your team delivers extraordinary results.
-Partner with Trust &amp;amp; Safety on label quality, golden sets, and automating manual investigations.
-Work with other Engineering Managers to continuously improve the Engineering organization and uphold our workplace philosophy.
-
-What you should have
-
-You have 5+ years of experience as a Machine Learning Engineer, Data Scientist, or Applied Scientist.
-You have 3+ years of experience as an Engineering Manager and successfully managed a team of 5+ engineers.
-You have hands-on depth in at least one of: abuse/fraud detection, content classification, behavioral modeling, graph-based modeling, or LLM-based classification systems.
-You have strong communication skills and the ability to work well cross-functionally.
-You thrive in ambiguous environments and get excited about figuring out solutions to complex problems, and then executing on them.
-You are a first principles thinker that can work with others to come up with pragmatic solutions.
-You have a proven record of shipping ML systems to production at scale.
-You are passionate about coaching and leading other engineers, but can roll up your sleeves and get elbow deep in code when needed.
-You keep up with the industry trends and continuously identify new technologies to leverage to solve technical problems
-
-The US base salary range for this full-time position is $272,000 to $340,000 + equity + benefits. Our salary ranges are determined by role and level. Within the range, individual pay is determined by additional factors, including job-related skills, experience, and relevant education or training. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include equity, or benefits.Why Discord?&amp;nbsp;Discord plays a uniquely important role in the future of gaming. We're a multiplatform, multigenerational and multiplayer platform that helps people deepen their friendships around games and shared interests, and helps developers build and grow their businesses. We believe games give us a way to have fun with our favorite people, whether listening to music together or grinding in competitive matches for diamond rank. Join us in our mission! Your future is just a click away!
-Discord is committed to inclusion and providing reasonable accommodations during the interview process. We want you to feel set up for success, so if you are in need of reasonable accommodations, please let your recruiter know.
-Please see our Applicant and Candidate Privacy Policy for details regarding Discord’s collection and usage of personal information relating to the application and recruitment process by clicking&amp;nbsp;HERE.
-
-To apply: https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety</description><pubDate>Tue, 29 Sep 2026 07:30:41 +0000</pubDate></item><item><title>ZoomInfo Technologies LLC: Director, Applied AI</title><link>https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai</link><description>Headquarters: Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States
-
-
-ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.
-You'll lead the team that builds the intelligence every ZoomInfo AI agent reasons over — what's true about companies and the people in them, how they relate, and what they're buying. This role owns the B2B data graph strategy end to end, blending classical machine learning and data science with LLM and agentic systems, and treating evaluation and inference cost as core disciplines. You'll set the technical bar for a team of senior engineers while staying close to the code, shipping alongside the people you lead.
-What You'll Do
-
-You will ship code alongside your team, prototype alone to prove or kill an idea, and review code as a peer, setting how the team uses agentic coding tools with precise specifications and rigorous review.
-You will own delivery end-to-end, from problem framing through serving and on-call, including long-tail graph coverage and user memory for agents that separates user-supplied context from system-of-record data.
-You will choose the right method for each problem — classical machine learning, language models, or code — for challenges like sparse-company revenue estimation, entity resolution, and semantic intent modeling, deciding on measured evidence and stopping work that won't pay off.
-You will define what it takes to claim an agent's output is correct, not just that its run completed, building the evaluation datasets, regression gates, and experiment designs that back those claims.
-You will own inference cost, latency, and capacity, including build-versus-buy and distillation decisions, since a model too expensive to run everywhere isn't a result.
-You will hire and grow machine learning engineers, data scientists, and research engineers, developing senior engineers into technical leaders.
-You will work across product, platform, security, and legal, and present results and their limits to executives, including when a system isn't good enough to launch.
-
-What You Bring
-Must-Have:
-
-You have significant experience building production machine learning systems and leading the engineers who build them by shipping alongside them — demonstrated capability matters more than years.
-You have a track record of hiring and developing senior machine learning engineers and data scientists against a high bar.
-You stay hands-on today: shipping code, building prototypes independently, and using agentic coding tools daily with rigorous review.
-You bring deep classical machine learning and data science expertise (supervised learning, feature engineering, statistical inference and experiment design, strong SQL) alongside production LLM and agentic systems, with the judgment to choose between them, including setting an evaluation bar with leakage-safe validation, calibration, and validated LLM judges.
-You have a record of cost and capacity decisions for model serving, such as moving a workload from a hosted model to a distilled or self-hosted one, with the savings measured, and you report results to executives with their limits stated, including recommending against a launch.
-
-Preferred:
-
-You bring entrepreneurial experience — founding a company, or taking a product from inception to paying customers as a founding or early engineer.
-You have experience in propensity modeling, ranking and retrieval, clustering, or entity resolution at scale.
-You have worked on web-scale language processing over multilingual, noisy text, knowledge graphs, or user memory for agents.
-You have experience with post-training and distillation, open-weight model serving, or AI governance and safety practices (ISO/IEC 42001, NIST AI RMF).
-
-&amp;nbsp;
-#LI-hybrid
-#LI-VC1
-Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.
-In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits here.Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.$233,100—$366,300 USDAbout us:&amp;nbsp;
-ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.
-ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant Privacy Notice for more details on how we handle your personal information.
-ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available here.
-ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.
-For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.
-
-To apply: https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai</description><pubDate>Tue, 29 Sep 2026 07:30:41 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript</description><pubDate>Tue, 29 Sep 2026 19:13:52 +0000</pubDate></item></channel></rss>
