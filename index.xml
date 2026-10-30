@@ -1,5 +1,165 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Typeform: Full Stack Developer</title><link>https://weworkremotely.com/remote-jobs/typeform-full-stack-developer</link><description>Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) 
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Vercel: Software Engineer - Data Platform</title><link>https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform</link><description>Headquarters: Remote - United States
+
+
+About Vercel:
+Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.
+Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.About the Role
+We're looking for a Staff level Engineer to lead the design and development of a next-generation Data Platform at Vercel. This is a unique opportunity to architect a foundational system that will power data across our products and business, supporting everything from real-time analytics to AI/ML initiatives.
+Reporting directly to the Senior Director of Data Engineering, you'll define the technical vision for our data ecosystem, work across the organization to align engineering strategy with product goals, and build scalable, reliable systems using modern technologies like Kafka, ClickHouse, Tinybird, and Snowflake.
+You'll lead from the front, writing production-grade code, setting high standards for design and data governance, and mentoring a team of engineers as the organization grows. If you're excited by the challenge of building scalable data systems that drive product innovation, we'd love to hear from you.
+What You Will Do
+
+Design and implement a next-generation data platform that supports diverse requirements, including batch and real-time integrations, advanced analytics, and multiple data types, leveraging Kafka, Kafka-based tooling, and additional streaming technologies to power real-time data movement and processing.
+Work with engineering, product, and senior leadership teams across Vercel to architect solutions that address business needs, aligning technical strategies with product goals and ensuring seamless data availability and usability.
+Define and maintain guidelines for data ingestion, creation, enrichment, and storage, while overseeing data modeling, ETL processes, and data warehousing (ClickHouse, Tinybird, Snowflake) to achieve low-latency analytics and scalable storage.
+Develop end-to-end solutions across the tech stack, setting the example for engineering excellence, and provide mentorship and direction that fosters continuous improvement and innovation in the team.
+Partner with Security, Compliance, and Legal teams to ensure adherence to data protection standards, and champion high availability and fault tolerance through comprehensive monitoring, alerting, and incident response practices.
+Drive architectural decisions and roadmap planning that ensure efficiency, scalability, and high performance, and evaluate build-vs-buy trade-offs, integrating vendor solutions where appropriate.
+Collaborate with data scientists and machine learning teams to evolve infrastructure that supports advanced analytics and AI initiatives, serving as a key contributor to strategy, tooling, and platform enhancements for ML-related workloads.
+Act as a key decision-maker for discovering, vetting, and selecting data architectures and technologies critical to Vercel's success, and establish multi-phase strategic roadmaps that align with overall business objectives and drive data platform maturity.
+
+About You
+
+8+ years of experience in data engineering, data architecture, or related roles, with at least 5 years at the Principal Engineer level.
+Proven track record designing and operating large-scale data infrastructures at high scale in a complex, fast-paced environment, with experience across Kafka and its ecosystem (e.g., Kafka Streams, Confluent Platform), ClickHouse, Tinybird, Snowflake, and broader big data frameworks.
+Proficiency in cloud platforms (AWS, GCP, or Azure) and associated big data services.
+Strong background in data governance and security, and adept at ensuring compliance with regulatory standards and protecting sensitive information.
+Outstanding communication and collaboration skills, with the ability to influence technical and non-technical stakeholders across varying organizational levels.
+A leadership mindset, with demonstrated ability to mentor teams, drive consensus, and advocate for best practices across the organization.
+A Master's degree in Computer Science, Engineering, or a related field is preferred.
+Industry recognition or notable contributions in data engineering (e.g., published works, open-source contributions) is a plus.
+
+Compensation &amp;amp; Benefits:
+
+Competitive compensation package, including equity.
+Inclusive Healthcare Package.
+Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.
+Flexible Time Off.
+We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.
+
+The San Francisco, CA base pay range for this role is $232,000 - $348,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.
+&amp;nbsp;Disclosures:
+
+Privacy: Please review our Job Applicant Privacy Policy for more information on how we handle your data.
+Equal Opportunity:&amp;nbsp;Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.
+
+
+To apply: https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform</description><pubDate>Sun, 11 Oct 2026 07:31:07 +0000</pubDate></item><item><title>Vercel: Software Engineer, Backend</title><link>https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend</link><description>Headquarters: Remote - United States
+
+
+About Vercel:
+Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.
+Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.About the Role:
+We are seeking a Backend leaning Software Engineer. In this role, you will play a pivotal role in designing, building, and maintaining scalable, high-performance systems. Leveraging JavaScript/TypeScript, Node.js, SQL and NoSQL cloud-native databases, and AWS, you will develop innovative solutions for user, group, and membership management while ensuring the highest levels of security and reliability.
+If you’re based within a pre-determined commuting distance of one of our offices (SF, NY, London, or Berlin), the role includes in-office anchor days on Monday, Tuesday, and Friday. If you're located beyond that distance, the role is fully remote. For location-specific details, please connect with our recruiting team.
+What You Will Do:
+
+Enable us to deliver secure, reliable, and scalable services that exceed industry standards and customer expectations.
+Collaborate with cross-functional teams to deliver large-scale projects with cross-team dependencies.
+Collaborate with peer teams to deliver solutions that meet industry standards and customer expectations.
+Maintain and operate services at high scale, participating in scheduled on-call rotations to ensure reliability.
+Implement identity synchronization and lifecycle management solutions using SCIM and other relevant standards.
+Work with Infrastructure as Code (Terraform, AWS CloudFormation, Kubernetes, etc.) to deliver scalable, high-availability applications.
+Build and maintain high-quality enterprise software using TypeScript, REST APIs, and JSON.
+
+About You:
+
+Proficiency in TypeScript/JavaScript, React, and Node.js.
+Strong knowledge of security architecture, LDAP, Active Directory, SAML, SSO, OAuth2, OpenID Connect and web protocols like XML, SOAP, JSON, and REST.
+Familiarity with access control models such as RBAC, ABAC and ReBAC.&amp;nbsp;&amp;nbsp;
+Experience with SQL.
+Practical experience developing and improving applications written in Node.js.
+Exhibit excellent problem-solving abilities and effective communication skills, especially when collaborating with diverse teams.
+
+Benefits &amp;amp; Compensation:
+
+Competitive compensation package, including equity.
+Inclusive Healthcare Package.
+Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.
+Flexible Time Off.
+We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.
+
+The San Francisco, CA base pay range for this role is $196,000-$294,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.&amp;nbsp;
+#LI-CL1Disclosures:
+
+Privacy: Please review our Job Applicant Privacy Policy for more information on how we handle your data.
+Equal Opportunity:&amp;nbsp;Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.
+
+
+To apply: https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend</description><pubDate>Sun, 11 Oct 2026 07:31:07 +0000</pubDate></item><item><title>Maven Clinic: Client Success Manager</title><link>https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager</link><description>Headquarters: New York, NY; Remote, US (Hub cities)
+
+
+Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com
+An award-winning culture working towards an important mission –&amp;nbsp; Maven Clinic is a recipient of over 30 workplace and innovation awards, including:&amp;nbsp;
+
+TIME 100 Most Influential Companies (2023, 2026)
+Fortune Change the World (2024)
+CNBC Disruptor 50 List (2022, 2023, 2024)
+Fortune Best Workplaces for Millennials (2024)
+Fortune Best Workplaces in Health Care (2024)
+Fast Company Most Innovative Companies (2020, 2023)
+Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024)
+Maven is looking for a commercially-minded and strategic Client Success Manager to join our Client Success team, to own relationships with our employer accounts.&amp;nbsp;
+The Client Success Manager will be the main point of contact for employer accounts introduced through Maven’s channel partnerships - driving enrollment and engagement while taking direct accountability for net revenue retention, renewal health, and expansion readiness.&amp;nbsp; You’ll translate member outcomes into quantifiable business value for clients, orchestrate cross-functional motions with Sales, Renewals, Product, and Analytics, and build the strategic account plans that protect and grow Maven’s revenue. This is not a reactive support role,&amp;nbsp; it’s a commercial position that requires equal parts relationship depth, analytical rigor, and business acumen. This person will be on the front lines as a trusted advisor to our clients and a key partner to our channel partnership teams.&amp;nbsp;
+As Client Success Manager at Maven, you will:
+
+Support the success and satisfaction of your portfolio of employer clients, helping ensure strong client retention and engagement&amp;nbsp;
+Collaborate with channel/payer partner client executives to manage broader strategic client relationships and unlock additional business opportunities within your portfolio
+Assist in building and maintaining account plans, tracking renewal milestones, and identifying opportunities for growth.
+Monitor client health and engagement on an ongoing basis, flagging potential risks early and collaborating with your manager and team to develop mitigation plans.
+Identify potential opportunities for client expansion and collaborate with Sales to build business cases and handoffs.
+Partner with Sales and Renewals teams to ensure smooth account transitions and handoffs, contributing to clear narratives and data-supported recommendations.
+Support client enrollment and engagement initiatives that drive measurable business outcomes, such as employee utilization, satisfaction, or program adoption.
+Participate in Quarterly Business Reviews and other client-facing presentations, sharing data insights and supporting renewal or expansion discussions.
+Consult clients on program optimization using Maven’s expertise, benchmark data, and program resources, ensuring measurable business impact.
+Maintain strong client relationships, fostering satisfaction, loyalty, and advocacy, and supporting case studies or success stories where appropriate.
+Collaborate with cross-functional teams (product, engineering, analytics, marketing) to support client projects, timelines, and deliverables.
+Manage client inquiries, issues, and escalations, coordinating with partner teams as needed to resolve challenges.
+Share client insights internally to help improve products, processes, and marketing initiatives.
+Recommend improvements to client workflows or processes, supporting scalable solutions to enhance outcomes.
+
+What we’re looking for you to bring:
+
+5+ years of experience in account management, customer success, or client services within digital health, healthcare, benefits, or SaaS companies, with demonstrated ability to manage client relationships and contribute to commercial outcomes.
+Experience working with enterprise employer clients through channel/payer partners (5,000+ employees) preferred.
+Proven ability to support and execute marketing or engagement strategies that drive measurable client outcomes.
+Passion for healthcare and supporting organizational change.
+Collaborate with internal teams to deliver a seamless experience for clients, providing insights that inform product, process, or market improvements.
+History of contributing to client retention, renewal management, and account growth opportunities.
+Ability to build and maintain relationships with multiple stakeholders (HR, Benefits, Finance), navigating client environments effectively.
+Experience partnering with Sales or Renewals teams to support commercial opportunities and account growth.
+Strong interpersonal, verbal, written, and presentation skills, with the ability to communicate clearly and influence internal and external stakeholders.
+Ability to prioritize and manage multiple tasks while ensuring deadlines and deliverables are met.
+Analytical skills and strategic thinking – able to translate data and client performance into actionable insights in collaboration with clients.
+Experience supporting the full lifecycle of customer success post-sales (implementation, adoption, product training, renewals, and account management).
+Comfort operating in a growing and evolving environment, adaptable to changing processes and ambiguity.
+Willingness to travel occasionally (up to 20%) for client meetings and participate in our NYC office when needed.
+
+Helpful experiences and skills (not required, can be learned on the job):
+
+Experience at a digital health company in health, wellness, or family health space.
+Experience with managing high volume of clients is preferred
+Experience supporting health benefit programs for employer or payer clients.
+Experience with Salesforce, Gainsight, Looker, and Microsoft Office suite.
+
+The base salary range for this role is $106,000 - 120,000 per year. You will also be entitled to receive equity and benefits. Individual pay decisions are based on qualifications, experience, and skillset.
+New York, NY; Remote, US (Hub cities)&amp;nbsp;Maven embraces a flexible hybrid work model. Our teams primarily operate from the New York Metropolitan area, NY, San Francisco/Bay Area, CA, and&amp;nbsp; Seattle, WA. &amp;nbsp;For those based in NewYork, San Francisco/Bay Area, CA or Seattle, WA we encourage in-person collaboration by requiring team members to attend Work Together Days within these cities. This policy aims to balance remote work flexibility with the benefits of face-to-face interaction.Remote Mavens in a commutable distance (~90 minutes driving or on public transit) to our hub cities with more than 20 employees (currently Boston, DC, Chicago, Seattle, and San Francisco) are&amp;nbsp;expected to attend local Maven hosted Work Together Days.
+This role requires active work authorization in the US.At Maven we believe that a diverse set of backgrounds and experiences enrich our teams and allow us to achieve above and beyond our goals. If you do not have experience in all of the areas detailed above, we hope that you will share your unique background with us in your application and how it can be additive to our teams.
+Benefits That Work For You
+Our benefits are designed to support your health, well-being and career development, helping you thrive both personally and professionally. We remain focused on providing a competitive benefits package for our employees. On top of standards such as employer-covered health, dental, and insurance plan options, we offer an inclusive approach to benefits:
+
+Maven for Mavens: access to the full platform and specialists, including care for mental health, reproductive health, family planning and pediatrics.
+Whole-self care through wellness partnerships
+Hybrid work, in office meals, and work together days&amp;nbsp;
+16 weeks 100% paid parental leave and new parent stipend (for Mavens who've been with us for 1 year+)
+Annual professional development stipend and access to a personal career coach through Maven for Mavens
+401K matching for US-based employees, with immediate vesting
+
+These benefits are applicable to Maven Clinic Co., US-based, full-time employees only. 1099/Contract Providers are ineligible for these benefits.&amp;nbsp;
+Maven is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Maven is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Maven Clinic interview requests and job offers only originate from an @mavenclinic.com email address (e.g jsmith@mavenclinic.com). Maven Clinic will never ask for sensitive information to be delivered over email or phone. If you receive a scam issue or a security issue involving Maven Clinic please notify us at: security@mavenclinic.com. For general and additional inquiries, please contact us at&amp;nbsp;careers@mavenclinic.com.&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager</description><pubDate>Sun, 11 Oct 2026 07:30:56 +0000</pubDate></item><item><title>Typeform: Full Stack Developer</title><link>https://weworkremotely.com/remote-jobs/typeform-full-stack-developer</link><description>Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) 
 
 
 Who we are
@@ -1156,47 +1316,4 @@ Tailscale is committed to providing an accessible and inclusive hiring process. 
 Our hiring process uses AI-assisted tools to help screen and assess candidates. All hiring decisions are made by people.
 Please be aware that legitimate emails from Tailscale's talent team will only originate from @tailscale.com, @greenhouse.io, and @interviews.modernloop.io email addresses. For more information about protecting yourself from impersonators and scams, please visit https://tailscale.com/scam-awareness.
 
-To apply: https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data</description><pubDate>Wed, 30 Sep 2026 07:31:24 +0000</pubDate></item><item><title>Storetasker: Senior Shopify Developer (Remote + Flexible)</title><link>https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</link><description>Headquarters: Brooklyn, NY
-    URL: https://resources.storetasker.com/become-an-expert?apply=true&amp;amp;source=weworkremotely_best_2021
-
-
-Shopify developers love to freelance with Storetasker.Endless, quality clients: from well known DTC brands to top agencies.&amp;nbsp;Fully remote, flexible: work as much or as little as you want, wherever you want.&amp;nbsp;A talented and helpful community: it's freelance (with a team).Earn $100-$200 per hour: pick your clients, and send your own quotes or retainers.&amp;nbsp;We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: Alpha Industries, Boll &amp;amp; Branch, Superfluid, Jack Henry, Plenaire, and Fulton among many more. Why Storetasker?Endless clients &amp;amp; project opportunities: you’ll see between 5 - 50 new opportunities per day and can pick any lead you want.&amp;nbsp;You’ll earn more: some experts are making $250k+ per year.&amp;nbsp;A high quality community: we carefully select about 5% of those who apply.&amp;nbsp;Remote: work from anywhere, anytime.&amp;nbsp;Flexible: take on as many clients as you want.No external ratings: you’re already a professional. No need to prove it.&amp;nbsp;Great Software: that makes it easy to manage more clients and increase billable hours.Support when you need it: we offer project support 7 days per week.&amp;nbsp;Community (not competition): you pick your clients, projects, and never compete against other Experts in the community.&amp;nbsp;Learn more and join! It’s confidential, and takes less than 5 minutes. Here's who we're looking for:Ambitious part time and full-time freelancers and boutique agencies.Who have 3+ years of Shopify experience, and 5+ years of web development experience.&amp;nbsp;And who have managed projects, deadlines, and communication successfully.&amp;nbsp;Especially people with some of these skills:Front-end or full-stack Shopify developmentHeadless e-commerce developmentConversion rate optimizationE-commerce expertise and strategySEO&amp;nbsp;Site SpeedBuilder and/or ShogunIt takes just a few minutes to join.Here's what a few current members have to say:"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017Our Mission: We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.&amp;nbsp; Questions? Reach out at experts@storetasker.com.
-
-To apply: https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</description><pubDate>Mon, 13 May 2024 03:14:30 +0000</pubDate></item><item><title>HR Plus: Web Developer (Fresh graduate welcome, WFH policy, on-job-training)</title><link>https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training</link><description>Headquarters: Hong Kong, Hong Kong SAR, Hong Kong
-    URL: http://hrplus.tech
-
-
-
-
-
-About the Role:
-Are you a talented and driven Web Developer looking to join a young and energetic team? Look no further! Our client, a fast-growing firm in the exciting field of web development, is seeking a skilled Web Developer to join their dynamic team. With a focus on innovation and growth, they offer a supportive and collaborative work environment where you can thrive.
-Here's what you can gain from this opportunity:
-Hands-on experience in web development for various companies in different settings.Down-to-earth, hands-on training from experienced seniors.A chance to join a rapidly growing industry and build a successful career in web development.
-
-Benefits:
-Competitive salary package based on skills and experience.Young and energetic work environment that fosters collaboration and innovation.5-Day work week for a healthy work-life balance.Work From Home (WFH) option available one day per week.
-
-Responsibilities:
-Develop and implement web applications and system enhancements.Take ownership of web projects from development to production.Revamp the company's directory website to improve functionality and enhance search engine optimization (SEO) practices.Increase website capabilities, such as advanced searching features and adherence to industry standards.
-
-Requirements:
-1 year or more of related experience preferred, fresh graduates are also welcomed.Strong knowledge and experience in PHP and WordPress, MySQL, HTML, CSS, and JavaScript.Knowledge of server-side programming and web server configuration/administration is advantageous.Experience in developing web systems, API integration, and data handling.Familiarity with Git/Gitlab is a plus.Experience in UX design is a valuable asset.Self-motivated, independent, highly responsible, and able to work under pressure.
-
-Personal data provided by job applicants will be used strictly in accordance with the employer's personal data policies. All information received will be kept in strict confidence and only for employment-related purposes.
-"We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law."
-
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training</description><pubDate>Tue, 29 Sep 2026 19:13:52 +0000</pubDate></item><item><title>bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)</title><link>https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript</link><description>Headquarters: Remote - Americas, El Salvador
-    URL: http://bondex.app
-
-
-
-
-We're recruiting a Web 3 Fullstack Developer (Solidity / Rust / Typescript) who is looking for a new challenge and ready to join an exciting new chapter to expand our clients product value proposition in the DeFi Web3 realm.&amp;nbsp;&amp;nbsp;The client is is revoluzionezing financial interoperability and the requirements for the role are:&amp;nbsp;&amp;nbsp;Minimum 4 years of professional experience in WEB development; preferably with TypescriptExperience as Fullstack Web3 developer at least 2 years in the following programming languages:Web3: High level of Solidity (demonstrated experience) / RustFRONTEND: Typescript / Javascript / React / NodeJSBACKEND: NodeJS; nice to have Golang &amp;amp; PythonFLUENT proficient English, passable and/or with strong accent will not do.Ability to work with clients.Desirable experience in Smart contracts and DeFi protocols (curve, uniswap, AAVE etc);&amp;nbsp;100% Remote but ONLY residents of countries with US time zones (EST-PST)&amp;nbsp;As a Web 3 Full stack developer, you're main responsibilities will be:&amp;nbsp;&amp;nbsp;Participate in the entire software development lifecycle;Collaborate closely with developers and CTO to deliver high-quality software solutions;Troubleshoot and debug issues, providing timely resolutions;About the client:&amp;nbsp;&amp;nbsp;Remote firstWe prioritise an optimal work-life balance, ensuring ample time for relaxation and personal pursuits.Competitive salary according to experience and contributionsHiring process:&amp;nbsp;&amp;nbsp;Questionare applicationHR introduction callTechnical interview + technical assesmentOffer&amp;nbsp;If you're an experience web3 full stack developer eager to make a meaningful contribution to a cutting-edge project in the DeFi space, we would love to hear from you!&amp;nbsp;&amp;nbsp;&amp;nbsp;
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript</description><pubDate>Tue, 29 Sep 2026 19:13:52 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data</description><pubDate>Wed, 30 Sep 2026 07:31:24 +0000</pubDate></item></channel></rss>
