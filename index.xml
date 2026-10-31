@@ -1,5 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Toptal: Apigee Engineer for Global Consumer Food Company</title><link>https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company</link><description>Headquarters: 
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Databricks: Deployment Strategist</title><link>https://weworkremotely.com/remote-jobs/databricks-deployment-strategist</link><description>Headquarters: Remote - India
+
+
+About the Team
+The FDE (Forward Deployed Engineering) team is a new, strategic initiative sponsored from the CEO and Founders down. Our mission is to win C-suite-sponsored, high-value AI opportunities by selling and delivering outcomes, not just a platform.
+You will be part of the founding team, embedded with our most strategic customers from the very first sales call, all the way through to a production-ready solution. You will be the "product manager" for the customer's problem, responsible for the "why" and "what," while our FDEs (Engineers) will be your partners responsible for the "how."
+Role Description
+As a Deployment Strategist (DS), you are the critical bridge between a customer's multi-million-dollar business problem and Databricks' technical solution. You are a product manager for the field, owning the technical and product direction of the engagement from initial discovery through production launch and adoption.
+You will build C-suite trust, perform deep discovery to map the customer's political and technical landscape, and scope the value. You will define the Minimum Viable Product for a pilot, write the PRD that guides the engineering team, and manage the project to a successful landing. You will also lead technical discovery, shape solution architecture with FDEs, and ensure that each proposed solution can move from prototype to production.
+This role requires a rare combination of executive presence, deep product thinking, technical depth, and a hands-on delivery mindset.
+The impact you will have
+
+C-Suite Scoping &amp;amp; Value Definition: Partner with Sales to perform deep discovery, map the customer's organization, quantify the business value of $10M+ problems, and define the pilot, including its MVP, success criteria, and timeline.
+End-to-End Product Ownership: Author the PRD, prioritize the engineering backlog, manage scope, and act as the primary hands-on QA tester. Translate business requirements into clear data, integration, security, and operational requirements that engineers can build against.
+Technical Solution Leadership &amp;amp; Delivery: Drive the FDE build team through an agile delivery process, manage stakeholders from the C-suite to individual engineers, and unblock technical or organizational issues. Lead technical discovery and design reviews. Understand the customer's data flows, integrations, platform constraints, and operational environment; pressure-test architecture choices; and identify technical risks early.
+Solution Launch &amp;amp; Landing: Own the "Day 0" launch, manage the war room, and drive the solution from launch to full adoption by capturing user feedback, iterating, and proving the defined business value. Own production readiness across data quality, testing, security, performance, and operations. Work with the team to diagnose issues and drive them to resolution.
+Strategic Handoff &amp;amp; Growth: Scope the ongoing maintenance plan, create customer documentation/training, and leverage your trusted advisor status to identify the next high-value FDE engagement. Codify reusable solution patterns and bring field insights back to Product and Engineering.
+
+What we look for
+
+Executive Presence &amp;amp; Communication: You are a trusted advisor with strong executive presence and excellent communication skills. You are confident and humble, can build rapport quickly, and can help senior stakeholders make difficult decisions.
+Product Judgment &amp;amp; Delivery: You can define what to build and why, write strong product requirements, prioritize engineering work, manage scope, and lead complex agile software projects from an ambiguous problem to a measurable outcome.
+Technical Fluency &amp;amp; Architecture Judgment: You understand modern data and AI architectures, including cloud platforms, data pipelines, data models, distributed systems, APIs, security and governance, machine learning, and generative AI application patterns. You can lead architecture discussions, evaluate trade-offs, and pressure-test technical decisions.
+Hands-on Technical Ability: You are proficient in at least one language such as Python, Java, or SQL. You can explore data, work in notebooks, read and review code and pipelines, build or adapt prototypes, and contribute meaningfully to troubleshooting.
+Relevant Experience: Typically 7+ years of experience delivering complex, customer-facing data, analytics, AI, or software engagements, or equivalent experience as a founder or technical builder. You have helped deliver data, machine learning, or generative AI systems into production and understand the integration, operational, and adoption challenges that appear in real environments. Experience in a high-growth technology company, forward-deployed organization, or leading consultancy is valuable. You enjoy working onsite with customers (often 25-50%, sometimes higher) to drive delivery.
+About Databricks
+Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn, X, YouTube, and Instagram.BenefitsAt Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here.
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.
+
+To apply: https://weworkremotely.com/remote-jobs/databricks-deployment-strategist</description><pubDate>Wed, 14 Oct 2026 07:31:00 +0000</pubDate></item><item><title>Toptal: Applied AI Engineers for telecommunications company</title><link>https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company</link><description>Headquarters: 
+
+
+SummaryThe Senior AI Professional will help design, develop, and optimize production-grade agentic AI solutions. This role complements an existing platform engineering team and focuses on turning AI concepts into reliable, scalable software rather than purely research-oriented work.General informationThis engagement requires deep hands-on expertise in machine learning and applied AI, with a strong emphasis on prompt optimization, model behavior, agent orchestration, and evaluation. The work will involve collaborating with platform engineers, product teams, and business stakeholders to improve AI quality, reliability, and performance in production environments.Tasks and DeliverablesDesign, develop, and optimize production-grade agentic AI solutions.Run meaningful evaluations to improve prompts, model behavior, orchestration, reliability, and performance in production.Required experienceDeep expertise in machine learning and applied AI.Experience building and deploying production-level AI/ML services.Strong software engineering and coding skills.Experience developing or optimizing LLM- and agent-based applications.Strong knowledge of prompt engineering and optimization.Strong knowledge of model evaluation and benchmarking.Strong knowledge of AI quality, reliability, and performance measurement.Strong knowledge of agent behavior and orchestration.Ability to design and run meaningful evaluations and interpret results.Experience with APIs, data pipelines, backend systems, and AI platforms.Familiarity with modern AI tools, frameworks, and cloud environments.Ability to collaborate with platform engineers, product teams, and business stakeholders.Strong communication skills and experience delivering maintainable, production-quality solutions.Nice to have:Python experience.Background as an Applied AI Scientist, AI Engineer, or Machine Learning Engineer.Engagement highlightsOwn a defined production AI workstream with direct impact on reliability and scale.Work closely with an existing platform engineering team on applied AI delivery.Focus on production-grade AI implementation rather than purely research-oriented work.
+
+To apply: https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company</description><pubDate>Mon, 12 Oct 2026 16:38:01 +0000</pubDate></item><item><title>Toptal: Apigee Engineer for Global Consumer Food Company</title><link>https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company</link><description>Headquarters: 
 
 
 General Information:Our client is a global leader in the food and beverage industry and is recognized as one of the top brands in the world.……………………………………………………………………………About the Role:Lead in high level technical concepts spanning technology and business to support Apigee, Apigee Hybrid in AKS and AWSThis role maintains the health and efficiency of all application infrastructure, provides professional hands-on implementation and technical advice to ensure the successful implementation of IT Infra. Management products.Provide support of application platforms at the enterprise level which includes automating platform build, patches, vulnerabilities, change management, incident management, monitoring and continued platform improvementCollaborate with peers, technology partners and vendors to identify, automate, and roll out patches; resolve issues and achieve goalsSupport and manage APIs and Microservices using Java, Spring Boot etc.Create, organize and implement API support processesSupport and deploy API policies using Apigee PlatformExperience with Apigee Developer Portal and Drupal integrationPerform cloud security and certificate managementDevelop a long-range plan designed to resolve problems and prevent them from recurringDirect the daily risk and control flow of operations, focusing on policies, procedures and work standards to ensure success.......................................................................................What you Need:Experience with Apigee API Management PlatformExperience with Apigee, OAuth admin, and JWTExperience creating, organizing and implementing API support processesExcellent communication skills3+ years of Red Hat Linux or UNIX experienceKubernetes experience for containerized implementation5+ years of Java or scripting and automation using Python, Shell, or similar scripting languages5+ years of supporting application platformsFamiliar with CI/CD pipelines to deploy the proxies in various environments.......................................................................................Desired Qualifications:Supporting API policies using Apigee Hybrid on Azure/AWSUnderstanding of OpenAPI Specifications in JSON or YAML format, including JWT authorizationsKnowledge of authentication, authorization of services via OAuth 2Support and manage REST APIs and Microservices using Java, Spring Boot etc.Experience using POSTMAN for making management API Calls.Knowledge and understanding of AppDynamics, Splunk and Kafka.......................................................................................Engagement Highlights:- Duration: This is a long-term, full-time engagement.- Overlap: - This position will require overlap with EST working hours
@@ -1063,135 +1100,4 @@ Knowledge of Redux for state management.
 A degree in Computer Science or a related field.
 
 
-To apply: https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1</description><pubDate>Wed, 05 Aug 2026 05:52:46 +0000</pubDate></item><item><title>Doximity: Commercial Data Scientist</title><link>https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist</link><description>Headquarters: San Francisco, CA or Remote (U.S.)
-
-
-Commercial Data Scientist
-Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients.&amp;nbsp;
-At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to hear from you.
-This role can be filled in the Northeast (New York, NJ, Philadelphia, Boston), our San Francisco headquarters, OR other remote locations in the U.S.
-As a Commercial Data Scientist, you’ll work within cross-functional delivery teams alongside other analysts, engineers, and commercial stakeholders in discovering data insights to help improve healthcare.
-How you’ll make an impact:
-
-Deliver novel and impactful insights for client organizations using machine learning and AI technologies.
-Work closely with our Product, Platform Data, Insights &amp;amp; Strategy, and Sales teams to create client-facing analyses.
-Showcase your engineering skills by creating data products from scratch and automating code so they can be re-used by other teammates and future projects.
-Leverage Doximity's extensive datasets to identify and classify behavioral patterns of medical professionals on our platform.
-Embrace the challenge of a fast-paced environment to exceed client expectations
-
-&amp;nbsp;
-The Core Values of the Client Intelligence team
-As an organization we value diversity - in backgrounds and in experiences. Healthcare is a universal concern, and we need people from all backgrounds to help build a better future for all. Below are additional core values specific to the Insights Team.
-
-Collaboration—The best candidates and teammates are not only strong in their own aptitudes but care deeply about supporting each other's growth.
-Passion for Data—You’re going to help our clients and team members with data-driven decision making. We need someone that can manipulate millions of rows of data and also ask the right questions to find the important insights.
-Reliability – Our team is efficient, flexible, and agile only because we trust the reliability of each member. We need self-starters and goal-oriented individuals for our continued success.
-Curiosity – Continuous learning is a cornerstone at Doximity, and curious individuals thrive in our environment. We’re looking for someone who is curious enough about data to go above-and-beyond the task for the true insight.
-Respect – A key dynamic that allows our team to flourish is respect: for ourselves and our quality of work, for our teammates, and for our internal clients who are under the pressure of deadlines and finance goals.
-
-&amp;nbsp;
-About you:
-
-At least 4 years of professional experience as a Data Scientist or other related roles working with complex, high-volume, structured and unstructured datasets.
-Prior experience in a data science consulting role at firms such as ZS, Trinity, IQVIA, BlueMatter, etc., where you thrived in a fast-paced environment
-Advanced knowledge of statistical concepts — particularly exploratory data analysis, experimental design, and probability theory.
-Deep understanding of modern machine learning techniques
-Proven ability to design, train, and evaluate large-scale production models using frameworks such as PyTorch or TensorFlow.
-Advanced SQL proficiency — skilled at writing and optimizing complex queries across multiple tables and data relationships.
-Advanced Python skills, including understanding of object-oriented programming, production-grade code design, and modern data science libraries.
-Hands-on experience with distributed data processing tools and concepts for scalable analysis and model training.
-Excellent data visualization and storytelling abilities, with the capacity to translate technical insights into clear, compelling narratives for internal and client stakeholders.
-Curious, fast learner with a demonstrated passion for data, continuous learning, and staying current with advances in machine learning research.
-
-&amp;nbsp;
-Fun Facts About the Client Intelligence team
-
-We have access to one of the richest healthcare datasets in the world, with deep information on hundreds of thousands of clinicians and their connections.
-Business decisions at Doximity are driven by our data, analyses, and insights.
-The members of our team bring a diverse set of technical and cultural backgrounds.
-We like to have fun - company outings, team lunches, and other social events!
-
-&amp;nbsp;
-Compensation
-The anticipated total compensation for this role is $119,333 - $172,800 depending on factors such as experience, skills, location, and internal equity.
-Our total compensation package may include:
-
-Base salary
-Equity (where applicable)
-Annual bonus or incentive compensation (where applicable)
-
-Specific compensation details will be discussed during the interview process.
-&amp;nbsp;
-Benefits
-In addition to competitive compensation, Doximity offers a comprehensive benefits package for full time employees. Some of our offerings include:
-
-Medical, dental, and vision insurance
-401(k) with company match
-Flexible paid time off and company holidays
-Paid parental leave
-Professional development and learning opportunities
-Wellness and mental health resources
-Remote work support and home office stipend (where applicable)
-
-&amp;nbsp;
-Why You'll Love Working Here
-At Doximity, you'll join a mission-driven company where your work has a meaningful impact on healthcare. We believe great ideas come from empowered teams, and we're committed to creating an environment where people can do their best work.
-
-Make a real impact. Help build products that support over a million healthcare professionals and ultimately improve patient care.
-Work with exceptional teammates. Collaborate with thoughtful, talented colleagues who value curiosity, humility, and continuous learning.
-Enjoy flexibility and trust. We support flexible ways of working and empower employees with the autonomy to own their work.
-Grow your career. Take on meaningful challenges, develop new skills, and shape your career through mentorship and professional development.
-Bring your authentic self. We're committed to fostering an inclusive culture where diverse perspectives are welcomed, respected, and celebrated.
-
-&amp;nbsp;
-Our Hiring Process &amp;amp; AI Tools
-Doximity may use artificial intelligence (AI)-enabled tools throughout the hiring process to help improve the candidate experience and support our recruiting team. These tools may assist with administrative tasks such as scheduling, general communication, interview coordination, note-taking, or summarizing interview feedback. Human recruiters and hiring managers make all hiring decisions. We are committed to using AI responsibly, transparently, and in accordance with applicable laws.
-&amp;nbsp;
-Equal Employment Opportunity
-Doximity is proud to be an Equal Opportunity Employer. We are committed to creating an inclusive workplace where everyone can thrive. We consider all qualified applicants without regard to race, color, religion, creed, sex, gender identity or expression, sexual orientation, national origin, ancestry, age, disability, veteran status, genetic information, marital status, or any other characteristic protected by applicable federal, state, or local law.
-If you require a reasonable accommodation during the application or interview process, please let us know so we can support your participation.
-
-To apply: https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist</description><pubDate>Thu, 01 Oct 2026 07:30:56 +0000</pubDate></item><item><title>Hex Technologies: Legal Ops</title><link>https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops</link><description>Headquarters: NYC or Remote (EST or CST)
-
-
-About the role:
-Hex’s legal function has gone from zero to a fully operating system in under a year. Now we need someone to own and scale the operating layer so it holds as the company grows. This is a builder role.
-You’ll run contract operations end to end: CLM administration, workflow optimization, template and playbook maintenance, enablement and training for the revenue team, and first-pass review and redlining of standard agreements against our playbook. Beyond contracts, you’ll build structured intake for every legal workstream across the company, own the legal governance record (privacy registers, AI inventory, compliance calendars), manage outside counsel relationships, and own the legal tech stack. We sit at the nexus of data, AI, and collaboration, which means our legal operations have to be as thoughtful as our product.
-We use AI tooling across legal operations, and you’ll work the same way: building agents and automations to move faster, not as a side project but as the default way things get done here. If you see a manual workflow and instinctively want to build it away, you’ll feel right at home.
-What you will do:
-
-Drive CLM adoption and enablement so the revenue team self-serves on standard deals
-Own workflow optimization, templates, and playbooks as deal structures and products evolve
-First-pass review and redlining of standard agreements; draft from templates as volume requires
-Build and own structured intake for legal workstreams across the company
-Build AI-powered workflows, agents, and automations that replace manual processes
-Maintain the legal governance record: privacy registers, AI inventory, compliance calendars
-Train cross-functional teams on self-service tools and escalation paths
-Manage outside counsel relationships and the legal tech stack
-
-About You:
-
-3-5+ years in legal operations, paralegal, or contract management, with at least 1-2 years in-house at a tech or SaaS company
-You’ve implemented or rebuilt a CLM (Ironclad preferred), designed intake workflows, and stood up reporting someone relied on
-Experience reviewing and redlining commercial agreements on both sell-side and buy-side paper
-You build with AI and automation as a natural part of how you work. You’re comfortable across AI-assisted legal tools, LLMs, and automation platforms, and willing to experiment with new ones as they emerge. This isn’t a nice-to-have at Hex.
-Comfortable operating with autonomy in a role with a lot of white space
-Good judgment about what you can handle and what needs a lawyer
-You care whether people actually use what you build
-
-Nice to have:
-
-Experience at a company navigating exponential growth
-Experience with corporate governance (entity management, board materials, annual filings)
-Has used Hex
-Strong opinions about the best way to organize a Notion workspace
-
-We know job posts like this can feel like a checklist, and nobody checks every box. If you’ve built legal ops infrastructure, you’re excited about AI, and this role sounds like the kind of work you want to do, we’d love to hear from you.
-&amp;nbsp;
-
-In addition to our unique culture, Hex proudly offers a competitive total rewards package, including but not limited to, market-benched salary &amp;amp; equity, comprehensive health benefits, and flexible paid time off.
-The salary range for this role is: $124,125 - $165,500.&amp;nbsp;
-The salary range shown may be a reflection of additional factors such as geographical location and skill ranges/levels we’re open to. Placement in the salary range will be decided upon completion of the interview process, taking into account factors like leaving room for growth, internal fairness &amp;amp; parity, your demonstrated skills, and the depth of your experience. Our Recruiting team will be able to provide more details during the interview process.
-By submitting an application the candidate consents to the use of their personal information in accordance with the Hex Privacy policy:&amp;nbsp;https://learn.hex.tech/docs/trust/privacy-policy.Hex Technologies uses AI-assisted tools as part of our application review process, including for resume screening and fraud detection. These tools help our team evaluate applications and verify applicant information. All AI-generated recommendations are reviewed by a member of our recruiting team before any hiring decision is made. No application is automatically rejected based solely on an AI tool's output.
-
-To apply: https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops</description><pubDate>Thu, 01 Oct 2026 07:30:56 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1</description><pubDate>Wed, 05 Aug 2026 05:52:46 +0000</pubDate></item></channel></rss>
