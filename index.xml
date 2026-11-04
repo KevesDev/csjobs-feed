@@ -1,5 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Medify: Engineering Manager</title><link>https://weworkremotely.com/remote-jobs/medify-engineering-manager</link><description>Headquarters: London
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Askable: Software Engineer, AI Coding Tasks (Contract) </title><link>https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract</link><description>Headquarters: Australia 
+    URL: https://www.askablelabs.com/
+
+
+We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.
+You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.
+Remote, any location. US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week.
+How it works
+
+Apply. Complete a short screener interview and upload your resume.
+Propose. Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate.
+Build. In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks.
+Stress-test. Try lazy, incorrect and shortcut solutions and make sure your checks catch them.
+Model testing. Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it.
+Review. A reviewer checks your task and you revise it. Most tasks take more than one round.
+Next task. Once your task is accepted, start another.
+
+Requirements
+
+2+ years of professional software engineering
+Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code)
+Strong in at least one of Python, TypeScript, Go, Rust, Java or C++
+Solid with Docker, Linux, Git and automated testing
+Regular use of an AI coding tool
+Experience writing tests, rubrics or evaluation criteria, ideally for AI models
+You can explain a change clearly and concisely, in your own words
+At least 10 hours a week, starting now
+A secure personal or work computer (no public or shared machines)
+
+Nice to have
+
+Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure
+Experience building agent tasks or RL environments
+
+Terms
+
+US$1,000 for each task that passes our quality review, paid directly to you
+Once your proposal is qualified, you sign Askable's contract and accept its terms
+The work is used for AI training. The change and your solution must be your own, and you must be free to license them to us
+Don't publish the work anywhere: no public pull request or public fork
+
+Apply at https://www.askable.com/experts/roles/senior-software-engineer
+
+To apply: https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract</description><pubDate>Fri, 16 Oct 2026 00:50:53 +0000</pubDate></item><item><title>Medify: Engineering Manager</title><link>https://weworkremotely.com/remote-jobs/medify-engineering-manager</link><description>Headquarters: London
     URL: http://www.medify.co.uk
 
 
@@ -1130,85 +1173,4 @@ If you are extended an offer, that offer may be contingent upon your successful 
 For information about how Webflow processes your personal information, please review Webflow’s Applicant Privacy Notice.&amp;nbsp;
 &amp;nbsp;
 
-To apply: https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer</description><pubDate>Tue, 06 Oct 2026 07:31:05 +0000</pubDate></item><item><title>Wrike: Director, Global GTM Strategy &amp; Operations</title><link>https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations</link><description>Headquarters: US - Remote
-
-
-Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work.
-&amp;nbsp;
-Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you.
-&amp;nbsp;
-Our vision:&amp;nbsp; A world where everyone is free to focus on their most purposeful work, together.&amp;nbsp;
-&amp;nbsp;About the Role:
-You'll own your outcomes, from the strategies you run to the conversations that shape what we build next. Collaborative work management is a $14B category growing at 15% a year, and the enterprise competitive set is consolidating fast. Wrike is hiring a Director of Go-To-Market Operations to lead our global GTM Operations team across Sales, Customer Success, and Marketing.
-You will own Wrike’s revenue planning and operational architecture end-to-end driving annual planning, quota setting, territory management, and cross-functional alignment across our global revenue engine.
-Reporting directly to GTM leadership, you will serve as a strategic co-pilot to executive leaders while leading a hands-on global team of 6–15 operations partners and analysts.
-This is an action-oriented leadership role for an operational "athlete'' - someone equally comfortable steering C-level strategic decisions, designing enterprise sales workflows, coaching an international team across time zones, and diving deep into the details of compensation plans or GTM forecasting.
-Your Impact:
-
-Global Team Leadership: Build, scale, and mentor a global GTM Operations team (15 team members, including embedded business partners and visualization analysts across diverse time zones), fostering a high-performance, team-first culture.
-Annual Planning &amp;amp; Execution: Lead annual planning, quota allocation, capacity modeling, and territory design across Sales, CS, and Marketing teams.
-Retention &amp;amp; Growth PMO: Partner with executive leadership to program manage company-wide objectives focused on gross/net retention, bookings, and customer lifecycle optimization.
-Executive Facilitation: Lead recurring operational cadences with executive stakeholders (Sales, CS, Marketing, Finance, Legal) to eliminate friction and accelerate deal velocity.
-Commercial Support &amp;amp; Governance: Oversee non-customer-facing commercial execution, coordinating with Legal, Finance, and Deal Desk to streamline order processing and contracting workflows.
-
-Your Qualifications:
-
-8+ years of progressive experience in Business Operations, Revenue Operations, or GTM Operations within B2B SaaS.
-Proven People Leadership: Direct experience managing and developing global operational teams (6+ direct/indirect reports) across international time zones.
-Core GTM Mechanics: Expertise in SaaS unit economics, quota setting, territory planning, retention/bookings metrics, and annual planning processes.
-Execution Track Record: High proficiency operating as an executive-level partner to Sales, Marketing, and CS leadership without needing a massive administrative layer.
-Location Preference: East Coast U.S. preferred (ability to align with global time zones and executive leadership).
-
-Standout Qualities:
-
-Core Traits: High curiosity (constantly seeking better ways to execute), unyielding commitment to follow-through, and rigorous attention to detail.
-Sales Methodology: Familiarity with enterprise value selling frameworks (e.g., Force Management's Command of the Message, MEDDPICC, or Challenger).
-Target Background: Experience operating in high-growth, execution-oriented B2B SaaS environments
-
-Team Dynamics: You will partner closely with executive leadership and lead a global team of GTM business partners and data visualization specialists. Your team acts as the central nerve center connecting field execution with executive strategy.
-Our Work Style: We run Wrike on Wrike. You will use our collaborative work management platform daily to run annual planning, manage operational portfolios, and track team execution. We value intellectual curiosity, data-backed decision-making, and swift cross-functional execution.
-Benefits &amp;amp; Perks:
-
-Flexible Time Off (FTO)
-Company 401(k) Match
-Parental Leave: 18 Weeks Maternity / 4 Week Paternity&amp;nbsp;
-2 Volunteer Days
-Health (medical, dental &amp;amp; vision) Insurance (EEs + Dependents)
-Disability (STD, LTD) &amp;amp; Life Insurance Plans (2x Salary, Capped)
-Working from Home Allowance ($40 / Monthly)
-$500 Working from Home home office set-up Stipend
-
-Your recruitment buddy will be&amp;nbsp;Aziza Talhi, Senior Recruiter.
-&amp;nbsp;#LI-AT1The range below reflects the total on-target earnings (including base salary and performance-based bonus potential) for this full-time position and applies to all U.S. locations, excluding benefits and other incentives. The final offer within this range will consider factors such as the role, seniority level, geographic location, and employment contract type. An individual’s work location, unique skills, experience, and relevant educational background will also influence the final offer. For tailored compensation details based on your preferred location, please discuss with your recruiter during the hiring process.Total compensation pay range$180,000—$205,000 USDWho Is Wrike and Our Culture
-We’re a team of innovators and creators who solve the complex work problems of today and tomorrow.
-&amp;nbsp;
-
-Hybrid work mode
-
-
-Wrike is our people, not a place. With 1,000+ employees collaborating across nearly every time zone, we support talent through 10 global hubs — Australia, Costa Rica, Cyprus, Czechia, Estonia, France, India, Ireland, Japan, and the United States — offering flexible ways of working that include remote work, hybrid environments, and co-working spaces across many locations.
-&amp;nbsp;
-While flexibility looks different across teams and regions, employees located near certain hubs — particularly in Prague (CZ), Nicosia (CY), Bangalore (IN), and Rennes (FR) — are generally expected to collaborate in person around 2–3 days per week, balancing the flexibility of distributed work with opportunities for in-person collaboration and connection.
-
-
-
-Our persona&amp;nbsp;
-&amp;nbsp; Smart: We love what we do, and we’re great at it because this is our domain. Our combined knowledge in this space is unmatched.
-&amp;nbsp; Dedicated: We get up every day focused on helping our customers win. We’re committed to helping our teammates win, too!
-&amp;nbsp; Approachable: We're friendly, easy to get along with, considerate, and helpful.&amp;nbsp;
-Our culture and Values&amp;nbsp;
- Customer-Focused
-We care about our customers. We understand the customer journey, experience, and value derived from Wrike. Decision-making and action-taking are done with the customer in mind.
- Collaborative
-We work as one and win together, each bringing unique strengths that contribute to diversity of thought for better outcomes. Leveraging our own work management platform, we foster an environment of creative collaboration and shared achievement.
- Creative
-We strive to succeed through continuous innovation. It’s our pursuit of novel concepts that helped us create a market category. We continue to cultivate a workplace that fosters creative thinking as a means of transcending conventional boundaries and empowers us to break new ground to deliver extraordinary work management solutions.&amp;nbsp;
- Committed
-We believe in ownership at all levels of the organization, by owning workflows from start to finish. Each member of our team is an integral part of this commitment, establishing work as a platform for personal growth and transformation, as well as collective success and growth.
-&amp;nbsp;
-
-Check out our&amp;nbsp;LinkedIn Life Page, Company culture page, Instagram, Wrike Engineering Team,&amp;nbsp;Medium, Meetup.com, Youtube for a feel for what life is like at Wrike.&amp;nbsp;
-
-
-
-To apply: https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations</description><pubDate>Mon, 05 Oct 2026 07:31:29 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer</description><pubDate>Tue, 06 Oct 2026 07:31:05 +0000</pubDate></item></channel></rss>
