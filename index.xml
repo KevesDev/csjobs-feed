@@ -1,5 +1,214 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Alloy: Founding Forward Deployed Engineer</title><link>https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer</link><description>Headquarters: New York City, Remote
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Current: Freelance Marketo Email Engineer</title><link>https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer</link><description>Headquarters: Remote (US)
+
+
+&amp;nbsp;
+About the Role
+As a Freelance Marketo Email Specialist, you'll build, test, and launch email programs in Marketo for a range of client brands. This is a hands-on, execution-only contract role with no leadership or management responsibilities. You'll take approved briefs and turn them into working programs, building responsive templates and modules, setting up smart lists and flows, and making sure every send goes out right the first time. You know Marketo well enough to spot a broken token, a misfired trigger, or a segmentation gap before it reaches a subscriber. You'll take direction from our internal team, get up to speed fast, and deliver accurate builds on schedule with minimal oversight.
+Key Responsibilities
+
+Build and launch email programs in Marketo, including one-off sends, nurture streams, engagement programs, and triggered campaigns.
+Develop and maintain responsive email templates and modular components in HTML and CSS, using Marketo's template syntax, variables, and editable sections.
+Set up smart lists, smart campaigns, flow steps, and segmentations that match the targeting and logic in the brief.
+Use tokens, dynamic content, and snippets to personalize emails and keep programs easy to clone and reuse.
+QA every email before launch: rendering across clients and devices (e.g. Litmus or Email on Acid), links, tokens, personalization fallbacks, and list logic.
+Manage program structure, naming conventions, and folder organization so client instances stay clean and easy to navigate.
+Build to the brief and requirements provided, and flag any gaps or errors in the request before they become problems in the send.
+Communicate status, timelines, and blockers clearly with your internal point of contact.
+Document builds and processes so other team members can pick up, update, or reuse the work.
+Follow established Marketo, deliverability, and accessibility standards on every build.
+
+Qualifications
+Required
+
+At least 3 years of hands-on experience building and deploying email campaigns in Marketo Engage.
+Strong working knowledge of Marketo programs, smart lists, smart campaigns, tokens, snippets, and dynamic content.
+Proficiency in HTML and CSS for email, including responsive and hybrid coding and Marketo template syntax.
+Experience with email rendering and QA tools such as Litmus or Email on Acid.
+A detail-oriented QA process that catches errors in logic, links, and personalization before launch.
+Experience working across multiple clients or Marketo instances, adapting quickly to different setups and conventions.
+Clear, proactive communication, including flagging risks early and giving accurate time estimates.
+Ability to work independently, take direction well, and hit deadlines across overlapping requests.
+
+Preferred
+
+Marketo Certified Expert or Marketo Certified Associate.
+Familiarity with email deliverability, authentication (SPF, DKIM, DMARC), and list hygiene.
+Experience with email accessibility standards (e.g. WCAG).
+Experience with lead scoring, lifecycle programs, and Marketo–Salesforce CRM sync.
+Experience with other marketing automation platforms (e.g. Salesforce Marketing Cloud, HubSpot, Braze).
+Agency or consulting experience.
+
+Why Current
+At Current, we believe the best digital work happens when strategy, design, production, and technology operate as one team. We partner with ambitious brands to create digital experiences that are thoughtful, scalable, and built to drive real impact.
+We're a remote-first agency with teams across the US, working collaboratively across websites, platforms, campaigns, CRM ecosystems, and digital product experiences. Our environment is fast-paced, highly collaborative, and built for people who enjoy solving complex technical challenges alongside smart, supportive teammates.
+You'll have the opportunity to work across a variety of clients and technologies, and contribute to meaningful digital experiences within a growing agency environment.
+This is a freelance, contract engagement. The target hourly rate for this role is $50 - $70 per hour. Actual rate is influenced by a wide array of factors, including but not limited to skill set, level of experience, and location.
+
+To apply: https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer</description><pubDate>Mon, 19 Oct 2026 07:31:25 +0000</pubDate></item><item><title>Clover Health: Director, AI-Enabled Fraud Prevention &amp; Investigations</title><link>https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations</link><description>Headquarters: Remote - USA
+
+
+Clover Health is investing in our fraud detection and investigation capabilities and is seeking a Director, AI-Enabled Fraud Prevention &amp;amp; Investigations to join our Legal department as a senior individual contributor. This hybrid role combines: (1) managing hands-on investigations of potential provider fraud with (2) building AI-powered tools and processes to make investigations more efficient and help catch potential future fraud earlier. You will develop and pilot new AI-enabled investigatory processes for Clover’s Medicare Advantage business, and own resulting investigations, in collaboration with Clover’s Special Investigations Unit (SIU) and other stakeholders.
+This is a non-attorney role.&amp;nbsp; You will work hand-in-hand with Clover’s lawyers and SIU to ensure that new investigatory processes you develop, and the resulting investigations, comply with Clover policies and regulatory requirements. Success in this role requires someone sharp, creative, and technically hands-on—someone who does not just use existing analytics tools but builds their own. That might mean writing a script to automate repetitive work, pulling apart a dataset when a standard report falls short, or working with an LLM until it produces something genuinely useful—all with the goal of finding smarter, more effective ways to investigate potential provider fraud.
+As a Director, AI-Enabled Fraud Prevention &amp;amp; Investigations, you will:
+
+Build Your Own Investigative Tooling: Use AI to write the queries, scripts, and prompts that turn millions of claim lines and/or medical record data into a prioritized list of leads. Prototype detection logic yourself rather than waiting on a roadmap, and hand off what works to data science and engineering to productionize. We expect you to be the person who builds v1.
+Investigate Potential Fraud End-to-End With AI in the Loop: Own a portfolio of fraud investigations sourced using the tooling you develop, in collaboration with Clover’s SIU. Develop investigative plans, gather and analyze evidence (including claims data and medical records), and reach well-supported conclusions.&amp;nbsp; Use LLMs and analytics to compress the parts of an investigation that have always been slow — reading unstructured data, triaging grievance narratives, and sizing exposure.&amp;nbsp;
+Build Defensible Documentation: Develop case files and memos that are factually complete, well-organized, and prepared with the evidentiary and procedural standards necessary for downstream enforcement, recoveries, or provider actions.
+Collaborate Across Functions: Work with Clover's clinical, compliance, claims, payment integrity, provider relations, revenue operations, and SIU teams to gather information, validate findings, and translate investigative outcomes into operational improvements, provider education, and member impact.
+Communicate Findings Clearly: Prepare concise written reports and oral briefings that translate complex investigative facts into clear narratives for senior leadership and other stakeholders.
+
+Success in this role looks like:
+
+In your first 90 days, you have embedded yourself as a trusted partner to both the Legal department and Clover’s SIU. You have built working relationships with key stakeholders across Clover's clinical, compliance, claims, payment integrity, revenue operations, and legal teams, and you have begun working through your initial portfolio of fraud investigations and ad hoc referrals.
+By 6 months, you are independently managing a steady caseload of fraud investigations with consistently high-quality work product, in collaboration with SIU. You have a clear working rhythm with Legal and SIU, and you have built at least one working tool — a script, a notebook, a dashboard, a prompt.
+By 12 months, you have a track record of strong investigations, successful recoveries and/or referrals, and effective cross-functional collaboration. Senior leaders across Clover view you as a trusted person to call when they have a hunch that something doesn't look right and want it examined.
+
+You should get in touch if:
+
+Knowledge of healthcare fraud schemes &amp;amp; investigative experience: You have experience in healthcare fraud investigations, program integrity, or SIU operations, ideally within Medicare Advantage or managed care.&amp;nbsp; You understand healthcare fraud schemes and know how to use claims data, medical records, and provider documentation to build a defensible factual record.
+You are AI-native and enjoy building things using LLMs: You can use LLMs to write SQL, Python, etc., to interrogate large claims and/or medical record datasets, automate investigative work, and prototype your own solutions rather than waiting for someone else to build them. We do not expect production-grade engineering or require formal technical training—we value demonstrated ability to build, ship, and showcase solutions that work.
+Strong communication skills: You are a strong writer and communicator who can turn complex investigative findings into clear memos, referrals, and executive summaries, and you are comfortable building in a fast-moving, ambiguous environment.
+
+Bonus points if:
+
+
+
+You have built something people actually use—an internal tool, detection model, script, automation, or AI workflow that made a manual process better. We would rather see something scrappy and useful in production than something polished in a slide.
+You have hands-on experience applying AI/ML to fraud, investigations, or compliance.
+You have a J.D., legal training, or experience working alongside Legal, SIU, or compliance at a health plan.
+You have industry certifications such as CFE, AHFI, or CHC.
+
+
+
+
+Benefits Overview:
+
+Financial Well-Being: Our commitment to attracting and retaining top talent begins with a competitive base salary and equity opportunities. Additionally, we offer a performance-based bonus program, 401k matching, and regular compensation reviews to recognize and reward exceptional contributions.
+Physical Well-Being: We prioritize the health and well-being of our employees and their families by providing comprehensive medical, dental, and vision coverage. Your health matters to us, and we invest in ensuring you have access to quality healthcare.
+Mental Well-Being: We understand the importance of mental health in fostering productivity and maintaining work-life balance. To support this, we offer initiatives such as No-Meeting Fridays, monthly company holidays, access to mental health resources, and a generous flexible time-off policy. Additionally, we embrace a remote-first culture that supports collaboration and flexibility, allowing our team members to thrive from any location.&amp;nbsp;
+Professional Development: Developing internal talent is a priority for Clover. We offer learning programs, mentorship, professional development funding, and regular performance feedback and reviews.
+
+Additional Perks:
+
+Employee Stock Purchase Plan (ESPP) offering discounted equity opportunities
+Reimbursement for office setup expenses
+Monthly cell phone &amp;amp; internet stipend
+Remote-first culture, enabling collaboration with global teams
+Paid parental leave for all new parents
+And much more!
+
+
+About Clover: We are reinventing health insurance by combining the power of data with human empathy to keep our members healthier. We believe the healthcare system is broken, so we've created custom software and analytics to empower our clinical staff to intervene and provide personalized care to the people who need it most.
+We always put our members first, and our success as a team is measured by the quality of life of the people we serve. Those who work at Clover are passionate and mission-driven individuals with diverse areas of expertise, working together to solve the most complicated problem in the world: healthcare.
+From Clover’s inception, Diversity &amp;amp; Inclusion have always been key to our success. We are an Equal Opportunity Employer and our employees are people with different strengths, experiences, perspectives, opinions, and backgrounds, who share a passion for improving people's lives. Diversity not only includes race and gender identity, but also age, disability status, veteran status, sexual orientation, religion and many other parts of one’s identity. All of our employee’s points of view are key to our success, and inclusion is everyone's responsibility.
+
+#LI-REMOTE
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. We are an E-Verify company.
+
+
+
+
+
+
+
+
+
+
+
+&amp;nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&amp;nbsp;
+
+
+
+
+Final pay is based on several factors including but not limited to internal equity, market data, and the applicant’s education, work experience, certifications, etc.A reasonable estimate of the base salary range for this role is:$150,000—$240,000 USD
+
+To apply: https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations</description><pubDate>Mon, 19 Oct 2026 07:31:11 +0000</pubDate></item><item><title>Lithic: Senior Software Engineer, Product Platform</title><link>https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform</link><description>Headquarters: Remote 
+
+
+Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments.
+Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years.
+We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&amp;nbsp;
+We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&amp;nbsp;We are hiring a Senior Software Engineer for the Product Platform team, which owns the foundational layer of our API that all other Lithic products build on top. The team’s mission is to make Lithic's API the best in fintech — reliable, consistent, and a joy to integrate with. This includes API Gateway, Events Platform, API key management and authorization, audit logging, or API norms and versioning strategy.
+What you'll do:
+
+Write reliable, secure, and scalable code for Lithic's product platform with minimal tech debt
+Improve the reliability of systems in team’s scope and participate in the team on-call rotation
+Own projects from planning to launch, spanning areas like API key management, reliability, audit logging, or search, keeping stakeholders informed and aligned along the way
+Lead efforts to improve systems and processes within the team
+
+What you'll bring:
+
+4+ years building production backend systems, ideally including public-facing APIs at scale
+Experience in or desire to learn Rust; ability to understand Lithic’s system written in other programming languages (Python, Java)
+Interest and experience in leveraging AI tools to enhance productivity
+Ability to navigate ambiguity, align diverse perspectives, and drive toward practical solutions
+Experience with API design fundamentals and product thinking: versioning, backward compatibility, schema-driven development, and weighing tradeoffs from the customer's perspective
+Comfort with designing systems from scratch and owning the product development process end-to-end
+Strong written communication skills and experience working in a remote, async-first team that’s spread across time zones
+
+The annual US salary range for this role is $160,000 to $200,000 plus equity. This salary range may be inclusive of several career levels at Lithic and will be narrowed during the interview process based on the candidate’s experience and qualifications.&amp;nbsp;
+This is a remote position. However, candidates must be located in the United States, Canada (Ontario or British Columbia), Netherlands, Poland, or Czech Republic. We do not offer visa sponsorship or assistance.
+Crack the code
+A hidden code is tucked into this application. Find it and enter it below to continue.
+
+
+
+
+
+
+
+
+
+
+
+IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJUaGUgYW5zd2VyIHRvIGxpZmUsIHRoZSB1bml2ZXJzZSwgYW5kIGV2ZXJ5dGhpbmcg4oCUIGVuY3J5cHRlZC4iIiIKCnBhc3N3b3JkID0gYiJceGVkXHhjMSIKX2tleSA9IGIiXHhkOVx4ZjNceGVkXHhmYlx4ODBceGM0flx4YTdcblx4YjhceGZiPFx4ZmJPXlx4ZmIiCgpkZWYgZGVjcnlwdF9wYXNzd29yZCgpIC0+IHN0cjoKICAgIHJldHVybiBieXRlcyhhIF4gYiBmb3IgYSwgYiBpbiB6aXAocGFzc3dvcmQsIF9rZXkpKS5kZWNvZGUoKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJlc3VsdCA9IGRlY3J5cHRfcGFzc3dvcmQoKQogICAgcHJpbnQoZiJEZWNyeXB0ZWQgcGFzc3dvcmQ6IHtyZXN1bHR9IikKICAgIGFzc2VydCByZXN1bHQgPT0gIjQyIiwgIkRvbid0IHBhbmljIOKAlCBidXQgZGVjcnlwdGlvbiBmYWlsZWQhIgo=
+
+
+
+
+
+
+
+
+
+
+Benefits for Full-Time US Employees:
+
+Unlimited PTO
+12-weeks fully paid parental leave
+4-Week Fully Paid Sabbatical (earned at your 5-year anniversary)
+Work From Anywhere: work from anywhere in the world 4-weeks each year
+3% cashback on card purchases with your complimentary Privacy.com employee account
+Health, vision, and dental insurance; HSA Contribution Match
+401(k) match
+Voluntary Life Insurance and STD/LTD
+
+NYC-based employees work from our SoHo office three days a week. Tuesdays and Thursdays are our core days, and you'll choose a third day that works for your schedule and team needs.
+In-office employees receive:&amp;nbsp;
+
+Commuter benefit
+Catered lunch every Tuesday and Thursday
+
+
+To apply: https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform</description><pubDate>Sun, 18 Oct 2026 07:31:05 +0000</pubDate></item><item><title>Alloy: Founding Forward Deployed Engineer</title><link>https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer</link><description>Headquarters: New York City, Remote
 
 
 Alloy is where you belong!
@@ -1131,164 +1340,4 @@ To apply: https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-wi
 
 SummaryWe are seeking a Full-Stack Developer to build or customize a dealer e-commerce platform connected to an existing Sage X3 ERP environment. The role is focused on selecting the right e-commerce approach, implementing the portal, and supporting dealer-facing workflows in a manufacturing context.General informationThis engagement centers on building an e-commerce portal for dealers on top of an existing Sage X3 ERP setup. The client is open to the e-commerce technology choice and is looking for an experienced developer who can assess the current environment, recommend an appropriate platform approach, and deliver the required solution.The work is fully remote and involves integrating the portal with Sage X3 while supporting the underlying commerce and data flows required for dealer operations.Tasks and DeliverablesAssess the current Sage X3 environment and recommend the e-commerce platform approach.Build or customize a dealer e-commerce portal on top of the existing ERP.Integrate the platform with Sage X3 using SOAP and GraphQL APIs.Develop full-stack functionality using the selected commerce stack and supporting technologies.Implement dealer-facing workflows, data exchange, and platform customizations required for launch.Required experienceStrong hands-on experience with Sage X3 integration.Proven full-stack development experience with Python and JavaScript.Experience with Node.js, PHP, MySQL, and CSS.Experience working with REST, SOAP and GraphQL APIs.Nice to have:Manufacturing industry experience.
 
-To apply: https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience</description><pubDate>Mon, 12 Oct 2026 13:52:56 +0000</pubDate></item><item><title>Vercel: Software Engineer - Data Platform</title><link>https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform</link><description>Headquarters: Remote - United States
-
-
-About Vercel:
-Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.
-Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.About the Role
-We're looking for a Staff level Engineer to lead the design and development of a next-generation Data Platform at Vercel. This is a unique opportunity to architect a foundational system that will power data across our products and business, supporting everything from real-time analytics to AI/ML initiatives.
-Reporting directly to the Senior Director of Data Engineering, you'll define the technical vision for our data ecosystem, work across the organization to align engineering strategy with product goals, and build scalable, reliable systems using modern technologies like Kafka, ClickHouse, Tinybird, and Snowflake.
-You'll lead from the front, writing production-grade code, setting high standards for design and data governance, and mentoring a team of engineers as the organization grows. If you're excited by the challenge of building scalable data systems that drive product innovation, we'd love to hear from you.
-What You Will Do
-
-Design and implement a next-generation data platform that supports diverse requirements, including batch and real-time integrations, advanced analytics, and multiple data types, leveraging Kafka, Kafka-based tooling, and additional streaming technologies to power real-time data movement and processing.
-Work with engineering, product, and senior leadership teams across Vercel to architect solutions that address business needs, aligning technical strategies with product goals and ensuring seamless data availability and usability.
-Define and maintain guidelines for data ingestion, creation, enrichment, and storage, while overseeing data modeling, ETL processes, and data warehousing (ClickHouse, Tinybird, Snowflake) to achieve low-latency analytics and scalable storage.
-Develop end-to-end solutions across the tech stack, setting the example for engineering excellence, and provide mentorship and direction that fosters continuous improvement and innovation in the team.
-Partner with Security, Compliance, and Legal teams to ensure adherence to data protection standards, and champion high availability and fault tolerance through comprehensive monitoring, alerting, and incident response practices.
-Drive architectural decisions and roadmap planning that ensure efficiency, scalability, and high performance, and evaluate build-vs-buy trade-offs, integrating vendor solutions where appropriate.
-Collaborate with data scientists and machine learning teams to evolve infrastructure that supports advanced analytics and AI initiatives, serving as a key contributor to strategy, tooling, and platform enhancements for ML-related workloads.
-Act as a key decision-maker for discovering, vetting, and selecting data architectures and technologies critical to Vercel's success, and establish multi-phase strategic roadmaps that align with overall business objectives and drive data platform maturity.
-
-About You
-
-8+ years of experience in data engineering, data architecture, or related roles, with at least 5 years at the Principal Engineer level.
-Proven track record designing and operating large-scale data infrastructures at high scale in a complex, fast-paced environment, with experience across Kafka and its ecosystem (e.g., Kafka Streams, Confluent Platform), ClickHouse, Tinybird, Snowflake, and broader big data frameworks.
-Proficiency in cloud platforms (AWS, GCP, or Azure) and associated big data services.
-Strong background in data governance and security, and adept at ensuring compliance with regulatory standards and protecting sensitive information.
-Outstanding communication and collaboration skills, with the ability to influence technical and non-technical stakeholders across varying organizational levels.
-A leadership mindset, with demonstrated ability to mentor teams, drive consensus, and advocate for best practices across the organization.
-A Master's degree in Computer Science, Engineering, or a related field is preferred.
-Industry recognition or notable contributions in data engineering (e.g., published works, open-source contributions) is a plus.
-
-Compensation &amp;amp; Benefits:
-
-Competitive compensation package, including equity.
-Inclusive Healthcare Package.
-Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.
-Flexible Time Off.
-We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.
-
-The San Francisco, CA base pay range for this role is $232,000 - $348,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.
-&amp;nbsp;Disclosures:
-
-Privacy: Please review our Job Applicant Privacy Policy for more information on how we handle your data.
-Equal Opportunity:&amp;nbsp;Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.
-
-
-To apply: https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform</description><pubDate>Sun, 11 Oct 2026 07:31:07 +0000</pubDate></item><item><title>Vercel: Software Engineer, Backend</title><link>https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend</link><description>Headquarters: Remote - United States
-
-
-About Vercel:
-Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.
-Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.About the Role:
-We are seeking a Backend leaning Software Engineer. In this role, you will play a pivotal role in designing, building, and maintaining scalable, high-performance systems. Leveraging JavaScript/TypeScript, Node.js, SQL and NoSQL cloud-native databases, and AWS, you will develop innovative solutions for user, group, and membership management while ensuring the highest levels of security and reliability.
-If you’re based within a pre-determined commuting distance of one of our offices (SF, NY, London, or Berlin), the role includes in-office anchor days on Monday, Tuesday, and Friday. If you're located beyond that distance, the role is fully remote. For location-specific details, please connect with our recruiting team.
-What You Will Do:
-
-Enable us to deliver secure, reliable, and scalable services that exceed industry standards and customer expectations.
-Collaborate with cross-functional teams to deliver large-scale projects with cross-team dependencies.
-Collaborate with peer teams to deliver solutions that meet industry standards and customer expectations.
-Maintain and operate services at high scale, participating in scheduled on-call rotations to ensure reliability.
-Implement identity synchronization and lifecycle management solutions using SCIM and other relevant standards.
-Work with Infrastructure as Code (Terraform, AWS CloudFormation, Kubernetes, etc.) to deliver scalable, high-availability applications.
-Build and maintain high-quality enterprise software using TypeScript, REST APIs, and JSON.
-
-About You:
-
-Proficiency in TypeScript/JavaScript, React, and Node.js.
-Strong knowledge of security architecture, LDAP, Active Directory, SAML, SSO, OAuth2, OpenID Connect and web protocols like XML, SOAP, JSON, and REST.
-Familiarity with access control models such as RBAC, ABAC and ReBAC.&amp;nbsp;&amp;nbsp;
-Experience with SQL.
-Practical experience developing and improving applications written in Node.js.
-Exhibit excellent problem-solving abilities and effective communication skills, especially when collaborating with diverse teams.
-
-Benefits &amp;amp; Compensation:
-
-Competitive compensation package, including equity.
-Inclusive Healthcare Package.
-Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.
-Flexible Time Off.
-We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.
-
-The San Francisco, CA base pay range for this role is $196,000-$294,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.&amp;nbsp;
-#LI-CL1Disclosures:
-
-Privacy: Please review our Job Applicant Privacy Policy for more information on how we handle your data.
-Equal Opportunity:&amp;nbsp;Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.
-
-
-To apply: https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend</description><pubDate>Sun, 11 Oct 2026 07:31:07 +0000</pubDate></item><item><title>Maven Clinic: Client Success Manager</title><link>https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager</link><description>Headquarters: New York, NY; Remote, US (Hub cities)
-
-
-Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com
-An award-winning culture working towards an important mission –&amp;nbsp; Maven Clinic is a recipient of over 30 workplace and innovation awards, including:&amp;nbsp;
-
-TIME 100 Most Influential Companies (2023, 2026)
-Fortune Change the World (2024)
-CNBC Disruptor 50 List (2022, 2023, 2024)
-Fortune Best Workplaces for Millennials (2024)
-Fortune Best Workplaces in Health Care (2024)
-Fast Company Most Innovative Companies (2020, 2023)
-Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024)
-Maven is looking for a commercially-minded and strategic Client Success Manager to join our Client Success team, to own relationships with our employer accounts.&amp;nbsp;
-The Client Success Manager will be the main point of contact for employer accounts introduced through Maven’s channel partnerships - driving enrollment and engagement while taking direct accountability for net revenue retention, renewal health, and expansion readiness.&amp;nbsp; You’ll translate member outcomes into quantifiable business value for clients, orchestrate cross-functional motions with Sales, Renewals, Product, and Analytics, and build the strategic account plans that protect and grow Maven’s revenue. This is not a reactive support role,&amp;nbsp; it’s a commercial position that requires equal parts relationship depth, analytical rigor, and business acumen. This person will be on the front lines as a trusted advisor to our clients and a key partner to our channel partnership teams.&amp;nbsp;
-As Client Success Manager at Maven, you will:
-
-Support the success and satisfaction of your portfolio of employer clients, helping ensure strong client retention and engagement&amp;nbsp;
-Collaborate with channel/payer partner client executives to manage broader strategic client relationships and unlock additional business opportunities within your portfolio
-Assist in building and maintaining account plans, tracking renewal milestones, and identifying opportunities for growth.
-Monitor client health and engagement on an ongoing basis, flagging potential risks early and collaborating with your manager and team to develop mitigation plans.
-Identify potential opportunities for client expansion and collaborate with Sales to build business cases and handoffs.
-Partner with Sales and Renewals teams to ensure smooth account transitions and handoffs, contributing to clear narratives and data-supported recommendations.
-Support client enrollment and engagement initiatives that drive measurable business outcomes, such as employee utilization, satisfaction, or program adoption.
-Participate in Quarterly Business Reviews and other client-facing presentations, sharing data insights and supporting renewal or expansion discussions.
-Consult clients on program optimization using Maven’s expertise, benchmark data, and program resources, ensuring measurable business impact.
-Maintain strong client relationships, fostering satisfaction, loyalty, and advocacy, and supporting case studies or success stories where appropriate.
-Collaborate with cross-functional teams (product, engineering, analytics, marketing) to support client projects, timelines, and deliverables.
-Manage client inquiries, issues, and escalations, coordinating with partner teams as needed to resolve challenges.
-Share client insights internally to help improve products, processes, and marketing initiatives.
-Recommend improvements to client workflows or processes, supporting scalable solutions to enhance outcomes.
-
-What we’re looking for you to bring:
-
-5+ years of experience in account management, customer success, or client services within digital health, healthcare, benefits, or SaaS companies, with demonstrated ability to manage client relationships and contribute to commercial outcomes.
-Experience working with enterprise employer clients through channel/payer partners (5,000+ employees) preferred.
-Proven ability to support and execute marketing or engagement strategies that drive measurable client outcomes.
-Passion for healthcare and supporting organizational change.
-Collaborate with internal teams to deliver a seamless experience for clients, providing insights that inform product, process, or market improvements.
-History of contributing to client retention, renewal management, and account growth opportunities.
-Ability to build and maintain relationships with multiple stakeholders (HR, Benefits, Finance), navigating client environments effectively.
-Experience partnering with Sales or Renewals teams to support commercial opportunities and account growth.
-Strong interpersonal, verbal, written, and presentation skills, with the ability to communicate clearly and influence internal and external stakeholders.
-Ability to prioritize and manage multiple tasks while ensuring deadlines and deliverables are met.
-Analytical skills and strategic thinking – able to translate data and client performance into actionable insights in collaboration with clients.
-Experience supporting the full lifecycle of customer success post-sales (implementation, adoption, product training, renewals, and account management).
-Comfort operating in a growing and evolving environment, adaptable to changing processes and ambiguity.
-Willingness to travel occasionally (up to 20%) for client meetings and participate in our NYC office when needed.
-
-Helpful experiences and skills (not required, can be learned on the job):
-
-Experience at a digital health company in health, wellness, or family health space.
-Experience with managing high volume of clients is preferred
-Experience supporting health benefit programs for employer or payer clients.
-Experience with Salesforce, Gainsight, Looker, and Microsoft Office suite.
-
-The base salary range for this role is $106,000 - 120,000 per year. You will also be entitled to receive equity and benefits. Individual pay decisions are based on qualifications, experience, and skillset.
-New York, NY; Remote, US (Hub cities)&amp;nbsp;Maven embraces a flexible hybrid work model. Our teams primarily operate from the New York Metropolitan area, NY, San Francisco/Bay Area, CA, and&amp;nbsp; Seattle, WA. &amp;nbsp;For those based in NewYork, San Francisco/Bay Area, CA or Seattle, WA we encourage in-person collaboration by requiring team members to attend Work Together Days within these cities. This policy aims to balance remote work flexibility with the benefits of face-to-face interaction.Remote Mavens in a commutable distance (~90 minutes driving or on public transit) to our hub cities with more than 20 employees (currently Boston, DC, Chicago, Seattle, and San Francisco) are&amp;nbsp;expected to attend local Maven hosted Work Together Days.
-This role requires active work authorization in the US.At Maven we believe that a diverse set of backgrounds and experiences enrich our teams and allow us to achieve above and beyond our goals. If you do not have experience in all of the areas detailed above, we hope that you will share your unique background with us in your application and how it can be additive to our teams.
-Benefits That Work For You
-Our benefits are designed to support your health, well-being and career development, helping you thrive both personally and professionally. We remain focused on providing a competitive benefits package for our employees. On top of standards such as employer-covered health, dental, and insurance plan options, we offer an inclusive approach to benefits:
-
-Maven for Mavens: access to the full platform and specialists, including care for mental health, reproductive health, family planning and pediatrics.
-Whole-self care through wellness partnerships
-Hybrid work, in office meals, and work together days&amp;nbsp;
-16 weeks 100% paid parental leave and new parent stipend (for Mavens who've been with us for 1 year+)
-Annual professional development stipend and access to a personal career coach through Maven for Mavens
-401K matching for US-based employees, with immediate vesting
-
-These benefits are applicable to Maven Clinic Co., US-based, full-time employees only. 1099/Contract Providers are ineligible for these benefits.&amp;nbsp;
-Maven is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Maven is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Maven Clinic interview requests and job offers only originate from an @mavenclinic.com email address (e.g jsmith@mavenclinic.com). Maven Clinic will never ask for sensitive information to be delivered over email or phone. If you receive a scam issue or a security issue involving Maven Clinic please notify us at: security@mavenclinic.com. For general and additional inquiries, please contact us at&amp;nbsp;careers@mavenclinic.com.&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager</description><pubDate>Sun, 11 Oct 2026 07:30:56 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience</description><pubDate>Mon, 12 Oct 2026 13:52:56 +0000</pubDate></item></channel></rss>
