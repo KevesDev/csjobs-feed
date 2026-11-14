@@ -1,5 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>BDF EXPERTS: SAP Berater FI/CO (M/W/D)</title><link>https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d</link><description>Headquarters: Germany Düsseldorf
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Growth Minded: Senior Data Engineer</title><link>https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer</link><description>Headquarters: Remote
+    URL: https://growthminded.co
+
+
+
+
+About the role
+You'll own the data layer underneath InsightsOS and EngageOS, the products that turn booking, CRM, ad, and financial data from multi-location brands into proactive insights and automated actions. Today that layer is built and maintained by our product lead alongside two full-stack engineers. We need someone who owns it end to end: architecture, modeling, pipelines, and the analytical models on top. You'll report to our product lead and work directly with the founder.
+Compensation: $45–60K plus revenue-share bonus (we profit share every month)
+
+
+What you'll do
+
+Design and own the semantic layer and aggregation architecture across clients with 2 to 250 locations each.
+Build and maintain pipelines from sources like Mindbody, Zenoti, Boulevard, Mariana Tek, Domo, QuickBooks Online, GA4, Google Ads, Meta, and Klaviyo.
+Develop trend, utilization, and propensity models that power proactive insights and lifecycle triggers.
+Work with Claude Code and AI-assisted tooling as a core part of your workflow, not an afterthought.
+Establish data quality, governance, and row-level security patterns as we move into multi-tenant, franchise-level reporting.
+Self-direct discovery and architecture decisions, and write clear technical specs the rest of the team can execute against.
+Join a daily product sync with the product lead and engineering team.
+
+
+
+Who you are
+
+2+ years in data engineering with real ownership of a production analytics platform.
+Deep in SQL and Python, strong with dbt or an equivalent transformation framework, warehouse design (BigQuery, Postgres), and orchestration.
+Experience with semantic or metrics layers and aggregation at scale, you've solved the "same metric, different answers" problem before.
+Practical ML: propensity scoring, forecasting, and anomaly detection in a product context.
+Comfortable making architecture calls without a spec handed to you, and communicating clearly across time zones in writing.
+Bonus: multi-location, franchise, or subscription business data; marketing or CRM integrations; multi-tenant SaaS.
+
+
+
+Why this role
+
+Full ownership of a product vertical, not a ticket queue.
+Small team, direct impact, your models show up in client revenue within weeks.
+Build the cross-client data asset that is central to our strategy.
+
+
+
+
+To apply: https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer</description><pubDate>Mon, 19 Oct 2026 12:47:58 +0000</pubDate></item><item><title>BDF EXPERTS: SAP Berater FI/CO (M/W/D)</title><link>https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d</link><description>Headquarters: Germany Düsseldorf
 
 
 Werde zum Architekten digitaler Finanzwelten – und gestalte mit uns die Zukunft! Zahlen sind Deine Leidenschaft, die Financial Supply Chain und SAP FI/CO Dein Spielfeld? Perfekt! Denn als Consultant wirst Du:
@@ -1555,10 +1598,4 @@ What We Offer You:&amp;nbsp;
 • Opportunities for professional growth and development• Paid parental leave
 • Health &amp;amp; wellness initiatives
 
-To apply: https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai</description><pubDate>Thu, 15 Oct 2026 07:31:14 +0000</pubDate></item><item><title>Cigna Healthcare: Clinical Program Senior Advisor - Remote - Express Scripts (Academic Detailing)</title><link>https://weworkremotely.com/remote-jobs/cigna-healthcare-clinical-program-senior-advisor-remote-express-scripts-academic-detailing</link><description>Headquarters: Missouri, United States
-    URL: http://www.cigna.com
-
-
-POSITION SUMMARYThe Senior Clinical Consultant, Academic Detailing supports Evernorth’s Provider Engagement strategy by using clinical expertise, advanced analytics, and evidence-based prescriber education to identify and act on opportunities that improve medication use, quality, safety, and affordability. This role evaluates pharmacy and medical data, provider prescribing patterns, medication regimens, and client priorities to develop targeted, provider-facing academic detailing outreach that supports trend management, reduces waste, and advances measurable clinical and financial outcomes.LOCATION: REMOTEESSENTIAL FUNCTIONSAnalyze pharmacy claims, medical data, provider prescribing patterns, utilization trends, and client-specific priorities to identify actionable clinical, quality, safety, and financial opportunities.Develop, document, and execute evidence-based academic detailing strategies, including patient-specific clinical opportunity identification and provider-specific intervention plans aligned to clinical guidelines, formulary strategy, benefit design, and client objectives.Deliver customized prescriber education through provider-facing channels such as telephonic consultation, clinical direct messaging, fax, written materials, grand rounds, or other approved outreach methods to support clinically appropriate, cost-effective medication use.Use Evernorth analytic tools and reporting resources to improve targeting, monitor outreach activity, assess prescribing trends, and evaluate clinical and financial impact over time.Provide provider-facing recommendations related to initiation, continuation, discontinuation, regimen simplification, dose optimization, formulary alternatives, adherence barriers, and other medication therapy opportunities within approved protocols and clinical guidance.Partner with clients, account teams, clinical subject matter experts, and internal stakeholders to prioritize initiatives, align outreach topics, integrate client-specific processes, and support transparent reporting of progress and outcomes.Maintain accurate documentation of outreach activity, provider feedback, intervention status, and projected or realized impact to support client reporting, operational continuity, and program improvement.Contribute to staff meetings, quality workgroups, client discussions, and departmental initiatives by sharing insights, best practices, outcomes, barriers, and opportunities to improve provider engagement effectiveness.Support formal and informal training, mentoring, and professional development activities, including development or delivery of education for peers, providers, clients, or internal partners.Serve as a clinical resource for provider engagement initiatives and perform other related responsibilities as needed to support client priorities, departmental goals, and Evernorth’s broader clinical strategy.QUALIFICATIONSCurrent pharmacist license required; relevant PBM, managed care, health plan, provider engagement, or clinical program experience preferred.Strong clinical knowledge and ability to interpret medication therapy, prescribing patterns, utilization trends, quality metrics, and evidence-based guidelines.Experience using claims data, reporting tools, dashboards, or analytic platforms to identify opportunities, support decision-making, and measure outcomes.Client management, consultative communication, or provider-facing education experience preferred.Excellent verbal, presentation, and written communication skills, with the ability to translate complex clinical and data insights into clear, actionable recommendations for providers, clients, and internal partners.Strong project management skills, including the ability to manage multiple priorities, organize work independently, meet deadlines, and resolve complex issues.Demonstrated collaboration, leadership, accountability, and commitment to service excellence, continuous improvement, and measurable outcomes.Proficiency with Microsoft Office and ability to learn and effectively use internal reporting, documentation, and analytic tools.Ability to work independently in a remote environment while actively collaborating with cross-functional teams and client stakeholders.If you will be working at home occasionally or permanently, the internet connection must be obtained through a cable broadband or fiber optic internet service provider with speeds of at least 10Mbps download/5Mbps upload.For this position, we anticipate offering an annual salary of 116,200 - 193,600 USD / yearly, depending on relevant factors, including experience and geographic location.This role is also anticipated to be eligible to participate in an annual bonus plan.At The Cigna Group, you’ll enjoy a comprehensive range of benefits, with a focus on supporting your whole health. Starting on day one of your employment, you’ll be offered several health-related benefits including medical, vision, dental, and well-being and behavioral health programs. We also offer 401(k), company paid life insurance, tuition reimbursement, a minimum of 18 days of paid time off per year, paid holidays, and leaves of absence. For more details on our employee benefits programs, click here. About The Cigna Group Doing something meaningful starts with a simple decision, a commitment to changing lives. At The Cigna Group, we’re dedicated to improving the health and vitality of those we serve. Through our divisions Cigna Healthcare and Evernorth Health Services, we are committed to enhancing the lives of our clients, customers and patients. Join us in driving growth and improving lives.Qualified applicants will be considered without regard to race, color, age, disability, sex, childbirth (including pregnancy) or related medical conditions including but not limited to lactation, sexual orientation, gender identity or expression, veteran or military status, religion, national origin, ancestry, marital or familial status, genetic information, status with regard to public assistance, citizenship status or any other characteristic protected by applicable equal employment opportunity laws.If you need a reasonable accommodation to complete the online application process, please email seeyourself@thecignagroup.com for assistance.&amp;nbsp; Please note that this email inbox is dedicated to accommodation requests only and cannot provide application updates or accept resumes.The Cigna Group has a tobacco-free policy and reserves the right not to hire tobacco/nicotine users in states where that is legally permissible. Candidates in such states who use tobacco/nicotine will not be considered for employment unless they enter a qualifying smoking cessation program prior to the start of their employment. These states include: Alabama, Alaska, Arizona, Arkansas, Delaware, Florida, Georgia, Hawaii, Idaho, Iowa, Kansas, Maryland, Massachusetts, Michigan, Nebraska, Ohio, Pennsylvania, Texas, Utah, Vermont, and Washington State.Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal, state and local ordinances. 
-
-To apply: https://weworkremotely.com/remote-jobs/cigna-healthcare-clinical-program-senior-advisor-remote-express-scripts-academic-detailing</description><pubDate>Thu, 12 Nov 2026 17:02:11 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai</description><pubDate>Thu, 15 Oct 2026 07:31:14 +0000</pubDate></item></channel></rss>
