@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Vertex Marketing Group: Distribution Engineer</title><link>https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer</link><description>Headquarters: Bulgaria
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Toptal: Salesforce Developer for Org Ownership and Ongoing Platform Development</title><link>https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development</link><description>Headquarters: 
+
+
+SummaryWe are seeking a Salesforce developer to support and manage an existing Salesforce org. The role focuses on developing and rolling out new features, maintaining the org’s architecture, and ensuring updates align with existing processes.General informationThis engagement centers on ongoing Salesforce development and org management. The developer will work closely with project managers and internal teams to understand business needs, assess how the current org is structured, and carry requested enhancements through to completion while preserving compatibility with existing workflows.Tasks and DeliverablesSupport and manage the existing Salesforce org.Develop and roll out new Salesforce features.Understand the current org structure and configuration.Maintain the org’s architecture over time.Ensure updates work with existing processes and workflows.Collaborate with project managers and internal teams on requirements.Carry Salesforce enhancements through to completion.Required experienceStrong Salesforce development experience.Solid understanding of the Salesforce platform.Experience maintaining and evolving Salesforce org architecture.Ability to support ongoing Salesforce development and maintenance.Experience translating stakeholder needs into completed Salesforce solutions.Strong collaboration skills with project managers and internal teams.Engagement highlightsFull-time engagement with an estimated duration of 6-12 months.Ownership of ongoing development and architectural maintenance within a live Salesforce org.Direct collaboration with project managers and internal stakeholders on feature delivery.
+
+To apply: https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development</description><pubDate>Tue, 20 Oct 2026 17:54:13 +0000</pubDate></item><item><title>Vertex Marketing Group: Distribution Engineer</title><link>https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer</link><description>Headquarters: Bulgaria
     URL: https://vertexmg.com
 
 
@@ -1508,47 +1513,4 @@ To learn more about our candidate privacy policy, you can read our statement her
 
 We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this form. We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.
 
-To apply: https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini</description><pubDate>Fri, 16 Oct 2026 07:30:50 +0000</pubDate></item><item><title>Askable: Software Engineer, AI Coding Tasks (Contract) </title><link>https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract</link><description>Headquarters: Australia 
-    URL: https://www.askablelabs.com/
-
-
-We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.
-You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.
-Remote, any location. US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week.
-How it works
-
-Apply. Complete a short screener interview and upload your resume.
-Propose. Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate.
-Build. In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks.
-Stress-test. Try lazy, incorrect and shortcut solutions and make sure your checks catch them.
-Model testing. Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it.
-Review. A reviewer checks your task and you revise it. Most tasks take more than one round.
-Next task. Once your task is accepted, start another.
-
-Requirements
-
-2+ years of professional software engineering
-Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code)
-Strong in at least one of Python, TypeScript, Go, Rust, Java or C++
-Solid with Docker, Linux, Git and automated testing
-Regular use of an AI coding tool
-Experience writing tests, rubrics or evaluation criteria, ideally for AI models
-You can explain a change clearly and concisely, in your own words
-At least 10 hours a week, starting now
-A secure personal or work computer (no public or shared machines)
-
-Nice to have
-
-Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure
-Experience building agent tasks or RL environments
-
-Terms
-
-US$1,000 for each task that passes our quality review, paid directly to you
-Once your proposal is qualified, you sign Askable's contract and accept its terms
-The work is used for AI training. The change and your solution must be your own, and you must be free to license them to us
-Don't publish the work anywhere: no public pull request or public fork
-
-Apply at https://www.askable.com/experts/roles/senior-software-engineer
-
-To apply: https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract</description><pubDate>Fri, 16 Oct 2026 00:50:53 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini</description><pubDate>Fri, 16 Oct 2026 07:30:50 +0000</pubDate></item></channel></rss>
