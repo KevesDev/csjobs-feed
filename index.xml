@@ -1,5 +1,205 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Toptal: Salesforce Developer for Org Ownership and Ongoing Platform Development</title><link>https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development</link><description>Headquarters: 
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Lemon.io: Senior Vue Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1</link><description>Headquarters: New York, NY
+    URL: https://lemon.io
+
+
+Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.
+New roles for Senior Angular Engineers come in all the time, and several are open right now.
+Two ways to work with clients
+
+Contract: most roles are contract-based. You join the client’s team and work as part of it.
+Direct hire: some clients hire engineers full-time, and we support you through the process.
+
+Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.
+What you get
+
+Competitive rate, based on your seniority and skills
+We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.
+Flexible schedule. Work async or with a small overlap with the team’s hours.
+No micromanagement, no screen trackers
+Direct work with clients, most of them with technical backgrounds
+Ongoing support from your application through every project, plus a community of engineers from 75+ countries
+
+Who we’re looking for
+Requirements for Senior Vue.js &amp;amp; Nuxt.js Developer:
+
+4+ years of software development experience
+4+ years of experience with Vue.js
+2+ years of experience with Nuxt.js &amp;amp; JavaScript
+Experience with Typescript is a must
+
+Requirements for Senior Vue.js &amp;amp; PHP Developer:
+
+4+ years of software development experience
+3+ years of experience with Vue.js &amp;amp; 3+ years with PHP
+Experience with Laravel is a must
+
+Requirements for Senior Vue.js &amp;amp; Node.js Developer:
+
+4+ years of software development experience
+3+ years of experience with Vue.js &amp;amp; 3+ years with Node.js
+Experience with Nuxt.js is a must
+
+Requirements for Senior Vue.js &amp;amp; .NET Developer:
+
+5+ years of software development experience
+3+ years of experience with Vue.js &amp;amp; 5+ years with .NETOR5+ years of experience with Vue.js &amp;amp; 3+ years with .NET
+Experience with Typescript is a must
+
+Requirements for Senior Vue.js &amp;amp; Python Developer:
+
+4+ years of software development experience
+3+ years of experience with Vue.js 3+ years with Python
+
+&amp;nbsp;
+
+You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production
+You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents)
+Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls
+You work full-time remotely and deliver without supervision
+You onboard quickly and start shipping in your first weeks
+
+How it works
+
+Apply and complete your profile
+Verify your role
+Once approved, we match you with a project. Typical time to first project: 3 weeks
+
+Ready? Apply and join the Lemon.io community.
+NOT YOUR TECH STACK?
+We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, React &amp;amp; Python, React &amp;amp; Golang, Golang, React &amp;amp; Java, React &amp;amp; Ruby, Ruby, PHP &amp;amp; Vue, Vue &amp;amp; Node.js, React &amp;amp; .NET, Android &amp;amp; iOS, iOS &amp;amp; Swift, Flutter &amp;amp; Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana),&amp;nbsp;Vue &amp;amp; .NET, Python &amp;amp; Vue, DevOps, MLOps, Data Science,&amp;nbsp;Symfony &amp;amp; React, Symfony &amp;amp; Vue, Symfony &amp;amp; An gular, Python, Symfony &amp;amp; JavaScript &amp;amp; Next.js &amp;amp; TypeScript, Data Analysis, React &amp;amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp;amp; Node, React Native &amp;amp; React, React Native &amp;amp; Ruby, React Native &amp;amp; Python, WordPress, Android, Angular, Python &amp;amp; Node, React &amp;amp; Node.js, Node &amp;amp; TypeScript, Java &amp;amp; Spring, Svelte &amp;amp; Python, Svelte &amp;amp; Node.js, Svelte &amp;amp; TypeScript, Rust, Shopify &amp;amp; JavaScript, Vue &amp;amp; Nuxt, PHP &amp;amp; Laravel, UI/UX Design, Animation, Graphic Design, React &amp;amp; Node &amp;amp; React Native, .NET &amp;amp; C#, Electron, Scala, C++, Unreal Engine &amp;amp; C++, Python &amp;amp; LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.
+We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
+We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
+
+To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1</description><pubDate>Wed, 21 Oct 2026 12:54:56 +0000</pubDate></item><item><title>Ritual: Core Protocol Engineer</title><link>https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer</link><description>Headquarters: Remote
+
+
+About Ritual&amp;nbsp;
+Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role
+We're seeking a Core Protocol Engineer with deep expertise with Ethereum execution clients to help us extend the EVM for next-generation compute capabilities. You'll work on expanding the execution layer to support novel precompiles, implement parallel execution patterns, and design systems for heterogeneous compute orchestration.
+
+Design and implement extensions to EVM clients (Geth/Reth) for supporting stateful precompiles
+Implement novel mechanism design primitives, collaborating with our research team, into the execution layer
+Develop and optimize transaction processing pipelines for heterogeneous workloads
+Research and implement solutions for state access conflicts
+Contribute to core protocol development and EIP implementations
+Collaborate with the research team on protocol specifications and mechanism design improvements
+Design and implement robust testing frameworks for execution client modifications
+
+About you
+
+Deep understanding of EVM internals and Ethereum execution clients (Geth/Reth)
+Strong experience implementing and optimizing precompiles
+Expertise in Go and/or Rust for systems programming, and Solidity
+Thorough knowledge of Ethereum's roadmap and active participation in protocol discussions
+Experience with parallel execution patterns in blockchain systems
+Strong understanding of consensus mechanisms and blockchain architecture
+Ability to read, understand, and implement EIPs and protocol specifications
+Proven track record of shipping production-grade blockchain systems
+Ability to act quickly under high pressure scenarios and context switch at a high frequency
+A high level of end-to-end ownership and self-direction, with excellent communication skills
+Hungry, high-energy and ability to work within and meet deadlines in a fast-paced environment
+
+Nice to have
+
+Knowledge of mempool dynamics, transaction ordering and the mev-boost implementation
+Background in mechanism design or market systems
+Deep knowledge of proof systems and their trade-offs around prover time, verifier time, and proof size
+Experience optimizing proof generation and verification pipelines
+Experience with cross-chain bridges or interoperability protocols
+Contributions to Ethereum client codebases
+Background in distributed systems and concurrent programming
+
+Why join us&amp;nbsp;
+
+Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure&amp;nbsp;
+Highly competitive compensation package, including annual discretionary bonus &amp;amp; optimized tax structure compared to the vast majority of web3 startups
+Top 1% of benefits across the web3 startup space
+100% of premiums covered on highest quality healthcare&amp;nbsp;
+Aggressive company 401k match
+Fully remote and/or hybrid, up to you!
+Participate in virtual and in-person events
+Much much more!
+
+
+To apply: https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer</description><pubDate>Wed, 21 Oct 2026 07:31:25 +0000</pubDate></item><item><title>Oportun: Senior Data Engineer - Capital Markets (R13923)</title><link>https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923</link><description>Headquarters: Remote - MX
+
+
+Who We Are
+Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually.The Opportunity&amp;nbsp;
+As a Sr. Data Engineer at Oportun, you will be a key member of our team, responsible for designing, developing, and maintaining sophisticated software / data platforms in achieving the charter of the engineering group. Your mastery of a technical domain enables you to take up business problems and solve them with a technical solution. With your depth of expertise and leadership abilities, you will actively contribute to architectural decisions, mentor junior engineers, and collaborate closely with cross-functional teams to deliver high-quality, scalable software solutions that advance our impact in the market. This is a role where you will have the opportunity to take up responsibility in leading the technology effort – from technical requirements gathering to final successful delivery of the product - for large initiatives (cross-functional and multi-month-long projects).
+&amp;nbsp;
+At Oportun, we move fast and we hold each other to a high bar. If you care about doing your best work while actually moving the needle for real people, you'll fit right in.
+What You'll Do
+Your day-to-day
+
+You’ll design and implement scalable, efficient, and reliable data architectures that support business and analytical needs.
+You’ll build and maintain data pipelines, ETL processes, and integration solutions for large volumes of structured and unstructured data.
+You’ll optimize data pipelines, databases, data warehouses, and data lakes for performance, reliability, scalability, and security.
+You’ll partner with stakeholders to understand data requirements, develop domain expertise, and translate business needs into effective data models and solutions.
+You’ll establish and improve data quality standards, validation rules, documentation, and governance practices.
+You’ll implement monitoring and observability practices to identify bottlenecks, improve performance, and strengthen platform reliability.
+You’ll provide technical leadership on architecture, scalability, reliability, monitoring, integration, and extensibility.
+You’ll lead and contribute to code reviews, helping maintain high standards for code quality, performance, and maintainability.
+You’ll mentor junior engineers and support a culture of continuous learning and technical excellence.
+You’ll take ownership of production issues, including troubleshooting, root-cause analysis, escalation, and long-term resolution.
+You’ll independently lead multiple features and projects, coordinate work across engineers, and keep stakeholders informed of progress, risks, and dependencies.
+You’ll help evolve engineering tools, platforms, and practices and encourage adoption of better ways of working.
+You’ll look for practical ways to use AI tools to improve engineering productivity, analysis, documentation, and problem-solving.
+
+Who You Are
+The right fit looks like this
+You’re a hands-on data engineer who enjoys solving complex technical problems and building systems that others depend on. You combine strong technical depth with a practical understanding of business needs and know how to turn ambiguous requirements into scalable solutions.
+You take ownership, communicate clearly, and are comfortable leading technical work without relying on formal authority. You enjoy mentoring others and helping teams make stronger technical decisions.
+What You Bring
+Skills &amp;amp; experience
+Required
+
+8+ years of experience in data engineering, with strong experience in data architecture, ETL, and database management.
+Strong programming skills in Python or PySpark, plus experience with Java or Scala.
+Experience building complex end-to-end data pipelines and data integration solutions.
+Strong knowledge of SQL and experience with relational and NoSQL database technologies.
+Experience with big data technologies such as Spark, Kafka, Hadoop, or similar platforms.
+Experience with orchestration and scheduling tools such as Airflow, Databricks, Jenkins, or similar technologies.
+Experience designing and operating scalable, reliable, and secure data systems.
+Familiarity with cloud platforms such as AWS, Azure, or GCP and associated data services.
+Experience working in Agile environments such as Scrum, Lean, or Kanban.
+Strong problem-solving and decision-making skills.
+Experience mentoring junior engineers and contributing to technical leadership within a team.
+Strong written and verbal communication skills with the ability to work effectively across technical and non-technical teams.
+
+Nice to Have
+
+Bachelor’s or Master’s degree in Computer Science, Data Science, or a related field.
+Databricks experience or certification.
+Experience with AWS Redshift, S3, Azure SQL Data Warehouse, or comparable cloud data services.
+Experience implementing data governance, data quality, or observability frameworks.
+Experience leading cross-functional or multi-month engineering initiatives.
+Experience using AI-assisted engineering tools to improve development, troubleshooting, documentation, or productivity.
+
+Our AI Mindset
+We build with AI. We lead with judgment.
+AI isn't a feature here. It's how we work.
+We're excited about what AI makes possible, and we're looking for people who share that curiosity. You don't need to be an expert. You need to be open to experimenting, willing to learn, and able to apply new tools in ways that actually move the needle.
+In this role, you'll be encouraged to explore AI tools, find practical use cases for your function, and bring ideas for working smarter. We believe the best outcomes come when human judgment and AI capability work together.
+Why Oportun
+What's in it for you&amp;nbsp;
+Oportun offers a competitive compensation and benefits package designed to support your physical, financial, and professional well-being. Benefits vary by country of employment.&amp;nbsp;
+Some of the benefits available to eligible employees include:&amp;nbsp;
+Mexico Benefits:&amp;nbsp;
+Medical Insurance&amp;nbsp;Savings FundLife InsuranceInternet and Electricity AllowancePaid time off such as vacation and parental leave
+Eligibility and plan details vary by location and employment status. To learn more about Oportun and our benefits, visit oportun.com/careers&amp;nbsp; &amp;nbsp;#LI-REMOTE #LI-GK1We are proud to be an Equal Opportunity Employer and consider all qualified applicants for employment opportunities without regard to race, age, color, religion, gender, national origin, disability, sexual orientation, veteran status or any other category protected by the laws or regulations in the locations where we operate.
+&amp;nbsp;
+California applicants can find a copy of Oportun's CCPA Notice here:&amp;nbsp; https://oportun.com/privacy/california-privacy-notice/.
+&amp;nbsp;
+We will never request personal identifiable information (bank, credit card, etc.) before you are hired. We do not charge you for pre-employment fees such as background checks, training, or equipment. If you think you have been a victim of fraud by someone posing as us, please report your experience to the FBI’s Internet Crime Complaint Center (IC3).
+
+To apply: https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923</description><pubDate>Wed, 21 Oct 2026 07:31:06 +0000</pubDate></item><item><title>Toptal: Senior Analytics Engineer / BI Lead — Channel Insights (iX360)</title><link>https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360</link><description>Headquarters: 
+
+
+SummaryWe are seeking an Analytics Engineer / BI Lead for Channel Insights to define the semantic layer, build dashboards, and present verified insights to leadership. This role combines Tableau Next and Data 360 insight development, SQL/SOQL work, data-quality validation, field-user training, and daily use of AI copilots/agents to improve delivery speed while maintaining accountability for production decisions.General informationThis engagement is centered on Channel Insights, with responsibility spanning metrics, dimensions, refresh SLAs, dashboard logic, and executive-facing insight delivery. The work is not a report ticket queue; it requires ownership of the analytics layer and confidence in the numbers presented to leadership.Daily use of AI copilots/agents is an explicit expectation for discovery, build, test, and documentation. The focus is on improving cycle time and cost-to-outcome versus legacy delivery, embedding automation into quality gates, and verifying outputs before they reach production or executive readouts.Tasks and DeliverablesOwn Channel Insights metrics, dimensions, and refresh SLAs with the CDP product owner and Data Expert.Build Tableau Next and Data 360 calculated insights; write SQL/SOQL as needed.Validate data quality with the modeler/engineer and fix breaks at the source.Train field users through working sessions.Use AI for SQL and dataset drafts and insight narratives; verify every number before executive readouts.Automate anomaly commentary on Channel Insights where trustworthy; escalate false positives.Required experience5+ years of analytics engineering or BI lead experience.Expert-level Tableau or equivalent BI platform experience.Strong storytelling with data for executives and field leaders.Experience using AI copilots/agents in analytics delivery with human verification.Nice to have:Experience with Salesforce CRM Analytics and/or Data 360.Engagement highlightsOwn a defined Channel Insights workstream across semantic-layer design, dashboards, and data quality.Work directly with cross-functional stakeholders, including product, data, engineering, and field users.Deliver executive-facing insights and automate repeatable commentary where the data is trustworthy.
+
+To apply: https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360</description><pubDate>Tue, 20 Oct 2026 18:10:55 +0000</pubDate></item><item><title>Toptal: Salesforce Developer for Org Ownership and Ongoing Platform Development</title><link>https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development</link><description>Headquarters: 
 
 
 SummaryWe are seeking a Salesforce developer to support and manage an existing Salesforce org. The role focuses on developing and rolling out new features, maintaining the org’s architecture, and ensuring updates align with existing processes.General informationThis engagement centers on ongoing Salesforce development and org management. The developer will work closely with project managers and internal teams to understand business needs, assess how the current org is structured, and carry requested enhancements through to completion while preserving compatibility with existing workflows.Tasks and DeliverablesSupport and manage the existing Salesforce org.Develop and roll out new Salesforce features.Understand the current org structure and configuration.Maintain the org’s architecture over time.Ensure updates work with existing processes and workflows.Collaborate with project managers and internal teams on requirements.Carry Salesforce enhancements through to completion.Required experienceStrong Salesforce development experience.Solid understanding of the Salesforce platform.Experience maintaining and evolving Salesforce org architecture.Ability to support ongoing Salesforce development and maintenance.Experience translating stakeholder needs into completed Salesforce solutions.Strong collaboration skills with project managers and internal teams.Engagement highlightsFull-time engagement with an estimated duration of 6-12 months.Ownership of ongoing development and architectural maintenance within a live Salesforce org.Direct collaboration with project managers and internal stakeholders on feature delivery.
@@ -1167,350 +1367,4 @@ Why choose Mixpanel?
 We’re a leader in analytics with over 29,000 customers and $277M invested from prominent investors: like Andreessen-Horowitz, Sequoia, YC, and, most recently, Bain Capital. Mixpanel’s pioneering event-based data analytics platform offers a powerful yet simple solution for companies to understand user behaviors and easily track overarching company success metrics. Our accomplished teams continuously facilitate our expansion by tackling the ever-evolving challenges tied to scaling, reliability, design, and service. Choosing to work at Mixpanel means you’ll be helping the world’s most innovative companies learn from their data so they can make better decisions.
 Mixpanel is an equal opportunity employer supporting workforce diversity. At Mixpanel, we are focused on things that really matter—our people, our customers, our partners—out of a recognition that those relationships are the most valuable assets we have. We actively encourage women, people with disabilities, veterans, underrepresented minorities, and LGBTQ+ people to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the San Francisco Fair Chance Ordinance or other similar laws that may be applicable, we will consider for employment qualified applicants with arrest and conviction records. We’ve immersed ourselves in our Culture and Values as our guiding principles for the impact we want to have and the future we are building.
 
-To apply: https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii</description><pubDate>Sat, 17 Oct 2026 07:30:50 +0000</pubDate></item><item><title>Sanctuary Computer: Head of Technology</title><link>https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology</link><description>Headquarters: New York City
-    URL: https://sanctuary.computer
-
-
-We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.
-Original job posting link
-About garden3d
-We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.
-Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp;amp; Gagosian.
-We’re the software team behind innovative products like The Light Phone &amp;amp; Mill, and we operate a global, decentralized community space collective called Index Space.
-We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.
-Sanctuary Computer - Development
-At Sanctuary Computer we’re building a different type of technology shop – one that prioritizes close collaboration between the client and the craftsperson.
-Our projects range from design-forward websites, to robust web apps, to native mobile development.
-XXIX - Design
-When we started XXIX in 2013, we set out to create a different kind of design studio and we’ve thrived because we continually ask what a creative practice can be.
-We’re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility.
-Index - Community
-Index is network of physical spaces all around the world, Index provides space for the exchange of knowledge and tools.
-We nurture trust within the creative community through generosity and abundance of ideas and care.
-garden3d TK — Media
-At garden3d, we’re in the early stages of building an experimental media company exploring emerging themes related to the evolving landscape of technology, design and culture.
-We aim to monetize this outlet, publish books, produce screenplays, and release music.
-Plus, our partner organizations
-LightphoneMillIngredientAI
-⛰️ The Head of Technology Role
-The garden3d Head of Technology has one mandate: everything we build works, holds up in production, and gets built the smartest way available to us. We are a house of brands - Sanctuary Computer (development), XXIX (design), Index Space (community), USB Club (digital community), and the garden3d umbrella itself - and a lot of what all of them ship runs on software we wrote. Working in close partnership with our founder &amp;amp; president Hugh Francis, this person sets the engineering standard, and builds the culture that holds it.
-You can be based anywhere. A lot of our people are in New York and there's some gravity here, but we already work across timezones and we would happily hire in Europe, Singapore, Chicago, or wherever you are. If you're the right person, we want to hear from you.
-This role works with studio leads, developers, designers, project managers and clients across every garden3d vertical.
-This person can move between a Rails migration, a Next.js app, a firmware release plan and an agent loop in the same week, and raise the bar on each of them.
-They span all of garden3d, but their home base is Sanctuary Computer, where roughly 70% of their time goes. Our development studio is where the engineering standard gets set, and where it either holds or slips: architecture, code review, estimation, and the hardest technical calls on our biggest projects. The other 30% goes to garden3d's broader technology story: how we ship product for USB Club, build with agents across the collective, which tools and platforms we bet on, and what we build for ourselves.
-They are also how we get better people. Our work is only as good as the engineers making it, so this person hunts for exceptional talent, sells them on us, and sets them up to do the best work of their careers. The ideal candidate looks at a worker-owned collective with four studios, an open P&amp;amp;L and clients like Google, Stripe, Brooklyn Museum and The Nobel Prize, and sees an engineering practice they can propel among the best in the world.
-Responsibilities &amp;amp; Mandates
-️ Systems that hold up
-We build web apps, native apps, data pipelines, content platforms and connected devices for clients who can't afford for them to fall over. This person has engineered complex systems for a long time, and it shows in the architecture they draw before a line is written. They own the technical blueprint on our most important projects, and they make the hard calls on the rest: what to build, what to buy, and what to leave out.
- All in on agentic development
-The way software gets built changed, and we intend to be ahead of it. This person is already deep in it: loop engineering, agents running against evals, agents that open their own PRs, and the guardrails that make all of that trustworthy. They make agentic development the default way Sanctuary Computer works, and they can tell the difference between a demo and a system a team can rely on.
- Practical engineering
-We strongly prefer convention over configuration, boring technology, and platforms that let a small team ship a lot. TypeScript is the default language, Rails and Phoenix handle what they're best at, and we'd rather deploy to a platform like Render or Heroku than run our own infrastructure. This person practices value engineering: the simplest thing that works, built well, at a cost the client is glad to pay.
- Code quality at Sanctuary Computer
-Sanctuary Computer is where our engineering standard lives, so this is where most of their energy goes. They set what good code review looks like, keep our senior developers sharp on architecture and quality, and make sure that bar holds without slowing the team down.
- Hiring and empowering the very best
-They are a magnet for exceptional engineers. They know where to find them, how to convince them, and how to give them enough room to do their best work while still holding them to the standard. People who work for this person should get visibly better, and should say so.
- Estimation, scoping and delivery
-They make sure our teams can reliably estimate and story point the work ahead, and that we deliver at a pace that meets the dates we promised and protects our margins. When an estimate is wrong, they find out why and fix the process.
- The technical voice in new business
-Our clients include Google, Stripe, Figma, Mozilla and The Nobel Prize. This person joins new business calls as the trusted technical consultant, scopes the work, writes the technical side of proposals, and can explain a hard tradeoff to a client's CTO and their CEO in the same meeting.
- Hardware sense
-We're the software team behind The Light Phone and Mill, so a good share of our work touches devices. This person doesn't need to be a firmware engineer, but they understand how hardware works, where it constrains the software, and how to plan a project that spans both.
- The garden3d technology story
-Across the collective, they decide which tools and platforms we bet on, how every studio uses agents, and which internal tools are worth turning into products. When someone at garden3d asks "how should we build this?", this person has the answer, or knows who does.
- Culture
-They model garden3d's values of partnership, curiosity, and accountability. The engineers they lead do the best work of their careers here, because the feedback is honest, the recognition is earned, and the craft rubs off
-&amp;nbsp;Special Projects
-In addition to day to day responsibilities, here’s an idea of some of the projects this role may spearhead or support in coming years →
-
-Making agentic development the default way Sanctuary Computer builds, with loops and evals the whole team trusts
-Setting the shared technical conventions every garden3d studio builds from
-Landing the kind of flagship engineering engagement that changes what people think we do
-Hiring the next generation of the engineering team, across every garden3d studio
-Turning the internal tools and agents we build for ourselves into products
-Partnering with the Head of Design so our own studio websites are as well engineered as they are designed
-
-Qualifications
-This is a great opportunity for someone looking to make a significant impact in a growing, dynamic company. Based on the responsibilities of this role, we think the right candidate has the following experience and skills:
- Must have:
-
-12+ years building software, at least three of them leading engineers inside a studio, agency, startup or founder-led company
-Deep experience engineering complex systems, shipped and run in production: distributed services, data pipelines, multi-platform products
-A true technology generalist, comfortable across frontend, backend, data, infrastructure and native
-A strong preference for practical engineering: convention over configuration, boring technology, and platforms as a service over bespoke infrastructure
-All in on agentic development: loop engineering, evals, and agents doing real work in a real codebase
-Fluency across most of our stack: React, Next.js, Ruby on Rails, Elixir &amp;amp; Phoenix, Sanity, Postgres, Redis. You won't use all of it every week, but you should be able to review any of it
-Experience as the technical lead in winning work: scoping, estimating and pitching to clients
-A track record of hiring exceptional engineers, and of people who got measurably better working for them
-Hands-on. This person can still write the code, not only review it (and will get on the tools when the need arises)
-
- Nice-to-have:
-
-A sense of how hardware works: firmware, embedded systems, IoT, and shipping software for physical products
-Experience in a client services environment (a consultancy, agency or studio)
-Experience in a Sales Engineer or Solutions Architect role
-Open source projects they've started or maintained
-Experience fostering close collaboration between design and engineering teams
-Experience inside a worker-owned, open-book, or otherwise unusual company
-A network in the engineering community: the meetups, the conferences, the people worth hiring
-Interests in design, art, music, food or fashion. We find these people have a well rounded sense of quality
-
- Who you are
-The person we’re looking for is happy, relaxed and easy to get along with and appreciates a commitment to a culture of transparency, non-dictatorial leadership styles, and alternative methodologies. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart” by carefully managing their workflow and team.
- How we interview
-After you submit your application, a member of our team will reach out. Our interview process starts with an intro call to answer any questions you have about the role and to learn a bit more about your experience and interests.
-From there, we’ll follow up with a panel interview call where you get to meet a few members of our team, to openly discuss some of our challenges and ensure your skills and interests align with where we’re going as a business.
-For qualified candidates, the process wraps with a reference call, and an offer to follow.
- Compensation
-This is a permanent leadership role. If this individual exceeds expectations in their first four months, we'll shape the permanent role together, with scope and compensation that grow as the studios and their revenue do. After a period of proven success (12 - 24 months), they become eligible to join our worker ownership program.
-We start with a 4-month fraction trial contract, paid hourly between $110 - $175 p/hr pending seniority &amp;amp; experience. In the first few weeks of the trial, this individual will propose their own goals to define success in their trial, and present them to our leadership team for approval.
-At garden3d, we believe that those who shoulder the most responsibility and create the greatest impact should be paid accordingly. This role greatly favors autonomous, competent &amp;amp; ambitious operators.
-‍ How we work:
-We believe that there’s a better balance between the poles of freelancing &amp;amp; full time, and for that reason we work differently to most shops:
-
-Transparency &amp;amp; Ownership:&amp;nbsp;We release out Profit &amp;amp; Loss statements to the community each year, open source our best ideas, and talk business &amp;amp; money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team &amp;amp; community.
-150% Carbon Negative: Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. We have been certified climate neutral since 2021.
-Strong Morals: Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).
-Async &amp;amp; Decentralized: We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.
-Remote Friendly:&amp;nbsp;Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.
-Ideas &amp;amp; Products:&amp;nbsp;In our spare studio time, we work to build our own open source or internal products to diversify &amp;amp; bolster our income. We create amazing technology products for our clients, so why not for the studio?
-
-→ Read more on our Substack, over here.
- How to apply
-We’re excited to hear from you! ❤
-Kindly submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process.
-Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying! :)
-
-To apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology</description><pubDate>Fri, 16 Oct 2026 14:21:11 +0000</pubDate></item><item><title>Samsara: Staff Software Engineer</title><link>https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer</link><description>Headquarters: Remote
-    URL: https://www.samsara.com/
-
-
-About the role:
-Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from IoT sensors, cameras, and connected devices across thousands of organizations, and that dataset is compounding: it grew from 4 trillion to 25+ trillion in four years. We're still early in turning that data into the products that will define how physical operations run, and we're hiring the engineers who will build what comes next.
-We're approaching ~$2B ARR growing 30%+ year over year, with 96% of our largest customers on two or more products. The fastest-growing divisions at Samsara are tackling the hardest, most ambiguous problems at the company: building new products from scratch, applying AI and ML to massive real-world datasets, and shipping capabilities that change how organizations maintain equipment, manage fleets, and run day-to-day operations. Most of this work is zero-to-one, at billion-dollar scale.
-We're looking for software engineers who want to define what ships next. Leveling is broad and flexible: we're hiring from Senior through Staff+, across platform and product, and we're open to shaping scope around the right person's strengths and interests. That window won't stay open long.
-This role is remote and open to candidates residing in the US. Relocation assistance will not be provided for this role.
-You should apply if:
-
-You want to impact the industries that run our world.&amp;nbsp;The software you build will have real-world stakes: helping keep the lights on, getting food into grocery stores, keeping workers safe. What ships here isn't metrics on a dashboard. It shows up on the loading dock, the job site, and the dispatch floor.
-You want to build, not maintain.&amp;nbsp;Samsara is in full growth mode. We're building new systems from scratch, not babysitting old ones. You'd own entire problem spaces end to end, with the autonomy to set direction from day one.
-You want to work where AI meets the physical world.&amp;nbsp;Samsara has spent a decade building the largest proprietary dataset for physical operations. More connected assets generate more data, more data trains better models, better models drive more value, and more value wins more assets. The market and the opportunity here are what set us apart, not just the models.
-You believe customers are more than a number.&amp;nbsp;Samsara engineers have a rare closeness to end users. You'll participate in customer interviews, collaborate with product managers and customer success, and use that context to build products that solve real problems operators face every day.
-You have the curiosity and drive to figure it out.&amp;nbsp;We're looking for people who take pride in their work and get things done at all costs. The engineers who thrive here don't wait to be told what to build. They define it, ship it, and own the outcome. The rate-limiting step on our teams isn't tooling or process. It's ambition.
-
-In this role, you will:&amp;nbsp;
-
-Take ownership of technically complex, mission-critical areas and run with them. We want to point you in a direction and show up to the demo meeting impressed, not spend our weeks managing the details.
-Define and drive technical strategy for new products and platform capabilities, from backend services and APIs to the customer-facing UI.
-Design and ship full-stack features end to end. You'll work across backend, frontend, and potentially mobile to deliver AI-powered products that solve real operational problems.
-Partner with product, design, and customer-facing teams to translate ambiguous, real-world problems into clear technical plans and measurable outcomes.
-Build and scale the systems behind AI-driven products, including data ingestion, APIs, and the workflows that put intelligence into the hands of operators.
-Raise the bar for the engineers around you through code reviews, design reviews, technical mentorship, and by setting a standard for quality, velocity, and craft.
-Champion, role model, and embed Samsara’s cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
-
-Minimum requirements for the role:
-
-Bachelor's degree in Computer Science, Engineering, or equivalent practical experience.
-8+ years of experience in software design and development, including building and operating production systems at scale.
-Strong full-stack fundamentals. You're comfortable working across backend services, APIs, and frontend (web or mobile) to ship complete products.
-Proficiency in modern languages and frameworks (Go, Python, TypeScript/JavaScript, React, or similar).
-Demonstrated experience leading cross-team or cross-org projects from inception through rollout, including managing ambiguity, driving alignment, and delivering measurable impact.
-Experience building AI-powered or data-driven products. You don't need to train models, but you know how to take AI capabilities and turn them into products customers love.
-Strong communication skills and the ability to translate between technical and non-technical stakeholders.
-A track record of building: zero-to-one products, systems you left in a meaningfully better place, or hard problems you refused to let stay unsolved.
-
-An ideal candidate also has:
-
-Experience shipping AI-powered features in production, whether that's LLM-based products, agentic workflows, recommendation systems, or other customer-facing AI.
-Comfort with modern AI-augmented development workflows (Cursor, LLMs, etc.) to multiply your output and accelerate delivery.
-Background working with real-world operational data (telematics, sensor data, work orders, inspections) or a strong interest in learning the domain.
-A proven track record of mentoring senior engineers and influencing engineering culture, standards, and best practices beyond a single team.
-Side projects, open-source contributions, or other signals of curiosity and drive outside the scope of your day job.
-
-
-
-
-The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience. This role is also eligible for an initial RSU grant with no vesting cliff, and ongoing refresh opportunities tied to performance, subject to plan terms and conditions. Learn more about our total rewards and benefits below.
-
-Annual Base Salary
-$162,400—$290,000 USD
-
-
-
-Total Rewards
-At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why&amp;nbsp;our rewards&amp;nbsp;are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time.
-Beyond compensation, we provide the foundations that enable long-term success: a flexible, employee-led remote model, a professional development stipend, comprehensive health and parental leave plans, and more. If you’re ready to build for the long term and own the outcome, your journey starts here.
-Flexible Working&amp;nbsp;
-At Samsara, we embrace a flexible working model that caters to the diverse needs of our teams. Our offices are open for those who prefer to work in-person and we also support remote work where it aligns with our operational requirements. For certain positions, being close to one of our offices or within a specific geographic area is important to facilitate collaboration, access to resources, or alignment with our service regions. In these cases, the job description will clearly indicate any working location requirements. Our goal is to ensure that all members of our team can contribute effectively, whether they are working on-site, in a hybrid model, or fully remotely. All offers of employment are contingent upon an individual’s ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.
-Belonging at Samsara
-At Samsara, we welcome everyone regardless of their background. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender, gender identity, sexual orientation, protected veteran status, disability, age, and other characteristics protected by law. We depend on the unique approaches of our team members to help us solve complex problems and want to ensure that Samsara is a place where people from all backgrounds can make an impact.
-
-
-To apply: https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer</description><pubDate>Mon, 17 Aug 2026 13:57:14 +0000</pubDate></item><item><title>Maven Clinic: Director, Marketing Operations</title><link>https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations</link><description>Headquarters: New York, NY; Remote, US (Hub cities)
-
-
-Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com
-An award-winning culture working towards an important mission –&amp;nbsp; Maven Clinic is a recipient of over 30 workplace and innovation awards, including:&amp;nbsp;
-
-TIME 100 Most Influential Companies (2023, 2026)
-Fortune Change the World (2024)
-CNBC Disruptor 50 List (2022, 2023, 2024)
-Fortune Best Workplaces for Millennials (2024)
-Fortune Best Workplaces in Health Care (2024)
-Fast Company Most Innovative Companies (2020, 2023)
-Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024)
-About the Role:&amp;nbsp;
-Maven is looking for a Director of Marketing Operations who will own the systems, data, and reporting infrastructure behind our B2B Growth Marketing team — from HubSpot/Salesforce instrumentation to pipeline attribution to the budget that funds it all. This person will lead a team across marketing analytics, marketing operations, and web optimization, and serve as the go-to partner for Sales, RevOps, Strategic Finance, and Client Success on shared data and reporting. Reporting to the Senior Director of Growth, they'll bring structure and rigor to a fast-moving org, ensuring marketing's numbers hold up in front of executive leadership.
-What You’ll Do:
-Marketing Technology, Data &amp;amp; Attribution
-
-HubSpot instrumentation (and its integration with Salesforce): own lead management strategy, campaign orchestration and tracking, and stage definitions for the B2B funnel.
-Pipeline attribution: own marketing's multi-touch attribution methodology and represent it in cross-team pipeline conversations.
-Data governance: maintain data dictionaries and definitions (MQL/MQA thresholds, pipeline vs. bookings vs. revenue) so reporting stays consistent as tools and AI use expand.
-Martech stack: own B2B-facing tools and integrations, including CaliberMind, GA4, HubSpot, Qualified, Webflow, and evaluate new tooling as needs evolve.
-Training and enablement: ensure the has the resources and knowledge to own the reporting and orchestration of their channels.
-
-Analytics &amp;amp; Reporting
-
-KPI ownership: define and maintain B2B marketing metrics (MQLs, MQAs, pipeline coverage, Pipe-Spend ratio) and the reporting cadence behind them.
-Executive reporting: build and deliver pipeline briefings and performance readouts for B2B marketing leadership.
-Dashboards: own the B2B analytics stack across CaliberMind, Looker, Data Studio, Salesforce, and GA4, and keep it accurate as definitions change.
-FY planning support: partner with Strategic Finance and RevOps on fiscal year target-setting, run-rate projections, and scenario modeling for B2B pipeline and budget as well as org-level OKR setting.
-
-Budget &amp;amp; Planning
-
-Budget ownership: oversee the B2B marketing budget, including forecast, actuals, monthly reconciliation, and shifts across programs and months.
-Vendor management: track spend and manage relationships with external vendors.
-FY planning: lead annual and quarterly budgeting and planning for B2B Growth Marketing in partnership with Strategic Finance.
-
-Marketing Website &amp;amp; CRO
-
-Marketing website: manage the web team that owns navigation, landing pages, and on-page SEO/AEO for the Enterprise/B2B experience.
-Testing and optimization: run a structured A/B testing and CRO program for B2B landing pages.
-Accessibility: maintain WCAG 2.1 AA compliance across the B2B site experience.
-
-Team Leadership &amp;amp; Cross-Functional Partnership
-
-
-
-People leadership: manage and develop a team covering marketing analytics, marketing operations, and web optimization.
-Process and tooling: set the team's operating rhythm and own its project management tooling (Asana and Jira).
-Builds with AI: personally build AI-powered workflows for reporting, analysis, and campaign operations that enable the team to make better decisions and scale without additional headcount.
-AI enablement: lead rollout of AI tools within B2B Growth Marketing, including data governance for tools connected to live CRM and marketing data, and set the team's judgment for where AI helps and where it doesn't.
-Cross-functional partnership: serve as B2B Growth Marketing's primary point of contact for Sales, SDR, RevOps, Strategic Finance, and Client Success on shared data, process, and reporting questions.
-
-
-
-What You’ll Bring:&amp;nbsp;
-
-8+ years in B2B marketing operations, analytics, or revenue operations, ideally supporting complex or enterprise sales cycles.
-Hands-on ownership of a marketing automation platform (HubSpot or similar) and the integration with Salesforce, including lead routing, lifecycle stages, and campaign orchestration.
-Experience building and defending pipeline or marketing attribution models with Sales and Finance stakeholders.
-Track record owning multi-million dollar marketing budgets, including forecasting, actuals, and reconciliation.
-Experience owning a B2B marketing website and CRO program, including A/B testing and accessibility standards.
-Experience managing and developing a high performance team.
-Sharp, direct communicator, comfortable presenting pipeline and Marketing performance data to executive leadership.
-Comfortable operating in a fast-changing org structure and building processes from ambiguity.
-Experience rolling out AI tools within a marketing team, with an eye toward data governance and accuracy.
-
-The base salary range for this role is $170,000 - $200,000 per year. You will also be entitled to receive equity and benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, and skillset.
-This role requires active work authorization in the US.
-Maven embraces a flexible hybrid work model. Our teams primarily operate from the New York Metropolitan area, NY, and remotely via San Francisco/Bay Area, CA, Seattle, WA. For those in our New York City office, we encourage in-person collaboration by requiring team members to work onsite three days a week&amp;nbsp; (Tuesday, Wednesday, Thursday). For those based in Boston, DC, Chicago, Seattle, and San Francisco, we encourage in-person collaboration by requiring team members to attend monthly Work Together Days within these cities. This policy aims to balance remote work flexibility with the benefits of face-to-face interaction.At Maven we believe that a diverse set of backgrounds and experiences enrich our teams and allow us to achieve above and beyond our goals. If you do not have experience in all of the areas detailed above, we hope that you will share your unique background with us in your application and how it can be additive to our teams.
-Benefits That Work For You
-Our benefits are designed to support your health, well-being and career development, helping you thrive both personally and professionally. We remain focused on providing a competitive benefits package for our employees. On top of standards such as employer-covered health, dental, and insurance plan options, we offer an inclusive approach to benefits:
-
-Maven for Mavens: access to the full platform and specialists, including care for mental health, reproductive health, family planning and pediatrics.
-Whole-self care through wellness partnerships
-Hybrid work, in office meals, and work together days&amp;nbsp;
-16 weeks 100% paid parental leave and new parent stipend (for Mavens who've been with us for 1 year+)
-Annual professional development stipend and access to a personal career coach through Maven for Mavens
-401K matching for US-based employees, with immediate vesting
-
-These benefits are applicable to Maven Clinic Co., US-based, full-time employees only. 1099/Contract Providers are ineligible for these benefits.&amp;nbsp;
-Maven is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Maven is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Maven Clinic interview requests and job offers only originate from an @mavenclinic.com email address (e.g jsmith@mavenclinic.com). Maven Clinic will never ask for sensitive information to be delivered over email or phone. If you receive a scam issue or a security issue involving Maven Clinic please notify us at: security@mavenclinic.com. For general and additional inquiries, please contact us at&amp;nbsp;careers@mavenclinic.com.&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations</description><pubDate>Fri, 16 Oct 2026 07:31:00 +0000</pubDate></item><item><title>Fivetran : Global Alliance Lead, Capgemini</title><link>https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini</link><description>Headquarters: Remote, Colorado, United States, AMER
-
-
-From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.About Us
-Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on. Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.
-As we bring our teams and technology together, we’re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact. During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.
-About the role
-The Global Alliance Lead is one of the most strategically important roles in our Ecosystem. You will own our relationship with one of the world's leading technology and transformation partners end-to-end — from C-suite engagement through to practitioner enablement and joint pipeline creation. You will be the architect of how the GSI and NewCo go to market together, ensuring our platform becomes the trusted data foundation inside the GSI’s agentic AI delivery practice globally.
-This is a senior individual contributor role reporting to the Global Head of GSI Relationships. You will orchestrate across sales, partner solution architecture, marketing, and partner operations — bringing the full weight of the organisation to bear on one of our highest-leverage commercial relationships.
-What You'll Do
-Relationship strategy and executive engagement
-
-Own the global GSI relationship at partner and C-suite level, building trusted relationships with Client, practice and delivery team leads.
-Define and execute a multi-year joint strategy that positions dbt + Fivetran as the default open data infrastructure layer within the GSI’s enterprise AI and agentic workflow delivery
-Represent NewCo at GSI’s internal forums, client briefings, and industry events — articulating a compelling narrative around open data infrastructure and its relevance to the GSI’s strategy.&amp;nbsp;
-
-Platform integration and practitioner adoption
-
-Drive adoption of the dbt + Fivetran platform within GSI delivery teams — ensuring practitioners, solution architects and practice leads are certified, confident, and actively recommending the platform in client engagements
-Work with GSI's practice leadership to embed NewCo's platform into their business groups, standard delivery architectures, RFP responses and client proposals — with particular focus on GSI's Data &amp;amp; AI practices
-
-Enablement and go-to-market
-
-Design and execute a frictionless enablement programme for GSI practitioners globally — certifications, reference architectures, use case playbooks, and joint delivery assets
-Partner with GSI's marketing and alliances teams to develop joint go-to-market campaigns anchored to open data infrastructure, trusted AI delivery, and closing the gap between AI POC and production
-Support GSI in building and positioning client-facing agentic AI value accelerators — with NewCo platform as the foundational data layer — the "NewCo inside" model
-
-Pipeline and opportunity development
-
-Source and develop new pipeline opportunities through the GSI relationship — identifying client situations where open data infrastructure creates measurable value.
-Drive co-sell motions alongside GSI account teams, ensuring NewCo is present and influential at the point of client opportunity
-Maintain a rigorous view of GSI-engaged pipeline — tracking opportunity sourcing, progression, and closed business attributed to the alliance
-
-Telemetry and performance
-
-Define and track the signals that indicate a healthy, high-performing GSI relationship: certifications, sourced opportunities, platform deployments, practitioner engagement, and joint wins
-Report regularly to the Global Head of GSI Relationships on alliance health, pipeline contribution, and strategic progress
-Identify risks and gaps in the relationship early and mobilise internal resources to address them
-
-What you will bring
-
-15+ years of experience in strategic alliances, enterprise sales, or partner management within the data, cloud, or enterprise software industry
-Demonstrated experience managing complex, global relationships with major consulting firms or global system integrators at a senior level
-Deep understanding of the modern data stack and the business value of open data infrastructure — dbt, Fivetran, or equivalent experience strongly preferred
-Ability to engage credibly at C-suite and partner level within a global consulting organisation — understanding how GSIs make decisions, build practices, and go to market
-Strong commercial instincts — able to identify, thoroughly qualify and develop joint pipeline opportunities, not just manage existing relationships
-Track record of operating as a cross-functional orchestrator — influencing without direct authority across sales, engineering, marketing, and operations
-Exceptional communication and storytelling skills — able to translate technical platform capabilities into compelling business narratives for consulting and enterprise audiences
-Familiarity with AI, agentic workflows, and the data governance landscape is a strong advantage + strong knowledge of GSI's operating model and contacts within.&amp;nbsp;
-Willingness to travel globally to engage GSI leadership and teams across regions
-
-What Success Looks Like in Year One
-
-A clearly defined joint strategy with GSI signed off at partner Executive level and on track to primary Global Strategic Practice.
-Material increase in GSI practitioner certifications and active platform deployments across Data &amp;amp; AI and Insights &amp;amp; Data practices
-GSI-sourced pipeline contributing measurably to NewCo's revenue
-At least two joint go-to-market campaigns live in the market delivering pipeline — anchored to GSI's agentic AI and trusted data agenda
-First client-facing agentic value accelerators built on NewCo platform delivered with GSI — positioning NewCo as the trusted data infrastructure inside GSI's AI delivery
-A telemetry framework in place tracking alliance health and pipeline influence
-
-Why This Role
-This is a rare opportunity to own a marquee relationship at a defining moment for both companies. GSI’s are publicly committing to capturing the full value of the agentic AI revolution for customers&amp;nbsp; — and the merged dbt + Fivetran platform is the trusted data infrastructure that makes AI production-ready. The person who builds this alliance well will sit at the intersection of the two most important forces in enterprise technology right now: the scale of a global systems integrator and the open infrastructure that makes AI trustworthy enough to deploy at scale.
-This position qualifies for Fivetran’s incentive plan, and it’s common for employees in this role to achieve the total on-target earnings.
-#LI-RemoteThe compensation range displayed on this job posting reflects the minimum and maximum target for new hire compensation for the target position and level, and may include sales incentives or target bonuses depending on the role. &amp;nbsp;Our compensation ranges are determined by role, level, and location. Our job titles may span more than one career level. Within the range, individual compensation is determined by additional factors, including job-related skills, experience, relevant education or training, business need, market demands. The compensation range is subject to change and may be modified in the future. Your recruiter can share more about the specific compensation range for your location during the hiring process.Denver Pay Range$165,739—$196,000 USDOTE (On Target Earning)$236,774—$280,000 USD&amp;nbsp;
-Perks and Benefits
-
-100% employer-paid medical insurance*
-Generous paid time away from work, including paid vacation or flexible/unlimited vacation depending on role and country, plus paid sick time, inclusive parental leave, paid holidays, including a year-end Global Week of Rest, and volunteer days off.
-RSU stock grants*
-Professional development and training opportunities
-Company virtual happy hours, free food, and fun team-building activities
-Monthly cell phone stipend
-Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching, and self-guided mindfulness exercises for all covered employees and their covered dependents.
-
-*May vary by country and worker type - please reach out to your recruiter for more information
-Click here to learn more about Fivetran's Benefits by Region.
-
-We’re honored to be valued at over $5.6 billion, but more importantly, we’re proud of our&amp;nbsp;core values of Get Stuck In, Do the Right Thing, and One Team, One Dream. Read about us in&amp;nbsp;Forbes.&amp;nbsp; &amp;nbsp; &amp;nbsp;
-Fivetran brings together high-quality talent across the globe to make data access as easy and reliable as electricity for our customers. We value and recognize that our customers benefit from having innovative teams made of people from many backgrounds, experiences, and identities. Fivetran promotes diversity, equity, inclusion &amp;amp; belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities.
-To learn more about Fivetran’s culture and what it’s like to be part of the team, click here and enjoy our video.
-To learn more about our candidate privacy policy, you can read our statement here.
-
-We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this form. We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.
-
-To apply: https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini</description><pubDate>Fri, 16 Oct 2026 07:30:50 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii</description><pubDate>Sat, 17 Oct 2026 07:30:50 +0000</pubDate></item></channel></rss>
