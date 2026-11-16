@@ -1,5 +1,178 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Lemon.io: Senior Vue Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1</link><description>Headquarters: New York, NY
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Mercury: Business Continuity Management Lead</title><link>https://weworkremotely.com/remote-jobs/mercury-business-continuity-management-lead</link><description>Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States
+
+
+About the Role
+Mercury is seeking a Business Continuity Management (BCM) Lead to build and lead an enterprise-wide continuity program as we prepare to become a bank. As part of the Risk team, this leader will establish practical standards, clear accountability, and tested capabilities to maintain critical services and recover effectively from disruptions, with direct visibility to the CRO and senior leadership.
+This role fills the need for a dedicated leader to coordinate BCM across the organization. The ideal candidate combines deep continuity and resilience expertise with the judgment to build a proportionate program in a fast-moving environment, working effectively with Engineering, Operations, Product, Information Security, Legal, Compliance, and business teams.
+The BCM Lead will own the enterprise framework, coordination, oversight, and reporting. Business and technology owners will remain accountable for their continuity plans and recovery execution.Because this is a new program, the Lead will be hands-on in the initial build: facilitating the first round of BIAs and plans side by side with owners, running exercises, and driving identified gaps through remediation. This leader will also work closely with Engineering on technology disaster recovery and with relevant teams on incident response, crisis management, and third-party resilience.
+Key Responsibilities
+
+Develop and implement Mercury’s enterprise BCM framework, policies, standards, governance, and operating model, with a prioritized implementation roadmap aligned to bank-launch readiness and critical services.
+Partner with business owners to identify critical services, conduct business impact analyses (customer, financial, operational, and regulatory), and map dependencies across people, processes, technology, facilities, and third parties, including single points of failure.
+Establish recovery time objectives (RTOs) and recovery point objectives (RPOs), where applicable, with business and technology owners; challenge gaps between objectives and recovery capabilities.
+Set standards for continuity plans and recovery procedures, and facilitate and support accountable owners in developing actionable plans and alternative operating arrangements.
+Coordinate business continuity with technology disaster recovery, incident response, and crisis management, with clear activation criteria, escalation paths, and communications responsibilities.
+Design and lead a risk-based exercise program, from tabletop simulations to end-to-end recovery tests, and drive lessons learned, remediation tracking, and verification that gaps are closed.
+Partner with Third-Party Risk Management and vendor owners to assess critical provider recovery capabilities, contingency arrangements, and concentration dependencies.
+Embed continuity considerations into new products, material business changes, and technology implementations.
+Establish metrics and reporting that give management and relevant committees visibility into readiness, testing outcomes, material gaps, and overdue remediation.
+Build and lead a growing BCM team, including hiring and developing analysts as the program scales over the next year.
+Deliver role-based training and promote awareness of continuity responsibilities across the organization.
+Support regulatory examinations and bank-launch readiness reviews with accurate documentation and evidence of recovery capability.
+
+Qualifications
+
+10+ years of experience in business continuity management, operational resilience, disaster recovery, or a related discipline within a fintech, financial institution, technology company, or other highly regulated environment.
+Demonstrated experience building or materially enhancing an enterprise BCM program, including governance, implementation, testing, and reporting.
+Strong skills in business impact analysis, critical-service identification, dependency mapping, and recovery objective development.
+Experience developing actionable continuity plans and leading exercises that test recovery assumptions and expose gaps.
+Sufficient technical fluency to work with Engineering on cloud services, system dependencies, data recovery, and technology disaster recovery.
+Working knowledge of third-party risk management, including assessing critical vendor recovery capabilities, contingency arrangements and concentration risk.
+Proven ability to drive cross-functional remediation through influence, with a clear view of where BCM oversight ends and business or technology ownership begins.
+Excellent written and verbal communication skills, including the ability to explain readiness gaps and tradeoffs to senior leadership.
+Experience managing a team of Business Continuity analysts.
+
+Preferred Qualifications
+
+Familiarity with banking supervisory expectations for business continuity, and operational resilience.
+Experience operating in a company-building or bank-building environment.
+Familiarity with recognized continuity standards, such as ISO 22301, and BCM tools for plan management, exercises, and issue tracking.
+Relevant professional certification, such as CBCP or MBCI.
+
+Leadership Attributes
+
+Pragmatic, first-principles builder who turns ambiguous needs into clear priorities and designs a program that fits Mercury’s operations and scale.
+Takes ownership and follows through from identified gaps to demonstrated recovery.
+Collaborative, low-ego, and effective across the three lines of defense.
+Calm under pressure and able to facilitate clear decisions during disruptions.
+Able to challenge constructively, distinguish material gaps from theoretical concerns, and avoid over-engineering.
+
+*Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC.
+Mercury values diversity &amp;amp; belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Mercury are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected characteristic. We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities or special needs. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+#LI-DR1Total RewardsThe total rewards package at Mercury includes base salary, equity (stock options/RSUs), and benefits.
+Our salary and equity ranges are highly competitive within the SaaS and fintech industry and are updated regularly using the most reliable compensation survey data for our industry. New hire offers are made based on a candidate’s experience, expertise, geographic location, and internal pay equity relative to peers.
+Our target new hire base salary ranges for this role are the following:US employees in New York City, Los Angeles, Seattle, or the San Francisco Bay Area:$163,000—$203,800 USDUS employees outside of New York City, Los Angeles, Seattle, or the San Francisco Bay Area: $146,700—$183,400 USDCanadian employees (any location):$154,100—$192,600 CAD
+
+To apply: https://weworkremotely.com/remote-jobs/mercury-business-continuity-management-lead</description><pubDate>Thu, 22 Oct 2026 07:31:14 +0000</pubDate></item><item><title>OfferUp: Software Development Engineer II (Remote @ Colombia)</title><link>https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia</link><description>Headquarters: Remote @ Colombia
+
+
+About the role:&amp;nbsp;
+The OfferUp Connect team builds the moments that turn a listing into a sale. Every chat between buyers and sellers, every offer notification, and every saved-search alert runs through services we own, from messaging and notifications to location, meetups, and the subscriptions sellers pay for. We run high-volume Java microservices and streaming pipelines, integrate with partners like Braze, Amazon Pinpoint, Apple, and Google, and use experimentation to decide what ships.
+We also take on high-visibility work beyond our domain. Connect built OfferUp's video infrastructure for listing videos and LLM-powered catalog enrichment on Amazon Bedrock, both company priorities that changed what buyers see every day. The roadmap is wide open for someone who wants to help shape it.
+As a Software Development Engineer II, you'll own features from concept to rollout: designing and writing well-tested code, launching experiments, and measuring results with Product, Design, and Data partners. You'll raise the quality of the code around you and get the chance to join the next project like video or catalog enrichment.
+Here’s more of what you will get to do:
+
+Design, build, and deploy backend services and event-driven pipelines for messaging, notifications, location, and subscriptions
+Improve the reliability, latency, and delivery rates of high-volume messaging and notification systems, including retries, rate limiting, and frequency capping
+Integrate with and operate third-party platforms such as Braze, Amazon Pinpoint, Apple and Google push services, and app store billing
+Own features end-to-end: plan, design, develop, deploy, measure, and iterate
+Break down complex engineering problems into achievable tasks and deliver them within committed timeframes
+Work collaboratively with cross-functional teams (Product, Design, Data Science, Marketing, and iOS, Android, and web engineers) to design and implement new features
+Contribute to A/B tests and use experimentation results to decide what ships
+Actively participate in code reviews and enforce good patterns, testing, and edge-case handling
+Coach and mentor junior team members, new hires, and interns
+Create shared components, utilities, and services that improve team velocity across the stack
+Maintain and improve the runbooks, alerting, and monitoring for the features you ship
+Participate in a reasonable on-call rotation with the rest of the team
+Use AI coding tools (Claude Code, Gemini, and similar) to increase your daily development velocity and code quality
+Become a subject matter expert in one or more of the team's sub-domains: messaging, notifications and campaigns, location, or subscriptions and promotions
+
+You’ll thrive in this role if you have:
+
+2+ years of professional software engineering experience
+Demonstrated ability to own the delivery of multiple features end-to-end (plan, design, develop, and deploy) with high efficiency, including breaking down engineering problems into achievable tasks
+Strong coding skills in Java, with a working understanding of microservices and distributed-systems fundamentals
+Good knowledge of data structures and object-oriented design
+Working knowledge of asynchronous, event-driven systems (queues, pub/sub, or streams), including retries and idempotent processing
+Hands-on experience using AI coding tools (Claude Code or similar) in a real engineering workflow, and a point of view on when they help and when they don't
+A habit of following good coding patterns, writing appropriate tests, considering trade-offs, and seeking out edge cases
+Comfortable giving and receiving feedback in code reviews
+A bias toward shipping, learning from production, and iterating quickly
+An insatiable desire and ability to learn
+BS or MS in Computer Science, or equivalent practical experience
+
+Helpful, but not required:
+
+Fluency in another modern object-oriented programming language
+Experience with TypeScript and Node.js
+Experience with Agile development
+Experience building and integrating with REST APIs
+Experience with AWS services such as DynamoDB, SQS, SNS, Lambda, and ElastiCache (Redis)
+Experience with notification and engagement platforms (Braze, Amazon Pinpoint, APNs, FCM) or in-app subscription billing (App Store, Google Play)
+Experience with stream processing frameworks such as Apache Flink or Kafka Streams
+Experience with A/B testing platforms (Statsig, LaunchDarkly, Optimizely) and analytics warehouses (BigQuery, Snowflake)
+Experience consuming or integrating LLM-based APIs (e.g., Bedrock, Vertex AI, OpenAI)
+Familiarity with Kubernetes, Helm, and CI/CD pipelines
+
+About OfferUp:
+OfferUp is dedicated to creating the simplest and most trusted way for people to buy, sell, and connect in their local communities. One of the top local marketplace apps for local buyers and sellers in the U.S., OfferUp makes it easy for people to discover more of what they need—from great deals and secondhand goods to jobs, services, home rentals, and more—right in their own communities. Our trusted platform empowers millions to connect, thrive, and move life forward.&amp;nbsp;
+Available on iOS and Android, OfferUp has consistently ranked among the top shopping apps. Founded in 2011 and based in Bellevue, WA, OfferUp serves local markets nationwide and was used by more than 1 in 6 adults in the U.S. in 2024. OfferUp is backed by leading investors, including Andreessen Horowitz, Warburg Pincus, GGV Capital, T. Rowe Price, and Coatue Management. https://about.offerup.com
+More About OfferUp At a Glance
+
+Top 10 Shopping app in the App Store and Google Play Store for three years
+15%+ of adults in several major markets use OfferUp every month (LA, Miami, Phoenix, Seattle, Las Vegas, Riverside, Orlando)
+OfferUp works directly with nearly 2000 US law enforcement agencies to build trust in local communities
+
+OfferUp is unleashing the power of local, and we’ve built a dynamic team to do it. To learn more about working at OfferUp, check out https://about.offerup.com/people&amp;nbsp;
+OfferUp provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, OfferUp complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, transfer, leaves of absence, compensation, and training.
+OfferUp expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of OfferUp’s employees to perform their job duties may result in discipline up to and including discharge.
+
+To apply: https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia</description><pubDate>Thu, 22 Oct 2026 07:31:08 +0000</pubDate></item><item><title>Maven Clinic: Head of Member Growth (B2B2C)</title><link>https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c</link><description>Headquarters: New York, NY; Remote, US (Hub cities)
+
+
+Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com
+An award-winning culture working towards an important mission –&amp;nbsp; Maven Clinic is a recipient of over 30 workplace and innovation awards, including:&amp;nbsp;
+
+TIME 100 Most Influential Companies (2023, 2026)
+Fortune Change the World (2024)
+CNBC Disruptor 50 List (2022, 2023, 2024)
+Fortune Best Workplaces for Millennials (2024)
+Fortune Best Workplaces in Health Care (2024)
+Fast Company Most Innovative Companies (2020, 2023)
+Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024)
+About the Role:
+Maven is looking for a Head of Member Growth to own one of the most important numbers in the company: enrollments. This role is directly accountable for driving member enrollment into Maven's programs across our core business — and, by extension, the revenue those enrollments generate. You will own the enrollment engine end to end, from awareness through activation, turning eligible lives into engaged members.
+Enrollment is not a single-team problem. It sits at the intersection of nearly every function at Maven, and this role is built for someone who thrives there. You'll partner daily with Client Success (who own the client relationships that unlock eligible populations), Marketing (member acquisition and lifecycle), Product (enrollment experience and funnel), Finance (targets, forecasting, and unit economics), Data (measurement, segmentation, and attribution), and Clinical and Operations teams. Because so many teams touch enrollment, a core part of the job is holding those cross-functional partners accountable to their piece of the machine — the engine only works when every team delivers its part.
+This is a player-coach role. You will lead a small, high-caliber team while remaining deeply hands-on yourself every day. Although it carries a Senior Director title, it is explicitly NOT a leaned-out management position for someone who wants to direct a team from a distance. This is a hard requirement: the person in this seat reads the data themselves, pressure-tests the funnel, drafts the plan, and does the work alongside the team. We are looking for a builder and operator who also develops people — not a manager who has stepped away from the work.
+We're also looking for someone who can expand the definition of the job. A great deal of enrollment optimization work is already underway, but there is not enough strategic thinking about fundamentally new ways to drive enrollments — approaches that don't simply depend on securing permission to communicate with a client's employees. This role is expected to find and open those new avenues, not just optimize the existing ones.
+What You'll Do:
+
+Own member growth for the Core Business: Be directly accountable for enrollment targets across Maven's core business and for the revenue those enrollments drive. Set the strategy, build the plan, and act as a control tower across all cross-functional teams driving revenue to deliver the results quarter over quarter.
+Build and run a scalable enrollment engine: Own the full journey from eligible population to enrolled, activated member — spanning client launches, member acquisition and messaging, the enrollment product experience, and re-engagement of eligible-but-not-enrolled members.
+Expand the playbook and deliver new strategies to drive sustainable member growth: Think strategically and from first principles about new ways to grow enrollments beyond today's optimization work — including partnerships and approaches that don't rely solely on permission to communicate with a client's employees. Identify, size, and open avenues that expand the team's purview and unlock new growth.&amp;nbsp;
+Optimize relentlessly around data: Build and consistently iterate on the funnel, and create systems that enable quick diagnoses of opportunities. Build operational metrics that act as leading KPIs for each team contributing to enrollments and bring quantitative rigor into how teams execute against targets.
+Hold the cross-functional machine accountable: Partner daily with Client Success, Marketing, Product, Finance, Data, Clinical, Payer, Sales, and Operations — and hold each team accountable to its operational KPIs in the enrollment process. Serve as the connective tissue that keeps every part of the engine delivering.
+Operate as a player-coach: Lead and develop a small, high-performing team while staying in the execution and details. Set the bar for rigor and hands-on execution by doing the work, coaching through it, and multiplying the team's impact rather than stepping back from it. This is a role that comes with an expectation that you directly execute on the work.
+Instrument and forecast: Partner with Data and Finance to build the measurement, segmentation, attribution, and forecasting needed to know exactly what is and isn't working, and to forecast enrollment and revenue with confidence.
+
+What You'll Bring:
+
+10+ years of experience driving growth, enrollment, acquisition, or revenue outcomes, with a track record of personally owning and hitting a number — ideally in healthcare, benefits, marketplaces, consumer subscription, or another environment with a complex funnel and multiple stakeholders.
+A hands-on player-coach. You are energized by being in the details daily — the data, the funnel, the plan, the execution — and you lead a small team as a way to multiply your own hands-on impact, not to step back from the work. This is a hard requirement for the role.&amp;nbsp;
+Elite quantitative ability as a core competency. You can build and interrogate a funnel model yourself, size opportunities, design experiments, and instinctively optimize around data rather than intuition. Strong quant is non-negotiable.
+Strategic range. Beyond optimizing what exists, you can spot and pursue fundamentally new approaches to enrollment that expand the team's purview — not just incremental improvements to current channels.
+Cross-functional leadership and accountability. Proven ability to align and mobilize many teams — Client Success, Marketing, Product, Finance, Data, Clinical, Operations — around a shared goal without direct authority over most of them, and to hold each accountable to its operational commitments.
+Commercial instincts. You understand how enrollment translates into revenue and unit economics, and you can partner with Finance on targets and forecasting.
+Comfort in a fast-paced, mission-driven environment with high visibility and direct accountability for a top-line company metric.
+
+The base salary range for this role is $204,000.00 - $270,000.00 per year. You will also be entitled to receive bonus, equity, and benefits. Individual pay decisions are based on qualifications, experience, and skillset.
+This role requires active work authorization in the US.
+Maven embraces a flexible hybrid work model. Our teams primarily operate from the New York Metropolitan area, NY, and remotely via San Francisco/Bay Area, CA, Seattle, WA. For those in our New York City office, we encourage in-person collaboration by requiring team members to work onsite three days a week&amp;nbsp; (Tuesday, Wednesday, Thursday). For those based in Boston, DC, Chicago, Seattle, and San Francisco, we encourage in-person collaboration by requiring team members to attend monthly Work Together Days within these cities. This policy aims to balance remote work flexibility with the benefits of face-to-face interaction.At Maven we believe that a diverse set of backgrounds and experiences enrich our teams and allow us to achieve above and beyond our goals. If you do not have experience in all of the areas detailed above, we hope that you will share your unique background with us in your application and how it can be additive to our teams.
+Benefits That Work For You
+Our benefits are designed to support your health, well-being and career development, helping you thrive both personally and professionally. We remain focused on providing a competitive benefits package for our employees. On top of standards such as employer-covered health, dental, and insurance plan options, we offer an inclusive approach to benefits:
+
+Maven for Mavens: access to the full platform and specialists, including care for mental health, reproductive health, family planning and pediatrics.
+Whole-self care through wellness partnerships
+Hybrid work, in office meals, and work together days&amp;nbsp;
+16 weeks 100% paid parental leave and new parent stipend (for Mavens who've been with us for 1 year+)
+Annual professional development stipend and access to a personal career coach through Maven for Mavens
+401K matching for US-based employees, with immediate vesting
+
+These benefits are applicable to Maven Clinic Co., US-based, full-time employees only. 1099/Contract Providers are ineligible for these benefits.&amp;nbsp;
+Maven is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Maven is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Maven Clinic interview requests and job offers only originate from an @mavenclinic.com email address (e.g jsmith@mavenclinic.com). Maven Clinic will never ask for sensitive information to be delivered over email or phone. If you receive a scam issue or a security issue involving Maven Clinic please notify us at: security@mavenclinic.com. For general and additional inquiries, please contact us at&amp;nbsp;careers@mavenclinic.com.&amp;nbsp;
+
+To apply: https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c</description><pubDate>Thu, 22 Oct 2026 07:31:08 +0000</pubDate></item><item><title>Lemon.io: Senior Vue Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1</link><description>Headquarters: New York, NY
     URL: https://lemon.io
 
 
@@ -1202,169 +1375,4 @@ Important Security Notice for Candidates
 At Dremio, we uphold trust and transparency as paramount values in all our interactions with customers, partners, employees, and the general public. We have been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will be from an @dremio.com domain. If you suspect you've been targeted by a scam, it's imperative to report the incident to your local law enforcement agencies. For more information about this type of scam, please refer to Dremio's official statement&amp;nbsp;here.
 Dremio is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.
 
-To apply: https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity</description><pubDate>Sun, 18 Oct 2026 07:30:58 +0000</pubDate></item><item><title>Twikey: Senior Java Developer</title><link>https://weworkremotely.com/remote-jobs/twikey-senior-java-developer</link><description>Headquarters: Ghent - Belgium
-    URL: https://www.twikey.com/jobs
-
-
-Are you a driven back-end developer who doesn't wait for instructions, but is already thinking two steps ahead? Who experiments with new technologies and smart solutions alongside the job? Then we want to talk to you.
-Straight forward but clear: Twikey isn't looking for someone to just execute. We're looking for someone who thinks, does and keeps going when the going gets tough.
-Because fintech is evolving at breakneck speed. That calls for real ownership and for someone who can dive deep on the technical side to keep innovating and improving our platform. You get plenty in return, such as the freedom and responsibility to deliver your own projects. Thanks in part to our organisational structure, you can shape your ideas in the short term and see the results of your hard work quickly.
-Driven by your passion for building scalable, performant and secure back-end systems, you continuously raise the bar for your own skills and for our product.
-As a member of our development team you work closely with our CTO, 3 fellow developers and 2 testers on the core of our software application. A small, strong team in which you take on a role with real impact on the future of our product.
-
-You focus on&amp;nbsp;developing and improving the back-end&amp;nbsp;of our platform, optimising the architecture and data processing while keeping the security and stability of our system in mind. This lets you put your technical skills to full use and come up with innovative solutions.
-With your expertise you'll&amp;nbsp;make valuable suggestions and streamline processes&amp;nbsp;for all our stakeholders, so we can work more efficiently and achieve better results.
-You provide&amp;nbsp;technical support on integration projects&amp;nbsp;with software houses, banks and large companies, solving complex technical problems. That gives you the chance to work on challenging projects and to get in touch with a wide range of technologies and industries.
-
-Once you know our product inside out, there are plenty of challenging projects for you to help build.
-What are we looking for in you?
-
-You are&amp;nbsp;driven, curious and enterprising.&amp;nbsp;Not only in your job, but outside of it too. You have a&amp;nbsp;pro-active attitude&amp;nbsp;and are always a few steps ahead: you spot opportunities, grab them and get to work.
-Technical challenges? You take them on, not because you have to, but because you want to&amp;nbsp;learn. You're a&amp;nbsp;self-starter&amp;nbsp;and quickly get to grips with new technologies, languages or frameworks.
-You understand that a good product is never "finished". You draw energy from that&amp;nbsp;mix of creating and fine-tuning. You think along, question things and keep building new solutions.
-You have experience using AI tools to build integrations. You're&amp;nbsp;actively exploring how AI can contribute&amp;nbsp;to smarter user experiences and more efficient software development. Experience with data analytics is an asset.
-You therefore attach&amp;nbsp;a lot of importance to the security, stability and reliability&amp;nbsp;of a system and know what it takes to get there. You work in a structured, meticulous way and write code that is clean, reusable and easy to test.
-You have demonstrable experience with&amp;nbsp;Java, Go and the Spring framework. Experience with API integrations, web services, Linux or other relevant areas is a plus.
-You have&amp;nbsp;a deep understanding of databases.&amp;nbsp;You don't just know how to use them, you know how they work. You have an opinion on structured, high-quality code, architecture and back-end technologies.
-You have a very good command of&amp;nbsp;English, for smooth collaboration with all colleagues and stakeholders. Dutch is an asset.
-You are based in a time zone within&amp;nbsp;one hour of CET, so your working day overlaps with the team's for the daily stand-ups and close day-to-day collaboration.
-You can work independently and enjoy a small team where switching gears quickly, collaboration and knowledge sharing are central.
-
-Twikey offers you:
-
-An environment where challenge, innovation and autonomy come first.
-The room to&amp;nbsp;experiment, to challenge and to improve.&amp;nbsp;And we expect you to really take that room.
-An ideal setting if you want to grow fast and healthily, both technically and personally. Training, ownership, taking on new or additional roles based on your talents and interests, ... a lot is possible here, and you're at the wheel!
-A&amp;nbsp;complementary team of more than 35 colleagues&amp;nbsp;who move forward together in a respectful and open atmosphere.
-A motivating workplace with&amp;nbsp;plenty of knowledge and expertise, shared both formally during the daily stand-ups and the weekly Friday call, and informally at the coffee machine.
-Appreciation, openness and critical dialogue.&amp;nbsp;Our Friction Hunter Trophy is an example: every month we celebrate the colleague who made the biggest difference for customers, teammates or internally. Your impact gets noticed!
-A modern workplace with different zones (conference, connect, co-work, concentrate) in a recently built, industrial-style office building. Easy to reach by car, by bike and by public transport on the edge of Ghent, right next to the KBC tower.
-A&amp;nbsp;salary package tailored&amp;nbsp;to your experience and skills, with plenty of extra-legal benefits, a collective bonus system and a cafeteria plan to convert your 13th month as you choose.
-The chance to work in an&amp;nbsp;innovative Belgian fintech scale-up&amp;nbsp;that is active in several countries, in a sector that is growing fast!
-
-A job ad doesn't tell you everything. Our colleagues tell you&amp;nbsp;here what it's really like to work at Twikey.
-
-To apply: https://weworkremotely.com/remote-jobs/twikey-senior-java-developer</description><pubDate>Thu, 17 Sep 2026 10:51:23 +0000</pubDate></item><item><title>Mixpanel: Customer Value Architect III</title><link>https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1</link><description>Headquarters: Remote, US
-
-
-About Mixpanel
-Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com.About the Team
-The Customer Value Architects team sits inside the revenue organization and owns the connection between what customers buy and what they actually get out of Mixpanel. We turn product usage into measurable business outcomes, working across onboarding, adoption, and renewal to make sure customers see the value they signed up for.
-About the Role
-The right candidate is a relationship-first advisor who connects a customer's Mixpanel investment to real outcomes for a defined book of accounts. You'll own the adoption and value plan for each account end to end: understanding why the customer bought Mixpanel, tracking whether they're getting the ROI they expected, and driving the enablement and product usage that gets them there. You'll build trusted relationships with business and technical stakeholders, partner closely with your Account Executive and renewal counterparts, and bring a growing point of view on how customers should think about AI in their product workflows. This role suits someone who can own a project end to end and is ready to start extending their influence beyond their own accounts to the wider team.
-Responsibilities
-
-Own the value plan for each account in your portfolio, connecting the business problem that led the customer to buy Mixpanel with the outcomes they measure.
-Build relationships with business and technical stakeholders, aligning Mixpanel's capabilities to what customers care about most.
-Run discovery on customer priorities and pain points, and turn what you learn into concrete adoption plans and internal updates.
-Partner with your Account Executive on expansion and your renewal counterpart on renewal execution, bringing the value case and adoption evidence that supports both.
-Lead enablement/best practices sessions on dashboard design, funnel analysis, and retention modeling to grow how deeply and widely a customer uses Mixpanel.
-Monitor usage and health signals and lead business reviews that surface what's working, deepen adoption, and catch risk early.
-Spot underused features and contracted capabilities, and turn them into clear recommendations for the customer.
-Triage product questions and issues, solving what you can and routing the rest to the right team.
-Build a working point of view on a customer's AI maturity, and use Mixpanel's own AI surface to help them build on their product data.
-Coordinate with GTM, Product, and Engineering on escalations, and share what works with the broader Customer Value Architects team.
-
-We're Looking For Someone Who Has
-
-4 - 6 years of experience in customer success, consulting, or a related field supporting B2B SaaS accounts, or equivalent experience.
-A track record of managing relationships across a range of stakeholders, from business partners to technical teams.
-The ability to translate technical concepts, like data models and product metrics, into terms that land with non-technical stakeholders.
-Experience turning product usage into a clear story about customer outcomes and ROI.
-Comfort building and running adoption plans that tie daily work to a customer's larger goals.
-Hands-on experience with AI or agentic tooling beyond casual use, such as MCP-based workflows or LLM copilots.
-A collaborative approach to working across account teams and internal partners to move plans forward.
-Good judgment for prioritizing which accounts and actions need attention first.
-
-Bonus Points For
-
-Background in product analytics, growth, or data-driven product development.
-Experience in a technical advisory or professional services capacity.
-Familiarity with analytics instrumentation, event tracking, or data tooling.
-
-#LI-RemoteBenefits and Perks
-
-Comprehensive Medical, Vision, and Dental Care
-Mental Wellness Benefit
-Generous Vacation Policy &amp;amp; Additional Company Holidays
-Enhanced Parental Leave
-Volunteer Time Off
-Additional US Benefits: Pre-Tax Benefits including 401(K), Wellness Benefit, Holiday Break
-
-*please note that benefits and perks for contract positions will vary*
-Culture Values
-
-Make Bold Bets: We choose courageous action over comfortable progress.
-Innovate with Insight: We tackle decisions with rigor and judgment - combining data, experience and collective wisdom to drive&amp;nbsp;powerful outcomes.
-One Team: We collaborate across boundaries to achieve far greater impact than any of us could accomplish alone.
-Candor with Connection: We build meaningful relationships that enable honest feedback and direct conversations.
-Champion the Customer: We seek to deeply understand our customers’ needs, ensuring their success is our north star.
-Powerful Simplicity: We find elegant solutions to complex problems, making sophisticated things accessible.
-
-Why choose Mixpanel?
-We’re a leader in analytics with over 29,000 customers and $277M invested from prominent investors: like Andreessen-Horowitz, Sequoia, YC, and, most recently, Bain Capital. Mixpanel’s pioneering event-based data analytics platform offers a powerful yet simple solution for companies to understand user behaviors and easily track overarching company success metrics. Our accomplished teams continuously facilitate our expansion by tackling the ever-evolving challenges tied to scaling, reliability, design, and service. Choosing to work at Mixpanel means you’ll be helping the world’s most innovative companies learn from their data so they can make better decisions.
-Mixpanel is an equal opportunity employer supporting workforce diversity. At Mixpanel, we are focused on things that really matter—our people, our customers, our partners—out of a recognition that those relationships are the most valuable assets we have. We actively encourage women, people with disabilities, veterans, underrepresented minorities, and LGBTQ+ people to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the San Francisco Fair Chance Ordinance or other similar laws that may be applicable, we will consider for employment qualified applicants with arrest and conviction records. We’ve immersed ourselves in our Culture and Values as our guiding principles for the impact we want to have and the future we are building.
-
-To apply: https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1</description><pubDate>Sat, 17 Oct 2026 07:30:54 +0000</pubDate></item><item><title>Mixpanel: Customer Value Architect III</title><link>https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii</link><description>Headquarters: San Francisco, US (Remote)
-
-
-About Mixpanel
-Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com.About the Team
-The Customer Value Architects team sits inside the revenue organization and owns the connection between what customers buy and what they actually get out of Mixpanel. We turn product usage into measurable business outcomes, working across onboarding, adoption, and renewal to make sure customers see the value they signed up for.
-About the Role
-The right candidate is a relationship-first advisor who connects a customer's Mixpanel investment to real outcomes for a defined book of accounts. You'll own the adoption and value plan for each account end to end: understanding why the customer bought Mixpanel, tracking whether they're getting the ROI they expected, and driving the enablement and product usage that gets them there. You'll build trusted relationships with business and technical stakeholders, partner closely with your Account Executive and renewal counterparts, and bring a growing point of view on how customers should think about AI in their product workflows. This role suits someone who can own a project end to end and is ready to start extending their influence beyond their own accounts to the wider team.
-Responsibilities
-
-Own the value plan for each account in your portfolio, connecting the business problem that led the customer to buy Mixpanel with the outcomes they measure.
-Build relationships with business and technical stakeholders, aligning Mixpanel's capabilities to what customers care about most.
-Run discovery on customer priorities and pain points, and turn what you learn into concrete adoption plans and internal updates.
-Partner with your Account Executive on expansion and your renewal counterpart on renewal execution, bringing the value case and adoption evidence that supports both.
-Lead enablement/best practices sessions on dashboard design, funnel analysis, and retention modeling to grow how deeply and widely a customer uses Mixpanel.
-Monitor usage and health signals and lead business reviews that surface what's working, deepen adoption, and catch risk early.
-Spot underused features and contracted capabilities, and turn them into clear recommendations for the customer.
-Triage product questions and issues, solving what you can and routing the rest to the right team.
-Build a working point of view on a customer's AI maturity, and use Mixpanel's own AI surface to help them build on their product data.
-Coordinate with GTM, Product, and Engineering on escalations, and share what works with the broader Customer Value Architects team.
-
-We're Looking For Someone Who Has
-
-4 - 6 years of experience in customer success, consulting, or a related field supporting B2B SaaS accounts, or equivalent experience.
-A track record of managing relationships across a range of stakeholders, from business partners to technical teams.
-The ability to translate technical concepts, like data models and product metrics, into terms that land with non-technical stakeholders.
-Experience turning product usage into a clear story about customer outcomes and ROI.
-Comfort building and running adoption plans that tie daily work to a customer's larger goals.
-Hands-on experience with AI or agentic tooling beyond casual use, such as MCP-based workflows or LLM copilots.
-A collaborative approach to working across account teams and internal partners to move plans forward.
-Good judgment for prioritizing which accounts and actions need attention first.
-
-Bonus Points For
-
-Background in product analytics, growth, or data-driven product development.
-Experience in a technical advisory or professional services capacity.
-Familiarity with analytics instrumentation, event tracking, or data tooling.
-
-#LI-RemoteCompensation
-The amount listed below is the total target cash compensation (TTCC) and includes base compensation and variable compensation in the form of either a company bonus or commissions. Variable compensation type is determined by your role and level. In addition to the cash compensation provided, this position is also eligible for equity consideration and other benefits including medical, vision, and dental insurance coverage. You can view our benefits offerings here.Our salary ranges are determined by role and level and are benchmarked to the SF Bay Area Technology data cut released by Radford, a global compensation database. The range displayed represents the minimum and maximum TTCC for new hire salaries for the position across all of our US locations. To stay on top of market conditions, we refresh our salary ranges twice a year so these ranges may change in the future. Within the range, individual pay is determined by experience, job-related skills, qualifications, and other factors. If you have questions about the specific range, your recruiter can share this information.Mixpanel Compensation Range$125,500—$169,500 USDBenefits and Perks
-
-Comprehensive Medical, Vision, and Dental Care
-Mental Wellness Benefit
-Generous Vacation Policy &amp;amp; Additional Company Holidays
-Enhanced Parental Leave
-Volunteer Time Off
-Additional US Benefits: Pre-Tax Benefits including 401(K), Wellness Benefit, Holiday Break
-
-*please note that benefits and perks for contract positions will vary*
-Culture Values
-
-Make Bold Bets: We choose courageous action over comfortable progress.
-Innovate with Insight: We tackle decisions with rigor and judgment - combining data, experience and collective wisdom to drive&amp;nbsp;powerful outcomes.
-One Team: We collaborate across boundaries to achieve far greater impact than any of us could accomplish alone.
-Candor with Connection: We build meaningful relationships that enable honest feedback and direct conversations.
-Champion the Customer: We seek to deeply understand our customers’ needs, ensuring their success is our north star.
-Powerful Simplicity: We find elegant solutions to complex problems, making sophisticated things accessible.
-
-Why choose Mixpanel?
-We’re a leader in analytics with over 29,000 customers and $277M invested from prominent investors: like Andreessen-Horowitz, Sequoia, YC, and, most recently, Bain Capital. Mixpanel’s pioneering event-based data analytics platform offers a powerful yet simple solution for companies to understand user behaviors and easily track overarching company success metrics. Our accomplished teams continuously facilitate our expansion by tackling the ever-evolving challenges tied to scaling, reliability, design, and service. Choosing to work at Mixpanel means you’ll be helping the world’s most innovative companies learn from their data so they can make better decisions.
-Mixpanel is an equal opportunity employer supporting workforce diversity. At Mixpanel, we are focused on things that really matter—our people, our customers, our partners—out of a recognition that those relationships are the most valuable assets we have. We actively encourage women, people with disabilities, veterans, underrepresented minorities, and LGBTQ+ people to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the San Francisco Fair Chance Ordinance or other similar laws that may be applicable, we will consider for employment qualified applicants with arrest and conviction records. We’ve immersed ourselves in our Culture and Values as our guiding principles for the impact we want to have and the future we are building.
-
-To apply: https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii</description><pubDate>Sat, 17 Oct 2026 07:30:50 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity</description><pubDate>Sun, 18 Oct 2026 07:30:58 +0000</pubDate></item></channel></rss>
