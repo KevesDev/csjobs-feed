@@ -1,5 +1,407 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>StockX: Director, Category Growth (General Manager)</title><link>https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager</link><description>Headquarters: Remote, USA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Storetasker: Senior Shopify Developer (Remote + Flexible)</title><link>https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</link><description>Headquarters: Brooklyn, NY
+    URL: https://resources.storetasker.com/become-an-expert?apply=true&amp;amp;source=weworkremotely_best_2021
+
+
+Shopify developers love to freelance with Storetasker.Endless, quality clients: from well known DTC brands to top agencies.&amp;nbsp;Fully remote, flexible: work as much or as little as you want, wherever you want.&amp;nbsp;A talented and helpful community: it's freelance (with a team).Earn $100-$200 per hour: pick your clients, and send your own quotes or retainers.&amp;nbsp;We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: Alpha Industries, Boll &amp;amp; Branch, Superfluid, Jack Henry, Plenaire, and Fulton among many more. Why Storetasker?Endless clients &amp;amp; project opportunities: you’ll see between 5 - 50 new opportunities per day and can pick any lead you want.&amp;nbsp;You’ll earn more: some experts are making $250k+ per year.&amp;nbsp;A high quality community: we carefully select about 5% of those who apply.&amp;nbsp;Remote: work from anywhere, anytime.&amp;nbsp;Flexible: take on as many clients as you want.No external ratings: you’re already a professional. No need to prove it.&amp;nbsp;Great Software: that makes it easy to manage more clients and increase billable hours.Support when you need it: we offer project support 7 days per week.&amp;nbsp;Community (not competition): you pick your clients, projects, and never compete against other Experts in the community.&amp;nbsp;Learn more and join! It’s confidential, and takes less than 5 minutes. Here's who we're looking for:Ambitious part time and full-time freelancers and boutique agencies.Who have 3+ years of Shopify experience, and 5+ years of web development experience.&amp;nbsp;And who have managed projects, deadlines, and communication successfully.&amp;nbsp;Especially people with some of these skills:Front-end or full-stack Shopify developmentHeadless e-commerce developmentConversion rate optimizationE-commerce expertise and strategySEO&amp;nbsp;Site SpeedBuilder and/or ShogunIt takes just a few minutes to join.Here's what a few current members have to say:"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017Our Mission: We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.&amp;nbsp; Questions? Reach out at experts@storetasker.com.
+
+To apply: https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</description><pubDate>Mon, 13 May 2024 03:14:30 +0000</pubDate></item><item><title>Bitovi: Backend / Platform Developer Consultant (Temporal &amp; Kubernetes)</title><link>https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes</link><description>Headquarters: United States
+    URL: https://bitovi.com
+
+
+JOIN OUR TEAM!
+Bitovi is looking for a Backend / Platform Developer Consultant to join us as we transform technology delivery. We build and operate durable, distributed systems for enterprise clients — heavy on Java Services, Temporal for workflow orchestration, Kafka for event streaming, and Kubernetes-native platform engineering on AWS to run it all reliably. If you want to build exceptional systems, take orchestration, systems engineering, and infrastructure seriously, and have ideas for making delivery more collaborative, validation-driven, and swift, we want to work with you!Compensation: $120,000 to $190,000 annually, depending on experience, plus annual bonus opportunity.
+PLEASE NOTE: At this time, we are only considering candidates located in and authorized to work in the United States.
+&amp;nbsp;
+WHO YOU ARE
+You're experienced building and running applications at the enterprise level, and you're comfortable owning both the code and the infrastructure it runs on. You think like a systems engineer — reasoning about the whole platform, from JVM services and event streams to the clusters and cloud infrastructure underneath them. You thrive when given opportunities to deliver real-world platforms as an integral team member, including large-scale migrations, and you have the expertise to interface and communicate confidently with stakeholders.
+You'll excel in this role at Bitovi if you have:
+
+Strong working knowledge of Java and the JVM ecosystem (Spring Boot or similar); experience with additional backend languages (Go, Python, TypeScript/JavaScript, C#, etc.) is a plus
+Hands-on experience with a durable execution / workflow engine — Temporal preferred (Apache Airflow, Prefect, or similar also relevant) — including modeling workflows and activities, handling retries and timeouts, and reasoning about idempotency and failure modes
+Experience designing and operating Kafka-based event streaming systems: topic and partition design, consumer groups, schema management, and reasoning about ordering, delivery guarantees, and consumer lag
+Experience designing and building GraphQL APIs — schema design, resolvers, and performance concerns (N+1, caching, pagination); federation experience a plus
+Deep, hands-on AWS experience: architecting, deploying, and operating production systems (EKS, networking, IAM, messaging, and data services)
+Solid Kubernetes experience: deploying, operating, and debugging production workloads
+A systems engineering mindset: understanding of complex scaling issues, concurrency, backpressure, caching strategies, and failure modes across distributed systems
+Experience planning and executing migrations — application replatforming, workflow engine migrations, data/schema migrations, or moving workloads between environments with minimal downtime
+A thorough understanding of CI/CD pipelines and GitOps-style delivery
+Experience with observability in practice — logging, metrics, and tracing (OpenTelemetry a plus)
+Experience building modern microservice-based or serverless applications
+Database schema design and development expertise
+
+Other skills we value
+Temporal depth
+
+Running Temporal in production — self-hosted on Kubernetes and/or Temporal Cloud
+Workflow versioning and patching, safe deployments, and long-running workflow migrations
+Worker deployment and tuning (pollers, task queues, concurrency/slot configuration)
+Namespace management, mTLS (SPIFFE/SPIRE or private CA), and capacity/scaling concerns (e.g. APS/TRU on Temporal Cloud
+
+Kafka &amp;amp; event streaming depth
+
+Operating Kafka in production (MSK, Confluent, or self-managed on Kubernetes)
+Kafka Connect, Kafka Streams, and schema registry workflows (Avro/Protobuf)
+Migrating between clusters or providers, and integrating Kafka with downstream analytical stores
+Experience with different techniques for processing large datasets, such as Lambda and Kappa architectures
+
+Platform / DevOps depth
+
+Building or operating an internal developer platform (IDP) — self-service, paved-path infrastructure for application teams
+GitOps with ArgoCD (or Flux) and a low- or zero-manual-apply delivery model
+Infrastructure as code: Terraform/OpenTofu, and provisioning AWS resources via Crossplane, ACK, or similar
+Writing Kubernetes controllers/operators (controller-runtime, kubebuilder) and working with CRDs
+Helm chart authoring and distribution (including OCI/registry-based)
+Secrets management (External Secrets Operator, etc.), autoscaling (Karpenter, KEDA), and service mesh concepts (Istio, SPIFFE/SPIRE)
+EKS or comparable managed Kubernetes at scale
+
+General
+
+Interest in working across multiple backend languages
+Additional queueing and messaging technologies (AWS SQS/SNS, RabbitMQ)
+API design across paradigms (GraphQL, REST, gRPC)
+AuthN/AuthZ and related technologies (sessions, API tokens, JWTs)
+Automated testing across the stack (unit, integration, performance/benchmarking)
+
+WHO WE ARE
+Bitovi partners with companies to build outcome-focused apps and platforms. Our collaborative approach is driven by validation to deliver the swiftest route to the most valuable solution.
+We design and build high-profile applications and the infrastructure behind them — with tests, full docs, and a real deployment process. We run a serious Temporal practice (including large-scale migration and security work for enterprise clients) alongside deep Kubernetes, AWS, and platform engineering work. We discuss and design architectures, review code, and research new technologies. We talk to our clients, guiding them through the process, identifying potential problems and unknowns, and tackling challenges.
+We help one another freely. We keep a Slack channel called ask-help, which is constantly used. We develop new skills, build better developer tools, and work on new types of projects regularly.
+Our fully remote team comprises about 70 developers and designers. We welcome diversity and non-traditional paths into professions — we want the right person, not the right collection of tech keywords.
+&amp;nbsp;
+WHAT YOU'LL DO AT BITOVI
+Build durable systems. Design and implement Java services, Temporal workflows, and Kafka-based event pipelines, and help clients adopt durable execution and event streaming the right way — from first workflow to production scale.
+Lead modernization efforts. Plan and execute large-scale modernization efforts — moving workflows, services, and data between platforms, clusters, and clouds — with safety, observability, and minimal disruption as first-class requirements.
+Own the platform. Build and operate Kubernetes-native infrastructure and CI/CD on AWS so application teams can ship safely and quickly. Treat reliability, observability, and repeatability as part of the deliverable, not an afterthought.
+Consult and manage. Consult with clients to build outcome-driven applications and platforms, guiding them through the process, identifying potential problems and unknowns, and tackling challenges.
+Travel. This is a remote, full-time position that requires the ability to travel. We travel an average of 3–5 days every quarter, and we'll always do our best to work with your schedule.
+Teach. We'll discuss opportunities for you to present at conferences, attend and give training, plan and run meetups or local groups, and create various kinds of content in your area of expertise.
+&amp;nbsp;
+BENEFITS WE OFFER
+
+Competitive salary and annual bonus opportunity
+Completely remote work with flexible hours
+401(k) matching
+4 weeks of paid time off in addition to 8 paid holidays
+Health, dental, and vision insurance offerings
+Paid maternity and paternity leave
+STD, LTD, and Life Insurance coverage
+
+&amp;nbsp;
+HOW TO APPLY
+Please share a resume or LinkedIn profile and answer the additional questions via the application link.&amp;nbsp;
+&amp;nbsp;
+OTHER&amp;nbsp;
+Please note that we are not interested in working with recruiters.&amp;nbsp;
+ID Verification required if invited to an interview.
+All job offers are contingent on passing a background check.&amp;nbsp;
+Candidates must be located in and authorized to work in the United States; we are unable to provide visa sponsorship at this time.
+
+To apply: https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes</description><pubDate>Thu, 29 Oct 2026 22:31:03 +0000</pubDate></item><item><title>Salesloft: HR Enablement Lead</title><link>https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead</link><description>Headquarters: United States, Remote
+
+
+Job Title: HR Enablement Lead
+Job Location: United States, Remote&amp;nbsp;
+This is a fully remote opportunity and can be worked from any location in the United States.
+ABOUT THE COMPANY:
+Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter decisions and drive consistent growth.
+With thousands of customers using our platforms every day, we have an unmatched view into how revenue is actually won — the Revenue Context that reveals what happens, when, and with what outcome. This gives us a unique opportunity to transform an entire category and set a new benchmark for how modern revenue teams operate.
+Join us to help transform how companies around the world run revenue — and build the platform that will guide leading revenue teams into the future.
+THE OPPORTUNITY:
+At Salesloft, as&amp;nbsp;our HR Enablement Lead, you will be a pivotal member of our high-performing People team. Reporting to [manager, confirm], you will own the creation of learning programs and lead high-impact enablement workshops from beginning to end, and you will help build a cohesive, seamless learning journey for our global workforce. You'll have designated programs that you own end to end, from conception through execution, with hands-on support from leadership as the team builds out its capabilities together.
+You'll work closely with our People Business Partners, our Associate People Business Partner, and an L&amp;amp;D coordinator who supports the learning platform and content production. Together you will ramp front-line managers faster, equip the People team with the playbooks and training it needs, and make learning part of how the business runs. This role moves beyond administrative operations to focus on strategic partnership and the integration of AI to empower our people.
+On a day-to-day basis, you will:
+
+Own program lifecycles. Oversee end-to-end program lifecycles, including planning, development, delivery, and assessment.
+Create and lead workshops. Design and facilitate creative, robust enablement workshops and learning solutions for employees at all levels.
+Partner with People Business Partners. Work directly with People Business Partners to identify and align on specific talent gaps, and build solutions that fit what each business needs.
+Ramp front-line managers. Build and run manager and leadership programs, working with the PBPs, so new and developing managers can coach, handle performance conversations, and lead with confidence.
+Own onboarding and new-hire enablement. Create a consistent, practical onboarding experience that gets new employees productive faster.
+Enable the People team. Build playbooks, training and job aids for PBPs and Shared Services on topics such as calibration, employee relations and change management.
+Shape the learning architecture. Help architect a system of learning that is cohesive and provides a seamless journey for employees at all levels.
+Innovate with AI. Experiment with and implement AI-powered tools to automate workflows, personalize curriculum creation, and continuously invest in AI for workforce enablement.
+Drive business execution. Develop tailored strategies to address performance gaps, with clear objectives, development plans, and accountability measures, and make sure all programming aligns with near-term and long-term goals.
+Run the learning platform. Own the LMS and content library, working with the L&amp;amp;D coordinator on administration, scheduling and production.
+Analyze and interpret. Use data to identify trends, monitor program completions and impact, and provide actionable insights that inform future learning strategy.
+
+WHAT WE ARE LOOKING FOR:
+We are seeking a strategic, results-driven partner who moves beyond operations to become a true consultant to the business. You are someone who understands how individual success drives company-wide goals and can build robust learning solutions that reflect the pragmatic needs of a fast-growing organization. You are comfortable embedding with the business and the People team. You build as well as plan: you ship programs, not just roadmaps, and you are equally at home designing a strategy and running the session. You care about proving that what you build works.
+THE SKILL SET:
+
+5+ years of combined experience in learning and development, enablement, organizational development, HR, or a related field, ideally in a technology-driven environment.
+Workshop facilitation: Proven ability to lead engaging enablement workshops across a variety of formats (live, in-person, or remote).
+Manager and onboarding programs: Experience designing and delivering manager development and onboarding programs.
+Instructional innovation: Proven ability to experiment with emerging learning technologies, creative modalities, and unconventional approaches that push beyond traditional training while applying adult learning principles.
+Strategic partnership: Skilled at building trust and credibility with senior leaders and cross-functional stakeholders.
+AI and technical aptitude: Experience leveraging AI to automate workflows, analyze insights, or create curriculum; aptitude for maintaining learning technology systems.
+Systems thinking: Strong business acumen to understand how learning initiatives impact the broader organization and culture.
+Program ownership: Strong project management skills with a demonstrated ability to work independently to see a program from concept to delivery.
+Hands-on execution: A track record of shipping programs and learning assets on a deadline, from design through delivery.
+Communication and influence: Effective communication skills to present findings and influence diverse audiences across many company levels.
+Instructional design: Strong foundation in instructional design methodologies and frameworks, with experience developing structured curriculum and learning objectives across diverse subject matters.
+Measurement: Experience measuring program impact and reporting results to leaders.
+
+At Salesloft, we are committed to creating an inclusive and supportive workplace where everyone belongs and can thrive. We focus on culture add, not culture fit, and believe our teams are made stronger by the unique perspectives, experiences, and identities each person brings.
+We are proud to be an Equal Opportunity Employer and provide employment opportunities to all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, pregnancy, or any other characteristic protected by law.
+If you're excited about this role even though your experience may not perfectly match every requirement, we encourage you to apply. We are actively hiring across multiple geographies and would love to welcome passionate, curious, and mission-driven individuals to our growing team. Explore our open roles and consider joining us!
+Please note that all official communication regarding job opportunities at Salesloft will come from an @salesloft.com email address. If you receive messages on LinkedIn or other job platforms claiming to be from Salesloft, they may not be legitimate. To verify the authenticity of any job-related communication, please visit our official&amp;nbsp;Careers Page.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, notetaking, or summarizing responses. These tools assist our recruitment team but do not replace human judgment — all hiring decisions are made by people. If you would like more information about how your data is processed or prefer to opt out of any AI-assisted tools, please let your recruiter know. Opting out will not impact your experience or consideration.
+&amp;nbsp;
+#LI-REMOTEIt is Salesloft’s intent to pay all Lofters competitive wages and salaries that are motivational, fair and equitable.&amp;nbsp; The goal of Salesloft’s compensation program is to be transparent, attract potential employees, meet the needs of all current employees and encourage employees to stay with our organization.&amp;nbsp;&amp;nbsp;
+Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location.
+The total compensation package for this position may also include performance bonus, benefits and/or other applicable incentive compensation plans.&amp;nbsp;Base Pay Range$85,000—$110,000 USD
+
+To apply: https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead</description><pubDate>Thu, 29 Oct 2026 07:30:57 +0000</pubDate></item><item><title>Legion: Senior Integration Engineer</title><link>https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer</link><description>Headquarters: Remote, Mexico
+
+
+Senior Integration Engineer
+Remote, Mexico
+JOB OVERVIEW
+Are you passionate about building large-scale applications leveraging public cloud services and integration design patterns? As an Integration Engineer, you will work on developing and maintaining Integration &amp;amp; Automation Solutions for Legion WFM customers.
+&amp;nbsp;
+RESPONSIBILITIES AND DUTIES
+Integration Engineers provide leadership, facilitate analysis and design tasks, and support multiple Legion teams in developing an enterprise's solution architecture. Job responsibilities are grouped across four key areas: Technical Integrations, Customer-Centric Consulting, Legion Product Expertise, and a Commitment to One Another.
+Please note this role involves participation in on-call rotation.
+Technical Integrations
+
+Design and implement scalable integration architectures connecting Legion with HR, POS, Payroll, and other enterprise systems.
+Design, Build, and Test integrations using Workato
+Develop secure and efficient REST APIs within Legion's API-driven ecosystem.
+Ensure high-performance, reliable integrations using modern cloud platforms.
+Engage with architects and engineers for design collaboration and code reviews.
+Improve development practices and stay ahead of agile software engineering trends.
+
+Legion Product Expertise
+
+Gain and maintain deep knowledge of Legion's product and integration ecosystem.
+Identify, report, and prioritize product bugs and enhancements.
+Work with core engineering and production engineering teams to improve backend reliability and troubleshoot production issues
+Stay updated on new releases and enhancements to drive product adoption.
+Write secure, enterprise-grade integration code using leading platforms and technologies.
+Write well-designed, testable, efficient code
+Contribute to all phases of the development lifecycle
+Conduct peer code reviews to ensure code quality and maintainability.
+
+Team Collaboration &amp;amp; Mentorship
+
+Share expertise and mentor junior engineers, fostering a culture of knowledge-sharing.
+Contribute to best practices for integration and internal technical documentation.
+Support process improvements and advocate for scalable, sustainable integrations.
+Commit to high-quality work, setting personal and team objectives aligned with organizational goals.
+Standard shift working hours: 0900-1800
+This role involves participation in on-call rotation.
+This role may require work outside of normal business hours.
+
+REQUIRED SKILLS AND QUALIFICATIONS
+
+7+ years of business/information/solution/technical architecture experience
+Graduate of a university with a Bachelor's or Master's degree in a relevant STEM field, including Information Systems, Engineering, Computer Science, or another relevant degree
+Must be able to work as a team player, yet can work independently.
+Analytical, results-driven, and have a solution-oriented approach
+Possess exceptional interpersonal and English communication skills, including verbal, written presentation, and listening.
+3+ years of experience with event-driven Architecture and Microservices
+Demonstrated deep technical expertise in Integration technologies and protocols such as HTTP, HTTPS, FTP, SFTP, SOAP, REST, JMS, JDBC
+Experience using Linux/Unix environments
+Demonstrate proficiency with Core Java.
+Experience with Relational Databases, SQL and JDBC (one of Oracle, PostgreSQL, SQL Server, etc.)
+2+ years of experience using AWS technologies such as AWS CDK, Cloud formation, S3, ECS, EKS, and EC2
+Demonstrate experience with test-driven development.
+Strong experience with Java/RESTful web services
+Exposure to agile software development leveraging toolsets (e.g., Jira, GitHub, Jenkins)
+Demonstrate knowledge and experience with CI/CD processes and tools.
+Proven track record of using problem-solving / root-cause analysis
+
+PREFERRED QUALIFICATIONS AND ATTRIBUTES
+
+The ideal candidate has workforce management integration experience
+Preferred experience in the design and implementation of scalable integration solutions with integration platforms such as Workato, SAP BTP Integration Suite, Dell Boomi, Jitterbit, SnapLogic&amp;nbsp;
+Proactive and able to command respect through intelligence, hard work, and persistence
+Technical consulting experience.
+Experience of working with Docker and other isolation technologies.
+Experience working with external applications integrations end-to-end such as Workday, SAP, etc.
+
+COMPENSATION &amp;amp; BENEFITS
+At Legion, we offer competitive compensation and benefits packages to all employees. As a fully remote employer, pay for positions is determined using local, national, and industry-specific survey data.&amp;nbsp;
+We strive to make competitive offers allowing employees room for future growth. Salaries will be based on the applicant’s location, level of experience, education, and specialized knowledge and skills. Additionally, we consider the external market rate, the amount we have budgeted internally, and internal equity within the company for the same position.&amp;nbsp;
+Benefits include, but are not limited to:&amp;nbsp;
+
+Health Benefits
+Paid Time Off and Paid Holidays
+Parental Leave&amp;nbsp;
+Equity&amp;nbsp;
+Monthly Wellness Reimbursement
+Monthly Lunch on Legion
+
+ABOUT LEGION
+Join Legion's mission to turn hourly jobs into good jobs. We're a remote, mission-driven team seeking exceptional talent to propel this vision. Embrace a culture that's collaborative, fast-paced, and entrepreneurial. With us, you'll grow your skills, work closely with experienced executives, and contribute significantly to our mission. Legion Technologies delivers the industry’s most innovative workforce management platform. It enables businesses to maximize labor efficiency and employee engagement simultaneously. The award-winning, AI-driven Legion WFM platform is intelligent, automated, and employee-centric. It’s proven to deliver 13x ROI through schedule optimization, reduced attrition, increased productivity, and increased operational efficiency. Legion delivers cutting-edge technology in an easy-to-use platform and mobile app that employees love.&amp;nbsp;
+If you're ready to make an impact and grow your career, Legion is where you belong. Join us in making hourly work rewarding and fulfilling.
+BACKGROUND AND OPPORTUNITY&amp;nbsp;
+There are almost 75 million hourly workers in the United States, representing more than half of the entire workforce. Historically, managing hourly employees has been difficult due to high attrition (average of 60%) and high replacement costs (average of $3,200 per employee in retail). The ongoing labor shortage and competition from the gig economy make it more difficult to attract and retain hourly employees. The top reasons hourly employees leave their jobs are a lack of schedule empowerment, poor communication with employers, and an inability to get paid early. Gen Z and the millennial workforce demand gig-like flexibility, modern technology, and compelling work options. Legion’s mission is to turn hourly jobs into good jobs, serving the hourly workers who make up the majority of the US workforce. We believe in empowering employees and helping employers be efficient and innovative by enabling intelligent automation powered by Legion’s Workforce Management platform to optimize labor efficiency and enhance the employee experience simultaneously. Legion WFM was built for the cloud with AI at the core and designed to handle the complexity of modern businesses and meet the needs of today’s hourly employees.&amp;nbsp; Our team is comprised of dedicated individuals from all backgrounds and experiences, globally distributed across all time zones.
+For more information, visit https://legion.co&amp;nbsp;
+EQUAL EMPLOYMENT OPPORTUNITY
+Legion Technologies is proud to be an equal-opportunity employer and is committed to maintaining a diverse and inclusive work environment. All qualified applicants will be considered for employment without regard to race, color, religion, sex, age, disability, marital status, familial status, sexual orientation, pregnancy, genetic information, gender identity, gender expression, national origin, ancestry, citizenship status, veteran status, and any other legally protected status under federal, state, or local anti-discrimination laws.
+DISABILITY ACCOMMODATION
+For individuals with disabilities who need additional assistance at any point in the application and interview process, please email recruiting@legion.co&amp;nbsp;
+We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates' personal and financial information through fake interviews and offers. All Legion recruiting email communications will always come from the @legion.co domain. Any outreach claiming to be from Legion via other sources should be ignored. If you are uncertain whether you have been contacted by an official Legion employee, reach out to recruiting@legion.co
+&amp;nbsp;Legion is an equal opportunity employer. All applicants will be considered for employment without attention to race, religion, color, sex, sexual orientation, gender identity, age, national origin, veteran, disability status, or any other basis covered by appropriate law.
+How We Determine What We Pay
+As a global employer, Legion determines pay for positions using local, national, and industry-specific survey data. We evaluate external equity and the cost of labor/prevailing wage index in the relative marketplace for jobs directly comparable to jobs within our company. Our posted salary range is based on national data and may be refined for a candidate's region/town/cost of living. For new hires, we strive to make competitive offers allowing the new employee room for future growth. Salaries will be based on the applicant’s location, level of experience, education, and specialized knowledge and skills. Additionally, we consider the external market rate, the amount we have budgeted internally, and internal equity within the company for the same position. An employee/candidate with a stronger skill set will receive higher pay.
+Job Applicant Privacy Policy
+This Job Applicant Privacy Policy (“Policy”) describes how Legion Technologies, Inc. (“Legion”, “we”, “us” and “our”) collects, uses, and discloses “personal information” as defined under California law from and about job applicants who are residents of California.
+This Policy does not apply to our handling of data gathered about you in your role as a user of our consumer-facing services. When you interact with us as in that role, the&amp;nbsp;Legion Privacy Policy&amp;nbsp;applies.
+
+
+
+Types of Personal Information We Handle
+We collect, store, and use various types of personal information through the application and recruitment process. We collect such information either directly from you or (where applicable) from another person or entity, such as an employment agency or consultancy, background check provider, or other referral sources. This information includes:
+
+Identification and contact information, and related identifiers&amp;nbsp;such as full name, date and place of birth, citizenship and permanent residence, home and business addresses, telephone numbers, email addresses, and such information about your beneficiaries or emergency contacts.
+Professional or employment-related information,&amp;nbsp;including:
+
+Recruitment, employment, or engagement information&amp;nbsp;such as application forms and information included in a resume, cover letter, or otherwise provided through any application or engagement process; and copies of identification documents, such as driver’s licenses, passports, and visas; and background screening results and references.
+Career information&amp;nbsp;such as job titles; work history; work dates and work locations; information about skills, qualifications, experience, publications, speaking engagements, and preferences; and professional memberships
+
+
+Education Information&amp;nbsp;such as institutions attended, degrees, certifications, training courses, publications, and transcript information.
+Legally protected classification information&amp;nbsp;such as race, sex/gender, religious/ philosophical beliefs, gender identity/expression, sexual orientation, marital status, military service, nationality, ethnicity, request for family care leave, political opinions, and criminal history.
+Other information&amp;nbsp;such as any information you voluntarily choose to provide in connection with your job application.
+
+
+
+How We Use Personal Information
+We collect, use, share, and store personal information from job applicants for our and our service providers’ business and operational purposes in the recruitment process such as: processing your application, tracking your application through the recruitment process, contacting references with your authorization, conducting background checks you authorize, and making hiring decisions. We will also use job applicant information for internal analysis purposes to understand the applicants who apply and to improve our recruitment process. We may sometimes need to use applicant information for legal purposes, such as in connection with any challenges made to our hiring decisions.
+
+
+With Whom We Share Personal Information
+We will disclose job applicant personal information to the following types of entities or in the following circumstances (where applicable):
+
+Internally: to other Legion personnel involved in the recruiting and hiring process.
+Vendors: such as technology service providers, travel management providers, human resources suppliers, background check companies, and employment agencies or recruiters, where applicable.
+Legal Compliance: when required to do so by law, regulation, or court order or in response to a request for assistance by the police or other law enforcement agency.
+Litigation Purposes: to seek legal advice from our external lawyers or in connection with litigation with a third party.
+Business Transaction Purposes: in connection with the sale, purchase, or merger.
+
+
+How to Contact Us About this Policy&amp;nbsp;– If you have any questions about this Policy, please contact privacy@legion.co.
+
+
+To apply: https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer</description><pubDate>Thu, 29 Oct 2026 07:30:52 +0000</pubDate></item><item><title>Cambridge Information Group Inc: Front-End Developer</title><link>https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer</link><description>Headquarters: New York, NY
+    URL: https://edconic.com/
+
+
+
+Job Title: Front-End DeveloperLocation: Fully Remote (US)Department: Global Enrollment Marketing and SalesReports to: Director of Web DevelopmentClassification: Regular, Full-timeFLSA Status: ExemptPrepared by: Global Head of CreativePrepared Date: 10/1/26Salary range:&amp;nbsp;$85,000–$100,000
+About Edconic
+Edconic is a leading player in the alternative, experiential education space. We partner with the world's largest and most well-known brands to create and run schools that capture the legacy and value of each brand. Our students get truly unique, once-in-a-lifetime experiences that help shape their future and give them the skills they need to reach their goals.
+The Role
+We're looking for an experienced Front-End Developer to join our web team, which owns every Edconic digital property – from our school websites to landing pages and email templates. You'll work alongside designers, IT, and MarTech to build solutions that serve real business needs while protecting each brand's unique identity.
+You'll be one of two developers on the team, working directly with our lead developer. That means real ownership of your work, a genuine voice in how we build, very little process overhead, and a codebase that is actively moving toward a modern, standardized WordPress stack. We value craft: fast pages and code that the next developer can read.
+What You'll Do
+
+
+Build and maintain public-facing websites, micro-sites, and landing pages in collaboration with our lead developer, IT, and MarTech.
+Work with UX/UI designers to confirm the technical feasibility of designs, then translate them into polished, responsive pages that stay true to each brand.
+Build and maintain custom WordPress themes across both of our stacks: modern block-based builds (ACF Blocks, core blocks, block patterns, theme.json) and established classic themes built on PHP templates, Advanced Custom Fields, and Sass.
+Collaborate with our lead developer to shape the team's coding standards, tooling, and workflow, and help migrate our existing sites toward our new modern stack.
+Stay current on emerging web standards and bring ideas to the table where they genuinely fit.
+
+
+What You Bring
+
+
+4+ years of front-end web development experience, with strong skills in semantic HTML, CSS, JavaScript, PHP, and WordPress.
+The ability to build a custom WordPress theme from scratch using PHP templates and Advanced Custom Fields.
+Strong CSS skills across Sass and modern native CSS (custom properties, nesting), and solid vanilla JavaScript.
+Comfort working in Git/GitHub with pull requests and code reviews, and with npm-based build tools and the command line.
+A habit of writing semantic, well-structured HTML that covers accessibility basics, with an eye for reuse, cross-browser compatibility, performance, and SEO.
+Experience building and testing HTML emails.
+Strong UX/UI sensibilities and a desire to sweat the small stuff.
+A proactive, self-directed working style – you can run with a project independently and prioritize across several at once.
+Excellent written and verbal communication – you're positive, collaborative, objective, and solution-oriented.
+
+
+Bonus Experience
+
+
+Modern WordPress block development: ACF Blocks, block.json, theme.json, and block patterns.
+Composer, Bedrock or other Roots tooling (Sage/Blade, Trellis), Vite, or CI/CD with GitHub Actions.
+Deeper accessibility experience (WCAG, ARIA, assistive-technology testing).
+CRM and marketing automation integration (Salesforce, Pardot/Account Engagement).
+Multilingual WordPress sites.
+A modern JavaScript framework such as React or Vue.
+UX or UI design, and design tools such as Figma and Adobe Creative Suite.
+
+
+How We Use AI
+AI-assisted development is a new and evolving part of our workflow. We use AI coding tools to speed up research, scaffolding, review, and routine work, and you're welcome to do the same.
+AI is a tool here, not a substitute for expertise. You are accountable for every line of code that you ship, which means you must be able to write, review, debug, and explain production code entirely on your own. Expect to demonstrate those skills without AI assistance during the interview process.
+Location, Travel &amp;amp; Eligibility
+
+
+Fully remote within the United States. Occasional travel to our New York office may be required.
+Must be legally authorized to work in the US.
+Bachelor's degree preferred (Computer Science, Interaction Design, Graphic Design, Communications, or a related field); equivalent professional experience is equally welcome.
+
+
+Our Commitment
+Edconic supports and embraces diversity and inclusiveness, and we encourage candidates from all backgrounds to apply, even if you don't meet every requirement listed here. Reasonable accommodations are available to enable individuals with disabilities to perform the essential functions of the role and to participate in the interview process.
+The above statements describe the general nature and level of work for this position. They are not an exhaustive list of all duties, responsibilities, and skills. Edconic reserves the right to modify this job description at its sole discretion.
+&amp;nbsp;
+
+Apply Here
+PI288024528
+
+To apply: https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer</description><pubDate>Wed, 28 Oct 2026 21:42:43 +0000</pubDate></item><item><title>SimpleTiger: Web Developer: WordPress &amp; HubSpot (U.S. Based, Remote Contractor)</title><link>https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor</link><description>Headquarters: Sarasota, FL
+    URL: https://www.simpletiger.com/
+
+
+SimpleTiger is hiring a part-time contract web developer to build, improve, and troubleshoot client websites in WordPress and HubSpot, with the potential to grow into a larger role.
+We’re a B2B SaaS marketing agency helping software companies grow through SEO, content marketing, paid media, and answer engine optimization (AEO). Our clients’ websites are where much of that work comes to life, and we’re looking for a developer who can turn ideas into clean, functional pages quickly.
+As part of our delivery team, you’ll work primarily on client websites, translating designs, campaign concepts, and SEO recommendations into effective web experiences. From building new pages to fixing issues on existing sites, you’ll help turn our marketing strategy into work that’s ready to launch.
+Key responsibilities
+
+Build, update, or troubleshoot client websites in WordPress and HubSpot CMS
+Make technical fixes and improvements to live client sites, with clear details on what was tested, implemented, and performance comparisons using tools like Screaming Frog, pagespeed insights, and Lighthouse
+Build and connect forms, lead routing, and simple automations between a site and the client’s marketing tools
+Set up and check tracking, like GA4, Google Tag Manager, and HubSpot tracking in Tandem with the SEO Manager
+Keep sites fast, accessible, and friendly to SEO (page speed, Core Web Vitals, clean markup, image optimizations, cache lifetime improvements, and so on)
+Write clear and timely notes on what you are actively working on, and any updates pushed live so our team and the client can follow along
+
+Qualifications and skills
+
+You’re a hands-on developer who can build from scratch, troubleshoot existing sites, and make improvements without disrupting what’s already working.
+
+Required skills
+
+WordPress development: Strong experience with custom themes, child themes, blocks, page builders, and Advanced Custom Fields (ACF). You can build a page from the ground up—not just edit an existing one.
+HubSpot CMS development: Strong experience with HubL templates, modules, and themes, including building and troubleshooting pages, forms, and email templates.
+Front-end development: Solid HTML, CSS, and JavaScript skills, with the ability to navigate existing code and understand how changes affect the live site.
+APIs and integrations: Experience working with the HubSpot or WordPress REST APIs, plus CRMs and marketing tools such as Salesforce, Zapier, n8n, Airtable, and Slack.
+Technical audits and fixes: Experience using Screaming Frog to audit WordPress and HubSpot sites, interpret findings, and resolve technical issues.
+Code review and cleanup: Comfort working within WordPress and HubSpot codebases to identify legacy or unused JavaScript and CSS, determine what’s still needed, and safely remove what isn’t.
+Async communication: Clear, timely written communication, especially through Slack.
+Independent work: Strong time management and the ability to meet deadlines, flag blockers early, and keep projects moving without close supervision.
+
+Nice-to-have skills
+
+Webflow development and auditing experience, including building a clean CMS structure.
+PHP development experience.
+Previous work at a marketing agency or with B2B SaaS clients.
+Familiarity with SEO and conversion best practices.
+Experience with Git and version control.
+
+What success looks like
+Success means delivering clean, reliable development work that helps our team turn marketing plans into live client experiences.
+
+Designs, campaign concepts, and SEO requests become functional pages in WordPress and HubSpot.
+Technical audit findings lead to practical fixes, with changes tested to avoid breaking existing functionality.
+Legacy and unused code is cleaned up thoughtfully, while essential code and front-end behavior remain intact.
+Forms, templates, and integrations work as intended and support the client’s marketing workflows.
+Projects stay on track because you manage your workload, meet agreed deadlines, and raise questions or blockers early.
+Teammates have clear visibility into progress through timely updates and straightforward communication in Slack.
+
+
+To apply: https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor</description><pubDate>Wed, 28 Oct 2026 16:49:37 +0000</pubDate></item><item><title>StockX: Director, Category Growth (General Manager)</title><link>https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager</link><description>Headquarters: Remote, USA
 
 
 Help empower our global customers to connect to culture through their passions.Why you’ll love this role:
@@ -197,13 +599,7 @@ To provide greater transparency to candidates, we share base salary ranges for a
 During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.
 
-To apply: https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads</description><pubDate>Mon, 26 Oct 2026 07:31:27 +0000</pubDate></item><item><title>PATH: Consultant – Data analysis and Technical writing, HIV-Hepatitis-STI (HHS)</title><link>https://weworkremotely.com/remote-jobs/path-consultant-data-analysis-and-technical-writing-hiv-hepatitis-sti-hhs</link><description>Headquarters: New Delhi, Delhi, India
-    URL: https://path.org
-
-
-PATH current employees - please log in and apply HerePATH is a global nonprofit advancing health innovations for the people who need them most. With 50 years of experience, a global team of experts, and trusted partnerships spanning 70+ countries, PATH turns breakthroughs into better health for millions every single year.Consultant – Data analysis and Technical writing (21 days@ 20000 INR/day)Topic: Data analysis and Development of Peer-Reviewed PublicationsPlace of Work: RemoteDivision: HIV-Hepatitis-STI (HHS)1. BackgroundPATH is working on HIV, Hepatitis and STI for technical support to the national programs, operational research, and demonstration new/innovative diagnostic products. Based upon these program and research data, PATH develops technical and policy level documents for facilitating evidence-based decisions. Presently, PATH is looking for a consultant to data analysis, and technical writing, including peer-reviewed scientific publications. &amp;nbsp;2. Objective of the Assignment·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; To assist and develop peer-reviewed articles and technical document on the on the topics related to HIV, Hepatitis and STIs.3. Scope of WorkThe consultant will undertake the following activities:3.1. Data analysis·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Conduct data analysis on the pre-identified topics·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Discuss and finalize the analytical findings·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Develop appropriate tables and graphs in discussion with authors andco-authors3.2. Draft, revise and finalize the article·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Develop a draft article as per the template of an short-listed international journal with open access·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Discuss and revise the article with inputs from authors/ Co-authors·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Finalize the article with submit to the short-listed journal for publication.4. Expected Deliverables and TimelineThe assignment will be undertaken over two months, from November to 31 December 2026.DeliverableExpected timelineData analysis and tabulation for two articlesWeek 1Discuss and finalize tables and graphs for two articlesWeeks 2Draft peer-reviewed article for two articlesWeek 3-4Draft 1 peer-reviewed submission for review for two articlesWeeks 5Revise and finalizeWeeks 6-7Submission to journalWeek 85. Qualifications and Experience·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Postgraduate degree (Master’s or PhD) in Public Health, Infectious Diseases, Epidemiology, Health Systems or another relevant discipline.·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Demonstrated experience in conducting literature reviews, evidence synthesis, or scientific research.·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Familiarity with data analysis using SPSS/ STATA·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Strong skills in scientific writing, critical appraisal of research literature, and synthesis of technical evidence.·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Excellent written and verbal communication skills in English.·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Experience engaging with technical experts and public health stakeholders will be an advantage.6. DurationThe assignment will be for two months (November–December 2026). The consultant will work closely with the designated project team and submit deliverables according to the agreed timeline.7. ReportingThe consultant will report to the designated project lead or technical focal point. The project team will provide feedback on the draft deliverables.8. Expected OutputsBy the end of the assignment, the consultant will submit:·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Two draft peer-reviewed articles/ Technical documents·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Data analysis and the outputs associated with the articles.&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/path-consultant-data-analysis-and-technical-writing-hiv-hepatitis-sti-hhs</description><pubDate>Sun, 15 Nov 2026 17:00:41 +0000</pubDate></item><item><title>PlanetScale: Software Engineer - PlanetScale Postgres</title><link>https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres</link><description>Headquarters: Remote
+To apply: https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads</description><pubDate>Mon, 26 Oct 2026 07:31:27 +0000</pubDate></item><item><title>PlanetScale: Software Engineer - PlanetScale Postgres</title><link>https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres</link><description>Headquarters: Remote
 
 
 PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform delivers a fully managed, multi-cloud Postgres service designed for the most demanding production workloads. We handle the complexity of provisioning, scaling, replication, and failover - so engineering teams can focus on building their products.
@@ -338,96 +734,7 @@ StockX is proud to be a Detroit-based technology leader focused on the large and
 &amp;nbsp;
 We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position. StockX reserves the right to amend this job description at any time. StockX may utilize AI to rank job applicant submissions against the position requirements to assist in determining candidate alignment.
 
-To apply: https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards</description><pubDate>Sat, 24 Oct 2026 07:31:04 +0000</pubDate></item><item><title>Carrot: Lead Product Management</title><link>https://weworkremotely.com/remote-jobs/carrot-lead-product-management</link><description>Headquarters: Remote
-
-
-About Carrot: 
-Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide.Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets — including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review — as a leading voice on digital health, the future of work, and family health. Learn more at get-carrot.com.The Opportunity 
-Carrot is seeking a Lead, Product Management to help shape and scale one of our core product areas as Carrot's platform continues to grow. In this role, you'll operate as a strategic driver within the Product organization — owning a significant portion of the product roadmap, setting direction for cross-functional initiatives, and raising the bar for product craft across the team.
-This is a highly visible, high-impact role for someone who has already demonstrated strong product judgment and is ready to take on greater scope: shaping strategy, mentoring other product managers, and partnering directly with senior leadership on the initiatives that matter most to our members and business.
-If you're energized by solving ambiguous, high-stakes problems and want to help define how Carrot builds products at scale, this role is for you!
-&amp;nbsp;
-What You’ll Own 
-In this role, you will:
-
-Own the end-to-end product strategy and roadmap for a key product area, translating company priorities into a clear, prioritized plan of execution
-Lead cross-functional initiatives, aligning Engineering, UX, Clinical, Legal, and Commercial partners around a shared vision and set of goals
-Serve as a thought partner and informal mentor to other Product Managers, helping raise the bar on product process, discovery, and craft across the team
-Make and communicate high-judgment prioritization decisions, balancing member experience, business impact, and technical feasibility
-Partner directly with senior product and cross-functional leadership to shape quarterly and annual product strategy
-Identify and address systemic gaps in process, tooling, or team practices that limit the Product team's effectiveness
-Represent the Product team in executive and cross-functional forums, clearly communicating strategy, trade-offs, and outcomes
-
-&amp;nbsp;
-What Success Looks Like&amp;nbsp;&amp;nbsp;
-In your first 12–18 months, you will have:
-
-Delivered a body of work that measurably improved member outcomes, engagement, or business performance within your product area
-Built trusted, effective working relationships with cross-functional leaders across Engineering, UX, Clinical, Legal, and Commercial/Customer Success
-Established yourself as a go-to product thought leader, with other PMs seeking out your input on strategy and process
-Shaped or improved a core product process (discovery, roadmapping, prioritization) that is now used more broadly across the team
-Successfully led at least one significant, ambiguous, cross-functional initiative from concept through launch
-
-&amp;nbsp;
-About You&amp;nbsp;
-You likely have:
-
-5+ years of product management experience, including time at a fast-growing technology company; healthcare or digital health experience is a plus
-A track record of owning complex, cross-functional product initiatives from strategy through execution
-Strong product sense and the ability to balance user needs, business goals, and technical constraints in your decision-making
-Excellent written and verbal communication skills, with the ability to influence and align both peers and senior leadership
-Experience mentoring or informally guiding less-experienced product managers
-
-&amp;nbsp;
-Nice to Have&amp;nbsp;⭐
-While not required, we would be especially excited if you bring:
-
-Experience in fertility, family-building, or broader digital health benefits
-Experience partnering with Clinical or Legal teams on regulated or compliance-sensitive products
-Familiarity with AI-enabled product features or workflows
-Experience operating in a fully distributed, remote-first organization
-
-&amp;nbsp;
-Why This Role Matters&amp;nbsp;
-As Carrot continues to scale, our Product team needs leaders who can operate with both strategic clarity and hands-on execution. This Lead, Product Management role is central to that effort — helping ensure our roadmap reflects the right priorities, our cross-functional partners are aligned, and our product practices scale sustainably as the team grows.
-This is an opportunity to have an outsized impact: shaping not just a single product area, but the way Carrot's Product organization operates as it matures.
-&amp;nbsp;
-Interview Process&amp;nbsp;
-We believe in a thoughtful and transparent interview process designed to create alignment for both candidates and our team.
-For this role, candidates can expect:
-
-Recruiter Screen — 30 minutes
-Hiring Manager Interview — 30–45 minutes
-Cross-Functional Panel Interviews — 45 minutes
-Executive Leadership Conversation — 30 minutes
-Hiring Manager Wrap-Up — 15 minutes
-
-Throughout the process, we will share additional context about the team, business priorities, customer landscape, and what success looks like in this role.
-&amp;nbsp;
-Why Candidates Join Carrot 
-Carrot offers the opportunity to do meaningful work in service of a deeply human mission.
-Highlights include:
-
-A mission-driven company focused on expanding access to fertility and family-forming care globally.
-A high-growth environment where leaders are empowered to shape strategy and drive impact.
-Competitive compensation, equity, and comprehensive benefits.
-Flexible Time Off and a culture that actively encourages employees to recharge.
-Comprehensive parental leave and family-forming benefits.
-A collaborative, inclusive, and values-driven culture.
-The opportunity to work alongside passionate, thoughtful teammates committed to improving healthcare outcomes worldwide.
-
-Compensation:&amp;nbsp;
-Carrot offers a holistic Total Rewards package designed to support our employees in all aspects of their life inside and outside of work, including health and wellness benefits, retirement savings plans, short- and long-term incentives, parental leave, family-forming assistance, and a competitive compensation package. The starting base salary for this position will range from $168,000-$198,000. Actual compensation may vary from posted base salary depending on your confirmed job-related skills and experience.&amp;nbsp;
-&amp;nbsp;
-Fraud and Security Notice: Please note that all communication regarding job opportunities at Carrot will come exclusively from an @get-carrot.com email address. If you receive messages from any other domain, please disregard them and report the incident to: securityreporting@get-carrot.com
-&amp;nbsp;
-A Note on AI
-At Carrot, we believe AI can help us work smarter, move faster, and create more meaningful experiences for our members, customers, and each other. While not every role requires deep technical AI expertise, we value people who are curious, eager to learn, and excited to thoughtfully incorporate AI into their day-to-day work.
-For some roles, AI fluency is a core requirement—and we'll call that out clearly in the qualifications. For everyone else, we're looking for people who embrace new ways of working, use AI responsibly to improve quality and efficiency, and continue to learn as the technology evolves.Why Carrot?
-Carrot has received national and international recognition for its pioneering work, including Fast Company's Most Innovative Companies and World Changing Ideas, Inc. Power Partners, and Modern Healthcare’s Innovators. Carrot’s global workforce has been acknowledged with several accolades, including Fortune’s Best Workplaces in Healthcare, Great Place to Work, and Age-Friendly Employer certifications. Carrot is regularly featured in media reporting on issues related to the future of work, women in leadership, and healthcare innovation, including MSNBC, The Economist, Bloomberg, The Wall Street Journal, CNBC, National Public Radio, Harvard Business Review, and more. Learn more at carrotfertility.com.&amp;nbsp;
-&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/carrot-lead-product-management</description><pubDate>Sat, 24 Oct 2026 07:31:03 +0000</pubDate></item><item><title>StockX: Category Manager - Sneakers</title><link>https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers</link><description>Headquarters: Remote, USA
+To apply: https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards</description><pubDate>Sat, 24 Oct 2026 07:31:04 +0000</pubDate></item><item><title>StockX: Category Manager - Sneakers</title><link>https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers</link><description>Headquarters: Remote, USA
 
 
 Help empower our global customers to connect to culture through their passions.Why you’ll love this role:
@@ -847,61 +1154,7 @@ OfferUp is unleashing the power of local, and we’ve built a dynamic team to do
 OfferUp provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, OfferUp complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, transfer, leaves of absence, compensation, and training.
 OfferUp expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of OfferUp’s employees to perform their job duties may result in discipline up to and including discharge.
 
-To apply: https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia</description><pubDate>Thu, 22 Oct 2026 07:31:08 +0000</pubDate></item><item><title>Maven Clinic: Head of Member Growth (B2B2C)</title><link>https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c</link><description>Headquarters: New York, NY; Remote, US (Hub cities)
-
-
-Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com
-An award-winning culture working towards an important mission –&amp;nbsp; Maven Clinic is a recipient of over 30 workplace and innovation awards, including:&amp;nbsp;
-
-TIME 100 Most Influential Companies (2023, 2026)
-Fortune Change the World (2024)
-CNBC Disruptor 50 List (2022, 2023, 2024)
-Fortune Best Workplaces for Millennials (2024)
-Fortune Best Workplaces in Health Care (2024)
-Fast Company Most Innovative Companies (2020, 2023)
-Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024)
-About the Role:
-Maven is looking for a Head of Member Growth to own one of the most important numbers in the company: enrollments. This role is directly accountable for driving member enrollment into Maven's programs across our core business — and, by extension, the revenue those enrollments generate. You will own the enrollment engine end to end, from awareness through activation, turning eligible lives into engaged members.
-Enrollment is not a single-team problem. It sits at the intersection of nearly every function at Maven, and this role is built for someone who thrives there. You'll partner daily with Client Success (who own the client relationships that unlock eligible populations), Marketing (member acquisition and lifecycle), Product (enrollment experience and funnel), Finance (targets, forecasting, and unit economics), Data (measurement, segmentation, and attribution), and Clinical and Operations teams. Because so many teams touch enrollment, a core part of the job is holding those cross-functional partners accountable to their piece of the machine — the engine only works when every team delivers its part.
-This is a player-coach role. You will lead a small, high-caliber team while remaining deeply hands-on yourself every day. Although it carries a Senior Director title, it is explicitly NOT a leaned-out management position for someone who wants to direct a team from a distance. This is a hard requirement: the person in this seat reads the data themselves, pressure-tests the funnel, drafts the plan, and does the work alongside the team. We are looking for a builder and operator who also develops people — not a manager who has stepped away from the work.
-We're also looking for someone who can expand the definition of the job. A great deal of enrollment optimization work is already underway, but there is not enough strategic thinking about fundamentally new ways to drive enrollments — approaches that don't simply depend on securing permission to communicate with a client's employees. This role is expected to find and open those new avenues, not just optimize the existing ones.
-What You'll Do:
-
-Own member growth for the Core Business: Be directly accountable for enrollment targets across Maven's core business and for the revenue those enrollments drive. Set the strategy, build the plan, and act as a control tower across all cross-functional teams driving revenue to deliver the results quarter over quarter.
-Build and run a scalable enrollment engine: Own the full journey from eligible population to enrolled, activated member — spanning client launches, member acquisition and messaging, the enrollment product experience, and re-engagement of eligible-but-not-enrolled members.
-Expand the playbook and deliver new strategies to drive sustainable member growth: Think strategically and from first principles about new ways to grow enrollments beyond today's optimization work — including partnerships and approaches that don't rely solely on permission to communicate with a client's employees. Identify, size, and open avenues that expand the team's purview and unlock new growth.&amp;nbsp;
-Optimize relentlessly around data: Build and consistently iterate on the funnel, and create systems that enable quick diagnoses of opportunities. Build operational metrics that act as leading KPIs for each team contributing to enrollments and bring quantitative rigor into how teams execute against targets.
-Hold the cross-functional machine accountable: Partner daily with Client Success, Marketing, Product, Finance, Data, Clinical, Payer, Sales, and Operations — and hold each team accountable to its operational KPIs in the enrollment process. Serve as the connective tissue that keeps every part of the engine delivering.
-Operate as a player-coach: Lead and develop a small, high-performing team while staying in the execution and details. Set the bar for rigor and hands-on execution by doing the work, coaching through it, and multiplying the team's impact rather than stepping back from it. This is a role that comes with an expectation that you directly execute on the work.
-Instrument and forecast: Partner with Data and Finance to build the measurement, segmentation, attribution, and forecasting needed to know exactly what is and isn't working, and to forecast enrollment and revenue with confidence.
-
-What You'll Bring:
-
-10+ years of experience driving growth, enrollment, acquisition, or revenue outcomes, with a track record of personally owning and hitting a number — ideally in healthcare, benefits, marketplaces, consumer subscription, or another environment with a complex funnel and multiple stakeholders.
-A hands-on player-coach. You are energized by being in the details daily — the data, the funnel, the plan, the execution — and you lead a small team as a way to multiply your own hands-on impact, not to step back from the work. This is a hard requirement for the role.&amp;nbsp;
-Elite quantitative ability as a core competency. You can build and interrogate a funnel model yourself, size opportunities, design experiments, and instinctively optimize around data rather than intuition. Strong quant is non-negotiable.
-Strategic range. Beyond optimizing what exists, you can spot and pursue fundamentally new approaches to enrollment that expand the team's purview — not just incremental improvements to current channels.
-Cross-functional leadership and accountability. Proven ability to align and mobilize many teams — Client Success, Marketing, Product, Finance, Data, Clinical, Operations — around a shared goal without direct authority over most of them, and to hold each accountable to its operational commitments.
-Commercial instincts. You understand how enrollment translates into revenue and unit economics, and you can partner with Finance on targets and forecasting.
-Comfort in a fast-paced, mission-driven environment with high visibility and direct accountability for a top-line company metric.
-
-The base salary range for this role is $204,000.00 - $270,000.00 per year. You will also be entitled to receive bonus, equity, and benefits. Individual pay decisions are based on qualifications, experience, and skillset.
-This role requires active work authorization in the US.
-Maven embraces a flexible hybrid work model. Our teams primarily operate from the New York Metropolitan area, NY, and remotely via San Francisco/Bay Area, CA, Seattle, WA. For those in our New York City office, we encourage in-person collaboration by requiring team members to work onsite three days a week&amp;nbsp; (Tuesday, Wednesday, Thursday). For those based in Boston, DC, Chicago, Seattle, and San Francisco, we encourage in-person collaboration by requiring team members to attend monthly Work Together Days within these cities. This policy aims to balance remote work flexibility with the benefits of face-to-face interaction.At Maven we believe that a diverse set of backgrounds and experiences enrich our teams and allow us to achieve above and beyond our goals. If you do not have experience in all of the areas detailed above, we hope that you will share your unique background with us in your application and how it can be additive to our teams.
-Benefits That Work For You
-Our benefits are designed to support your health, well-being and career development, helping you thrive both personally and professionally. We remain focused on providing a competitive benefits package for our employees. On top of standards such as employer-covered health, dental, and insurance plan options, we offer an inclusive approach to benefits:
-
-Maven for Mavens: access to the full platform and specialists, including care for mental health, reproductive health, family planning and pediatrics.
-Whole-self care through wellness partnerships
-Hybrid work, in office meals, and work together days&amp;nbsp;
-16 weeks 100% paid parental leave and new parent stipend (for Mavens who've been with us for 1 year+)
-Annual professional development stipend and access to a personal career coach through Maven for Mavens
-401K matching for US-based employees, with immediate vesting
-
-These benefits are applicable to Maven Clinic Co., US-based, full-time employees only. 1099/Contract Providers are ineligible for these benefits.&amp;nbsp;
-Maven is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Maven is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Maven Clinic interview requests and job offers only originate from an @mavenclinic.com email address (e.g jsmith@mavenclinic.com). Maven Clinic will never ask for sensitive information to be delivered over email or phone. If you receive a scam issue or a security issue involving Maven Clinic please notify us at: security@mavenclinic.com. For general and additional inquiries, please contact us at&amp;nbsp;careers@mavenclinic.com.&amp;nbsp;
-
-To apply: https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c</description><pubDate>Thu, 22 Oct 2026 07:31:08 +0000</pubDate></item><item><title>Lemon.io: Senior Vue Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1</link><description>Headquarters: New York, NY
+To apply: https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia</description><pubDate>Thu, 22 Oct 2026 07:31:08 +0000</pubDate></item><item><title>Lemon.io: Senior Vue Developer</title><link>https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1</link><description>Headquarters: New York, NY
     URL: https://lemon.io
 
 
@@ -973,58 +1226,7 @@ We're placing Senior Developers (4+ yrs commercial experience) across AI Agent A
 We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
 We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
 
-To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1</description><pubDate>Wed, 21 Oct 2026 12:54:56 +0000</pubDate></item><item><title>Ritual: Core Protocol Engineer</title><link>https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer</link><description>Headquarters: Remote
-
-
-About Ritual&amp;nbsp;
-Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role
-We're seeking a Core Protocol Engineer with deep expertise with Ethereum execution clients to help us extend the EVM for next-generation compute capabilities. You'll work on expanding the execution layer to support novel precompiles, implement parallel execution patterns, and design systems for heterogeneous compute orchestration.
-
-Design and implement extensions to EVM clients (Geth/Reth) for supporting stateful precompiles
-Implement novel mechanism design primitives, collaborating with our research team, into the execution layer
-Develop and optimize transaction processing pipelines for heterogeneous workloads
-Research and implement solutions for state access conflicts
-Contribute to core protocol development and EIP implementations
-Collaborate with the research team on protocol specifications and mechanism design improvements
-Design and implement robust testing frameworks for execution client modifications
-
-About you
-
-Deep understanding of EVM internals and Ethereum execution clients (Geth/Reth)
-Strong experience implementing and optimizing precompiles
-Expertise in Go and/or Rust for systems programming, and Solidity
-Thorough knowledge of Ethereum's roadmap and active participation in protocol discussions
-Experience with parallel execution patterns in blockchain systems
-Strong understanding of consensus mechanisms and blockchain architecture
-Ability to read, understand, and implement EIPs and protocol specifications
-Proven track record of shipping production-grade blockchain systems
-Ability to act quickly under high pressure scenarios and context switch at a high frequency
-A high level of end-to-end ownership and self-direction, with excellent communication skills
-Hungry, high-energy and ability to work within and meet deadlines in a fast-paced environment
-
-Nice to have
-
-Knowledge of mempool dynamics, transaction ordering and the mev-boost implementation
-Background in mechanism design or market systems
-Deep knowledge of proof systems and their trade-offs around prover time, verifier time, and proof size
-Experience optimizing proof generation and verification pipelines
-Experience with cross-chain bridges or interoperability protocols
-Contributions to Ethereum client codebases
-Background in distributed systems and concurrent programming
-
-Why join us&amp;nbsp;
-
-Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure&amp;nbsp;
-Highly competitive compensation package, including annual discretionary bonus &amp;amp; optimized tax structure compared to the vast majority of web3 startups
-Top 1% of benefits across the web3 startup space
-100% of premiums covered on highest quality healthcare&amp;nbsp;
-Aggressive company 401k match
-Fully remote and/or hybrid, up to you!
-Participate in virtual and in-person events
-Much much more!
-
-
-To apply: https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer</description><pubDate>Wed, 21 Oct 2026 07:31:25 +0000</pubDate></item><item><title>Toptal: Senior Analytics Engineer / BI Lead — Channel Insights (iX360)</title><link>https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360</link><description>Headquarters: 
+To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1</description><pubDate>Wed, 21 Oct 2026 12:54:56 +0000</pubDate></item><item><title>Toptal: Senior Analytics Engineer / BI Lead — Channel Insights (iX360)</title><link>https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360</link><description>Headquarters: 
 
 
 SummaryWe are seeking an Analytics Engineer / BI Lead for Channel Insights to define the semantic layer, build dashboards, and present verified insights to leadership. This role combines Tableau Next and Data 360 insight development, SQL/SOQL work, data-quality validation, field-user training, and daily use of AI copilots/agents to improve delivery speed while maintaining accountability for production decisions.General informationThis engagement is centered on Channel Insights, with responsibility spanning metrics, dimensions, refresh SLAs, dashboard logic, and executive-facing insight delivery. The work is not a report ticket queue; it requires ownership of the analytics layer and confidence in the numbers presented to leadership.Daily use of AI copilots/agents is an explicit expectation for discovery, build, test, and documentation. The focus is on improving cycle time and cost-to-outcome versus legacy delivery, embedding automation into quality gates, and verifying outputs before they reach production or executive readouts.Tasks and DeliverablesOwn Channel Insights metrics, dimensions, and refresh SLAs with the CDP product owner and Data Expert.Build Tableau Next and Data 360 calculated insights; write SQL/SOQL as needed.Validate data quality with the modeler/engineer and fix breaks at the source.Train field users through working sessions.Use AI for SQL and dataset drafts and insight narratives; verify every number before executive readouts.Automate anomaly commentary on Channel Insights where trustworthy; escalate false positives.Required experience5+ years of analytics engineering or BI lead experience.Expert-level Tableau or equivalent BI platform experience.Strong storytelling with data for executives and field leaders.Experience using AI copilots/agents in analytics delivery with human verification.Nice to have:Experience with Salesforce CRM Analytics and/or Data 360.Engagement highlightsOwn a defined Channel Insights workstream across semantic-layer design, dashboards, and data quality.Work directly with cross-functional stakeholders, including product, data, engineering, and field users.Deliver executive-facing insights and automate repeatable commentary where the data is trustworthy.
@@ -1070,121 +1272,7 @@ Why Vertex?
 • The mission: become one of the best in the world at this, fast, then package what we build for other agencies
 • Fast decisions. You'll know within 48 hours at every stage
 
-To apply: https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer</description><pubDate>Tue, 20 Oct 2026 11:32:37 +0000</pubDate></item><item><title>Celonis: Client Value Partner (CVP) - Utilities &amp; Energy Industry</title><link>https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry</link><description>Headquarters: Remote, US, Ohio
-
-
-Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet.The Opportunity
-We are seeking an established consulting leader—a current Big Four Director, Managing Director, or Partner-track Senior Manager—to spearhead our highest-stakes Energy &amp;amp; Utilities engagements. In this executive-level role, you will serve as the principal strategic architect for our most valuable power, gas, and renewable energy accounts globally.
-Leveraging the Celonis Process Intelligence platform, you will bridge the gap between macro energy sector strategies and modern cloud/AI execution models, moving clients from slide decks to realized operational value.
-The Impact You’ll Make
-1. C-Suite Advisory &amp;amp; Value Architecture
-
-Peer-to-Peer Advisory: Partner directly with utility C-suite executives (CEOs, COOs, CFOs, Chief Sustainability Officers) to align macro pressures—decarbonization, grid modernization, and capital reallocation—with execution-level transformation roadmaps.
-Map Enterprise Digital Twins: Oversee the deployment of the Celonis Process Intelligence Graph to build systemic, end-to-end operational models of complex utility enterprises.
-Orchestrate $100M+ Business Cases: Direct the formulation of board-ready Celonis Value Assessments, delivering the economic justification, working capital improvements, and OPEX returns required to greenlight massive cloud and Edge AI investments.
-
-2. Transformation Leadership &amp;amp; Ecosystem Governance
-
-Steer Enterprise Transformations: Serve as the executive sponsor for high-visibility, Celonis-driven operating model overhauls for Fortune 500 E&amp;amp;U clients, guiding them from diagnostic discovery to closed-loop automation.
-Architect Celonis Centers of Excellence (CoEs): Design and establish corporate-wide CoEs, defining the target operating models, governance structures, and enablement frameworks needed to embed data-driven decision-making into client cultures.
-Untangle Systemic Friction: Lead cross-functional teams to resolve complex operational leakages where siloed utility stacks (SAP S/4HANA, IBM Maximo, ADMS/SCADA) collide—specifically optimizing capital procurement, field services, and energy settlement invoicing.
-
-3. Commercial Growth &amp;amp; Scaled Innovation
-
-De-Risk High-Value Sales Cycles: Convert complex regulatory mandates (FERC, NERC) into automated, visual compliance audits within the Celonis platform, transforming abstract compliance risks into compelling business cases that accelerate C-suite sign-off.
-Commercialize Next-Gen "Process + AI" Use Cases: Direct the integration of industrial telemetry (SCADA, Edge IoT) into Celonis, translating complex data structures into high-margin, executive-ready offerings like real-time storm response and predictive asset failure.
-Productize Utility Value Plays: Codify repeatable client successes into scalable Celonis apps and action templates, establishing a library of industry-specific intellectual property that drives rapid time-to-value, net-new ARR, and account expansion.
-
-The Profile We Are Looking For
-
-Consulting Pedigree: 12+ years of progressive experience within a Big Four or elite management consulting firm, currently operating at the Director, Managing Director, or Partner level.
-E&amp;amp;U Vertical Expertise: Deep, authoritative knowledge of the Energy &amp;amp; Utilities sector (Grid Operations, Transmission &amp;amp; Distribution, Generation, or Retail), with a track record of leading multi-million-dollar transformation programs.
-SaaS &amp;amp; Process Intelligence Vision: Strong conceptual understanding of Process Mining paradigms. Experience with Celonis is highly advantageous, but a proven ability to leverage enterprise software to reshape business processes is required.
-Architectural Fluency: Comprehensive understanding of the modern enterprise stack (SAP, Oracle, Maximo) and emerging data/AI paradigms (Azure AI, LLMs). Note: You do not need to write code or SQL queries, but you must possess the technical fluency to direct data scientists, engineers, and solution architects.
-Commercial Acumen: Proven capability in client origination, relationship management, and driving account growth through value-based selling.
-Education: Bachelor’s degree in Engineering, Computer Science, or Information Systems. An MBA from a top-tier business school is highly preferred.
-
-Visa sponsorship is not offered for this role.What Celonis can offer you:
-
-Pioneer Innovation: Work with the global leader in Process Mining and the Process Intelligence Graph to shape the future of AI-driven business operations.
-Ownership from Day 1: Every full-time "Celonaut" is an owner, receiving Restricted Stock Units (RSUs) and merit-based refresh grants.
-Unrivaled Family Support: Benefit from our inclusive parental leave policy—24 weeks of fully paid leave for primary carers and 12 weeks for supporting carers, available from your first day of employment.
-Work-Life Integration: Enjoy Unlimited PTO (in applicable regions) and generous PTO globally, as well as a flexible hybrid work model that balances remote focus with vibrant office collaboration.
-Continuous Growth: Elevate your skills through our 70-20-10 learning framework, mentorship programs, and access to a dedicated learning platform.
-Holistic Well-being: Prioritize your health with subsidized Wellhub memberships, mental health counseling, and dedicated "Wellness Weeks" that prioritize work/life balance.
-Drive Sustainability: Participate in annual Impact Days, where you receive paid time off to volunteer for community and environmental causes with your local office, or virtually.
-Global Inclusion &amp;amp; Belonging: Find community through our Inclusion Think Tank and participate in our annual Inclusion Days, ensuring every voice is heard and valued.
-Value-Driven Impact: Join a mission-led organization where our core values—Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future—drive every decision.
-
-About Us:
-Celonis is the trusted platform to industrialize Enterprise AI, empowering organizations to analyze, design, and operate AI-driven processes. The Celonis Platform is powered by the Celonis Context Model, which combines process data, business knowledge, and intelligence to create a living digital twin of the enterprise that AI can understand — turning AI’s operational blind spots into operational clarity. Industry-leading companies around the world trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. Celonis is headquartered in Munich, Germany, and New York City, USA, with more than 20 offices worldwide.
-Get familiar with the Celonis Process Intelligence Platform by watching this video.
-Celonis Inclusion Statement:
-At Celonis, we believe our people make us who we are and that “The Best Team Wins”. We know that the best teams are made up of people who bring different perspectives to the table. And when everyone feels included, able to speak up and knows their voice is heard - that's when creativity and innovation happen.
-Your Privacy:
-Any information you submit to Celonis as part of your application will be processed in accordance with Celonis’ Accessibility and Candidate Notices
-By submitting this application, you confirm that you agree to the storing and processing of your personal data by Celonis as described in our Privacy Notice for the Application and Hiring Process.
-Use of Artificial Intelligence ToolsWe rely on an artificial intelligence tool to match the information from your resume to the relevant Celonis job descriptions. This processing is limited to the information provided in your resume or in your candidate profile. The tool produces a match score per candidate for a role, suggests preliminary ranking, and provides recommendations.The tool is only used for support in parts of the job application process, including to facilitate the identification of the relevant Celonis Jobs for candidates and recruiters. All final decisions are made by hiring managers and the Celonis talent acquisition team. Hiring managers and HR specialists use this tool responsibly, are aware of the risk of potential bias, and are equipped to mitigate it.
-Please be aware of common job offer scams, impersonators and frauds. Learn more here.
-
-To apply: https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry</description><pubDate>Tue, 20 Oct 2026 07:31:04 +0000</pubDate></item><item><title>Celonis: Client Value Partner (CVP) - Oil &amp; Gas Industry</title><link>https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry</link><description>Headquarters: Remote, US, Texas
-
-
-Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet.The Opportunity
-We are seeking an established consulting leader—a current Big Four Director, Managing Director, or Partner-track Senior Manager—to spearhead our highest-stakes Oil &amp;amp; Gas engagements. In this executive-level role, you will serve as the principal strategic architect for our most valuable Upstream, Midstream, Downstream, and LNG accounts globally.
-Leveraging the Celonis Process Intelligence platform, you will bridge the gap between macro energy transition strategies and modern cloud/AI execution models, moving clients from slide decks to realized operational value.
-The Impact You’ll Make
- C-Suite Advisory &amp;amp; Value Architecture
-
-Peer-to-Peer Advisory: Partner directly with Oil &amp;amp; Gas C-suite executives (CEOs, COOs, CFOs, Chief Sustainability Officers) to align macro pressures—capital discipline, decarbonization, yield optimization, and supply chain volatility—with execution-level transformation roadmaps.
-Map Enterprise Digital Twins: Oversee the deployment of the Celonis Process Intelligence Graph to build systemic, end-to-end operational models of complex oilfield, pipeline, or refining enterprises.
-Orchestrate $100M+ Business Cases: Direct the formulation of board-ready Celonis Value Assessments, delivering the economic justification, working capital improvements, and OPEX returns required to greenlight massive cloud, IoT, and Edge AI investments.
-
- Transformation Leadership &amp;amp; Ecosystem Governance
-
-Steer Enterprise Transformations: Serve as the executive sponsor for high-visibility, Celonis-driven operating model overhauls for Fortune 500 O&amp;amp;G clients, guiding them from diagnostic discovery to closed-loop automation.
-Architect Celonis Centers of Excellence (CoEs): Design and establish corporate-wide CoEs, defining the target operating models, governance structures, and enablement frameworks needed to embed data-driven decision-making into client cultures.
-Untangle Systemic Friction: Lead cross-functional teams to resolve complex operational leakages where siloed O&amp;amp;G stacks (SAP S/4HANA, Oracle, IBM Maximo, Hydrocarbon Accounting systems) collide—specifically optimizing mega-project capital procurement, asset turnaround management, and joint venture accounting.
-
- Commercial Growth &amp;amp; Scaled Innovation
-
-De-Risk High-Value Sales Cycles: Convert complex regulatory, environmental, and safety mandates (EPA, OSHA, BSEE, API standards) into automated, visual compliance audits within the Celonis platform, transforming abstract risk management into compelling business cases that accelerate C-suite sign-off.
-Commercialize Next-Gen "Process + AI" Use Cases: Direct the integration of industrial telemetry (refinery IoT, pipeline SCADA, digital oilfield data) into Celonis, translating complex data structures into high-margin, executive-ready offerings like predictive asset integrity and real-time carbon intensity tracking.
-Productize Oil &amp;amp; Gas Value Plays: Codify repeatable client successes into scalable Celonis apps and action templates, establishing a library of industry-specific intellectual property that drives rapid time-to-value, net-new ARR, and account expansion.
-
-The Profile We Are Looking For
-
-Consulting Pedigree: 12+ years of progressive experience within a Big Four or elite management consulting firm, currently operating at the Director, Managing Director, or Partner level.
-O&amp;amp;G Vertical Expertise: Deep, authoritative knowledge of the Oil &amp;amp; Gas sector (Upstream exploration/production, Midstream logistics, Downstream refining/petrochemicals, or LNG), with a track record of leading multi-million-dollar transformation programs.
-SaaS &amp;amp; Process Intelligence Vision: Strong conceptual understanding of Process Mining paradigms. Experience with Celonis is highly advantageous, but a proven ability to leverage enterprise software to reshape business processes is required.
-Architectural Fluency: Comprehensive understanding of the modern enterprise stack (SAP, Oracle, Maximo) and emerging data/AI paradigms (Azure AI, LLMs). Note: You do not need to write code or SQL queries, but you must possess the technical fluency to direct data scientists, engineers, and solution architects.
-Commercial Acumen: Proven capability in client origination, relationship management, and driving account growth through value-based selling.
-Education: Bachelor’s degree in Engineering (Petroleum, Chemical, or Industrial preferred), Computer Science, or Information Systems. An MBA from a top-tier business school is highly preferred.
-
-Visa sponsorship is not offered for this role.What Celonis can offer you:
-
-Pioneer Innovation: Work with the global leader in Process Mining and the Process Intelligence Graph to shape the future of AI-driven business operations.
-Ownership from Day 1: Every full-time "Celonaut" is an owner, receiving Restricted Stock Units (RSUs) and merit-based refresh grants.
-Unrivaled Family Support: Benefit from our inclusive parental leave policy—24 weeks of fully paid leave for primary carers and 12 weeks for supporting carers, available from your first day of employment.
-Work-Life Integration: Enjoy Unlimited PTO (in applicable regions) and generous PTO globally, as well as a flexible hybrid work model that balances remote focus with vibrant office collaboration.
-Continuous Growth: Elevate your skills through our 70-20-10 learning framework, mentorship programs, and access to a dedicated learning platform.
-Holistic Well-being: Prioritize your health with subsidized Wellhub memberships, mental health counseling, and dedicated "Wellness Weeks" that prioritize work/life balance.
-Drive Sustainability: Participate in annual Impact Days, where you receive paid time off to volunteer for community and environmental causes with your local office, or virtually.
-Global Inclusion &amp;amp; Belonging: Find community through our Inclusion Think Tank and participate in our annual Inclusion Days, ensuring every voice is heard and valued.
-Value-Driven Impact: Join a mission-led organization where our core values—Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future—drive every decision.
-
-About Us:
-Celonis is the trusted platform to industrialize Enterprise AI, empowering organizations to analyze, design, and operate AI-driven processes. The Celonis Platform is powered by the Celonis Context Model, which combines process data, business knowledge, and intelligence to create a living digital twin of the enterprise that AI can understand — turning AI’s operational blind spots into operational clarity. Industry-leading companies around the world trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. Celonis is headquartered in Munich, Germany, and New York City, USA, with more than 20 offices worldwide.
-Get familiar with the Celonis Process Intelligence Platform by watching this video.
-Celonis Inclusion Statement:
-At Celonis, we believe our people make us who we are and that “The Best Team Wins”. We know that the best teams are made up of people who bring different perspectives to the table. And when everyone feels included, able to speak up and knows their voice is heard - that's when creativity and innovation happen.
-Your Privacy:
-Any information you submit to Celonis as part of your application will be processed in accordance with Celonis’ Accessibility and Candidate Notices
-By submitting this application, you confirm that you agree to the storing and processing of your personal data by Celonis as described in our Privacy Notice for the Application and Hiring Process.
-Use of Artificial Intelligence ToolsWe rely on an artificial intelligence tool to match the information from your resume to the relevant Celonis job descriptions. This processing is limited to the information provided in your resume or in your candidate profile. The tool produces a match score per candidate for a role, suggests preliminary ranking, and provides recommendations.The tool is only used for support in parts of the job application process, including to facilitate the identification of the relevant Celonis Jobs for candidates and recruiters. All final decisions are made by hiring managers and the Celonis talent acquisition team. Hiring managers and HR specialists use this tool responsibly, are aware of the risk of potential bias, and are equipped to mitigate it.
-Please be aware of common job offer scams, impersonators and frauds. Learn more here.
-
-To apply: https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry</description><pubDate>Tue, 20 Oct 2026 07:31:00 +0000</pubDate></item><item><title>Reddit: Analytics Engineer</title><link>https://weworkremotely.com/remote-jobs/reddit-analytics-engineer</link><description>Headquarters: Remote - United States
+To apply: https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer</description><pubDate>Tue, 20 Oct 2026 11:32:37 +0000</pubDate></item><item><title>Reddit: Analytics Engineer</title><link>https://weworkremotely.com/remote-jobs/reddit-analytics-engineer</link><description>Headquarters: Remote - United States
 
 
 
