@@ -1,5 +1,143 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Dropbox: Backend Product Software Engineer</title><link>https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1</link><description>Headquarters: Remote - Mexico
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>ZoomInfo Technologies LLC: Principal Product Management, Growth</title><link>https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth</link><description>Headquarters: Remote
+
+
+ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.Principal Product Manager, Growth
+About ZoomInfo
+ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You'll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won't just contribute — you'll make things happen, fast.
+The Opportunity
+Own a Growth Portfolio and Set the Pattern the Rest of the Team Inherits
+ZoomInfo built the industry's most sophisticated GTM data platform. The next frontier is turning every visitor into revenue without waiting on a human handoff — a coherent self-serve journey that activates a non-customer in minutes, converts consumption into upgrade, and routes high-intent signals back to sales when a human will close more than they distract.
+You'll define the multi-quarter thesis on which channels compound, the operating rhythm the rest of the growth PM team inherits, and the ZoomInfo POV on how buyers discover us in an AI-first world.
+The impact is immediate and compounding. Every signup you activate, every credit you cause to be consumed, every transaction, every PQL you route, every "buy more" event you trigger is revenue — and every operating pattern you set multiplies across the growth PM group. We've adopted a consumption-first monetization model and a unified entry-point thesis across the company, and we run weekly: if your hypothesis can't be falsified inside a sprint, it isn't a hypothesis. This is a rare opportunity to own a P&amp;amp;L-shaped surface with full air cover to ship fast, learn in public, re-pivot when the data turns — and to define the growth PM craft as ZoomInfo scales it.
+What You'll Do
+Own the Portfolio End-to-End
+Take a portfolio-scope growth surface — and own it from first impression to revenue. Define the entry points, the activation milestones, the monetization moments, and the sales-assist signals across the channels that make up the portfolio. Drive the user experience across surfaces: landing, signup, in-product onboarding, empty states, upgrade modals, paywalls, lifecycle communication, and the agent-readable / LLM-discovery surfaces that are becoming primary. You own the funnel chart; you own the why behind every drop.
+Set the Multi-Quarter Growth Thesis
+Beyond weekly experiments, own 4-8 quarter bets on which channels compound and which retire. Publish a written POV on where PLG distribution is heading (LLM-first discovery, MCP-as-channel, agent-readable onboarding, partner-driven trials) and defend the sequencing to the exec team. Rebalance investment across the portfolio quarterly based on unit economics, not the loudest channel.
+Run Experimentation as the Operating Rhythm — and Set the Rhythm for the Team
+Ship 8-10 experiments per sprint. Pre-register the hypothesis, the metric, the success threshold, and — critically — the invalidation signal. Read results weekly, kill what doesn't work, double down on what does, and keep a written record so the team compounds learning instead of repeating it. Your rubric, your retro format, and your invalidation-signal standard become the template the rest of the Growth PM group inherits. Translate results into concrete changes: copy rewrites, schema tweaks, pricing changes, new flows, retired ones. Close the loop with engineering, design, and analytics inside the same week.
+Design Self-Serve as a First-Class Path
+Most users on your portfolio never speak to sales before they hit a "buy more" moment. Your in-product copy, paywall framing, empty states, activation paths, and upgrade triggers are the product. Apply growth-engineering rigor — credit economics, consumption pacing, signal routing, lifecycle messaging, intelligent gating — so the right offer lands in front of the right user at exactly the right moment. Hand high-intent users to sales with a clean signal; absorb low-intent users with a clean self-serve path.
+Diagnose the Funnel With Data, Not Vibes
+Data is your default tool, not a thing you ask analytics to do for you. You independently analyze the funnel, segment the cohort, find the leak, and propose the fix — then validate it with an experiment. You know when to trust a 5% lift and when to call it noise. Just as important: you know when to zoom out from a specific funnel drop to a portfolio-level rebalance, and can defend that call.
+Shape the Monetization Mechanic
+You'll design the credit economics of your portfolio: what's free, what's gated, what gets a "buy more" prompt, what triggers a PQL. You'll model the unit economics — credit cost, revenue per credit, upgrade rate, expansion rate — and you'll defend the pricing decisions in front of finance and sales leadership with the math.
+Orchestrate Across Sales, Marketing, and CS
+Self-serve doesn't mean alone. You'll route PQLs into the right hands (AE, SC, AM, or no one), partner with marketing on acquisition and lifecycle, and work with CS to understand why activated users churn before upgrade. You'll run the operating cadences that keep your portfolio aligned with the broader PLG portfolio without becoming a meeting machine.
+Multiply the Team
+Help hire and calibrate the Sr Growth PMs owning adjacent loops. Coach them into ownership. Your retro is their template; your experiment quality is their bar. Raise the craft of the whole Growth PM group as it scales.
+Stay Honest About What's Working
+Write retrospectives that name the wrong calls as cleanly as the right ones. Update your priors publicly when the data turns. Hold strong opinions weakly. The team that ships the most experiments isn't the team that's right the most — it's the team that updates the fastest.
+What You'll Bring
+
+8–12 years of product management experience, with 4+ years specifically in growth, PLG, or self-serve product roles
+Direct P&amp;amp;L ownership at portfolio scope — a loop or portfolio you've driven from &amp;lt;$X to &amp;gt;$Y with your name on the number, not a feature inside someone else's loop
+Experience presenting to CEO / CRO / CFO / board on growth mechanics — the credit-economics deck, the funnel narrative, the "kill this bet" moment
+Track record of hiring, mentoring, or calibrating other growth PMs — comfortable being the bar
+You're a builder. You ship landing pages, signup flows, and in-product experiments — not specs that sit in Jira. You sit with designers and engineers, write copy, and prototype with code.
+AI-fluent with a public POV. You understand that LLMs are becoming a primary discovery surface. You have opinions — publishable ones — about agent-readable flows, MCP-as-distribution, GEO/AEO, and how an AI agent's recommendation impacts a funnel.
+Marketing-fluent. You hold your own with SEO, paid acquisition, content, and lifecycle marketing teams as a peer, not a consumer.
+Demonstrated track record of running structured experimentation (A/B tests, multivariate, holdouts, pre/post) at sprint cadence — including at cohort sizes where 50/50 doesn't have power
+Strong analytics fluency — comfortable in Snowflake without analyst hand-holding
+Working knowledge of consumption-based pricing, credit economics, freemium mechanics, and PQL frameworks
+B2B SaaS background; data, GTM, or sales-tech domain experience is a plus but not required
+
+Who You Are
+Core Competencies
+Funnel Foundation. Expert-level understanding of full-funnel growth. You can reason about activation rates, time-to-value, retention curves, credit economics, upgrade triggers, and PQL signal quality with depth. You've owned a growth loop — or portfolio — in production. SQL and analytics fluency let you diagnose a funnel drop, prototype the fix, and validate it in the same week.
+Portfolio Thinking. You reason about ToF (or an equivalent surface) as a portfolio of channels with different unit economics, decay curves, and compounding dynamics — not a single funnel. You rebalance investment quarterly based on where marginal dollars return the most, and you can defend the rebalance to leadership with the math.
+Experimentation Discipline. You don't ship without a hypothesis. You pre-register the metric and the invalidation signal before the test runs. You read results honestly, kill losing variants without ego, and document learnings so the team compounds knowledge instead of relitigating settled questions. You know the difference between an experiment and a launch — and you can tell when each is the right move.
+Category POV. You have a public, defensible point of view on where PLG distribution is heading — agent-readable surfaces, MCP-as-channel, GEO/AEO, LLM-first onboarding — grounded in benchmarks from peer companies (Clay, Linear, Vercel, Cursor, Notion), not just internal data. That POV shows up in the roadmap.
+Distribution Mindset. Experience designing growth surfaces where sales teams, marketing teams, and self-serve users are simultaneously your customers. You measure success through revenue, consumption, and expansion velocity, not screens shipped. You understand growth economics: each additional entry point, freemium offer, or AI trial compounds in value through shared activation patterns, amortized acquisition costs, and recurring consumption network effects.
+Operational Velocity. You read the funnel daily, not quarterly. You prototype emerging mechanics — paywalls, in-app prompts, lifecycle sequences — to understand their practical constraints before committing engineering time. You hold strong opinions weakly, updating your design assumptions as evidence accumulates, publicly, even when the prior thesis was your own.
+Strategic Communication. You translate between funnel depth and business impact fluently. You can explain to the CEO why a credit pricing change is worth a quarter of work. You can communicate to engineers why a revenue constraint requires a "quiet release" in two weeks rather than a polished launch in three months. You influence without formal authority through forcing functions, falsifiable invalidation signals, and earned credibility.
+Talent Leverage. You coach Sr PMs into full ownership of their loops. Your retro is their template. Your experiment quality is their bar. You help hire the next PMs on the team, and you calibrate — you know what "great" looks like at Sr level and you can articulate the gap to someone who isn't there yet.
+Copy Instinct. Microcopy is part of your craft, not someone else's job. You can rewrite a paywall headline, an upgrade modal, an empty state, or an onboarding CTA on instinct — and defend the rewrite with PLG principles. You know when to ask content design for help and when to ship the rewrite yourself.
+The Environment
+Reporting, Pace &amp;amp; Impact
+Reporting &amp;amp; Collaboration. Report to the VP Product, PLG. Peer to the Sr Directors of Marketing, Sales Operations, and Customer Success on the growth contracts (PQL routing, demand-gen alignment, credit economics). Work shoulder-to-shoulder with the engineering and design leaders building the underlying surfaces, the GTM leaders routing PQLs into sales, and a peer PM group covering monetization, lifecycle, viral, onboarding, and analytics. Regular exposure to the CEO, CRO, CMO, and CFO — you own those conversations at your level.
+Pace &amp;amp; Problems. Fast-moving teams that understand the space. Weekly experimentation cadence layered under 4-quarter portfolio bets. Expect interesting problems: How do we win activation in a user's first 60 seconds? When should two trial flows become one? How do we expose enough value to convert without giving away the platform? How do we price a credit so that customers consume more, not less? When should a self-serve user be routed to sales — and when does that routing actually destroy revenue? How do buyers discover ZoomInfo when discovery goes through Claude and ChatGPT? Your decisions become operating patterns across the PLG organization.
+Impact. Own a portfolio-scope growth surface at a company that is already AI-first in product thinking and consumption-first in monetization. Your decisions compound. Every improvement to the funnel, the offer, or the activation experience multiplies across multiple products, every partner-driven self-serve channel ZoomInfo ships into, and every AI distribution surface we haven't yet imagined — and every operating pattern you set makes the next PM on the team better.
+What changed at a glance:
+
+Title + opening reframed from loop-scope → portfolio-scope, ToF-leaning but flexible
+Three new sections in What You'll Do: Set the Multi-Quarter Thesis, Represent PLG to Leadership, Multiply the Team
+Seniority bar: 4-7 yrs → 8-12 yrs; adds direct P&amp;amp;L ownership, exec/board presenting, hiring/mentoring
+Two new competencies: Portfolio Thinking, Category POV, Talent Leverage
+Reporting line: Sr Director → VP Product, PLG; peer to CRO/CMO/CFO direct reports
+Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.
+In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits here.Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.$151,900—$238,700 USDAbout us:&amp;nbsp;
+ZoomInfo (NASDAQ: GTM), the all-in-one AI GTM platform, enables sales, marketing, and customer success teams to execute their go-to-market strategy with confidence. Powered by the industry's most comprehensive B2B data, including more than 100 million companies, 500 million contacts, and billions of signals, ZoomInfo delivers the intelligence, automation, and integrations that modern revenue teams need to identify, engage, and convert their best buyers.
+ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant Privacy Notice for more details on how we handle your personal information.
+ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available here.
+ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.
+For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.
+
+To apply: https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth</description><pubDate>Sun, 01 Nov 2026 07:30:53 +0000</pubDate></item><item><title>Oportun: Senior ML Engineer (R14284)</title><link>https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284</link><description>Headquarters: Remote - India 
+
+
+Who We Are
+Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually.A Quick Note on the Role's Focus
+While the title is Senior ML Engineer, this opportunity is specifically focused on ML Platform Engineering rather than ML model development or data science.
+We're looking for engineers with strong software engineering fundamentals and hands-on experience building, scaling, and operating the platforms and infrastructure that enable machine learning in production. The emphasis is on ML infrastructure, MLOps, model serving, platform reliability, and production engineering, rather than primarily developing, training, or fine-tuning ML models.
+Location Note
+We’re excited to consider talent currently based in India, as well as candidates who are open to relocating to India for this opportunity. Please note that, as this is a "Remote–India" position, the role must be performed from within India.
+The Opportunity
+The Machine Learning Platform team builds the software foundations that enable data scientists and machine learning engineers to develop, validate, deploy, and operate models safely and efficiently in production. In this role, you’ll lead complex platform work from business context through production outcomes, combining hands-on engineering, architectural judgment, production ownership, and mentorship. In your first year, success means leading meaningful platform initiatives, improving reliability and developer experience, and becoming a trusted technical leader for the ML platform.
+At Oportun, we move fast and hold each other to a high bar. You’ll partner across Data Science, Product, Risk, Fraud, and Engineering to solve ambiguous problems and move the needle for members and the business.
+What You'll Do
+Your day-to-day
+
+You’ll lead the design, implementation, deployment, and operation of complex platform capabilities that support the machine-learning lifecycle.
+You’ll design scalable systems for model deployment and serving, feature computation, data validation, workflow orchestration, monitoring, and production support.
+You’ll build reusable platform components, standards, and automation while improving reliability, scalability, observability, and operational readiness across ML systems.
+You’ll partner with Data Science, Product, Risk, Fraud, and Engineering teams to translate ambiguous business needs into practical technical solutions.
+You’ll own significant technical initiatives end to end and lead complex production investigations—clarifying requirements, leading design, delivering safely, measuring results, and implementing durable fixes.
+You’ll raise engineering quality through thoughtful code and design reviews, mentor engineers through pairing and technical guidance, and contribute to platform technical strategy.
+You’ll look for ways to use AI tools thoughtfully to work smarter, reduce manual work, and make better decisions faster.
+
+Who You Are
+The right fit looks like this
+You do not need detailed implementation direction to be effective. Given an ambiguous problem and sufficient context, you can define the technical approach, explain trade-offs, align stakeholders, lead delivery, and own the outcome after launch.
+You’re comfortable navigating complexity and don’t wait for perfect information to move forward. You communicate clearly, give direct feedback, mentor others, and connect engineering work to member, business, and operational outcomes.
+What You Bring
+Skills &amp;amp; experience
+
+You’ll have 5+ years of professional software-engineering experience building and operating production systems, with strong programming skills in Python and deep knowledge of API design, distributed systems, service architecture, testing, and software-design fundamentals.
+You’ve demonstrated experience designing and operating reliable, scalable cloud-native services or data-intensive systems, with experience in ML platforms, model serving, feature engineering, data platforms, MLOps, or related systems.
+You bring practical experience with SQL, databases, caching, and tracing data or requests across multiple systems, plus familiarity with the ML lifecycle from feature engineering and model training through evaluation, deployment, serving, monitoring, and governance.
+You have experience with Docker, Kubernetes, CI/CD, Git-based workflows, and production observability, and you can evaluate technical alternatives and clearly communicate recommendations, trade-offs, risks, and dependencies.
+You’ve demonstrated the ability to mentor engineers, improve engineering practices, lead through technical influence, and connect engineering work to member, business, product, and operational outcomes.
+
+Nice to Have
+
+Experience with AWS, Databricks, MLflow, SageMaker, Spark/PySpark, Kafka, or streaming systems.
+Experience building feature platforms, model-serving systems, workflow-orchestration platforms, or internal developer platforms.
+Familiarity with monitoring model quality, data quality, feature coverage, latency, reliability, or cost efficiency, and experience working with sensitive data in a regulated or financial-services environment.
+Experience with Java or another backend language in addition to Python, and familiarity with AI tools such as ChatGPT or Copilot to improve personal productivity.
+
+Our AI Mindset
+We build with AI. We lead with judgment.
+AI isn't a feature here. It's how we work.
+We're excited about what AI makes possible, and we're looking for people who share that curiosity. You don't need to be an expert. You need to be open to experimenting, willing to learn, and able to apply new tools in ways that actually move the needle.
+In this role, you'll be encouraged to explore AI tools, find practical use cases for your function, and bring ideas for working smarter. We believe the best outcomes come when human judgment and AI capability work together.
+Why Oportun
+What's in it for you
+Oportun offers a competitive compensation and benefits package designed to support your physical, financial, and professional well-being. Benefits vary by country of employment.
+Some of the benefits available to eligible employees include:
+India Benefits:
+Medical, Dental &amp;amp; Vision Insurance
+Provident Fund
+Life &amp;amp; Accident Insurance
+Internet, Fuel, Meal &amp;amp; Telephone Allowances
+Eligibility and plan details vary by location and employment status. To learn more about Oportun and our benefits, visit oportun.com/careers&amp;nbsp;&amp;nbsp; #LI-REMOTE #LI-SS1We are proud to be an Equal Opportunity Employer and consider all qualified applicants for employment opportunities without regard to race, age, color, religion, gender, national origin, disability, sexual orientation, veteran status or any other category protected by the laws or regulations in the locations where we operate.
+&amp;nbsp;
+California applicants can find a copy of Oportun's CCPA Notice here:&amp;nbsp; https://oportun.com/privacy/california-privacy-notice/.
+&amp;nbsp;
+We will never request personal identifiable information (bank, credit card, etc.) before you are hired. We do not charge you for pre-employment fees such as background checks, training, or equipment. If you think you have been a victim of fraud by someone posing as us, please report your experience to the FBI’s Internet Crime Complaint Center (IC3).
+
+To apply: https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284</description><pubDate>Sun, 01 Nov 2026 07:30:35 +0000</pubDate></item><item><title>Dropbox: Backend Product Software Engineer</title><link>https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1</link><description>Headquarters: Remote - Mexico
 
 
 Role Description
@@ -40,48 +178,7 @@ Connection: Communicate, collaborate, and build trust.
 
 To learn more about why these skills matter and what the data shows about thriving through change, read this blog post from our Chief People Officer, Melanie Rosenwasser.
 
-To apply: https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1</description><pubDate>Sat, 31 Oct 2026 07:31:12 +0000</pubDate></item><item><title>Dropbox: Backend Product Software Engineer</title><link>https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer</link><description>Headquarters: Remote - Mexico
-
-
-Role Description
-As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experiences. You will work closely with cross-functional teams, turning innovative ideas into robust, scalable, and user-friendly features.
-This year, Dropbox is on a mission to expedite the creation and implementation of AI-enable products by providing a comprehensive AI technology stack that facilitates speedy prototyping and reliable deployment of AI-driven functionalities.
-Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here.
-Responsibilities
-
-Independently identify and deliver software solutions through a set of milestones spanning a specific product focus or a multi-component system
-Write code alongside junior engineers, demonstrating hands-on technical leadership, understanding root causes, and leading by example.
-Collaborate closely with product managers, designers, and analysts to deeply understand user needs and develop products that meet those needs.
-Develop and execute both short and long-term roadmaps, balancing business impact, user experience, and technical excellence.
-Foster a positive team and company culture through mentorship, participation in interviews, and engagement in new initiatives.
-Establish and nurture relationships with other engineering teams and collaborate effectively with other functions within Dropbox.
-
-On-call work may be necessary occasionally to help address bugs, outages, or other operational issues, with the goal of maintaining a stable and high-quality experience for our customers.
-Requirements
-
-5+ years of software engineering or related industry experience.
-BS degree in Computer Science or related technical field involving coding (e.g., physics or mathematics), or equivalent technical experience.
-Proven track record in identifying and delivering software solutions through a set of milestones spanning a specific product focus or a multi-component system
-Developed and shipped large-scale web applications with a user-centric mindset.
-Proficiency in building user-facing software and supporting systems and libraries for web and/or desktop platforms.
-
-Preferred Qualifications
-
-Contributions to open source projects or technical communities
-Full-Stack Development
-Technologies: MySQL, Python, Go, Java, Rust
-
-Durable Skills
-AI fluency means using these tools to amplify human judgment, not replace it. We believe people with these skills will thrive as work and technology continue to evolve:
-
-Awareness: Understand yourself and others.
-Judgment: Evaluate information and make decisions in complex situations.
-Adaptability: Learn, adjust, and stay effective through change.
-Connection: Communicate, collaborate, and build trust.
-
-To learn more about why these skills matter and what the data shows about thriving through change, read this blog post from our Chief People Officer, Melanie Rosenwasser.
-
-To apply: https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer</description><pubDate>Sat, 31 Oct 2026 07:31:02 +0000</pubDate></item><item><title>GitLab: Backend Engineer, Knowledge Graph</title><link>https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph</link><description>Headquarters: Remote, Canada; Remote, United States
+To apply: https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1</description><pubDate>Sat, 31 Oct 2026 07:31:12 +0000</pubDate></item><item><title>GitLab: Backend Engineer, Knowledge Graph</title><link>https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph</link><description>Headquarters: Remote, Canada; Remote, United States
 
 
 GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.
@@ -516,6 +613,12 @@ To apply: https://weworkremotely.com/remote-jobs/legion-senior-integration-engin
 Job Title: Front-End DeveloperLocation: Fully Remote (US)Department: Global Enrollment Marketing and SalesReports to: Director of Web DevelopmentClassification: Regular, Full-timeFLSA Status: ExemptPrepared by: Global Head of CreativePrepared Date: 10/1/26Salary range:&amp;nbsp;$85,000–$100,000
 About Edconic
 Edconic is a leading player in the alternative, experiential education space. We partner with the world's largest and most well-known brands to create and run schools that capture the legacy and value of each brand. Our students get truly unique, once-in-a-lifetime experiences that help shape their future and give them the skills they need to reach their goals.
+Our Mission: 
+Edconic exists to help learners stand out, move forward, and build meaningful futures in the fields that inspire them. We bring together education and industry, partnering with iconic global organizations to create transformative learning experiences. Our programs are created and delivered by educators and industry practitioners, giving learners access to professional experts, real world challenges, and practical skills. As early career opportunities shrink, we offer credibility, connections, and hands on experience that internships once provided. We prepare learners not simply for their first job but for a lifetime of growth.&amp;nbsp;
+Our values
+• Transformative education: relationship-rich, experiential learning that draws out each learner’s potential.
+• Belonging: a community where learners, educators, experts, and staff can bring their authentic selves and support one another.
+• Stewardship: as a family-owned organization, we think in generations, developing talent, caring for our partnerships, and building an impact that lasts.
 The Role
 We're looking for an experienced Front-End Developer to join our web team, which owns every Edconic digital property – from our school websites to landing pages and email templates. You'll work alongside designers, IT, and MarTech to build solutions that serve real business needs while protecting each brand's unique identity.
 You'll be one of two developers on the team, working directly with our lead developer. That means real ownership of your work, a genuine voice in how we build, very little process overhead, and a codebase that is actively moving toward a modern, standardized WordPress stack. We value craft: fast pages and code that the next developer can read.
@@ -569,9 +672,7 @@ Bachelor's degree preferred (Computer Science, Interaction Design, Graphic Desig
 Our Commitment
 Edconic supports and embraces diversity and inclusiveness, and we encourage candidates from all backgrounds to apply, even if you don't meet every requirement listed here. Reasonable accommodations are available to enable individuals with disabilities to perform the essential functions of the role and to participate in the interview process.
 The above statements describe the general nature and level of work for this position. They are not an exhaustive list of all duties, responsibilities, and skills. Edconic reserves the right to modify this job description at its sole discretion.
-&amp;nbsp;
 
-Apply Here
 PI288024528
 
 To apply: https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer</description><pubDate>Wed, 28 Oct 2026 21:42:43 +0000</pubDate></item><item><title>SimpleTiger: Web Developer: WordPress &amp; HubSpot (U.S. Based, Remote Contractor)</title><link>https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor</link><description>Headquarters: Sarasota, FL
@@ -624,86 +725,7 @@ Projects stay on track because you manage your workload, meet agreed deadlines, 
 Teammates have clear visibility into progress through timely updates and straightforward communication in Slack.
 
 
-To apply: https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor</description><pubDate>Wed, 28 Oct 2026 16:49:37 +0000</pubDate></item><item><title>StockX: Director, Category Growth (General Manager)</title><link>https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager</link><description>Headquarters: Remote, USA
-
-
-Help empower our global customers to connect to culture through their passions.Why you’ll love this role:
-StockX has redefined the global marketplace for culture — where buyers and sellers transact with confidence on an always-on digital exchange. We are building the next frontier of creator-driven, culturally rich commerce that blends excitement, community, expertise, and transaction in one platform.
-To power this next chapter, we are building a category-led organization where each major vertical operates with clear ownership, accountability, and cultural authority.
-The Director, Category Growth (General Manager) is the business owner of a major category vertical. This leader is accountable for the full P&amp;amp;L and long-term trajectory of their category — including supply growth, liquidity, demand activation, monetization, and marketplace health.
-You will operate as a true GM: setting vision, defining strategy, allocating resources, building a team, and driving cross-functional execution. You will represent your vertical at the leadership level and ensure that product, marketing, operations, and partnerships are aligned to unlock sustainable growth.
-This role is both entrepreneurial and executive — suited for a leader who wants to build and scale a culturally driven business within a high-impact marketplace.
-What you’ll own:
-Full-Stack Category P&amp;amp;L
-
-Own revenue, contribution margin, liquidity, and growth targets for your vertical
-Develop annual and multi-year business plans, forecasts, and investment cases
-Allocate resources across acquisition, retention, and engagement to maximize ROI
-Drive pricing, incentives, and promotional strategies aligned to marketplace health
-
-Vertical Strategy &amp;amp; Market Leadership
-
-Define the long-term category vision, positioning, and competitive differentiation
-Identify expansion opportunities across adjacent segments, geographies, and seller tiers
-Establish scalable supply acquisition and retention strategies
-Continuously assess competitive dynamics and evolving cultural trends
-
-Supply, Demand &amp;amp; Liquidity Engine
-
-Architect the playbook for acquiring, activating, and retaining high-value sellers and creators
-Ensure balanced marketplace dynamics between supply depth and demand velocity
-Partner with Growth and Marketing to stimulate demand moments and category engagement
-Implement structural improvements that increase conversion, retention, and monetization
-
-Cross-Functional Executive Leadership
-
-Influence Product roadmap to improve seller tooling, pricing mechanics, discovery, and trust features
-Partner with Marketing to launch culturally relevant campaigns and high-impact moments
-Collaborate with Operations to optimize onboarding, seller support, and fulfillment performance
-Represent your vertical in executive planning, QBRs, and strategic reviews
-
-Team &amp;amp; Organizational Build-Out
-
-Hire and develop Category Managers and supporting roles as the vertical scales
-Establish operating cadence, reporting frameworks, and performance management systems
-Build repeatable GTM playbooks that can be deployed across additional categories
-Foster a culture of accountability, experimentation, and community authenticity
-
-Ecosystem &amp;amp; Community Stewardship
-
-Act as the senior face of StockX within your category’s ecosystem
-Build relationships with top sellers, shops, creators, and community leaders
-Ensure platform growth remains culturally credible and aligned with community norms
-
-About you:
-
-10+ years of experience in marketplace leadership, category general management, business development, or growth roles within consumer tech or two-sided platforms
-Demonstrated ownership of revenue or P&amp;amp;L-level outcomes
-Proven track record of scaling a vertical, marketplace segment, or new business line
-Strong executive presence and experience influencing cross-functional roadmaps
-Deep fluency in marketplace mechanics: liquidity, take rate, CAC/LTV, cohort behavior, supply elasticity
-Experienced people leader with a track record of building high-performing teams
-Deep connection to culture-driven or enthusiast categories
-
-Why this role is different:&amp;nbsp;
-This is not a traditional category marketing or merchandising role. This is a vertical GM role with real business ownership.
-You will:
-
-Build and scale a culturally driven marketplace vertical from early-stage to maturity
-Directly influence product, pricing, and growth strategy
-Operate with executive visibility and measurable business accountability
-Create the blueprint for how category-led growth powers the future of StockX
-
-Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
-&amp;nbsp;
-Pursuant to the Colorado Fair Pay Act, the base salary range in Colorado for this position is $160,000 to $200,000, plus opportunities for benefits (e.g., medical, dental), equity and discretionary bonuses. Compensation in other geographies may vary.&amp;nbsp;&amp;nbsp;
-About StockX
-StockX is proud to be a Detroit-based technology leader focused on the large and growing online market for sneakers, apparel, accessories, electronics, collectibles, trading cards, and more. StockX's powerful platform connects buyers and sellers of high-demand consumer goods from around the world using dynamic pricing mechanics. This approach affords access and market visibility powered by real-time data that empowers buyers and sellers to determine and transact based on market value. The StockX platform features hundreds of brands across verticals including Jordan Brand, adidas, Nike, Supreme, BAPE, Off-White, Louis Vuitton, Gucci; collectibles from brands including LEGO, KAWS, Bearbrick, and Pop Mart; and electronics from industry-leading manufacturers Sony, Microsoft, Meta, and Apple. Launched in 2016, StockX employs 1,000 people across offices and verification centers around the world. Learn more at www.stockx.com.
-&amp;nbsp;
-&amp;nbsp;
-We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position. StockX reserves the right to amend this job description at any time. StockX may utilize AI to rank job applicant submissions against the position requirements to assist in determining candidate alignment.
-
-To apply: https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager</description><pubDate>Tue, 27 Oct 2026 07:31:09 +0000</pubDate></item><item><title>Coinbase: Broker Dealer Operations, Associate</title><link>https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate</link><description>Headquarters: Remote - USA
+To apply: https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor</description><pubDate>Wed, 28 Oct 2026 16:49:37 +0000</pubDate></item><item><title>Coinbase: Broker Dealer Operations, Associate</title><link>https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate</link><description>Headquarters: Remote - USA
 
 
 Ready to do the most impactful work of your career? At&amp;nbsp;Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;learn more about working at Coinbase.As an Associate, Broker Dealer Operations, you'll join the Coinbase Capital Markets team within Finance and help run the daily operational engine behind our U.S. equities brokerage experience. This team keeps customer accounts, trades, cash, positions, transfers, and corporate actions accurate, controlled, and scalable. You'll execute core broker-dealer workflows, investigate exceptions, and drive improvements that make the operation safer and more efficient for millions of customers.
