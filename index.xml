@@ -1,5 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Crazy Maple Studio: Screenwriter - ReelShort (Contractor)</title><link>https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor</link><description>Headquarters: Culver City, California, United States
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Toptal: Cryptography Specialist for AI lab</title><link>https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab</link><description>Headquarters: 
+
+
+OverviewA fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid tasks from their own work into end-to-end challenges for AI agents, each with a working solution and a check that proves the result is correct.***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***Responsibilities• Design expert-level Terminal-Bench cryptography tasks by turning real, paid work from your own experience into challenges that an AI agent must solve end to end.• Define the task environment, including files, systems, ciphertexts and data, so the challenge is realistic, self-contained and reproducible in a Linux command-line setup.• Write a working reference solution in Python or SageMath that proves the task is solvable, for example by recovering a key or decrypting a secret.• Build automated checks and tests that objectively verify the final result is correct, and explain how a mistake or a partial answer would be detected.• Calibrate task difficulty so a typical expert needs about 60-75 minutes to solve it, keeping it hard for AI agents while still fair and unambiguous.• Package each task with Docker and Git where applicable, document instructions clearly, and revise based on reviewer feedback until it meets the required quality bar.Skills/Experience• 3+ years of hands-on cryptanalysis or applied cryptography; GRC, audit-only, policy, sales or management roles do not count, nor does coursework only• Did the work in the last 3 years and can name the systems, tools, data and rules used• Uses the low-level tools of the subfield, such as SageMath and Python, and works comfortably on the Linux command line• Can show how a finding is proven, such as a decrypted secret or a recovered key, and explain how a mistake would be caught• Technical fluency with files, CSV/JSON, APIs or databases• Available to start around November 2026Nice-to-have• Published write-ups or research on cryptanalysis• Strong CTF results, especially in crypto categories• CVEs discovered in cryptographic implementations• Experience with Docker, Git and writing automated tests• Proficiency in C for low-level cryptographic workProcess• Task vetting: complete a vetting task instead of a live interview• Work is paid per task, with each task taking roughly 60-75 minutes• Expected start around early November 2026
+
+To apply: https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab</description><pubDate>Thu, 05 Nov 2026 17:09:07 +0000</pubDate></item><item><title>DRFIRST COM INC: Senior Software Engineer</title><link>https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer</link><description>Headquarters: United States
+    URL: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fc2a6c7e-ef54-4ed9-8c04-d5aca23f99e3
+
+
+Senior Software Engineer, eRx Enterprise and GadgetAbout DrFirstFor 25 years, DrFirst has empowered providers and patients to achieve better health through intelligent medication management. We improve healthcare workflows and help patients start and stay on therapy with end-to-end solutions that enhance prescription access, affordability, and adherence. Our solutions help 100 million patients a year and are used by more than 420,000 prescribers, 71,000 pharmacies, 270 EHRs and health information systems, and over 2,000 hospitals in the U.S. This is a great opportunity to be a part of a successful Healthcare IT company experiencing significant growth. Here you’ll get to work with some of the smartest and most interesting people around, solving unique and complex challenges in healthcare on a scale matched by few companies. If you get excited about stretching yourself in new ways, developing yourself to your fullest potential, and care about working with smart colleagues, we want to talk to you!Position OverviewDrFirst is hiring a Senior Software Engineer for the eRx Enterprise and Gadget team. Your first focus is Gadget, our pharmacy agent. Over time you will extend your work into Rcopia, our ePrescribing platform, on Electronic Prescribing of Controlled Substances (EPCS) and Prescription Drug Monitoring Program (PDMP) workflows.You will build cloud native, high performance services for an ePrescribing collaboration platform. The platform connects providers, patients, payers, pharmacies, and pharmaceutical companies in real time. You will design systems built for high load, with self healing, auto scaling, and full observability.You bring strong judgment about AI. You know when AI speeds up delivery and when AI produces weak code. You apply AI to raise code quality, performance, and design standards across the team, and you solve real problems for the pharmacies and prescribers who rely on our platform.What You Will Work OnBuild and improve Gadget, the DrFirst pharmacy agent, from design through production.Contribute to Rcopia EPCS and PDMP capabilities as the team roadmap expands.Design, develop, test, deploy, and maintain secure, scalable Java integration solutions.Build cloud native microservices on AWS with auto scaling, fault tolerance, high availability, and self healing.Develop and maintain integrations with major EHR platforms, including athenaOne, Epic, Oracle Health, Greenway, AdvancedMD, eMDs, and ModMed, using HL7, FHIR, web services, APIs, and Mirth Connect.Build and maintain event driven architectures with Apache Kafka for reliable, efficient service communication.Deliver high throughput and low latency across large, distributed platforms.Partner with DevOps on CI/CD pipelines that automate testing, deployment, and monitoring.Design AI powered automation frameworks for faster development cycles and automated regression testing.Decide where AI adds value in the codebase and where human design must lead. Set review standards for AI assisted code.Monitor, diagnose, and resolve performance issues with observability tools and logs.Follow and enforce secure coding practices. Take part in security audits and reviews.Lead code reviews, mentor junior developers, and contribute to architecture decisions.Track industry trends and improve system performance, resilience, and developer productivity.QualificationsRequiredBachelor's degree in Computer Science or a related discipline.5+ years of hands on Java development with deep knowledge of object oriented design and the Spring Framework, including Spring Boot and Spring Cloud.3+ years designing and building cloud native applications on AWS, including S3, Valkey, Lambda, RDS, and EKS or ECS.3+ years with distributed messaging systems such as Apache Kafka, with a solid grasp of event streaming.Proven record building and integrating large scale, high performance, distributed systems with fault tolerance, scalability, and low latency.AI first mindset, with daily hands on use of AI tools such as Claude and GitHub Copilot for coding, testing, debugging, and documentation.Clear judgment on when and where AI improves engineering outcomes, and a record of keeping AI generated code from lowering quality, performance, or design.Proficiency building and consuming RESTful APIs with JSON and XML.Strong experience with relational or NoSQL databases, including schema design, performance tuning, and query optimization.Hands on experience with CI/CD pipelines and tools such as GitLab CI and Jenkins.Solid knowledge of application and data security, including authentication, authorization, and data protection.Self motivated. You work well on your own in a fast paced, agile environment.Fast learner who adapts to new technologies, teams, and environments.Strong analytical and troubleshooting skills with a proactive, solution oriented approach.PreferredExperience building AI agents, LLM integrations, or agentic workflows in production.Experience with large scale, mission critical systems in finance, brokerage, trading, or credit card processing, especially systems requiring low latency, high throughput, and high availability.Experience with ePrescribing, EPCS, PDMP, NCPDP SCRIPT, or pharmacy systems.Familiarity with front end technologies (HTML, CSS, JavaScript).Physical RequirementsPrimarily desk work in a remote, U.S. based setting.Extended periods of computer use.#LI-GF1 #LI-RemoteBenefitsCompetitive compensation, with a base salary of $130,000 to $150,000 (Exact compensation may vary based on skills and experience)Eligible for a Discretionary Performance-based bonusMedical, dental, and vision insurance401K eligible after 3 months of employment, with 50% company match up to first 5% of salary contributed to the plan with a 3-year vesting scheduleHSA for eligible employees enrolled in the HDHP, with a generous company contribution up to $500 for individual coverage and $1000 for family coverage per year100% company paid short and long-term disability, AD&amp;amp;D, and group life insuranceAccrued annual paid time off (PTO) of 18 days for the first 3 years of service, increasing thereafter and 7 paid holiday daysEmployee Assistance ProgramContinuing Education funds up to $1500 annually for eligible programs after 1 year of serviceVoluntary benefits including FSA, Hospital indemnity, Accident and Critical Illness insurancesDrFirst is committed to being a Remote-First company, creating a dynamic and flexible workplace where everyone thrives, no matter where they log in from. Check out our approach to remote work: https://drfirst.com/company/about-us/careers/Our recruitment process at DrFirst is straightforward and secure. You will only be contacted by our recruitment team through an official @drfirst.com email address. We will never ask you for payment or sensitive personal information, such as your social security number or banking details, at any stage of the hiring process. Additionally, we will not request that you purchase equipment or accept e-checks or checks for deposit. If you encounter any communications claiming to be from DrFirst that seem suspicious, please contact our recruitment team directly at recruiter@drfirst.com to verify the message’s authenticity. Your security is important to us!Learn more about our benefits and professional development opportunities: https://drfirst.com/company/about-us/careers/the-perks/
+
+To apply: https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer</description><pubDate>Thu, 05 Nov 2026 13:22:33 +0000</pubDate></item><item><title>Secure Privacy: Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) – AI-First, with GDPR Experience</title><link>https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience</link><description>Headquarters: Europe (DK)
+    URL: https://secureprivacy.ai
+
+
+Secure Privacy is expanding, and we’re looking for an experienced Senior Full-Stack Developer with expertise in .NET, C#, and MongoDB, along with GDPR experience, to join our team! You’ll work remotely with a diverse group of developers, helping us build cutting-edge data privacy solutions for global clients. This role focuses on creating and optimizing APIs and backend services. If you’re passionate about clean, maintainable code, we’d love to hear from you!
+What You’ll Do:
+
+Develop and maintain backend services with C# and .NET.
+Develop and maintain frontend logic with Angular and Redux.
+Use AI coding tools (Cursor, Claude Code, or similar) as a core part of your daily workflow, and help the team get more out of them.
+Work closely with designers to bring high-quality, scalable, and maintainable solutions to life.
+Engage in all stages of the development process: planning, coding, testing, and deployment.
+Advocate for best practices and contribute to improving our development standards.
+Collaborate in a remote environment, primarily during European business hours.
+
+What We’re Looking For:
+
+5+ years of backend development experience, particularly with C# and .NET Framework.
+Hands-on, daily experience with AI coding tools such as Cursor or Claude Code on real projects, including giving agents good context and critically reviewing AI-generated code.
+Expertise in MongoDB, including complex operations (aggregations, compound indexes, transactions).
+Experience with GDPR, CCPA, or other data privacy compliance standards.
+Experience in Angular development, including NgRx or other Redux frameworks, is desirable.
+Experience with payment platforms such as Stripe.
+Strong Git skills, including modern branching strategies and ways of working.
+Familiarity with profiling web apps for high availability and scalability.
+Ability to make informed decisions between server-side and client-side code.
+Excellent communication skills and the ability to collaborate with non-engineers.
+A proactive approach to problem-solving, with a high level of discipline and independence.
+Startup experience.
+
+Bonus Points If You Have:
+
+
+Experience building MCP servers.
+Open source contributions.
+StackOverflow or other community contributions.
+Mobile app or SDK experience.
+
+
+To apply, submit your CV and a short Loom video (max 2 minutes) introducing yourself and how you use AI to develop faster without compromising quality.
+
+To apply: https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience</description><pubDate>Thu, 05 Nov 2026 12:39:27 +0000</pubDate></item><item><title>Toptal: ML Inference Engineer – Terminal-Bench Task Designer</title><link>https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer</link><description>Headquarters: 
+
+
+OverviewWe are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct.***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***Responsibilities• Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end.• Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and command-line solvable.• Write a working reference solution for every task and verify it runs end to end, sized for about 60 to 75 minutes of expert effort.• Build automated checks that objectively prove a result is correct, including cases where ML outputs go wrong silently, such as numerical drift or metric bugs.• Package tasks with Docker and Git so they are reproducible, and document the systems, tools, data and rules involved so reviewers can validate difficulty.• Iterate on tasks based on reviewer feedback and agent test runs, adjusting difficulty and fixing ambiguities so each task stays expert-level, fair and objectively gradable.Skills/Experience• 3+ years doing ML inference or serving work hands-on (not only studying, selling or managing it), or a PhD plus active research in the subfield• Did this work in the last 3 years and can name the systems, tools, data and rules used• Trained, served or evaluated models at real scale (multi-GPU or production serving), not only notebooks or API calls• Hands-on with PyTorch or JAX internals and serving stacks such as vLLM, SGLang or TensorRT-LLM• Can explain how ML results go wrong without errors (numerical drift, metric bugs) and how to catch them• Technical fluency in Python and the command line, and with files, CSV/JSON, APIs or databases• Availability to start by early November 2026 and complete tasks of about 60 to 75 minutes eachNice-to-have• AI lab or LLM infrastructure experience• Contributions to PyTorch, vLLM or SGLang• GPU profiling experience• Docker and Git proficiency• Experience writing automated testsProcess• Task vetting instead of an interview: complete a vetting task so the client can assess your task design• Paid per task; each task takes about 60 to 75 minutes• Work is delivered task by task, with reviewer feedback on submissions• Expected start in early November 2026
+
+To apply: https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer</description><pubDate>Wed, 04 Nov 2026 21:41:56 +0000</pubDate></item><item><title>Crazy Maple Studio: Screenwriter - ReelShort (Contractor)</title><link>https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor</link><description>Headquarters: Culver City, California, United States
     URL: https://jobs.workable.com/company/kZSiaRVHB45MDzQ7znFJSV/jobs-at-crazy-maple-studio
 
 
@@ -752,99 +809,7 @@ To apply: https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-arch
 
 Shopify developers love to freelance with Storetasker.Endless, quality clients: from well known DTC brands to top agencies.&amp;nbsp;Fully remote, flexible: work as much or as little as you want, wherever you want.&amp;nbsp;A talented and helpful community: it's freelance (with a team).Earn $100-$200 per hour: pick your clients, and send your own quotes or retainers.&amp;nbsp;We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: Alpha Industries, Boll &amp;amp; Branch, Superfluid, Jack Henry, Plenaire, and Fulton among many more. Why Storetasker?Endless clients &amp;amp; project opportunities: you’ll see between 5 - 50 new opportunities per day and can pick any lead you want.&amp;nbsp;You’ll earn more: some experts are making $250k+ per year.&amp;nbsp;A high quality community: we carefully select about 5% of those who apply.&amp;nbsp;Remote: work from anywhere, anytime.&amp;nbsp;Flexible: take on as many clients as you want.No external ratings: you’re already a professional. No need to prove it.&amp;nbsp;Great Software: that makes it easy to manage more clients and increase billable hours.Support when you need it: we offer project support 7 days per week.&amp;nbsp;Community (not competition): you pick your clients, projects, and never compete against other Experts in the community.&amp;nbsp;Learn more and join! It’s confidential, and takes less than 5 minutes. Here's who we're looking for:Ambitious part time and full-time freelancers and boutique agencies.Who have 3+ years of Shopify experience, and 5+ years of web development experience.&amp;nbsp;And who have managed projects, deadlines, and communication successfully.&amp;nbsp;Especially people with some of these skills:Front-end or full-stack Shopify developmentHeadless e-commerce developmentConversion rate optimizationE-commerce expertise and strategySEO&amp;nbsp;Site SpeedBuilder and/or ShogunIt takes just a few minutes to join.Here's what a few current members have to say:"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017Our Mission: We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.&amp;nbsp; Questions? Reach out at experts@storetasker.com.
 
-To apply: https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</description><pubDate>Mon, 13 May 2024 03:14:30 +0000</pubDate></item><item><title>Bitovi: Backend / Platform Developer Consultant (Temporal &amp; Kubernetes)</title><link>https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes</link><description>Headquarters: United States
-    URL: https://bitovi.com
-
-
-JOIN OUR TEAM!
-Bitovi is looking for a Backend / Platform Developer Consultant to join us as we transform technology delivery. We build and operate durable, distributed systems for enterprise clients — heavy on Java Services, Temporal for workflow orchestration, Kafka for event streaming, and Kubernetes-native platform engineering on AWS to run it all reliably. If you want to build exceptional systems, take orchestration, systems engineering, and infrastructure seriously, and have ideas for making delivery more collaborative, validation-driven, and swift, we want to work with you!Compensation: $120,000 to $190,000 annually, depending on experience, plus annual bonus opportunity.
-PLEASE NOTE: At this time, we are only considering candidates located in and authorized to work in the United States.
-&amp;nbsp;
-WHO YOU ARE
-You're experienced building and running applications at the enterprise level, and you're comfortable owning both the code and the infrastructure it runs on. You think like a systems engineer — reasoning about the whole platform, from JVM services and event streams to the clusters and cloud infrastructure underneath them. You thrive when given opportunities to deliver real-world platforms as an integral team member, including large-scale migrations, and you have the expertise to interface and communicate confidently with stakeholders.
-You'll excel in this role at Bitovi if you have:
-
-Strong working knowledge of Java and the JVM ecosystem (Spring Boot or similar); experience with additional backend languages (Go, Python, TypeScript/JavaScript, C#, etc.) is a plus
-Hands-on experience with a durable execution / workflow engine — Temporal preferred (Apache Airflow, Prefect, or similar also relevant) — including modeling workflows and activities, handling retries and timeouts, and reasoning about idempotency and failure modes
-Experience designing and operating Kafka-based event streaming systems: topic and partition design, consumer groups, schema management, and reasoning about ordering, delivery guarantees, and consumer lag
-Experience designing and building GraphQL APIs — schema design, resolvers, and performance concerns (N+1, caching, pagination); federation experience a plus
-Deep, hands-on AWS experience: architecting, deploying, and operating production systems (EKS, networking, IAM, messaging, and data services)
-Solid Kubernetes experience: deploying, operating, and debugging production workloads
-A systems engineering mindset: understanding of complex scaling issues, concurrency, backpressure, caching strategies, and failure modes across distributed systems
-Experience planning and executing migrations — application replatforming, workflow engine migrations, data/schema migrations, or moving workloads between environments with minimal downtime
-A thorough understanding of CI/CD pipelines and GitOps-style delivery
-Experience with observability in practice — logging, metrics, and tracing (OpenTelemetry a plus)
-Experience building modern microservice-based or serverless applications
-Database schema design and development expertise
-
-Other skills we value
-Temporal depth
-
-Running Temporal in production — self-hosted on Kubernetes and/or Temporal Cloud
-Workflow versioning and patching, safe deployments, and long-running workflow migrations
-Worker deployment and tuning (pollers, task queues, concurrency/slot configuration)
-Namespace management, mTLS (SPIFFE/SPIRE or private CA), and capacity/scaling concerns (e.g. APS/TRU on Temporal Cloud
-
-Kafka &amp;amp; event streaming depth
-
-Operating Kafka in production (MSK, Confluent, or self-managed on Kubernetes)
-Kafka Connect, Kafka Streams, and schema registry workflows (Avro/Protobuf)
-Migrating between clusters or providers, and integrating Kafka with downstream analytical stores
-Experience with different techniques for processing large datasets, such as Lambda and Kappa architectures
-
-Platform / DevOps depth
-
-Building or operating an internal developer platform (IDP) — self-service, paved-path infrastructure for application teams
-GitOps with ArgoCD (or Flux) and a low- or zero-manual-apply delivery model
-Infrastructure as code: Terraform/OpenTofu, and provisioning AWS resources via Crossplane, ACK, or similar
-Writing Kubernetes controllers/operators (controller-runtime, kubebuilder) and working with CRDs
-Helm chart authoring and distribution (including OCI/registry-based)
-Secrets management (External Secrets Operator, etc.), autoscaling (Karpenter, KEDA), and service mesh concepts (Istio, SPIFFE/SPIRE)
-EKS or comparable managed Kubernetes at scale
-
-General
-
-Interest in working across multiple backend languages
-Additional queueing and messaging technologies (AWS SQS/SNS, RabbitMQ)
-API design across paradigms (GraphQL, REST, gRPC)
-AuthN/AuthZ and related technologies (sessions, API tokens, JWTs)
-Automated testing across the stack (unit, integration, performance/benchmarking)
-
-WHO WE ARE
-Bitovi partners with companies to build outcome-focused apps and platforms. Our collaborative approach is driven by validation to deliver the swiftest route to the most valuable solution.
-We design and build high-profile applications and the infrastructure behind them — with tests, full docs, and a real deployment process. We run a serious Temporal practice (including large-scale migration and security work for enterprise clients) alongside deep Kubernetes, AWS, and platform engineering work. We discuss and design architectures, review code, and research new technologies. We talk to our clients, guiding them through the process, identifying potential problems and unknowns, and tackling challenges.
-We help one another freely. We keep a Slack channel called ask-help, which is constantly used. We develop new skills, build better developer tools, and work on new types of projects regularly.
-Our fully remote team comprises about 70 developers and designers. We welcome diversity and non-traditional paths into professions — we want the right person, not the right collection of tech keywords.
-&amp;nbsp;
-WHAT YOU'LL DO AT BITOVI
-Build durable systems. Design and implement Java services, Temporal workflows, and Kafka-based event pipelines, and help clients adopt durable execution and event streaming the right way — from first workflow to production scale.
-Lead modernization efforts. Plan and execute large-scale modernization efforts — moving workflows, services, and data between platforms, clusters, and clouds — with safety, observability, and minimal disruption as first-class requirements.
-Own the platform. Build and operate Kubernetes-native infrastructure and CI/CD on AWS so application teams can ship safely and quickly. Treat reliability, observability, and repeatability as part of the deliverable, not an afterthought.
-Consult and manage. Consult with clients to build outcome-driven applications and platforms, guiding them through the process, identifying potential problems and unknowns, and tackling challenges.
-Travel. This is a remote, full-time position that requires the ability to travel. We travel an average of 3–5 days every quarter, and we'll always do our best to work with your schedule.
-Teach. We'll discuss opportunities for you to present at conferences, attend and give training, plan and run meetups or local groups, and create various kinds of content in your area of expertise.
-&amp;nbsp;
-BENEFITS WE OFFER
-
-Competitive salary and annual bonus opportunity
-Completely remote work with flexible hours
-401(k) matching
-4 weeks of paid time off in addition to 8 paid holidays
-Health, dental, and vision insurance offerings
-Paid maternity and paternity leave
-STD, LTD, and Life Insurance coverage
-
-&amp;nbsp;
-HOW TO APPLY
-Please share a resume or LinkedIn profile and answer the additional questions via the application link.&amp;nbsp;
-&amp;nbsp;
-OTHER&amp;nbsp;
-Please note that we are not interested in working with recruiters.&amp;nbsp;
-ID Verification required if invited to an interview.
-All job offers are contingent on passing a background check.&amp;nbsp;
-Candidates must be located in and authorized to work in the United States; we are unable to provide visa sponsorship at this time.
-
-To apply: https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes</description><pubDate>Thu, 29 Oct 2026 22:31:03 +0000</pubDate></item><item><title>Salesloft: HR Enablement Lead</title><link>https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead</link><description>Headquarters: United States, Remote
+To apply: https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3</description><pubDate>Mon, 13 May 2024 03:14:30 +0000</pubDate></item><item><title>Salesloft: HR Enablement Lead</title><link>https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead</link><description>Headquarters: United States, Remote
 
 
 Job Title: HR Enablement Lead
@@ -1247,261 +1212,4 @@ Total Compensation and Pay Transparency
 An employee's total compensation consists of base salary + variable comp where appropriate + benefits + equity. A member of our Talent Acquisition team will be happy to answer any further questions when we engage with you to begin the interview process.
 Base salary range: $120,000 - $290,000 USD
 
-To apply: https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres</description><pubDate>Sun, 25 Oct 2026 07:30:54 +0000</pubDate></item><item><title>StockX: Category Manager - Trading Cards</title><link>https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards</link><description>Headquarters: Remote, USA
-
-
-Help empower our global customers to connect to culture through their passions.Why you’ll love this role:
-StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Trading Cards are foundational to StockX — not just as products, but as artifacts of fandom, nostalgia, speculation, and identity.
-We are expanding how Trading Cards culture shows up on StockX through creator-driven, community-oriented commerce experiences that blend storytelling, expertise, and transaction. To do this well, we need category leaders who don’t just understand collectibles — they live inside them.
-The Trading Cards Category Manager is the single-threaded owner of collectibles category growth within a new, high-priority commerce initiative. This person is the in-house expert on trading cards and sports cards, — and is responsible for translating that expertise into supply growth, engagement, and GMV.
-You will act as:
-
-The internal authority on the first-hand and second-hand trading cards ecosystem
-The external face of StockX to collectors, breakers, shops, graders, dealers, and community leaders
-The architect of the trading cards go-to-market playbook for this new initiative
-
-This role blends deep cultural fluency, strategic ownership, and hands-on execution. Early on, you will own everything related to trading cards within this initiative. As the category scales, you will grow into a leader overseeing a broader trading cards portfolio and team.
-What You’ll Do:
-Own the Collectibles Category End-to-End
-
-Define and execute the growth strategy for trading cards within the platform
-Own category-level performance across supply, engagement, and revenue
-Establish quarterly goals, leading indicators, and operating rhythms
-
-Be the Market &amp;amp; Culture Expert
-Maintain deep, current knowledge of trading card culture, including:
-
-Key sellers, breakers, dealers, shops, graders, creators, and brands
-Sub-segments such as trading cards (sports and TCG), graded sports cards, etc.
-Product drops, set releases, grading cycles, convention moments, and cultural spikes
-Pricing dynamics, liquidity, population reports, grading premiums, and resale economics
-
-Serve as the internal voice of the trading cards community, informing product, marketing, and platform decisions.
-Supply &amp;amp; Creator Acquisition
-
-Build and own a pipeline of high-impact sellers across trading cards, sports cards, etc.
-Personally recruit and onboard flagship sellers, breakers, comic shops, etc. who set the tone for the platform
-Develop seller strategies that balance credibility, storytelling, and commerce
-
-Commerce Strategy &amp;amp; Category Moments
-
-Identify and orchestrate trading card-specific moments, campaigns, and formats that drive engagement and conversion (e.g., major set releases, championship spikes, grading returns, convention cycles)
-Partner with Category Marketing to design culturally authentic activations
-Experiment with new approaches (live breaks, expert drops, themed auctions, etc.) and iterate quickly based on performance and feedback
-
-Cross-Functional Leadership
-
-Work closely with Account and Partnerships Managers to scale seller acquisition and support
-Collaborate with Product and Engineering to shape features and tools that matter to collectors (e.g., condition transparency, grading integrations, pricing insights, population data visibility)
-Provide clear, actionable insights from the market to influence roadmap prioritization
-
-Build the Playbook
-
-Document learnings, frameworks, and best practices that can be reused across future categories
-Help define what “great” looks like for category ownership at StockX
-Support hiring and onboarding as the trading card category team grows
-
-About You:
-
-Deeply embedded in trading card culture — you know the people, platforms, trends, grading standards, and economics, and you’re already plugged into the ecosystem
-5+ years of experience in category management, partnerships, marketplace growth, brand, dealer, or operator roles within trading cards, sports cards, comics, toys, coins, or adjacent enthusiast ecosystems
-Comfortable owning outcomes, not just strategy — you execute, iterate, and adapt
-Strong relationship builder with credibility among collectors, breakers, shop owners, graders, dealers, and community members
-Data-literate and commercially minded — you understand pricing spreads, grading premiums, liquidity, margin structures, and incentives
-Entrepreneurial, scrappy, and energized by building something from the ground up
-
-Nice to Have:
-
-Existing network of card breakers, LCS owners, comic shops, grading submitters, toy dealers, or coin specialists
-Experience buying, selling, grading, or operating within collectibles marketplaces
-Familiarity with grading ecosystems (e.g., card and comic grading workflows, condition standards, population reports)
-Experience with content-driven commerce, live selling, or enthusiast communities
-Experience working cross-functionally with product and engineering teams
-Experience running your own collectibles business, shop, or online storefront
-
-Why This Role Matters:
-Trading Cards will define the early perception and success of this new commerce initiative at StockX. This role sets:
-
-The cultural and credibility bar for the platform
-The go-to-market blueprint for future enthusiast categories
-StockX’s reputation within trading cards
-
-You will have outsized influence on how StockX expands its leadership from marketplace into deeper cultural engagement within the global trading card ecosystem.
-Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
-&amp;nbsp;
-Pursuant to the Colorado Fair Pay Act, the base salary range in Colorado for this position is $120,000 to $130,000, plus opportunities for benefits (e.g., medical, dental), equity and discretionary bonuses. Compensation in other geographies may vary.&amp;nbsp;&amp;nbsp;
-About StockX
-StockX is proud to be a Detroit-based technology leader focused on the large and growing online market for sneakers, apparel, accessories, electronics, collectibles, trading cards, and more. StockX's powerful platform connects buyers and sellers of high-demand consumer goods from around the world using dynamic pricing mechanics. This approach affords access and market visibility powered by real-time data that empowers buyers and sellers to determine and transact based on market value. The StockX platform features hundreds of brands across verticals including Jordan Brand, adidas, Nike, Supreme, BAPE, Off-White, Louis Vuitton, Gucci; collectibles from brands including LEGO, KAWS, Bearbrick, and Pop Mart; and electronics from industry-leading manufacturers Sony, Microsoft, Meta, and Apple. Launched in 2016, StockX employs 1,000 people across offices and verification centers around the world. Learn more at www.stockx.com.
-&amp;nbsp;
-&amp;nbsp;
-We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position. StockX reserves the right to amend this job description at any time. StockX may utilize AI to rank job applicant submissions against the position requirements to assist in determining candidate alignment.
-
-To apply: https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards</description><pubDate>Sat, 24 Oct 2026 07:31:04 +0000</pubDate></item><item><title>StockX: Category Manager - Sneakers</title><link>https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers</link><description>Headquarters: Remote, USA
-
-
-Help empower our global customers to connect to culture through their passions.Why you’ll love this role:
-StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Sneakers are foundational to StockX — not just as a category, but as a culture, an economy, and a global community.
-We are expanding how sneaker culture shows up on StockX through creator-driven, community-oriented commerce experiences that blend storytelling, expertise, and transaction. To do this well, we need category leaders who don’t just understand the sneaker market — they live inside it.
-The Sneakers Category Manager is the single-threaded owner of sneaker category growth within a new, high-priority commerce initiative. This person is the in-house expert on sneaker culture, people, economics, and moments — and is responsible for translating that expertise into supply growth, engagement, and GMV.
-You will act as:
-
-The internal authority on the primary and secondary sneaker ecosystem
-The external face of StockX to sneaker sellers, creators, and community leaders
-The architect of the sneaker go-to-market / growth playbook for this new initiative
-
-This role blends deep cultural fluency, strategic ownership, and hands-on execution. Early on, you will own everything related to sneakers within this initiative. As the category scales, you will grow into a leader overseeing a broader sneaker portfolio and team.
-What You’ll Do:
-Own the Sneakers Category End-to-End
-
-Define and execute the growth strategy for sneakers within the platform
-Own category-level performance across supply, engagement, and revenue
-Establish quarterly goals, leading indicators, and operating rhythms
-
-Be the Market &amp;amp; Culture Expert
-
-Maintain deep, current knowledge of sneaker culture, including:
-
-Key sellers, creators, collectors, and resellers
-Sub-segments (hype vs. GRs, vintage, performance, regional markets, etc.)
-Drops, releases, brand dynamics, and cultural moments
-Pricing dynamics, liquidity, and resale economics
-
-Serve as the internal voice of the sneaker community, informing product, marketing, and platform decisions
-
-Supply &amp;amp; Creator Acquisition
-
-Build and own a pipeline of high-impact sneaker sellers, shops, influencers, and creators
-Personally recruit and onboard flagship sellers who set the tone for the platform
-Develop seller strategies that balance credibility, storytelling, and commerce
-
-Commerce Strategy &amp;amp; Category Moments
-
-Identify and orchestrate sneaker-specific moments, campaigns, and formats that drive engagement and conversion
-Partner with Category Marketing to design culturally authentic activations
-Experiment with new approaches and iterate quickly based on performance and feedback
-
-Cross-Functional Leadership
-
-Work closely with Account &amp;amp; Partnerships Managers to scale seller acquisition and support
-Collaborate with Product and Engineering to shape features and tools that matter to sneaker sellers and buyers
-Provide clear, actionable insights from the market to influence roadmap prioritization
-
-Build the Playbook
-
-Document learnings, frameworks, and best practices that can be reused across future categories
-Help define what “great” looks like for category ownership at StockX
-Support hiring and onboarding as the sneaker category team grows
-
-About you:
-
-Deeply embedded in sneaker culture — you know the people, platforms, trends, and economics, and you’re already plugged into the ecosystem
-5+ years of experience in category management, partnerships, marketplace growth, brand, or operator roles in sneakers, streetwear, or adjacent ecosystems
-Comfortable owning outcomes, not just strategy — you execute, iterate, and adapt
-Strong relationship builder with credibility among sellers, creators, and community members
-Data-literate and commercially minded — you understand pricing, margins, liquidity, and incentives
-Entrepreneurial, scrappy, and energized by building something from the ground up
-
-Nice to Have:
-
-Existing network of sneaker resellers, store owners, creators, or influencers
-Experience buying and selling sneakers or operating within resale marketplaces
-Familiarity with content-driven commerce, creator platforms, or enthusiast communities
-Experience working cross-functionally with product and engineering teams
-
-Why This Role Matters:
-Sneakers will define the early perception and success of this new commerce initiative at StockX. This role sets:
-
-The cultural bar for the platform
-The go-to-market &amp;amp; growth blueprint for future categories
-The credibility of StockX with the sneaker community
-
-You will have outsized influence on how StockX expands its leadership from marketplace into deeper cultural engagement.
-Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
-&amp;nbsp;
-Pursuant to the Colorado Fair Pay Act, the base salary range in Colorado for this position is $120,000 to $130,000, plus opportunities for benefits (e.g., medical, dental), equity and discretionary bonuses. Compensation in other geographies may vary.&amp;nbsp;&amp;nbsp;
-About StockX
-StockX is proud to be a Detroit-based technology leader focused on the large and growing online market for sneakers, apparel, accessories, electronics, collectibles, trading cards, and more. StockX's powerful platform connects buyers and sellers of high-demand consumer goods from around the world using dynamic pricing mechanics. This approach affords access and market visibility powered by real-time data that empowers buyers and sellers to determine and transact based on market value. The StockX platform features hundreds of brands across verticals including Jordan Brand, adidas, Nike, Supreme, BAPE, Off-White, Louis Vuitton, Gucci; collectibles from brands including LEGO, KAWS, Bearbrick, and Pop Mart; and electronics from industry-leading manufacturers Sony, Microsoft, Meta, and Apple. Launched in 2016, StockX employs 1,000 people across offices and verification centers around the world. Learn more at www.stockx.com.
-&amp;nbsp;
-&amp;nbsp;
-We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position. StockX reserves the right to amend this job description at any time. StockX may utilize AI to rank job applicant submissions against the position requirements to assist in determining candidate alignment.
-
-To apply: https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers</description><pubDate>Sat, 24 Oct 2026 07:31:03 +0000</pubDate></item><item><title>Oportun: Sr. Data Analytics Engineer (R14153)</title><link>https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153</link><description>Headquarters: Remote - MX
-
-
-Who We Are
-Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually.The Opportunity&amp;nbsp;
-As a Sr. Data Engineer at Oportun, you will be a key member of our team, responsible for designing, developing, and maintaining sophisticated software / data platforms in achieving the charter of the engineering group. Your mastery of a technical domain enables you to take up business problems and solve them with a technical solution. With your depth of expertise and leadership abilities, you will actively contribute to architectural decisions, mentor junior engineers, and collaborate closely with cross-functional teams to deliver high-quality, scalable software solutions that advance our impact in the market. This is a role where you will have the opportunity to take up responsibility in leading the technology effort – from technical requirements gathering to final successful delivery of the product - for large initiatives (cross-functional and multi-month-long projects).
-&amp;nbsp;
-At Oportun, we move fast and we hold each other to a high bar. If you care about doing your best work while actually moving the needle for real people, you'll fit right in.
-What You'll Do
-Your day-to-day
-
-You’ll design and implement scalable, efficient, and reliable data architectures that support business and analytical needs.
-You’ll build and maintain data pipelines, ETL processes, and integration solutions for large volumes of structured and unstructured data.
-You’ll optimize data pipelines, databases, data warehouses, and data lakes for performance, reliability, scalability, and security.
-You’ll partner with stakeholders to understand data requirements, develop domain expertise, and translate business needs into effective data models and solutions.
-You’ll establish and improve data quality standards, validation rules, documentation, and governance practices.
-You’ll implement monitoring and observability practices to identify bottlenecks, improve performance, and strengthen platform reliability.
-You’ll provide technical leadership on architecture, scalability, reliability, monitoring, integration, and extensibility.
-You’ll lead and contribute to code reviews, helping maintain high standards for code quality, performance, and maintainability.
-You’ll mentor junior engineers and support a culture of continuous learning and technical excellence.
-You’ll take ownership of production issues, including troubleshooting, root-cause analysis, escalation, and long-term resolution.
-You’ll independently lead multiple features and projects, coordinate work across engineers, and keep stakeholders informed of progress, risks, and dependencies.
-You’ll help evolve engineering tools, platforms, and practices and encourage adoption of better ways of working.
-You’ll look for practical ways to use AI tools to improve engineering productivity, analysis, documentation, and problem-solving.
-
-Who You Are
-The right fit looks like this
-You’re a hands-on data engineer who enjoys solving complex technical problems and building systems that others depend on. You combine strong technical depth with a practical understanding of business needs and know how to turn ambiguous requirements into scalable solutions.
-You take ownership, communicate clearly, and are comfortable leading technical work without relying on formal authority. You enjoy mentoring others and helping teams make stronger technical decisions.
-What You Bring
-Skills &amp;amp; experience
-Required
-
-8+ years of experience in data engineering, with strong experience in data architecture, ETL, and database management.
-Strong programming skills in Python or PySpark, plus experience with Java or Scala.
-Experience building complex end-to-end data pipelines and data integration solutions.
-Strong knowledge of SQL and experience with relational and NoSQL database technologies.
-Experience with big data technologies such as Spark, Kafka, Hadoop, or similar platforms.
-Experience with orchestration and scheduling tools such as Airflow, Databricks, Jenkins, or similar technologies.
-Experience designing and operating scalable, reliable, and secure data systems.
-Familiarity with cloud platforms such as AWS, Azure, or GCP and associated data services.
-Experience working in Agile environments such as Scrum, Lean, or Kanban.
-Strong problem-solving and decision-making skills.
-Experience mentoring junior engineers and contributing to technical leadership within a team.
-Strong written and verbal communication skills with the ability to work effectively across technical and non-technical teams.
-
-Nice to Have
-
-Bachelor’s or Master’s degree in Computer Science, Data Science, or a related field.
-Databricks experience or certification.
-Experience with AWS Redshift, S3, Azure SQL Data Warehouse, or comparable cloud data services.
-Experience implementing data governance, data quality, or observability frameworks.
-Experience leading cross-functional or multi-month engineering initiatives.
-Experience using AI-assisted engineering tools to improve development, troubleshooting, documentation, or productivity.
-
-Our AI Mindset
-We build with AI. We lead with judgment.
-AI isn't a feature here. It's how we work.
-We're excited about what AI makes possible, and we're looking for people who share that curiosity. You don't need to be an expert. You need to be open to experimenting, willing to learn, and able to apply new tools in ways that actually move the needle.
-In this role, you'll be encouraged to explore AI tools, find practical use cases for your function, and bring ideas for working smarter. We believe the best outcomes come when human judgment and AI capability work together.
-Why Oportun
-What's in it for you&amp;nbsp;
-Oportun offers a competitive compensation and benefits package designed to support your physical, financial, and professional well-being. Benefits vary by country of employment.&amp;nbsp;
-Some of the benefits available to eligible employees include:&amp;nbsp;
-Mexico Benefits:&amp;nbsp;
-
-
-Medical Insurance
-Savings Fund and Life Insurance
-Vacation and Parental Leave
-Internet and Electricity Allowance
-
-
-Eligibility and plan details vary by location and employment status. To learn more about Oportun and our benefits, visit oportun.com/careers&amp;nbsp; &amp;nbsp;#LI-REMOTE #LI-GK1We are proud to be an Equal Opportunity Employer and consider all qualified applicants for employment opportunities without regard to race, age, color, religion, gender, national origin, disability, sexual orientation, veteran status or any other category protected by the laws or regulations in the locations where we operate.
-&amp;nbsp;
-California applicants can find a copy of Oportun's CCPA Notice here:&amp;nbsp; https://oportun.com/privacy/california-privacy-notice/.
-&amp;nbsp;
-We will never request personal identifiable information (bank, credit card, etc.) before you are hired. We do not charge you for pre-employment fees such as background checks, training, or equipment. If you think you have been a victim of fraud by someone posing as us, please report your experience to the FBI’s Internet Crime Complaint Center (IC3).
-
-To apply: https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153</description><pubDate>Sat, 24 Oct 2026 07:30:50 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres</description><pubDate>Sun, 25 Oct 2026 07:30:54 +0000</pubDate></item></channel></rss>
