@@ -1,5 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Toptal: Cryptography Specialist for AI lab</title><link>https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab</link><description>Headquarters: 
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Vertican: Senior Applied AI Engineer, Document Intelligence</title><link>https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence</link><description>Headquarters: New Jersey, USA
+    URL: https://vertican.com
+
+
+About the role
+For 40 years Vertican has buildt software that runs law firms. One year ago we created a new modern AI platform for document automation (processing/extraction/redacting) which our customers have been adopting faster than any product we've ever had. Our suite of AI-enabled products save customers thousands of hours each week by processing high volumes of documents with precision and speed.The AI team is growing and we'd like you to join.
+We are hiring an engineer to own the document processing pipelines end to end: design, benchmarking, experimenting with new architectures and tools, threshold required for deploying a new pipeline, etc.
+We believe it's important to build our own tooling to help us run, improve, and measure our applications. Therefore, the ideal candidate thinks outside the box on how to not just build the product/pipeline, but also the tooling needed around it.
+You will be the first dedicated ML hire on the product taking over from the engineering manager who build the current solution and will work directly with the founding engineering team.
+This is a senior, hands-on individual-contributor role, but we are small team and you'll be involved in design, planning, roadmapping, and architectural decisions.
+What you will do
+Design the pipelines. Own the architecture of the extraction-to-posting pipelines: page classification, field extraction, candidate retrieval, claim matching, confidence gating and the hand-off to human review, etc. Decide where rules end and models begin, and what each stage must guarantee to the next, what the separation of concerns are, etc.
+We have different pipelines for different document types and expect that at any given point in time we may have new ones emerge and may consolidate others.
+Evaluate new systems before we adopt them. Run structured trials of candidate components and recommend what to keep. Examples include probabilistic record linkage (Splink), Azure AI Content Understanding and Document Intelligence, Azure OpenAI and Foundry-hosted models, and LLM agents with tools. Similarly, test new models with the existing pipeline as they are relased from the frontier labs.
+Build the evaluation process. You'll own the process of evaluating false positives, false negatives, errors of ommission, etc, that we ultimately use to determine if we should upgrade the pipeline.&amp;nbsp;
+Ship and operate. Take components from trial to production in our python workers on the cloud, instrument them, watch cost and quota, and diagnose the cases reviewers send back.
+Set direction. Work with leadereship on the planing for accuracy, cost improvement, and overall product improvements.
+What we are looking for
+Required
+
+6+ years building ML or data-intensive systems, at least 3 of them owning a production pipeline whose output people acted on.
+Solid backend engineering understanding and ideally cloud architecture understanding.
+Ideally hands-on experience with document understanding: OCR or layout models, field extraction from scanned PDFs, or intelligent document processing products.
+Experience with entity resolution or record linkage at scale (Splink, Dedupe, Zingg, or your own blocking-and-scoring system) against databases of hundreds of thousands of rows.
+You have designed an evaluation from scratch: built a labeled ground-truth set, chosen the metrics, and defended a threshold to a non-technical stakeholder.
+Production experience with LLM APIs, including structured output, tool calling and cost or rate-limit management; you can say when an LLM is the wrong tool.
+Strong Python and SQL. Comfortable reading Postgres query plans and writing the raw query when the ORM gets in the way.
+Engineering/Scientist mindset: you are scientific about testing the pipeline and how results are interpeted/presented.
+
+Nice to have
+
+Azure AI services (Content Understanding, Document Intelligence, Azure OpenAI, Foundry) or the AWS and GCP equivalents.
+Financial document processing: checks, remittance advices, lockbox files, payment matching, or accounts receivable automation.
+Exposure to collections, legal operations or other regulated workflows handling PII.
+Probabilistic matching theory (Fellegi-Sunter) or active-learning labeling workflows.
+Experience building human-review tooling or feedback loops that feed back into training and evaluation data.
+
+How we work and what we offer
+Small team, direct access to large datasets, weekly planning, daily standup, everyone remote in US timezones.
+What we offer:
+
+A small team of tight-knit, like-minded people passionate about high quality software
+Competitive compensation, commensurate with a senior individual-contributor role.
+Monthly payments in USD
+
+Vertican is an equal opportunity employer. We hire on merit and do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status.
+
+To apply: https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence</description><pubDate>Thu, 05 Nov 2026 17:12:27 +0000</pubDate></item><item><title>Toptal: Cryptography Specialist for AI lab</title><link>https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab</link><description>Headquarters: 
 
 
 OverviewA fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid tasks from their own work into end-to-end challenges for AI agents, each with a working solution and a check that proves the result is correct.***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***Responsibilities• Design expert-level Terminal-Bench cryptography tasks by turning real, paid work from your own experience into challenges that an AI agent must solve end to end.• Define the task environment, including files, systems, ciphertexts and data, so the challenge is realistic, self-contained and reproducible in a Linux command-line setup.• Write a working reference solution in Python or SageMath that proves the task is solvable, for example by recovering a key or decrypting a secret.• Build automated checks and tests that objectively verify the final result is correct, and explain how a mistake or a partial answer would be detected.• Calibrate task difficulty so a typical expert needs about 60-75 minutes to solve it, keeping it hard for AI agents while still fair and unambiguous.• Package each task with Docker and Git where applicable, document instructions clearly, and revise based on reviewer feedback until it meets the required quality bar.Skills/Experience• 3+ years of hands-on cryptanalysis or applied cryptography; GRC, audit-only, policy, sales or management roles do not count, nor does coursework only• Did the work in the last 3 years and can name the systems, tools, data and rules used• Uses the low-level tools of the subfield, such as SageMath and Python, and works comfortably on the Linux command line• Can show how a finding is proven, such as a decrypted secret or a recovered key, and explain how a mistake would be caught• Technical fluency with files, CSV/JSON, APIs or databases• Available to start around November 2026Nice-to-have• Published write-ups or research on cryptanalysis• Strong CTF results, especially in crypto categories• CVEs discovered in cryptographic implementations• Experience with Docker, Git and writing automated tests• Proficiency in C for low-level cryptographic workProcess• Task vetting: complete a vetting task instead of a live interview• Work is paid per task, with each task taking roughly 60-75 minutes• Expected start around early November 2026
@@ -1166,50 +1213,4 @@ To provide greater transparency to candidates, we share base salary ranges for a
 During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.
 
-To apply: https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads</description><pubDate>Mon, 26 Oct 2026 07:31:27 +0000</pubDate></item><item><title>PlanetScale: Software Engineer - PlanetScale Postgres</title><link>https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres</link><description>Headquarters: Remote
-
-
-PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform delivers a fully managed, multi-cloud Postgres service designed for the most demanding production workloads. We handle the complexity of provisioning, scaling, replication, and failover - so engineering teams can focus on building their products.
-Our customers entrust us with their most precious digital asset, their data, so the stakes couldn't be higher. We're looking for a Software Engineer to join our Postgres engineering team and help us build a world-class managed Postgres offering.
-What's the job to be done?
-
-You will design and build the control plane that provisions, scales, and heals Postgres clusters with minimal customer-visible downtime.
-You will build and maintain high availability, disaster recovery, and data protection solutions that keep customer databases safe through infrastructure failures.
-You will tune Postgres to operate at scale for some of the largest and most demanding workloads in the world.
-You will build tooling and automation for database operations, backup, restore, and migration workflows - and participate in an on-call rotation.
-You will work directly with customers to understand their workloads and translate real-world needs into platform improvements.
-
-These attributes best describe you…
-
-You have strong experience building, operating, or maintaining large-scale Postgres deployments in production.
-You have an excellent understanding of low-level operating systems concepts including multi-threading, memory management, networking, storage, and performance.
-You have strong fundamental computer science skills and can reason about distributed, fault-tolerant systems.
-You thrive in a collaborative environment, enjoy mentoring other engineers, and communicate complex technical tradeoffs clearly.
-You are self-motivated and can work independently with minimal guidance while making sound technical decisions.
-
-What you will need
-
-5+ years of software engineering experience designing, building, and supporting large-scale systems in production.
-Strong proficiency in Go, with experience in other languages like Ruby, Python, Zig or Rust.
-Experience building and maintaining distributed, fault-tolerant services.
-Working knowledge of Kubernetes and containerized applications.
-Experience building and operating distributed systems at scale.
-
-What else will help you be successful
-
-Experience building or operating a database-as-a-service or managed database platform.
-Experience with connection pooling and proxy layers for Postgres.
-Experience with cloud platforms (AWS, GCP, Azure) and infrastructure-as-code.
-Contributions to open-source projects, especially in the Postgres or database infrastructure space.
-Experience working with remote, geographically distributed teams.
-Previous experience at a high-growth technology company.
-
-Why PlanetScale
-We're redefining how high-growth companies manage data at scale—and we work with some of the most exciting brands in gaming, consumer tech, and B2B SaaS. As a Software Engineer, you'll be at the core of building the platform that powers world-class apps used by hundreds of millions of users worldwide. PlanetScale is a profitable company with a philosophy centered around building small teams of p99 individuals and is recognized as one of the fastest growing companies in America.
-At PlanetScale we believe in supporting people to do their best work and thrive no matter the location. Our mission is to build a diverse, equitable, and inclusive company. We strive to build an inclusive environment where all people feel that they are equally respected and valued, whether they are a candidate or an employee. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, pregnancy status, and veteran status.
-If you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!
-Total Compensation and Pay Transparency
-An employee's total compensation consists of base salary + variable comp where appropriate + benefits + equity. A member of our Talent Acquisition team will be happy to answer any further questions when we engage with you to begin the interview process.
-Base salary range: $120,000 - $290,000 USD
-
-To apply: https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres</description><pubDate>Sun, 25 Oct 2026 07:30:54 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads</description><pubDate>Mon, 26 Oct 2026 07:31:27 +0000</pubDate></item></channel></rss>
