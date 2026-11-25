@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>Vertican: Senior Applied AI Engineer, Document Intelligence</title><link>https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence</link><description>Headquarters: New Jersey, USA
+<rss version="2.0"><channel><title>CS Jobs Feed</title><link>https://kevesdev.github.io/csjobs-feed/</link><description>Remote computer science and programming jobs</description><language>en-us</language><item><title>EPAM Systems: Senior Web Application Security Engineer</title><link>https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer</link><description>Headquarters: Armenia, Belarus, Georgia
+    URL: http://epam.com
+
+
+We are looking for an experienced Senior Web Application Security Engineer to join and support the client's security team. The specialist will work closely with the broader security team, covering key areas of web application protection and security operations.ResponsibilitiesConfigure, tune and maintain Web Application Firewall (WAF) rules and policies using AkamaiParticipate in security incident handling, investigation and resolution related to web application threatsConduct reviews of WAF configurations, security policies and web application security postureIdentify and analyze attack patterns, anomalies and vulnerabilities targeting web applicationsProvide day-to-day support to the security team, sharing expertise and best practices in web app securitySupport integration of security processes across the broader team environmentRequirements5+ years of hands-on experience with Akamai (WAF, Kona Site Defender or similar Akamai security products)Knowledge of web application security concepts such as OWASP Top 10, DDoS mitigation and bot managementExperience with WAF rule tuning, false positive management and security incident responseCapability to work independently and integrate quickly into an existing teamProficiency in English communication skillsNice to haveExperience with other WAF/CDN platforms such as Cloudflare, F5 and ImpervaFamiliarity with API securitySecurity certifications (CISSP, CEH, GWAPT etc.)
+
+To apply: https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer</description><pubDate>Thu, 05 Nov 2026 21:24:38 +0000</pubDate></item><item><title>Vertican: Senior Applied AI Engineer, Document Intelligence</title><link>https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence</link><description>Headquarters: New Jersey, USA
     URL: https://vertican.com
 
 
@@ -1161,56 +1167,4 @@ Data Privacy &amp;amp; Arbitration: By submitting your application, you agree to
 
 
 
-To apply: https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit</description><pubDate>Tue, 27 Oct 2026 07:30:57 +0000</pubDate></item><item><title>Reddit: Frontend Engineer, Ads</title><link>https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads</link><description>Headquarters: Remote - United States
-
-
-
-
-
-
-
-Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com.
-
-
-
-
-Team Description
-The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&amp;nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&amp;nbsp; Moving forward, we will be doubling down on Video Ads, with the goal of turning Reddit into an industry leader and a ‘must buy’ for advertisers to promote video content.
-Role Description
-The Brand Ad Formats team is seeking a skilled Frontend engineer with a product-focused mindset to join the team.
-Responsibilities:
-
-Build Ad experiences and create patterns for Reddit’s web app that enhance our ads’ performance and functionality.
-Collaborate across product, design, and engineering teams to innovate and implement sophisticated solutions for complex challenges.
-Engage in the full development cycle: design, develop, QA, experiment, analyze, and deploy.
-
-Required Qualifications:
-
-3+ years of experience in Web Engineering
-Proficient in Typescript and Javascript
-A willingness to tackle the challenges of creating data-intensive, highly responsive, and fault-tolerant apps
-Experience with automated testing best practices, code quality / design patterns, observability, etc.
-Skilled at performing insightful code reviews, and receiving feedback themself
-Experience leveraging GenAI tools to increase software engineering productivity
-Excellent communication skills: able to collaborate with teams in a fully remote environment, and discuss complex topics with technical and non-technical audiences
-
-Preferred Qualifications:
-
-Experience working on ad tech
-
-
-Experience working on consumer facing sites (high production value at scale)
-
-Technologies used on the team include:
-
-Languages: Typescript, HTML, CSS, Go
-Frameworks: React, Thrift, gRPC
-Tools: Kubernetes, Docker, Codex, Cursor
-Pay Transparency:
-This job posting may span more than one career level.
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base salary range for this position is:$164,200—$229,900 USDIn select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.
-During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors.
-Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.
-
-To apply: https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads</description><pubDate>Mon, 26 Oct 2026 07:31:27 +0000</pubDate></item></channel></rss>
+To apply: https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit</description><pubDate>Tue, 27 Oct 2026 07:30:57 +0000</pubDate></item></channel></rss>
